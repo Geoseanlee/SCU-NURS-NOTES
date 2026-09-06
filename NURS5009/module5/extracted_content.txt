@@ -1,0 +1,521 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+This module introduces the older adult and the ageing experience, exploring how biological, social, and environmental factors interact to influence health and well-being. You will examine the diverse ageing population, consider the challenges and opportunities associated with ageing, and reflect on your own beliefs, values, and assumptions about older people and how these shape nursing care. The module deepens understanding of healthy ageing and the barriers created by the social determinants of health, such as housing, income, education, social connection, and access to healthcare. Empathy and ethical care underpin this learning: empathy involves understanding another person’s perspective and lived experience, while ethical care requires acting as their moral agent - being honest, caring, and ensuring no harm comes to the person in your care. As you move through each topic, you will be encouraged to consider how these principles support dignity, autonomy, and inclusion for older adults, while challenging stereotypes and reflecting on how ageism and bias can influence the therapeutic relationship and impact health outcomes.
+Module purpose
+The purpose of this module is to introduce the ageing process, the diversity of the ageing experience, and the nursing considerations that promote healthy ageing. The module highlights how the social determinants of health influence ageing, well-being, and access to equitable, person-centred care.
+By the end of this module, you will be able to:
+- Describe the basic concepts of ageing, including healthy ageing and common misconceptions.
+- Reflect on ageism and personal biases and how these influence care for older adults.
+- Recognise the diversity of ageing experiences shaped by culture, identity, and social context.
+There are 3 topics in this module; the folders for these can be found below.
+
+
+===== FILE: 03 - Overview.epub =====
+Overview
+-
+-
+Global ageing is accelerating, with life expectancy reaching 73.3 years in 2024 and the proportion of people aged over 60 projected to almost double from 12% in 2015 to 22% by 2050 (World Health Organisation [WHO], 2018). In Australia, the proportion of adults aged 65 and over has grown from 8.3% in 1970 to 16% in 2020, and is projected to reach up to 23% by 2066 (Australian Institute of Health and Welfare [AIHW], 2021). These demographic changes highlight the growing importance of understanding ageing as a global and societal issue.
+Learning focus
+This topic introduces the science of ageing, exploring how ageing affects individuals, communities, and health systems. It examines the concept of healthy ageing and the factors that contribute to positive experiences of growing older. The topic also considers ageism and how stereotypes, bias, and social attitudes can shape the experiences of older people.
+1.1. The science of ageing
+During the 1970s, researchers identified telomeres, the stretches of DNA that protect both ends of chromosomes, as an important factor in human aging. Human cells are thought to divide about 50 to 70 times over a lifetime. With each replication, telomeres shorten, allowing chromosomes to stay intact. Over time, the telomeres shorten until the cell is no longer able to replicate, resulting in cell death. For example, losing the ability of the cells to divide could hamper the immune system's capacity to respond to particular pathogens, which may underlie the slower wound healing in the elderly (Bernoth & Montayre, 2022).
+Watch: The science of aging
+For a better understanding of this, watch the following short video.
+UNSAFE_HTML_20260509083025.html
+Activity 1.1 Normal ageing process
+Normal aging is a continuous process, and its effects are influenced by factors such as genetics, health, lifestyle, stressors, and environmental conditions. Recognising normal aging empowers nurses with the knowledge and skills essential for delivering tailored, compassionate, and effective care to older adults and collaborating with them in adapting to physiological changes. However, older adults exhibit considerable variability in their levels of functional ability. While these physiological changes are not fundamentally pathological, they may render older adults more susceptible to common clinical conditions and challenge their sense of self-identity. Some individuals undergo a spectrum of these changes, while others experience only a subset.
+The hotspot activity below identifies the normal physiological changes occurring in older adults, further enhancing our collective knowledge in providing optimal care for this demographic.
+
+
+===== FILE: 04 - 1.2.epub =====
+1.2
+-
+-
+The World Health Organization (WHO) defines Healthy Ageing “as the process of developing and maintaining the functional ability that enables wellbeing in older age”.
+Educational and economic status, health behaviours, and social participation and inclusion are factors that support healthy ageing. Healthy Ageing is about creating the environments and opportunities that enable people to be and do what they value most in life. Being free of disease or disability is not a requirement for Healthy Ageing as many older adults have one or more chronic health conditions that, when well controlled, have little influence on their wellbeing. Healthy aging helps reduce the pressure on health care and social services. Seniors make important contributions to their families, their communities, the economy, and their nation. Older people who stay healthy, active and independent can continue to contribute their skills, knowledge, and experience to society.
+Active Ageing is a term used to describe the maintenance of positive subjective well-being, good physical, social and mental health and continued involvement in one’s family, peer group and community throughout the aging process. The World Health Organization defines Active Ageing as “the process of optimising opportunities for health, participation and security in order to enhance quality of life as people age.”
+The WHO and the UN have led and coordinated international efforts to develop guiding frameworks and principles relevant to nursing care of the older person, notably following the release of the World Health Organization (WHO) World Report on Aging and Health in 2015 and the Framework for Action on Aging and Health in 2016. In May 2016, an international consensus was reached, key priorities for action are based on the following components:
+- active ageing
+- a ‘determinants of health’ approach
+- age-friendly environments
+- training of care providers and health professionals.
+This global momentum has led to the declaration of 2020-2030 as the UN "Decade of Healthy Aging," marking a concerted effort to address the challenges and opportunities associated with an aging world population.
+Watch: UN Decade of Healthy Ageing
+Watch the video to gain insight into the initiative. As you watch this video, try to uncover the narrative behind this initiative by reflecting on the following:
+- Why is the Decade of Healthy Ageing necessary?
+- What opportunities does it present?
+- How does it impact individuals, including yourself?
+UNSAFE_HTML_20260509083209.html
+
+
+===== FILE: 05 - Activities 1.2 -1.epub =====
+Activities 1.2 -1
+-
+-
+Activity 1.2. Consider the following important concepts
+Activity 1.3: Watch and reflect
+Watch the following video: Reflections on ageing and health from centenarians. As you watch the video, think of one word you would use to describe:
+-   Cliff
+-   Amelia
+-   John.
+What surprised you about the participants in the video?
+Bring your answers to the tutorial.
+UNSAFE_HTML_20260509083357.html
+
+
+===== FILE: 06 - 1.3.epub =====
+1.3
+-
+-
+Recently there has been significant research into ageism and several high-profile campaigns, including campaigns by the World Health Organization, to increase awareness of ageism and its effects on individuals. Regardless of these efforts to reduce the discrimination against many older people, ageism remains a socially acceptable form of discrimination. The World Health Organization (WHO) defines ageism as:
+“Ageism refers to the stereotypes (how we think), prejudice (how we feel), and discrimination (how we act) towards others or oneself based on age” (World Health Organization, 2025).
+Ageism is expressed through negative perceptions and stereotypes of older people. These attitudes are usually developed through social environmental influencers. Ageism not only includes an individual’s attitudes and beliefs but also encompasses, discriminatory behaviours towards older people and formalised policies and practices e.g. the language used to describe older people in government reports as “a growing burden” or “a social problem.” Ageism does not only include those attitudes of younger people towards older people. Older people can also be ageist towards themselves through a process of internalisation and acceptance of ageist stereotypes. As a result, they believe they are a burden on society and their families and that they are unable to contribute in any meaningful way, are uninteresting, unattractive, and senile. The WHO found that older people who hold negative attitudes and beliefs about their own ageing had poorer health outcomes when recovering from illness and live on average 7.5 years less than those with positive attitudes towards ageing (World Health Organization, 2021). Why do you think this may be? Do you think that this poor self-view may lead to poor self-care, less engagement?
+Watch: What is ageism?
+Watch this quick video that defines ageism and gives common everyday examples of ageism.
+UNSAFE_HTML_20260509083733.html
+Activity 1.4. Read and reflect
+Explore the 10 misconceptions of ageing and health on the World Health Organisation’s website. Do you hold any of these misconceptions?
+Misconceptions on ageing and health
+(World Health Organisation, 2015)
+
+
+===== FILE: 07 - 1.4.epub =====
+1.4
+-
+-
+The WHO has identified many of the flow-on effects of ageism. These include poorer health and wellbeing, decreased quality of life, reduced employment opportunities, the link to learned helplessness and the reduction in life expectancy. Another negative impact of ageism on the older person is the quality of health care they receive. This is particularly important to you all as future nurses. Research has found that ageist attitudes towards older people can reduce the amount of information shared regarding their care and the treatment and diagnostic options made available to the older person (Burnes et al., 2019). Ageism can lead to patronising behaviour from the health care professional, exclusion, and a general feeling of “being invisible.”
+The following short comment paper highlights the findings from the WHO Global report on Ageing: Mikton, C., de la Fuente-Núñez, V., Officer, A., & Krug, E. (2021). Ageism: A social determinant of health that has come of age. The Lancet, 397(10282), 1333–1334. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00524-9/fulltext
+The recent release of the Final Report from the Royal Commission into Aged Care Quality and Safety described an aged care sector that is failing our elderly population. This report, along with evidence provided at the hearings, exposed most care being provided in this space as suboptimal at best. The report highlights the systemic flaws of the sector whose purpose is to provide care directly to older Australians, but also the barriers older people face when accessing care both in the community and the acute care setting. This report acknowledges the societal influence that the ageist mindset of Australians has on the acceptance of poor care. This ageism based on stereotypes provides limited space for research (Elliott et al., 2017), leading to the development of deficient social policies that do not address the needs of this vulnerable population group, resulting in poorer clinical outcomes, dehumanised care, neglect, and abuse (Band-Winterstein, 2015; Kagan & Melendez‐Torres, 2015). In her overview titled Care, Dignity and Respect in the Royal Commission into Aged Care Quality and Safety - Final Report (vol.1), Commissioner Lynelle Briggs wrote
+“…I fear that society as a whole undervalues older people and their contribution. The acceptance of poorer service provision in aged care reflects an undervaluing of the worth of older people, assumptions and stereotypes about older people and their capabilities, and ageism towards them. This must change.” (p.26 )
+The following excerpt from the Royal Commission Hearing is an example of dehumanised care that is a result of ageist policies that have reduced staffing numbers in aged care and led to staff delivering care that is uncaring. This excerpt, from a resident who had stage four metastatic bone cancer, details to the Royal Commission how he was left by carers for extended periods (30-90 minutes) on a mobile toilet while unable to stand or get off:
+“When neglected like that, I feel I have been dehumanised, left as a carcass in an aged care abattoir ready to be processed like a slab of meat in a sausage-processing factory… My spine and pelvic regions are riddled with bony metastases. The longer I am left sitting there… pain dominates my whole existence. Every second of every minute seems like an eternity. No one seems to get this” (Royal Commission into Aged Care Quality and Safety, 2021).
+
+
+===== FILE: 08 - Activity 1.5.epub =====
+Activity 1.5
+-
+-
+Imagine this scene: you are out for lunch or a few drinks for a friend’s birthday, and a group of people turn up in costume, dressed as old people, complete with grey-haired wigs, cardigans, glasses, slippers and walking aids. How does this make you feel? Do you find it humorous, laugh it off as a bit of fun or does their presence make you feel uncomfortable? Do you think this is wrong?
+Now watch the following TED Talk by Ashton Applewhite, an anti-ageism activist. As you watch the video, consider the questions that Ashton poses to the audience and viewers. Do these questions challenge your current ways of thinking? As Ashton says, “Ageing is not a problem or a disease. Ageing is living”, and “Ageism is a prejudice against our future selves.”
+Let's end ageism
+Now, if you think back to the above scenario, has your opinion changed? For those who thought this was nothing more than a bit of fun, I hope you can now see how dressing up as older people may be offensive. For those of you who already felt uncomfortable with the situation, has your view of those dressed up changed? As Ashton said in the TED Talk, “we can’t challenge bias unless we are aware of it”. The people in these costumes, we should assume, do not have bad intentions. They are simply representative of a well-accepted social norm. Pinterest and Wikihow both provide instructions on how to dress up and apply make-up to look like an elderly person, and you can readily buy “granny” costumes on Amazon and other online retailers. As nurses and advocates for older people, we need to increase this awareness of ageism.
+
+
+===== FILE: 09 - References.epub =====
+References
+-
+-
+Australian Institute of Health and Welfare. (2021). Older Australians: Demographic profile. https://www.aihw.gov.au/reports/older-people/older-australians/contents/demographic-profile
+Band-Winterstein, T. (2015). Health care provision for older persons: The interplay between ageism and elder neglect. Journal of Applied Gerontology, 34(3), NP113-NP127. https://doi.org/10.1177/0733464812475308
+Bernoth, M., & Montayre, J. (2022). The impact of physiological changes on older people: Implications for nursing practice. In M. Bernoth & D. Winkler (Eds.), Healthy ageing and aged care (2nd ed., pp. 190–215). Oxford University Press
+Burnes D, Sheppard C, Henderson CR Jr, Wassel M, Cope R, Barber C, Pillemer K. Interventions to Reduce Ageism Against Older Adults: A Systematic Review and Meta-Analysis. Am J Public Health. 2019 Aug;109(8):e1-e9. doi: 10.2105/AJPH.2019.305123. Epub 2019 Jun 20. PMID: 31219720; PMCID: PMC6611108.
+Elliott, K. E. J., Rodwell, J., & Martin, A. J. (2017). Aged care nurses' job control influence satisfaction and mental health. Journal of Nursing Management (John Wiley & Sons, Inc.), 25(7), 558-568. https://doi.org/10.1111/jonm.12493
+Kagan, S. H., & Melendez‐Torres, G. J. (2015). Ageism in nursing. Journal of Nursing Management, 23(5), 644-650. https://doi.org/10.1111/jonm.12191
+Mikton, C., de la Fuente-Núñez, V., Officer, A., & Krug, E. (2021). Ageism: A social determinant of health that has come of age. The Lancet, 397(10282), 1333–1334. https://doi.org/10.1016/S0140-6736(21)00524-9
+Royal Commission into Aged Care Quality and Safety. (2021). Final report: Care, dignity and respect. https://www.royalcommission.gov.au/sites/default/files/2021-03/final-report-volume-1-summary-and-recommendations.pdf
+World Health Organization. (2015, October 30). Ageing and life course. World Health Organization. https://www.who.int/news-room/photo-story/detail/ageing-and-life-course
+World Health Organization. (2018). Ageing and health. https://www.who.int/news-room/fact-sheets/detail/ageing-and-health
+World Health Organization. (2020a). Decade of Healthy Ageing: Plan of Action. https://www.who.int/publications/m/item/decade-of-healthy-ageing-plan-of-action
+World Health Organization. (October 2020b). Healthy ageing and functional ability [Questions & answers]. https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability
+World Health Organization. (2021). Global report on ageism. https://www.who.int/publications/i/item/9789240016866
+World Health Organization. (April 2025). Ageing: Ageism. https://www.who.int/news-room/questions-and-answers/item/ageing-ageism
+
+
+===== FILE: 10 - Module overview (2).epub =====
+Module overview
+-
+-
+Ageing is a unique and deeply individual experience shaped by each person’s culture, identity, history, and environment. This topic explores the diverse social and cultural contexts that influence how older adults experience ageing and health care. It encourages reflection on how ageist beliefs and assumptions can affect attitudes toward older people and impact the delivery of inclusive, respectful care.
+Reflection
+Reflecting on your learning from last week, consider how these elements are linked to the social determinants of health, and how they collectively shape health outcomes and experiences for older adults.
+Learning focus
+Key areas include cultural diversity and cultural safety, gender and sexual identity, and spirituality, with an emphasis on recognising difference to foster equity in nursing. The topic highlights the importance of challenging bias, promoting inclusive communication, and valuing diversity to enhance dignity, belonging, and well-being for older adults.
+The concept of social prescribing will be introduced as a holistic nursing approach to enhance social connection, purpose, and overall well-being.
+2.1. Person-centred care
+Before you move through the next two topics, here is a reminder of the principles of person-centred care. This approach fosters positive relationships between individuals and healthcare professionals, upholding dignity, autonomy, and respect for individuality. It recognises that people are more than their medical conditions or circumstances and encourages care that reflects each person’s unique values and experiences.
+Watch
+Watch the following video for a recap of what person-centred care is.
+UNSAFE_HTML_20260515105315.html
+
+
+===== FILE: 11 - 2.2.epub =====
+2.2
+-
+-
+Source: (Australian Institute of Health and Welfare [AIHW], 2021a)
+As a health professional, consideration of an older person’s living arrangement is fundamental to all stages of the clinical reasoning cycle, including assessment, planning and evaluation of care. For example, when considering the discharge of an older person from a tertiary setting back into the community, we must ensure they are returning to a safe living situation. However, this is not always the case, so we must also consider those returning to suboptimal living arrangements.
+In Australia, unfortunately, many older people are currently living as the homeless. Homelessness is defined as any situation where someone does not have suitable accommodation, lives in a dwelling that is inadequate, lives in a dwelling that has no tenure or a dwelling that does not allow space for social relatedness. In 2016, older people represented 16% of the total homeless population in Australia, an increase from 14% in 2011 (AIHW, 2019). Those identified at higher risk in the older population include Veterans, Indigenous peoples and those from culturally and linguistically diverse (CALD) backgrounds. Additionally, the latest 2021 census reveals that women over 55 are the fastest-growing cohort of homeless people in Australia (Australian Human Rights Commission, 2019). Can you think of why this might be the case?
+Reading
+Read the following article for a better understanding of this growing issue.
+Om, P., Whitehead, L., Vafeas, C., & Towell-Barnard, A. (2022). A qualitative systematic review on the experiences of homelessness among older adults. BMC geriatrics, 22(1), 363. https://doi.org/10.1186/s12877-022-02978-9
+
+
+===== FILE: 12 - 2.3.epub =====
+2.3
+-
+-
+Australia has a unique history that has shaped the diversity of its people, their cultures and lifestyle choices. In Australia, the concept of multiculturalism is celebrated nationally, encouraging unity rather than division within our communities. As health professionals, we need to be concerned with the appropriateness and acceptability of mainstream health services for people who were born overseas, including those with culturally and linguistically diverse (CALD) backgrounds. They may face language barriers or have cultural practices that require specific needs or services.
+- In the 2016 ABS census, 1.2 million (37%) older Australians were born overseas (AIHW, 2024b).
+- Australians identify with more than 270 ancestries. Since 1945, almost seven million people have migrated to Australia (Australian Human Rights Commission, 2014).
+- One in 5 (20%) older Australians (aged 65 and over) were born in non-English speaking countries, and 18% spoke a language other than English at home (AIHW, 2024b).
+For a greater insight into multiculturalism and ageing, watch the following video.
+https://share.google/kLOXhF8VFkuHpRddk
+
+
+===== FILE: 13 - 2.4.epub =====
+2.4
+-
+-
+In nursing, one of the fundamental concepts is providing ‘safe care’ to our patients in many ways. This constitutes many different focuses, from legal safety to ethical safety to safety in clinical practice. But what about cultural safety? Where does that fit in?
+In defining culture, it is important to consider anyone who differs from our own belief systems, values and upbringing. The term cultural safety was coined by New Zealand Maori nurse Irihapeti Ramsden after seeing the discrimination the Indigenous peoples of New Zealand faced. Cultural safety looks to be regardful of one’s culture and providing care regarding individual differences. It would be fair to suggest that, in this case, older people are a culture within themselves. Older people are considered a vulnerable/minority group; therefore, they need to be approached with a culturally safe approach.
+Watch: Indigenous Australians call for more culturally appropriate aged care facilities
+UNSAFE_HTML_20260515110358.html
+Cultural safety has five predominant set points, as demonstrated in the hotspot image below. Click on the + signs to learn about each of the principles of cultural safety. Thank you to Dr Liz Rix for letting us use this Hotspot image.
+
+
+===== FILE: 14 - Activities 2.1 - 2.epub =====
+Activities 2.1 - 2
+-
+-
+Activity 2.1. Watch and discuss
+Watch the following video, Caring for Indigenous Australians in residential aged care. Whilst watching this video, take some time to reflect on how an Indigenous person’s view of health and ageing might differ from a non-Indigenous person’s view. What does this demonstrate about how culture can influence living circumstances in older people?
+Please write your short response on the discussion board and respond to at least one other peer. Note: Discussion boards provide an opportunity and expectation for you to exchange professional insights with others. This reciprocity is the foundation of successful, collaborative team practice.
+UNSAFE_HTML_20260515110611.html
+Activity 2.2
+
+
+===== FILE: 15 - 2.5.epub =====
+2.5
+-
+-
+Human sexuality is a natural part of life, yet it is often misunderstood or overlooked in older adults. Despite common misconceptions, touch, intimacy, and connection remain just as important in later life as they are for younger people (Portellos et al., 2023; Bigras et al., 2024). The need for companionship and affection does not fade with age, but social stigma and assumptions can make it harder for older people to express these needs (Slack & Aziz, 2020).
+Common myths about sexuality and ageing include:
+- Sex is no longer important as people age.
+- Residents in aged care should not have sexual relationships.
+- Sex is dangerous or inappropriate for older adults.
+- Older people are not interested in intimacy or affection.
+Recognising and challenging these myths helps promote dignity, autonomy, and person-centred care for older adults.
+2.6. Gender and sexual identity in the older person
+Equal opportunity and freedom from discrimination are fundamental human rights that belong to all people, regardless of age, sexual orientation, or gender identity. Many lesbian, gay, bisexual, transgender, intersex, and other diverse sexual orientations, gender identities, and sex characteristics (LGBTI+) older adults have lived through periods of significant discrimination, social stigma, and prejudice. Often being labelled as criminals, sinners, or mentally ill. These experiences have profoundly impacted their lives, disrupting family relationships, limiting career opportunities, and affecting financial security in later life. As a result, some older LGBTQI+ individuals remain apprehensive about engaging with health professionals and services (McMullen-Roach et al., 2025).
+In Australia, a 2015 report found that many older adults chose to keep their LGBTQI+ status private when entering aged care facilities due to fear of discrimination (Australian Government Department of Health and Aged Care, 2019). This concealment often led to ‘hiding’ their sexuality, reducing opportunities for authentic self-expression and diminishing their sense of safety and belonging (Australian Human Rights, 2015).
+Despite progress toward inclusion, comprehensive data on LGBTI communities in Australia remains limited. The 2021 Census, for example, did not collect information about sexual orientation due to privacy concerns and respondent comfort. Consequently, LGBTI older adults are often rendered invisible within ageing and health service demographics, meaning that the unique challenges they face frequently go unrecognised and unaddressed. Additionally, a 2017 survey found that less than a quarter of 1094 facilities surveyed had access to policies around intimacy and sexual health to guide health workers (McAuliffe et al. 2020). This resulted in staff being uneducated and unprepared to support older individuals with gender-diverse needs.
+
+
+===== FILE: 17 - Activities 2.3 - 2.epub =====
+Activities 2.3 - 2
+-
+-
+Activity 2.3. Explore the link between gender, sexuality, and the social determinants of health
+Read the following article to explore the link between gender, sexuality, and the social determinants of health. As you read, reflect on how these factors intersect to influence health outcomes, access to care, and the lived experiences of older adults. Consider how this understanding can inform your approach to providing inclusive and equitable nursing care.
+Porroche-Escudero, A. (2022). Health systems and quality of healthcare: bringing back missing discussions about gender and sexuality. Health Systems, 13(1), 24–30. https://doi.org/10.1080/20476965.2022.2096487
+Activity 2.4. Watch and consider
+Watch the following short news report on older Australians who identify as part of the LGBTI community and their fear of residential aged care.
+Consider the different experiences of transgender people growing up 60-80 years ago compared to today. Think about how societal acceptance and norms, legislation and the treatment of transgender people have changed. In the tutorials, we will meet Colleen, who lived most of her life as Colin. Colleen shares her journey with viewers - the challenges, the discrimination faced throughout her life and her passions.
+UNSAFE_HTML_20260515111908.html
+
+
+===== FILE: 18 - 2.7.epub =====
+2.7
+-
+-
+Improvements in supporting the sexual lives of older people can be implemented across many levels for example policy, education, practice-based changes and public health (Fileborn et al., 2017). Consider the levels shown below in the socio-ecological model of health behaviour and consider how you might support sexuality and sexual identity in older people as a Registered Nurse. SOme examples might be:
+- Individual level – Sense of identity and belonging
+- Relationship level – Encouraging social networking and supports
+- Community level – Health promotion and education
+- Society level – Public policy or cultural norms
+Source: Mah, J.C., Stevens, S.J., Keefe, J.M. et al. Social factors influencing utilisation of home care in community-dwelling older adults: a scoping review. BMC Geriatr 21, 145 (2021). https://doi.org/10.1186/s12877-021-02069-1
+
+
+===== FILE: 19 - 2.8.epub =====
+2.8
+-
+-
+Spirituality is a broad concept that encompasses many perspectives. In general, it includes a sense of connection to something bigger than ourselves, and typically involves a search for meaning in life.
+There are many definitions of Spirituality. One comprehensive definition of Spirituality is offered by Puchalski et al (2014), who says that ‘Spirituality is a dynamic and intrinsic aspect of humanity through which persons seek ultimate meaning, purpose, and transcendence, and experience relationship to self, family, others, community, society, nature, and the significant or sacred. Spirituality is expressed through beliefs, values, traditions, and practices.” (Puchalski, et al., 2014).
+A person’s spirituality may be independent of their religious belief, affiliation, or practice (palliAGED, 2022). Coming to terms with death is a key developmental challenge of old age. Erikson, a prominent psychosocial theorist, names his final stage of psychosocial development, Stage 8, “Integrity vs. Despair”, wherein a person generally begins to focus more on reflecting on the meaning of their life, as they are more so confronted with their mortality. Given this, providing spiritual care to older persons is an essential component of delivering holistic care to our patients. In fact, acknowledging and supporting a person’s spirituality has been shown to reduce the distress that many people experience when they are ill or dying (palliAGED, 2022)
+In 2019, the new Aged Care Quality Standards (ACQS) were implemented, in which the notion of spiritual care became fully embedded into Australian regulations. The National Guidelines document provides a foundational understanding of spirituality, spiritual care and the importance of respect in all contexts (Meaningful Ageing Australia, 2022).
+Source: Queensland Health https://www.health.qld.gov.au/cpcre/indig_pc Artwork: ‘End of Life Journey’ by Uncle Michael Connolly, Munda-gutta Kulliwari.
+Spiritual care encompasses sensitive and respectful interactions, effective patient communication, and activities such as storytelling, reminiscing, mindfulness and meditation, prayer, therapeutic life review, or dignity therapy. palliAGED (2022)
+Nursing actions for providing spiritual care to older adults
+Use touch and eye contact that is appropriate, and a welcoming and unhurried approach to conversation.
+Listen so that the person feels heard and valued.
+Be sensitive to and respectful of the spiritual and religious needs of people in your care and their families. Allow for privacy and uninterrupted time for spiritual practice.
+Offer opportunities for a connection with external spiritual practices.
+Provide opportunities for discussion with chaplaincy staff, spiritual care practitioners or faith representatives. Facilitate opportunity for re-connection.
+Offer activities and roles that give people purpose. palliAGED (2022)
+“Spiritual care is often associated with support during times of crisis, ill-health, loss and grief and palliative care and it has much to offer in these areas. However, it is equally important in bringing meaning, purpose, and wholeness to assist a person in flourishing, growing, and realising their potential during their final journey of ageing. This reinforces the concept that spirituality is part of everyday living and hence all those who have contact with older people can share in the spiritual journey” (Meaningful Ageing Australia, 2016).
+Click on the different population groups below for a greater understanding of considerations relating to spirituality for this group
+
+
+===== FILE: 20 - 2.9.epub =====
+2.9
+-
+-
+Social isolation and loneliness are increasingly recognised as significant health and wellbeing concerns among older adults. Both are strongly associated with poorer physical and mental health outcomes and can significantly reduce life expectancy (Australian Institute of Health and Welfare, 2021). These issues are particularly concerning in ageing populations, where loss of social networks, bereavement, retirement, and declining mobility can all contribute to reduced social connection.
+The World Health Organisation (2021) describes these terms as:
+Social isolation is the state of having a smaller number of social contacts, which may contribute to loneliness.
+Loneliness is the pain we feel when our social connections do not meet our needs.
+The risk factors for social isolation in older people may relate to the individual or wider structural factors. Read the following document from the Australian Institute of Family Studies and consider the nurse's role in identifying and preventing social isolation.
+2311-FL-social_isolation_snapshot_2.pdf
+Activity 2.5. Podcast
+Take some time to listen to this podcast featuring Dr Hilton Koppe and clinical psychologist Dr Suraj Sumtani to deepen your understanding of the impact of social isolation on health and wellbeing. In their discussion, they explore the world’s longest-running study on human happiness, Harvard Study of Adult Development, which has followed participants for more than 80 years. The research found that people who are socially connected can delay the onset of diseases such as diabetes and heart disease by up to 15 years, with social connectedness emerging as the most powerful predictor of health and longevity in the study.
+At this stage in your online learning, you might also benefit from a short break. I encourage you to pop in your headphones and listen to the podcast while:
+- Taking a walk around the block,
+- Stretching on the floor, or
+- Catching up on a few light household tasks.
+Maintaining this kind of study–life balance supports both concentration and wellbeing , just as social connection supports long-term health!
+Available on itunes and spotify, simple search Dementia in Practice and scroll to Season 4, Episode 8.
+
+
+===== FILE: 21 - 2.10.epub =====
+2.10
+-
+-
+As discussed in the previous podcast, social prescribing has emerged as an effective way to reduce social isolation and loneliness in older adults by connecting them with meaningful activities that promote healthy ageing. Used primarily in primary healthcare settings, social prescribing encourages nurses to identify and support adults at risk of loneliness or disconnection, linking them to local resources and programs that enhance wellbeing.
+According to a scoping review by Sadio et al. (2024), social prescriptions typically fall within one of eight main domains:
+- Arts
+- Personal development
+- Social interaction
+- Physical activity
+- Gardening
+- Cultural activities
+- Religious or spiritual activities
+- Technological activities
+This approach aligns strongly with the principles of person-centred care, recognising that each individual’s social, cultural, and emotional needs are unique. By tailoring recommendations to a person’s interests, values, and abilities, nurses can foster a sense of belonging, purpose, and empowerment, which are essential components of holistic health and wellbeing (Sadio et al., 2024; Freak-Poli et al., 2025).
+Watch the video below ......
+https://www.youtube.com/watch?v=JfEeIATIBU8
+
+
+===== FILE: 22 - References (1).epub =====
+References
+-
+-
+Australian Government Department of Health and Aged Care. (2019). Aged Care Diversity Framework [PDF]. https://www.health.gov.au/sites/default/files/documents/2019/12/aged-care-diversity-framework.pdf
+Australian Human Rights Commission. (2014). Face the facts : Cultural diversity. https://www.humanrights.gov.au/sites/default/files/FTFCulturalDiversity.pdf
+Australian Human Rights Commission. (2015). Resilient individuals: Sexual orientation, gender identity & intersex rights – National consultation report [Report]. https://www.humanrights.gov.au/sites/default/files/document/publication/SOGII%20Rights%20Report%202015_Web_Version.pdf
+Australian Human Rights Commission, (October 2019), Older women’s risk of homelessness: Background paper. https://humanrights.gov.au/our-work/age-discrimination/publications/older-womens-risk-homelessness-background-paper-2019
+Australian Institute of Health and Welfare, (October 2019), Older clients of specialist homeless services. https://www.aihw.gov.au/reports/homelessness-services/older-clients-of-specialist-homelessness-services/contents/population-and-housing-trends/homelessness
+Australian Institute of Health and Welfare, (November 2021), Older Australians. https://www.aihw.gov.au/reports/older-people/older-australia-at-a-glance/contents/demographics-of-older-australians/australias-changing-cultural-linguistic-profile
+Australian Institute of Health and Welfare. (July 2024a). Older Australians: Housing and living arrangements. https://www.aihw.gov.au/reports/older-people/older-australians/contents/housing-and-living-arrangements
+Australian Institute of Health and Welfare. (July 2024b). Culturally and linguistically diverse older Australians. https://www.aihw.gov.au/reports/older-people/older-australians/contents/population-groups-of-interest/culturally-linguistically-diverse-people
+Bigras, N., Popova, N., Pedneault, L., Brassard, A., & Bergeron, S. (2024). Sexual well-being among partnered adults and couples over 60: A scoping review. Sexual Medicine Reviews, 12(4), 611–622. https://doi.org/10.1093/sxmrev/qeae037
+Mah, J.C., Stevens, S.J., Keefe, J.M. et al. Social factors influencing utilization of home care in community-dwelling older adults: a scoping review. BMC Geriatr 21, 145 (2021). https://doi.org/10.1186/s12877-021-02069-1
+McAuliffe, L., Fetherstonhaugh, D., & Bauer, M. (2020). Sexuality and sexual health: Policy in Australian residential aged care. Australasian journal on ageing, 39 Suppl 1, 59–64. https://doi.org/10.1111/ajag.12602
+McMullen-Roach, S., Kumar, S., Inacio, M., & Murray, C. (2025). The perspectives and experiences of older LGBTI+ adults about long-term care: A qualitative systematic review and meta-synthesis. The Gerontologist, 65(7), Article gnaf048. https://doi.org/10.1093/geront/gnaf048
+Meaningful Ageing Australia. (2016). National Guidelines for Spiritual Care in Aged Care [Digital version]. https://meaningfulageing.org.au/wp-content/uploads/2016/08/National-Guidelines-for-Spiritual-Care-in-Aged-Care-DIGITAL.pdf
+Om, P., Whitehead, L., Vafeas, C., & Towell-Barnard, A. (2022). A qualitative systematic review on the experiences of homelessness among older adults. BMC geriatrics, 22(1), 363. https://doi.org/10.1186/s12877-022-02978-9
+PalliAGED. (2022). Tips for Nurses: Spiritual care. https://www.palliaged.com.au/tabid/7338/Default.aspx
+Porroche-Escudero, A. (2022). Health systems and quality of healthcare: bringing back missing discussions about gender and sexuality. Health Systems, 13(1), 24–30. https://doi.org/10.1080/20476965.2022.2096487
+Portellos, A., Lynch, C., & Joosten, A. (2023). Sexuality and ageing: A mixed methods explorative study of older adults’ experiences, attitudes, and support needs. British Journal of Occupational Therapy, 86(7), 515–526. https://doi.org/10.1177/03080226231164277
+Puchalski, C., Vitillo, R., Hull, S., & Reller, N. (2014) Improving the spiritual dimension of whole person care: reaching national and international consensus. Journal of Palliative Medicine, 17(6), 642–56. doi: 10.1089/jpm.2014.9427. Epub 2014 May 19. PMID: 24842136; PMCID: PMC4038982. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4038982/
+Sadio, R., Henriques, A., Nogueira, P., & Costa, A. (2024). Social prescription for the elderly: a community-based scoping review. Primary health care research & development, 25, e46. https://doi.org/10.1017/S1463423624000410
+Slack, P., & Aziz, V. M. (2020). Sexuality and sexual dysfunctions in older people: a forgotten problem. BJPsych Advances, 26(3), 173–182. doi:10.1192/bja.2019.80
+World Health Organization. (2021, July 29). Social isolation and loneliness among older people: Advocacy brief. https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/social-isolation-and-loneliness
+
+
+===== FILE: 23 - Module overview (3).epub =====
+Module overview
+-
+-
+Building on the previous topic, which explored the individualised needs of older adults across diverse cultures, spiritualities, and expressions of sexuality, this topic focuses on the diverse health needs that accompany ageing.
+Building on the previous topic - which explored the diverse experiences and needs of older adults—this topic focuses on the health-related considerations that accompany ageing. It examines how nurses can support older adults to maintain health, independence, and well-being through a person-centred and evidence-informed approach. It is important to recognise that the physical, cognitive, and sensory changes associated with ageing do not occur in the same way for everyone. Understanding this variability helps avoid assumptions that all changes are simply due to age, supporting more accurate assessment and non-judgmental care.
+Learning focus
+Key areas include common factors that can impact health and quality of life in later years, such as malnutrition and dehydration, skin integrity, sensory loss, and pain. Nursing considerations will centre on assessment, prevention, and management strategies that promote comfort, safety, and dignity in care.
+Cognitive health is also a central focus. The topic examines dementia, delirium, and depression, including how to recognise and respond to responsive behaviours and their underlying causes. It highlights communication, therapeutic engagement, and nonpharmacological interventions that enable older adults to live well with dementia.
+
+
+===== FILE: 24 - 3.1.epub =====
+3.1
+-
+-
+As individuals age and adopt a less active lifestyle, their metabolism often slows down, resulting in decreased energy requirements and a tendency to eat less. Paradoxically, even as older adults' ability to absorb and utilise nutrients becomes less efficient, their nutrient requirements may increase. Aging is accompanied by various physiological changes, including a potential loss of appetite and alterations in smell and taste, contributing to a diminished interest in food or more restrictive food choices. Factors such as chronic conditions, declining oral health, and medications can further impact nutritional requirements. Explore the figure below, illustrating key changes in the gastrointestinal system that influence the nutritional status of older adults.
+Source: Anatomy and physiology of ageing 3: the digestive system | Nursing Times
+Activity 3.1 Malnutrition and dehydration
+When considering nutrition and hydration in older people, it is important to consider not just the individual’s predisposition but also the greater context for each individual. For example, the recent COVID-19 Pandemic demonstrated that accessibility to food can be difficult at times, and as well as socioeconomic influences such as finances, many healthier options are often more expensive. Culture also plays an integral role in the food choices of older people, and therefore, as health professionals, we must approach diet with a culturally competence.
+Watch this video that highlights some simple, but important ways to enhance the meal time experience in residential aged care.
+UNSAFE_HTML_20260515114332.html
+
+
+===== FILE: 25 - 3.2.epub =====
+3.2
+-
+-
+It is common to expect a decline in the functioning of our sensory organs as we age. The brain requires a certain level of stimulation to register sensations like sound, light, or smell, and this threshold tends to increase with age. These sensory changes impact physical health and affect one's ability to function optimally, influencing overall quality of life. For healthcare professionals, awareness of age-related sensory changes is crucial in devising effective care plans. It is essential to note that age alone does not guarantee a sensory deficit; individuals age differently.
+Age-related hearing loss, commonly referred to as presbycusis, typically affects both ears, often resulting in a decline in hearing high-frequency sounds and difficulties distinguishing between different sounds. Additionally, many older individuals experience tinnitus, a persistent ringing or other abnormal noise in the ear. Aging-related changes in vision encompass presbyopia, glaucoma, dry eyes, age-related macular degeneration, cataracts, and temporal arteritis. The diagrams below illustrate the various age-related changes in the eyes and ears.
+Image source: Nursing Times
+Watch: Seen and heard
+Watch the following video that highlights the key causes of vision and hearing loss, and the impact of combined dual sensory loss (hearing loss and vision impairment).
+UNSAFE_HTML_20260515114733.html
+Activity 3.2. Vision and sensory loss aimulator
+In order to gain an understanding of the challenges faced by older people with a vision or hearing impairment, check out the link below, where you can toggle between different vision and hearing deficits to hear/see what they are experiencing. You can also move to different situations by clicking the “choose a setting” button at the top.
+Vision and Hearing Loss Simulator / Deaf and Hard of Hearing
+
+
+===== FILE: 26 - 3.3.epub =====
+3.3
+-
+-
+Incontinence is any accidental loss of urine from the bladder or faeces from the bowel. 1 in 4 Australians are incontinent. Incontinence can cause embarrassment and, therefore, reduce the social interaction of the older person. Incontinence can be caused by many factors, including menopause, urinary tract infections, constipation, obesity, reduced mobility, health conditions (diabetes, stroke, heart conditions, prostate problems, respiratory conditions, dementia, arthritis, multiple sclerosis), some medications, and pregnancy.
+Click on the following links for an overview of the different types of incontinence.
+Urinary Incontinence | Continence Foundation of Australia
+Faecal Incontinence | Continence Foundation of Australia
+Urinary tract infections (UTIs) are among the most common infections in older adults. UTIs in older adults are usually more severe than those in younger adults and can cause confusion or delirium. It is important as a registered nurse to identify when a UTI may be present and reduce the risk of antimicrobial resistance in older adults. Recently, there has been much focus on the over-prescribing of antibiotics to older adults.
+Click the following link for an overview of Urinary Tract Infections.
+Urinary Tract Infection (UTIs)| Continence Foundation of Australia
+Complete the following NPS Medicinewise online module on Urinary Tract Infections in Residential Aged Care. This module will take you at most about 30-40 minutes to complete, and you will need to answer questions as you move through the module. The module presents an evolving case study. This will help students to understand the nursing process and information gathering required to make a nursing diagnosis. Some of the terminology used may be new to some students. I would encourage you to familiarise yourself with any of these terms as they are used regularly in the clinical setting. At the end, you will receive a certificate of completion worth 1 Continuing Professional Development point. When you become a registered nurse, you will need to complete 20 CPD points per year to maintain your registration.
+Managing UTIs in aged care: Treat a hospitalised patient for a catheter-associated urinary tract infection in this free online course.NPS MedicineWise
+
+
+===== FILE: 27 - 3.4.epub =====
+3.4
+-
+-
+There are many changes to our skin as a result of ageing, which makes older people more susceptible to skin tears and pressure injuries.
+The following link provides good information on the skin care of older people.
+Skin Care / Wound care
+Skin tears
+A skin tear is a traumatic wound that occurs when friction or shearing forces cause the skin to separate from the underlying tissue. These injuries often result from accidental bumps, manual handling, or falls. To ensure consistency in assessment, documentation, and communication, skin tears are classified using a staging system (Victoria Department of Health, 2024).
+The STAR Skin Tear Classification System, developed by Curtin University of Technology, is one of the most widely used frameworks.
+Click the PDF below to review the classification system:
+m2_07_STAR_system (1).pdf
+Source: Silver Chain Nursing & Curtin University of Technology (2010)
+Pressure injuries
+Pressure injuries are known by many names, as stated above; however, for this module, they will be referred to as pressure injuries, as this is the term used in clinical practice in Australia. Pressure injuries are defined as localised damage to the skin or underlying soft tissue, which can be open or intact and graded from stage 1 to stage 4 and beyond.
+Pressure injuries have the potential to cause major harm to individuals, impacting their quality of life in the form of pain, distress, mood and sleep disturbances, along with increased susceptibility to infection, other complications and prolonged hospitalisation. This increased hospital stay can also impact the patient's family and increase costs to the healthcare facility, not only due to the extended length of stay but also the increased complexity of care requirements.
+The document below, from the Queensland University of Technology’s Institute of Health and Biomedical Innovation, provides an excellent summary of pressure injury prevention, assessment, and management.
+24353_FlowChart_PressureInjuries.pdf
+Like skin tears, pressure injuries are graded to ensure accurate assessment, documentation, and timely escalation of care. Understanding this classification is essential for preventing deterioration and supporting best practice in wound management. Click on the image below to review the 6 pressure area grades:
+Clinical Excellence Commission. (n.d.)
+
+
+===== FILE: 28 - Activities 3.3 - 3.epub =====
+Activities 3.3 - 3
+-
+-
+Activity 3.3. Watch this video
+The healing time of skin tears relies heavily on immediate action to cleanse the wound, where possible, realign the skin flap and dress the wound appropriately. The following video highlights a program in the UK that saw the need to train up staff to effectively treat skin tears rather than waiting for the wound specialist.
+UNSAFE_HTML_20260515115951.html
+Activity 3.4. Skin integrity
+
+
+===== FILE: 29 - 3.5.epub =====
+3.5
+-
+-
+Pain is complex, subjective and depends on many differing variables. Pain experienced can alter from one day to the next based on your stress levels, the environment – including visual and auditory feedback, the language used by health professionals associated with the pain and your expectations.
+As nurses, it is essential to not only understand pain – why it exists and how different conditions can alter the pain experience.
+There are a number of myths associated with pain and older adults. Older people or health professionals often believe these myths, and as a result, many older people live with pain unnecessarily. One commonly held myth is that pain is a natural part of ageing. As we age, the prevalence of chronic conditions increases, and there is known pain associated with many of these conditions however, there is currently no concrete evidence that ageing alone causes pain. Watch the following video where Dr. Andrea Furfal presents facts about chronic pain in older individuals and dispels common myths.
+Watch https://www.youtube.com/watch?v=LapITUG5gEU
+Myth vs. Reality: After watching this video, reflect on any preconceived notions or myths you might have held about pain in older adults. How did Dr Furlan's insights challenge or align with your previous understanding?
+Clinical Implications: Consider the practical implications of the myths and facts discussed by Dr Furlan in the context of your future nursing practice. How might this knowledge influence your approach to assessing and managing pain in older patients?
+Interprofessional Collaboration: Pain management often involves collaboration with various healthcare professionals. How can nurses collaborate effectively with other team members to address the unique challenges of chronic pain in older adults, as highlighted in the video?
+
+
+===== FILE: 30 - 3.6.epub =====
+3.6
+-
+-
+Sleep is an essential function that allows your body and mind to recharge, leaving you refreshed and alert when you wake up. During sleep, many bodily functions such as metabolism, digestion and absorption of food, hormone production, appetite regulation and neuro-behavioural (memory, mood, concentration, cognition) are recharged. During our regular sleep cycles, adults wake up many times throughout the night, however as we age the amount of time we are awake tends to increase. This is shown in the graph below.
+Source: https://www.slideserve.com/hashim/biological-rhythms-and-sleep
+
+
+===== FILE: 31 - 3.7.epub =====
+3.7
+-
+-
+Older adults experience higher rates of Dementia and Delirium than their younger counterparts, with a high risk of Depression. It is essential to recognise that these conditions are not a normal part of ageing, but rather reflect underlying health, social, or biological factors that necessitate assessment and appropriate care.
+Key figures
+- Dementia: Around 425,000 Australians were living with dementia in 2024, with projections suggesting this number will reach 1.1 million in 2065 if current trends continue (Australian Institute of Health and Welfare, 2023).
+- Delirium: Between 10–18% of Australians aged 65 years and older experience delirium at the time of hospital admission, and a further 2–8% develop delirium during their stay (Australian Commission on Safety and Quality in Health Care, 2021).
+- Depression: Mental health conditions, including depression, are also prevalent among older adults, with 7.9% of men and 11.1% of women aged 65 years and older reporting a mental health condition (excluding dementia) within the previous 12 months (Australian Institute of Health and Welfare, 2022).
+The relationship between dementia, delirium, and depression is bidirectional, as each condition can increase vulnerability to or exacerbate the others. For example, dementia heightens the risk of delirium, while depression may accelerate cognitive decline or delay recovery following delirium (Mukku et al., 2021; Fong & Inouye, 2022). These conditions often present with overlapping symptoms, making accurate assessment and differentiation essential in nursing care. In some cases, delirium may occur superimposed on dementia, a particularly complex presentation that increases morbidity, length of hospital stay, and the risk of further cognitive decline (Morandi et al., 2017).
+Find below a brief description of each “D” to better inform your nursing practice.
+Source: Distinguishing the Three Ds (Delirium, Dementia, Depression) | CARLAT PUBLISHING
+
+
+===== FILE: 32 - 3.8.epub =====
+3.8
+-
+-
+Terms such as Alzheimer’s are often used as synonyms for Dementia. However, did you know that Alzheimer’s disease is actually just one type of dementia? It is the most common form, but there are several others that affect the brain in different ways. Review the infographic below to gain a clearer understanding of the four main types of dementia and how each can impact a person differently.
+Source: National Institute on Aging Dementia Is an Umbrella Term
+Watch: What is dementia? Alzheimer's Research UK
+Watch the video for an overview of dementia, how it affects the brain and why.
+UNSAFE_HTML_20260515121050.html
+
+
+===== FILE: 34 - 3.9.epub =====
+3.9
+-
+-
+Delirium is a serious sign of clinical deterioration but is also highly preventable and treatable when recognised early. There are three main types of delirium:
+- Hypoactive: Characterised by reduced motor activity, lethargy, withdrawal, and drowsiness.
+- Hyperactive: Involves increased motor activity, agitation, aggression, hallucinations, and restlessness.
+- Mixed: Symptoms fluctuate between hyperactive and hypoactive states (Victorian Department of Health, 2024)
+Watch this video: PREDICT toolkit
+Watch the video to hear about a carer’s experience with delirium and learn more about a local health project supporting its prevention and management.
+(You might spot a familiar face 😄)
+UNSAFE_HTML_20260605102238.html
+
+
+===== FILE: 35 - 3.10.epub =====
+3.10
+-
+-
+Adults with cognitive impairment may exhibit responsive or changed behaviours such as anxiety, agitation, or apathy, which can become more noticeable in certain situations. These behaviours are often triggered by illness, medication effects, unfamiliar environments, or the loss of social supports (Abbott et al., 2022; Lourida et al., 2020).
+For nurses, these changes can make care more complex. Behaviours such as aggression, repetitive questioning, or refusal of care often reflect stress or unmet needs, rather than intentional resistance. Recognising these actions as forms of communication enables nurses to look beyond the behaviour and identify the underlying cause - such as pain, fear, or confusion.
+Providing person-centred care involves adjusting the environment, communicating calmly, maintaining familiar routines, and offering reassurance to reduce distress. Understanding how hospitalisation affects people with cognitive impairment supports nurses in delivering safer, more compassionate, and responsive care.
+Source: www.deliriumcarenetwork.com
+Watch: Responding to changes in behaviour
+Watch the video to explore changes in behaviour and learn how to identify triggers and reduce responsive behaviours using the CAUSEd model.
+UNSAFE_HTML_20260515121540.html
+
+
+===== FILE: 36 - 3.11.epub =====
+3.11
+-
+-
+Nonpharmacological interventions are essential in supporting adults with cognitive impairment. By meeting a person’s biological, psychological, and social needs, these approaches can reduce distress and responsive behaviours and help prevent the use of chemical and physical restraints (ACSQHC, 2013; Davis et al., 2023).
+Under Australian law, restrictive practices refer to any intervention that limits a person’s rights or freedom of movement. The Aged Care Act 1997 and Quality of Care Principles 2014 (Part 4A) require that restrictive practices are used only as a last resort, in the least restrictive form, and with informed consent. A behaviour support plan must also be in place for anyone where such practices are considered.
+There are five types of restrictive practices:
+- Environmental restraint
+- Mechanical restraint
+- Physical restraint
+- Seclusion
+- Chemical restraint
+Using person-centred, non-pharmacological strategies such as maintaining routines, modifying the environment, involving families, and providing reassurance can help nurses address unmet needs, reduce distress, and avoid the need for restrictive practices, while promoting dignity and safety in care.
+Review the image below to explore ten categories of non-pharmacological interventions.
+Can you think of any interventions you have used or would use in your own practice?
+Source: Akimbekov, N., & Razzaque, M. S. (2021). Laughter therapy: A humor-induced hormonal intervention to reduce stress and anxiety. Current Research in Physiology, 4, 100063. https://doi.org/10.1016/j.crphys.2021.04.002
+
+
+===== FILE: 37 - References (2).epub =====
+References
+-
+-
+Akimbekov, N., & Razzaque, M. S. (2021). Laughter therapy: A humor-induced hormonal intervention to reduce stress and anxiety. Current Research in Physiology, 4, 100063. https://doi.org/10.1016/j.crphys.2021.04.002
+Australian Commission on Safety and Quality in Health Care. (2013). A handbook for improving safety and providing high-quality care for people with cognitive impairment in acute care: A consultation paper [PDF]. https://www.safetyandquality.gov.au/sites/default/files/migrated/Draft-Handbook_Consultation_Improving-Safety-and-High-Quality-Care-for-People-with-Cognitive-Impairment-in-Acute-Care.pdf
+Australian Commission on Safety and Quality in Health Care. (2021). Delirium Clinical Care Standard [Webpage]. https://www.safetyandquality.gov.au/standards/clinical-care-standards/delirium-clinical-care-standard
+Australian Institute of Health and Welfare. (2024). Mental health in aged care [Web report]. https://www.aihw.gov.au/reports/aged-care/mental-health-in-aged-care
+Australian Institute of Health and Welfare. (2025). Dementia in Australia. https://www.aihw.gov.au/reports/dementia/dementia-in-aus/contents/how-many-people-have-dementia/prevalence-of-dementia
+Clinical Excellence Commission. (n.d.). Pressure Injury Classification System [PDF]. https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0005/259259/Pressure-Injury-Classification-System.PDF
+Collier, S. (2025, January). Distinguishing the three Ds (delirium, dementia, depression). The Carlat Report. https://www.thecarlatreport.com/blogs/3-carlat-psychiatry-webinars/post/5120-distinguishing-the-three-ds-delirium-dementia-depression
+Davis, E. R., Aggar, C., & Bissett, M. (2023). Nonpharmacological tactile activity interventions for reducing behavioural and psychological symptoms of dementia in the acute hospital setting: An integrative review. Journal of clinical nursing, 32(23-24), 7970–7978. https://doi.org/10.1111/jocn.16891
+Fong, T. G., & Inouye, S. K. (2022). The inter-relationship between delirium and dementia: the importance of delirium prevention. Nature reviews. Neurology, 18(10), 579–596. https://doi.org/10.1038/s41582-022-00698-7
+Morandi, A., Davis, D., Bellelli, G., Arora, R. C., Caplan, G. A., Kamholz, B., Kolanowski, A., Fick, D. M., Kreisel, S., MacLullich, A., Meagher, D., Neufeld, K., Pandharipande, P. P., Richardson, S., Slooter, A. J., Taylor, J. P., Thomas, C., Tieges, Z., Teodorczuk, A., Voyer, P., … Rudolph, J. L. (2017). The Diagnosis of Delirium Superimposed on Dementia: An Emerging Challenge. Journal of the American Medical Directors Association, 18(1), 12–18. https://doi.org/10.1016/j.jamda.2016.07.014
+Mukku, S. S. R., Dahale, A. B., Muniswamy, N. R., Muliyala, K. P., Sivakumar, P. T., & Varghese, M. (2021). Geriatric Depression and Cognitive Impairment-An Update. Indian journal of psychological medicine, 43(4), 286–293. https://doi.org/10.1177/0253717620981556
+Silver Chain Nursing Association & Curtin University. (2010, February). STAR Skin Tear Classification System – Guidelines [PDF]. https://promoting-healthy-skin.qut.edu.au/resources/m2_07_STAR_system.pdf
+Victoria Department of Health. (2024, July). Classifying and responding to pressure injuries and skin tears. State of Victoria. Retrieved from https://www.health.vic.gov.au/older-people-in-hospital/pressure-injuries-and-skin-tears-0/classifying-and-responding-to-pressure-injuries-and-skin-tears
+
+
+===== FILE: 38 - Summary.epub =====
+Summary
+-
+-
+As you reflect on the key topics covered in this module, here are some important takeaways:
+Ageing is a natural part of life, and as nurses, it’s important to understand the physical, psychological, and social aspects of the ageing process. This module introduced you to foundational concepts such as healthy ageing, ageism, and the common misconceptions that can influence how older adults are perceived and cared for.
+Challenging stereotypes: Throughout this module, you were encouraged to reflect on your own beliefs and assumptions about older adults. Understanding and addressing age-related bias will help you provide care that is respectful, inclusive, and responsive to each individual’s unique life experience.
+Diversity in ageing: Older adults are not a homogeneous group. They come from diverse cultural, social, and economic backgrounds, and their care must be approached with sensitivity and person-centred planning. Recognising this diversity is key to delivering quality care.
+Next week, we will begin to explore Mental health and Intellectual disability across the lifespan.

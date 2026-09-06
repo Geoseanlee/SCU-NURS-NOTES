@@ -1,0 +1,1061 @@
+===== FILE: 01 - Activities.epub =====
+Activities
+-
+-
+Activity: Measuring Sp02
+Watch the video demonstrating how to measure oxygen saturation safely and accurately.
+UNSAFE_HTML_20260509003419.html
+Activity: Pulse oximetry quiz
+Complete the quiz to check your understanding before your Week 7 Clinical Skills Assessment.
+Wrap up
+You have now explored the physiology of oxygenation, the meaning of oxygen saturation, how pulse oximeters work, and how to measure SpO₂ accurately. These skills are essential for recognising hypoxia early and preventing deterioration.
+Next, we move on to the next vital sign…
+
+
+===== FILE: 02 - Overview.epub =====
+Overview
+-
+-
+Having established the foundations of safe practice in Module 1, this module focuses on developing your clinical assessment skills and deepening your understanding of healthcare safety. You will learn how to accurately measure and interpret vital signs, recognise early indicators of deterioration, and communicate concerns using structured frameworks. Alongside this, you will explore the systems, standards, and human factors that shape safe nursing practice, ensuring that your clinical observations are supported by sound judgement and a strong safety culture.
+Together, these topics prepare you to contribute confidently to patient monitoring, early intervention, and safe decision‑making in a range of healthcare settings.
+Topics covered in this module include (but are not limited to):
+- Between the flags
+- Introduction to A-G assessment
+- Measuring vital signs
+- Documentation
+- Patient safety
+- National Safety and Quality Health Service Standards (NSQHS)
+- Factors contributing to errors in healthcare
+- Learning from errors and reporting near misses
+
+
+===== FILE: 03 - Purpose.epub =====
+Purpose
+-
+-
+Oxygen saturation reflects how effectively oxygen is being transported to the body’s tissues. Pulse oximetry is a quick, non‑invasive method used to assess oxygenation and detect early signs of hypoxia. Understanding the physiology behind oxygenation helps nurses interpret SpO₂ readings accurately and respond appropriately.
+Quick recap - Physiology of oxygenation
+Before measuring oxygen saturation, it’s important to understand how oxygen is transported in the body.
+Oxygenation
+Oxygenation refers to the delivery of oxygen to the body’s cells and tissues. Oxygen is carried in two forms:
+- Bound to haemoglobin (most oxygen)
+- Dissolved in plasma (small amount)
+Effective oxygenation depends on:
+- Ventilation – movement of air in and out of the lungs
+- Gas exchange – diffusion of O₂ and CO₂ between alveoli and blood
+- Perfusion – delivery of oxygenated blood to tissues
+- Cellular respiration – oxygen used within cells
+
+
+===== FILE: 04 - References.epub =====
+References
+-
+-
+
+
+===== FILE: 06 - attachment.epub =====
+Recognising deterioration: Clinical Frameworks
+-
+-
+Before measuring individual vital signs, nurses must understand the frameworks that guide clinical judgement and escalation.
+Between the flags (BTF)
+Between the Flags is NSW Health’s safety‑net system for recognising and responding to clinical deterioration. It uses colour‑coded “track and trigger” charts to identify early warning signs and standardise escalation.
+Between the Flags (BTF) paper-based observation chart
+Standard observation charts are available in both paper and digital form for adult, paediatric, maternity services and emergency departments.
+The CEC and eHealth NSW have worked in close partnership with Cerner Corporation and multidisciplinary working groups to develop electronic versions of the charts for NSW public hospitals using the Cerner electronic medical record (eMR). In health facilities that already utilise eMR for observations, the paper-based forms should be utilised in procedures during downtime.
+eMR observation chart
+https://www.cec.health.nsw.gov.au/keep-patients-safe/between-the-flags/observation-charts
+Key ideas:
+- Yellow Zone = Clinical Review
+- Red Zone = Rapid Response
+- Standardised calling criteria
+- Supports the Recognising and Responding to Acute Deterioration Standard (NSQHS)
+
+
+===== FILE: 07 - Topic_ Purpose and overview.epub =====
+Topic: Purpose and overview
+-
+-
+Vital signs provide essential information about a patient’s physiological status and are one of the earliest indicators of improvement or deterioration. These measurements reflect vital body functions regulated by homeostasis, and changes in vital signs often signal changes in health status. Assessing, interpreting, and documenting vital signs is a core nursing skill used in every healthcare setting, at every level of practice.
+By the end of this topic, you will be able to:
+- Explain the physiological processes involved in regulating vital signs
+- Competently measure all vital signs
+- Critically analyse and interpret findings in relation to the patient
+- Document vital signs accurately and appropriately
+
+
+===== FILE: 07 - Summary.epub =====
+Summary
+-
+-
+Together, vital signs and healthcare safety form a powerful partnership in nursing practice. Accurate clinical observations only achieve their purpose when embedded within safe systems that protect patients from harm and support timely, effective intervention. This module has shown that technical skill and safety culture are inseparable, shaping the nurse’s role as both a clinician and a guardian of patient wellbeing.
+With this foundation in place, we now move into Module 3: Fundamentals of Nursing Care I. In this next stage, you will consolidate core nursing skills by exploring the everyday essentials of patient care,  including nutrition, hydration, and fluid balance, and learn how these fundamental practices directly influence safety, comfort, and clinical outcomes.
+
+
+===== FILE: 08 - Understanding vital signs.epub =====
+Understanding vital signs
+-
+-
+https://d16qt3wv6xm098.cloudfront.net/lcAnqqIiSgqEOTfLy-smjutJQgKu5X2B/_.jpg
+Vital signs reflect the functioning of key body systems — cardiovascular, respiratory, neurological, and thermoregulatory. Although these processes occur automatically, nurses must be able to assess whether they are functioning within expected ranges.
+Vital signs include:
+- Temperature (T)
+- Pulse / Heart Rate (P/HR)
+- Respiratory Rate (R)
+- Blood Pressure (BP)
+- Oxygen Saturation (SpO₂)
+- Pain (the “fifth vital sign”)
+- AVPU (a rapid neurological assessment)
+
+
+===== FILE: 09 - A-G Assessment.epub =====
+A-G Assessment
+-
+-
+The A–G approach is a systematic method for rapid patient assessment. It helps nurses identify life‑threatening problems early and intervene before moving on.
+Why it matters:
+- Provides structure in emergencies
+- Helps identify deterioration early
+- Links directly to vital sign interpretation
+- Builds clinical reasoning skills
+You will learn the full A–G assessment in NURS2004 / NURS5012 Health Assessment Across the Lifespan, but this module introduces the foundational concepts.
+Measuring vitals signs
+Each vital sign is explored in its own sub‑section. These follow the order of the SAGO chart and align with the A–G framework.
+
+
+===== FILE: 10 - Review the following document.epub =====
+Review the following document
+-
+-
+Open the Health Care Records - Documentation and Management
+(this is a new site for the document, hopefully this one works )
+Read the following sections:
+- Section 1.4 Privacy and confidentiality
+- Section 2  Documentation (p. 5-12)
+Prior to going on your first WIL (Work Integrated Learning) placement or during your orientation to your WIL placement, you will likely need to complete the mandatory training for health care records and confidentiality. The training you complete will depend on where you are allocated to attend. This reading will prepare you for this training.
+Vital signs summary
+Vital signs are the most immediate indicators of patient wellbeing. Throughout this topic, you explored the nurse’s responsibility to accurately measure, interpret, and document temperature, pulse, respiratory rate, blood pressure, oxygen saturation, pain, and neurological status (AVPU). Understanding normal and abnormal parameters — and recognising trends over time — enables early detection of deterioration and supports timely, effective intervention.
+Accurate vital sign assessment is only meaningful when paired with safe systems of care, clear communication, and precise documentation. These skills form the foundation of safe nursing practice and underpin your ability to advocate for patients, escalate concerns, and contribute to high‑quality clinical decision‑making.
+With these essential assessment skills established, we now move into Fundamentals of Healthcare Safety, where the focus shifts to risk management, patient protection, and the nurse’s role in creating and sustaining a safe clinical environment.
+
+
+===== FILE: 11 - Terminology used.epub =====
+Terminology used
+-
+-
+Pulse
+Atrial fibrillation - irregular and often rapid heart rhythm - arrhythmia
+Bradycardia – a slower than normal heart rate – below 60 beats per minute
+Pulse – measurement of the heart beat
+Tachycardia – a faster than normal pulse rate – above 100 beats / minute
+Respirations
+Bradypnoea (slow breathing rate < 10/11 or below)
+Dyspnoea – difficulty breathing causing a feeling of shortness of breath
+Eupnoea – easy normal respiration
+Tachypnoea (fast breathing rate > 20bpm)
+Temperature
+Febrile – a temperature generally over 39.5
+Hyperthermia - an abnormally high body temperature
+Hypothermia – temperature below 35.4
+Pyrexia – where the body’s temperature is generally above the normal limit of 37
+Thermoregulation - The body’s way of heat regulation to maintain a constant body temp
+02 sats
+Capillary refill – the time it takes blood to return to the capillaries after they have been compressed
+Oxygen saturation – how much of the haemoglobin in the blood is carrying oxygen
+Pain
+Cutaneous pain – stimulation of the nerve endings in the skin
+Somatic pain – non localised and originates in the support structures – ligaments, tendons, nerves – think about jamming your finger in the door
+Visceral pain – internal organs; less localised more slowly transmitted than cutaneous pain, sometimes difficult to assess, as it may location may not be directly related to cause
+Referred pain – happens in one organ but pain is felt elsewhere – heart attack pain can be in left arm or jaw
+Acute pain - sudden onset, relative short duration, mild to severe in intensity; lasts day to about 3-4 weeks; is time limited, such as surgical pain
+Chronic pain - constant pain daily 3 months or more
+Nociceptive – normal processing of the noxious stimuli, may damage skin if it prolongs, e.g. Somatic pain, visceral pain & fractures
+Neuropathic - abnormal processing of pain by peripheral or central nervous system, which could be due to lesions or disease processes, e.g., Peripheral – diabetic neuropathy, carpal tunnel syndrome;
+Central – multiple sclerosis, spinal cord injury
+Blood pressure
+Hypertension - a higher-than-normal BP
+Hypotension - a lower-than-normal BP
+Korotkoff’s sounds – the five distinct phases of sounds heard with a stethoscope during auscultation of the BP
+Normotensive – a stable BP
+AVPU
+The AVPU scale is a quick and easy way to assess a patient’s level of consciousness. It helps you determine how aware and responsive a patient is in emergency or ward settings. Here’s a breakdown of each letter in a way that a first-year nurse can easily understand:
+A – Alert - The patient is fully awake—you see that they open their eyes spontaneously, follow commands, and seem fully aware of their surroundings.
+What to Look For: They make eye contact, answer questions appropriately, and can follow instructions without needing any stimulation. This is the ideal state, indicating good brain function.
+V – Verbal - The patient isn’t completely alert but responds when spoken to.
+What to Look For: When you talk to them (even if just calling their name), they open their eyes or make an effort to respond. Their responses might be slower or a bit confused compared to an alert patient. This shows that while they maintain some awareness, they need verbal cues to engage.
+P – Pain - The patient doesn’t respond to verbal stimuli but shows a reaction when a painful stimulus is applied.
+What to Look For: Use a standardised method like applying a gentle pressure to the nail bed or a sternal rub. A pain response could be a grimace, a slight withdrawal, or a change in their posture. It tells you that the patient’s brainstem is still active, but the level of consciousness is lower than ideal.
+U – Unresponsive - The patient does not react at all—even when a painful stimulus is applied.
+What to Look For: There is no eye-opening, no verbal response, and no movement. This is the most concerning sign and indicates that the patient is deeply unconscious, signifying a critical situation that needs prompt intervention.
+
+
+===== FILE: 12 - Common conditions impacting on vital signs.epub =====
+Common conditions impacting on vital signs
+-
+-
+Common conditions and their impact on vital signs(3).docx
+
+
+===== FILE: 13 - attachment (1).epub =====
+Recognising deterioration: Clinical frameworks
+-
+-
+Before measuring individual vital signs, nurses must understand the frameworks that guide clinical judgement and escalation.
+Between the Flags (BTF)
+Between the Flags is NSW Health’s safety‑net system for recognising and responding to clinical deterioration. It uses colour‑coded “track and trigger” charts to identify early warning signs and standardise escalation.
+Standard observation charts are available in both paper and digital form for adult, paediatric, maternity services and emergency departments.
+The CEC and eHealth NSW have worked in close partnership with Cerner Corporation and multidisciplinary working groups to develop electronic versions of the charts for NSW public hospitals using the Cerner electronic medical record (eMR). In health facilities that already utilise eMR for observations, the paper-based forms should be utilised in procedures during downtime.
+https://www.cec.health.nsw.gov.au/keep-patients-safe/between-the-flags/observation-charts
+Key ideas:
+- Yellow Zone = Clinical Review
+- Red Zone = Rapid Response
+- Standardised calling criteria
+- Supports the Recognising and Responding to Acute Deterioration Standard (NSQHS)
+
+
+===== FILE: 14 - A-G Assessment (1).epub =====
+A-G Assessment
+-
+-
+The A–G approach is a systematic method for rapid patient assessment. It helps nurses identify life‑threatening problems early and intervene before moving on.
+Why it matters:
+- Provides structure in emergencies
+- Helps identify deterioration early
+- Links directly to vital sign interpretation
+- Builds clinical reasoning skills
+You will learn the full A–G assessment in NURS2004 / NURS5012 Health Assessment Across the Lifespan, but this module introduces the foundational concepts.
+Each vital sign is explored in its own sub‑section. These follow the order of the SAGO chart and align with the A–G framework.
+
+
+===== FILE: 15 - Information on how _ why to complete this section.epub =====
+Information on how / why to complete this section
+-
+-
+The following links and short video is helpful for the “Are you worried you/they are getting worse” question on the SAGO chart.
+This section needs to be completed not only once a shift but also in the final Clinical Skills Assessment
+https://cec.health.nsw.gov.au/safety-essentials/deterioration/worried-they-are-getting-worse
+https://www.youtube.com/watch?v=D0rUtqPvYrc – Adult scenario (2:53 mins)
+
+
+===== FILE: 16 - Purpose and physiology of breathing.epub =====
+Purpose and physiology of breathing
+-
+-
+Purpose
+Respiratory rate is one of the earliest indicators of clinical deterioration. Understanding how breathing works, what affects respiratory rate, and how to measure it accurately is essential for safe nursing practice.
+Physiology of breathing
+Respiration involves several key processes:
+- Pulmonary ventilation — movement of air in and out of the lungs
+- Inspiration — drawing air into the lungs
+- Expiration — expelling air from the lungs
+- External respiration — gas exchange between alveoli and blood
+- Internal respiration — gas exchange between blood and tissues
+https://www.online-sciences.com/wp-content/uploads/2015/01/Respiration.gif
+Respiratory assessment (A&B of A-G)
+Before counting respirations, nurses perform a brief respiratory assessment:
+- Listen to breath sounds
+- Observe chest movement
+- Identify normal vs abnormal patterns
+- Note work of breathing
+You will learn the full A–G assessment in Health Assessment, but here we focus on the components relevant to vital signs.
+
+
+===== FILE: 17 - Mechanisms of breathing; Breathing vs respiration.epub =====
+Mechanisms of breathing; Breathing vs respiration
+-
+-
+Activity: Watch this video relation to the mechanisms of breathing
+Watch the video explaining how breathing works and how to assess respiratory rate.
+UNSAFE_HTML_20260509002601.html
+Activity: Breathing vs respiration
+Watch the video explaining the difference between breathing (ventilation) and respiration (gas exchange).
+UNSAFE_HTML_20260509002602.html
+
+
+===== FILE: 18 - Patterns of respirations.epub =====
+Patterns of respirations
+-
+-
+Respiratory depth varies from shallow to deep. Certain terms describe abnormal patterns.
+https://cdn.ps.emap.com/wp-content/uploads/sites/3/2018/08/Table-1-Breathing-patterns_660.jpg
+Factors affecting respirations
+Respiratory rate changes in response to many factors, including:
+- Acute pain — ↑ rate, ↓ depth
+- Age — neonates 30–60 bpm; adults 12–20 bpm
+- Brain lesions — can alter rate and depth
+- Exercise — ↑ rate and depth
+- Gender — males more diaphragmatic; females more intercostal
+
+
+===== FILE: 19 - Measuring respiratory rate.epub =====
+Measuring respiratory rate
+-
+-
+Respirations must be counted for one full minute.
+While counting, assess:
+- chest rise and fall
+- symmetry
+- use of accessory muscles
+- work of breathing
+- noisy or abnormal sounds
+Activity: Watch the respiratory rate assessment video
+This video demonstrates how to accurately count respirations.
+UNSAFE_HTML_20260509002728.html
+
+
+===== FILE: 20 - Documenting respiratory rate.epub =====
+Documenting respiratory rate
+-
+-
+Respiratory rate must be documented immediately and accurately.
+- Use the Airway/Breathing section of the SAGO chart
+- NSW and QLD charts differ — both are shown in this module
+- Documentation may be paper‑based or electronic (eMR)
+Documentation of respiratory rate is a mandatory component of the clinical skills assessment
+Wrap up
+You have now explored the physiology of breathing, respiratory assessment, factors affecting respiratory rate, and how to measure and document respirations accurately. These skills are essential for recognising early deterioration and will be assessed in your Week 7 Clinical Skills Assessment.
+Next, we move on to oxygen saturation (Sp02) (pulse oximetry) and Oxygen requirements
+
+
+===== FILE: 21 - Key concepts.epub =====
+Key concepts
+-
+-
+Ventilation: Breathing in oxygen and exhaling carbon dioxide.
+Diffusion: Movement of gases across concentration gradients (high → low).
+Perfusion: Delivery of oxygenated blood to tissues; depends on adequate cardiac output.
+Hypoxia: Low oxygen levels in tissues.
+Common signs:
+- Tachycardia
+- Anxiety or restlessness
+- Pallor or cyanosis (late sign)
+- Increased work of breathing
+- Tachypnoea
+Disease processes affecting oxygenation
+Altered oxygenation may result from:
+Obstructive pulmonary diseases
+- Asthma
+- Emphysema
+- Chronic bronchitis
+Restrictive pulmonary diseases
+- Pneumonia
+- Pulmonary fibrosis
+Diffusion defects
+- Emphysema
+- Pulmonary oedema
+Ventilation–perfusion mismatch
+- Right‑sided heart failure
+- Pulmonary hypertension
+
+
+===== FILE: 22 - Understanding oxygen saturation.epub =====
+Understanding oxygen saturation
+-
+-
+Oxygen saturation refers to the percentage of haemoglobin molecules carrying oxygen.
+A simple way to imagine this:
+- Haemoglobin = “cars”
+- Oxygen = “passengers”
+- Blood vessels = “roads”
+If 8 out of 16 haemoglobin “cars” carry oxygen, the saturation is 50%.
+Oxygen saturation simply refers to the percentage of the available hemoglobin that carries oxygen. Take the situations below. There are 16 hemoglobin units and none of the 16 have oxygen. The oxygen saturation is therefore 0 %.
+Here, 8 of the 16 Hb have oxygen. The oxygen saturation is therefore 50 %.
+Similarly for 75 % …
+And of course , when all the Hb have oxygen, the saturation is 100 %
+Normal SpO₂ varies depending on the patient’s condition, history, and baseline. “Normal” is not the same for everyone.
+https://www.howequipmentworks.com/pulse_oximeter/
+
+
+===== FILE: 23 - Pulse oximetry.epub =====
+Pulse oximetry
+-
+-
+Pulse oximeters measure how much haemoglobin is carrying oxygen. They are widely used because they are:
+- non‑invasive
+- inexpensive
+- portable
+- able to detect hypoxaemia earlier than visible cyanosis
+Pulse oximetry is essential for monitoring patients receiving oxygen therapy and identifying early deterioration.
+Measuring oxygen saturations
+Pulse oximeters use light absorption to calculate oxygen saturation.
+How it works:
+- Light passes from the probe’s emitter → through the finger → to the detector
+- Oxyhaemoglobin and deoxyhaemoglobin absorb light differently
+- The oximeter analyses the absorbed light to determine SpO₂
+Factors affecting accuracy
+- Poor perfusion
+- Nail polish or acrylic nails
+- Movement
+- Cold extremities
+- Carbon monoxide poisoning
+- Incorrect probe placement
+On the SAGO chart under Airway and Breathing - there is an Oxygen component - as we do not undertake Oxygen delivery in this unit, you must complete the box that says device / mode - and in here you must put RA  which is Room Air, as that is what the patient is currently experiencing
+This is also a mandatory component of the SAGOChart and the Clinical Skills Assessment
+
+
+===== FILE: 24 - Purpose; Understanding blood pressure.epub =====
+Purpose; Understanding blood pressure
+-
+-
+Purpose
+Blood pressure (BP) reflects the force of blood against arterial walls and is a key indicator of cardiovascular health. Accurate BP measurement is essential for recognising deterioration, guiding clinical decisions, and ensuring safe patient care. This skill takes practice — but with repetition, you will become confident and competent.
+Understanding Blood pressure
+Blood pressure is the pressure exerted by circulating blood as it moves through the arteries. Because blood flows in pulses, BP has two components:
+- Systolic pressure — pressure during ventricular contraction
+- Diastolic pressure — pressure when the ventricles relax
+BP is measured in millimetres of mercury (mmHg) and recorded as a fraction (e.g., 120/80 mmHg).
+
+
+===== FILE: 25 - Physiology and regulation of blood pressure.epub =====
+Physiology and regulation of blood pressure
+-
+-
+Blood pressure is influenced by:
+- cardiac output
+- blood volume
+- peripheral vascular resistance
+- arterial elasticity
+- blood viscosity
+Understanding these mechanisms helps you interpret BP readings and recognise abnormal values.
+Activity: Physiology of blood pressure
+Watch the video explaining how blood pressure is generated and regulated.
+UNSAFE_HTML_20260509004039.html
+
+
+===== FILE: 26 - Activity_ Quick quiz.epub =====
+Activity: Quick quiz
+-
+-
+Complete the short quiz to check your understanding of BP physiology, and remember to make sure the light blue, be darker so as your responses are captured
+
+
+===== FILE: 27 - What do BP numbers mean_.epub =====
+What do BP numbers mean?
+-
+-
+When you measure BP, you document it as systolic/diastolic (e.g., 120/80 mmHg).
+Systolic pressure (top number)
+Pressure in the arteries when the heart contracts.
+Diastolic pressure (bottom number)
+Pressure in the arteries when the heart relaxes.
+Both numbers are important for assessing cardiovascular health.
+Normal blood pressure
+A normal adult BP is generally:
+- Systolic: 90–119 mmHg
+- Diastolic: 60–79 mmHg
+Elevated blood pressure
+BP above 120/80 mmHg is considered elevated. Persistent elevation increases the risk of:
+- hypertension
+- heart disease
+- stroke
+
+
+===== FILE: 28 - Factor affecting blood pressure.epub =====
+Factor affecting blood pressure
+-
+-
+BP is influenced by modifiable and non‑modifiable factors.
+Non‑modifiable factors:
+- Age
+- Genetics
+- Family history
+Modifiable factors:
+- Smoking
+- Diet
+- Physical activity
+- Stress
+- Alcohol intake
+- Obesity
+Understanding these helps nurses educate patients and recognise risk.
+
+
+===== FILE: 29 - Assessment of blood pressure.epub =====
+Assessment of blood pressure
+-
+-
+To measure BP accurately, you need:
+- a sphygmomanometer
+- a stethoscope
+- the correct cuff size
+- correct patient positioning
+- correct technique
+Using the wrong cuff size (too small or too large) will give inaccurate readings.
+Key steps include:
+- Perform hand hygiene
+- Position the patient comfortably
+- Locate the brachial or radial pulse
+- Apply the cuff correctly
+- Inflate and deflate at the correct rate
+- Identify systolic and diastolic sounds (Korotkoff sounds)
+- Document immediately
+
+
+===== FILE: 30 - BP measurement videos.epub =====
+BP measurement videos
+-
+-
+Activity: Interactive BP measurement video
+This interactive video helps you recognise systolic and diastolic sounds and practise accurate BP measurement.
+UNSAFE_HTML_20260509004302.html
+Activity: How to measure the BP
+In this video the nurse demonstrates using the brachial pulse when getting the base line, this is perfectly ok, as either the radial or brachial pulse can be used, however, we do advocate for the radial to be used in this module
+UNSAFE_HTML_20260521162716.html
+
+
+===== FILE: 31 - Documenting blood pressure.epub =====
+Documenting blood pressure
+-
+-
+Accurate documentation is essential for safe care.
+- Use the Circulation section of the SAGO chart
+- NSW and QLD charts differ — both are shown in this module
+- Documentation may be paper‑based or electronic (eMR)
+- Record BP immediately after measurement
+Good documentation supports communication, continuity of care, and clinical decision‑making.
+Blood pressure documentation, done correctly, is a mandatory party of the Clinical Skills Assessment
+Wrap up
+Blood pressure is a complex but essential vital sign. You have now explored BP physiology, normal and abnormal readings, factors affecting BP, assessment techniques, and documentation. These skills are critical for safe practice and will be assessed in your Week 7 Clinical Skills Assessment.
+Next, we move on to the next vital sign…
+
+
+===== FILE: 32 - Purpose (1).epub =====
+Purpose
+-
+-
+Purpose
+Pulse (heart rate) reflects how effectively the heart is pumping blood through the body. It is a key indicator of cardiovascular function and one of the earliest signs of improvement or deterioration. Nurses must be able to assess pulse accurately, interpret findings, and document results clearly.
+Physiology of the pulse
+The pulse is a throbbing sensation felt over a peripheral artery or heard over the apex of the heart. It occurs as a wave of blood is ejected into the arterial system with each contraction of the left ventricle.
+Pulse = heart rate → the number of times the heart beats per minute.
+Heart rate varies between individuals, so knowing your patient’s baseline is essential
+
+
+===== FILE: 33 - Characteristics of the pulse.epub =====
+Characteristics of the pulse
+-
+-
+When assessing the pulse, nurses evaluate:
+Rate
+- Number of beats per minute
+- Normal adult range: 60–100 bpm
+Rhythm
+- Regular or irregular pattern
+- Irregular rhythm = arrhythmia
+Volume (Strength)
+- Force of blood with each beat
+- Described as: bounding, strong, weak, thready
+These characteristics provide information about cardiac output and peripheral circulation.
+Activity: Physiology of the pulse
+Watch the video explaining how the pulse is generated and regulated.
+UNSAFE_HTML_20260509003621.html
+
+
+===== FILE: 34 - Factors affecting pulse rate.epub =====
+Factors affecting pulse rate
+-
+-
+Heart rate can increase or decrease due to many physiological and external factors. Understanding these helps nurses recognise deterioration or recovery.
+Common factors include:
+- Exercise
+- Fever
+- Pain
+- Anxiety
+- Medications
+- Haemorrhage
+- Age
+- Temperature
+- Disease processes
+(Beale & Nanayakkara, 2018)
+Click to explore additional factors affecting heart rate
+
+
+===== FILE: 35 - Pulse sites.epub =====
+Pulse sites
+-
+-
+Pulse can be assessed at multiple peripheral and central sites:
+- Radial — most common for adults and children >12 months
+- Brachial — used in BP measurement
+- Carotid — used in emergencies
+- Femoral, popliteal, posterior tibial, dorsalis pedis — assess lower limb circulation
+- Apical — auscultated in infants <12 months or when rhythm is irregular
+Activity: Identify the pulse sites
+Name the pulse sites shown in the diagram. This will support your clinical assessment and future practice.
+
+
+===== FILE: 36 - Assessing the pulse.epub =====
+Assessing the pulse
+-
+-
+First‑year students will assess the radial pulse using palpation.
+Technique:
+- Use 2–3 fingers (never the thumb — it has its own pulse)
+- Apply gentle pressure
+- Count for one full minute
+- Assess rate, rhythm, and volume
+Why 2–3 fingers?
+- One finger occludes excess pressure
+- Middle finger senses the pulse
+- Third finger helps eliminate interference from the ulnar artery
+- Thumb is avoided due to its own pulsation
+Assessing the radial pulse:
+Activity: How to assess a radial pulse
+Watch the video demonstrating pulse assessment.
+Note: This module uses a normal range of 60–100 bpm.
+UNSAFE_HTML_20260509003827.html
+
+
+===== FILE: 37 - Documenting pulse_heart rate.epub =====
+Documenting pulse/heart rate
+-
+-
+Activity: Reflective question
+Bring your responses to the nursing labs for discussion.
+- Why do we assess the radial pulse in first‑year clinical assessments?
+- Why do we use 2–3 fingers instead of the thumb when measuring pulse?
+Documenting pulse / heart rate
+Pulse must be documented immediately and accurately.
+- Use the Circulation section of the SAGO chart
+- NSW and QLD charts differ — both are shown in this module
+- Documentation may be paper‑based or electronic (eMR)
+Accurate documentation supports communication, continuity of care, and patient safety.
+Documentation of the pulse is a mandatory component for the Clinical Skills Assessment
+Wrap up
+You have now explored the physiology of the pulse, factors affecting heart rate, pulse sites, assessment techniques, and documentation. These skills are essential for recognising early deterioration and will be assessed in your Week 7 Clinical Skills Assessment.
+On to the next vital sign ...................
+
+
+===== FILE: 38 - Purpose_ What is AVPU_.epub =====
+Purpose: What is AVPU?
+-
+-
+For the purposes of this unit, we will not delve into a comprehensive neurological assessment. However, we will focus on the AVPU scale, as it pertains to documentation on the vital signs chart. Understanding and accurately recording the AVPU scale is a necessary skill for your practice.
+What is ACVPU?
+The ACVPU scale is a rapid method used by healthcare professionals to assess and document a patient’s level of consciousness. It is an expanded version of the traditional AVPU scale and provides a clearer picture of a patient’s neurological status. ACVPU stands for Alert, Confusion, Voice, Pain, and Unresponsive, representing five possible levels of responsiveness.
+AVPU stands for:
+- A – Alert The patient is awake, responsive, and aware of their surroundings.
+- C - Confusion - new onset or worsening confusion
+- V – Verbal The patient responds to verbal stimuli (e.g., speaking, calling their name).
+- P – Pain The patient responds only to painful stimuli (e.g., trapezius squeeze, sternal rub).
+- U – Unresponsive The patient does not respond to verbal or painful stimuli.
+This assessment is crucial in all clinical settings because it helps identify early neurological changes that may indicate deterioration or the need for urgent intervention. By determining whether a patient is alert, confused, responding to voice, responding to pain, or unresponsive, healthcare providers can make timely decisions about the urgency of care required.
+Why ACVPU Matters
+Assessing a patient’s level of consciousness using ACVPU helps detect changes that may be caused by conditions such as:
+- stroke
+- head injury
+- hypoxia
+- hypoglycemia
+- infection
+- medication effects
+- deterioration requiring escalation
+A sudden shift — for example, from A (Alert) to C (Confusion) or V (Voice) — is a red flag and must be escalated immediately according to Between the Flags criteria.
+Documenting ACVPU
+On the SAGO chart, ACVPU is documented using a single letter in the neurological section:
+- A – Alert
+- C – Confusion
+- V – Responds to Voice
+- P – Responds to Pain
+- U – Unresponsive
+Accurate documentation ensures the whole healthcare team is aware of the patient’s neurological status and any changes over time. This supports safe monitoring, treatment planning, and communication. Consistent, precise documentation also helps identify trends that may indicate improvement or deterioration.
+Even though ACVPU is a small part of the vital signs chart, it provides critical information about the patient’s brain function and overall safety, and documentation of this is mandatory in the Cli8nical Skills Assessment
+
+
+===== FILE: 39 - Purpose; Understanding pain.epub =====
+Purpose; Understanding pain
+-
+-
+Purpose
+Pain is a subjective, personal experience that can significantly impact a patient’s physical, emotional, and functional wellbeing. As nurses, we have a professional and ethical responsibility to assess, manage, and document pain promptly and accurately. Pain is now recognised as the fifth vital sign, highlighting its importance in holistic patient care.
+Understanding pain
+Pain is an unpleasant sensory and emotional experience associated with actual or potential tissue damage. It is influenced by biological, psychological, and social factors.
+A foundational principle in nursing is:
+“Pain is whatever the experiencing person says it is, existing whenever they say it does.” — Pasero & McCaffery (2011)
+Untreated pain can lead to:
+- reduced mobility
+- decreased nutritional intake
+- impaired sleep
+- delayed healing
+- immunosuppression
+- emotional distress (anxiety, depression)
+- increased risk of chronic pain
+Have a look at the diagram and see what the effects of pain can do to your patients.
+https://scendry.files.wordpress.com/2014/02/wpid-1-s2-0-s0889857x07000464-gr6.jpg
+
+
+===== FILE: 40 - Types and classification of pain.epub =====
+Types and classification of pain
+-
+-
+Pain can be classified in several ways:
+By duration:
+- Acute pain — sudden onset, short‑term, protective
+- Persistent (chronic) pain — lasts >3 months, may not have a clear cause
+By cause:
+- Nociceptive pain — tissue injury (somatic or visceral)
+- Neuropathic pain — nerve injury or dysfunction
+- Somatoform pain — psychological origin
+Other classifications:
+- Referred pain
+- Phantom pain
+- Breakthrough pain
+(Hall, Glew & Rhodes, 2022)
+Activity: Types and classifications of pain
+Work through the slideshow to deepen your understanding of pain types and their clinical implications.
+
+
+===== FILE: 42 - Factors affecting the pain experience.epub =====
+Factors affecting the pain experience
+-
+-
+Pain is highly subjective and influenced by many factors, including:
+- age
+- culture
+- previous pain experiences
+- emotional state
+- fatigue
+- attention and distraction
+- meaning of pain
+- social support
+Click the expanders to explore each factor in more detail.
+
+
+===== FILE: 43 - Assessing pain.epub =====
+Assessing pain
+-
+-
+Accurate pain management begins with accurate pain assessment.
+First step:
+Ask the patient. Pain cannot be assumed, minimised, or judged.
+Pain assessment includes:
+- onset
+- location
+- duration
+- characteristics
+- aggravating/relieving factors
+- impact on function
+- patient goals
+Pain assessment tools
+For this module, you will focus on:
+Numerical rating scale (NRS)
+- 0 = no pain
+- 10 = worst pain imaginable
+Verbal rating scale (VRS)
+- no pain
+- mild pain
+- moderate pain
+- severe pain
+- excruciating pain
+These tools are appropriate for adolescents, adults, and older adults who can understand the scale.
+Numerical pain rating scale
+
+
+===== FILE: 44 - Documenting pain.epub =====
+Documenting pain
+-
+-
+Activity: Pain assessment video
+Watch the video demonstrating how to assess pain using different tools, including for patients with communication difficulties.
+UNSAFE_HTML_20260509005333.html
+Documenting pain
+Pain must be documented just as accurately as all other vital signs.
+Documentation should include:
+- pain score (NRS or VRS)
+- location and characteristics
+- interventions provided
+- patient response to treatment
+- reassessment time
+Pain documentation may occur on:
+- paper‑based charts
+- electronic medical records (eMR)
+- the SAGO chart (pain score section)
+Accurate documentation supports communication, continuity of care, and legal accountability.
+Documentation of pain is a mandatory component of the Cli8nical Skills Assessment
+Wrap up
+Pain is the final vital sign in this module, but it is one of the most significant. Assessing and documenting pain is not simply a task — it is an essential component of patient advocacy, safety, and holistic care.
+Every pain score you record contributes to the patient’s clinical story, helps guide treatment decisions, and ensures subtle changes are not missed. Accurate documentation protects patients and supports high‑quality nursing practice.
+Now that you have completed all vital signs, it’s time to bring everything together in your clinical practice and documentation.
+
+
+===== FILE: 45 - Purpose; Understanding body temperature.epub =====
+Purpose; Understanding body temperature
+-
+-
+Purpose
+Body temperature reflects the balance between heat production and heat loss. It is a key indicator of metabolic activity, infection, inflammation, and thermoregulatory function. Accurate temperature measurement helps nurses identify deterioration, monitor treatment effectiveness, and provide safe, holistic care.
+Understanding body temperature
+Temperature is measured in degrees Celsius (°C) and represents the difference between heat produced and heat lost by the body.
+Normal core temperature range:
+36.0°C – 37.5°C (Ranges vary slightly between textbooks and clinical guidelines.)
+Temperature varies due to:
+- individual differences
+- time of day (lower in the morning, higher in late afternoon)
+- measurement site (core vs surface temperature)
+Common measurement sites include:
+- tympanic
+- temporal
+- axilla
+- oral
+- rectal
+- (Hall, Glew & Rhodes, 2022)
+
+
+===== FILE: 46 - Temperature homeostasis.epub =====
+Temperature homeostasis
+-
+-
+The human body maintains a stable internal temperature through homeostasis, regardless of environmental conditions. Thermoregulation involves:
+- heat production (metabolism, muscle activity)
+- heat loss (skin, respiration, sweating)
+- neural control (hypothalamus)
+This balance is essential for enzyme function, cellular activity, and overall physiological stability.
+https://bodell.mtchs.org/OnlineBio/BIOCD/text/chapter32/32images/32-02.gif
+
+
+===== FILE: 47 - Temperature homeostasis video and quiz.epub =====
+Temperature homeostasis video and quiz
+-
+-
+Activity: Temperature homeostasis video
+Watch the video explaining how the body regulates temperature in hot and cold environments.
+As you watch, consider:
+- How the environment affects temperature readings
+- Why do post‑operative patients often shiver
+How does this knowledge support safe temperature assessment in your Week 7 clinical exam
+UNSAFE_HTML_20260509004836.html
+Activity: Quick check of understanding
+Complete the brief activity to consolidate your understanding of thermoregulation.
+
+
+===== FILE: 48 - Measuring temperature video.epub =====
+Measuring temperature video
+-
+-
+Activity: Measuring temperature video
+Watch the video demonstrating how to measure temperature accurately using a tympanic thermometer.
+This will help you prepare for your clinical assessment.
+UNSAFE_HTML_20260509005020.html
+Wrap up
+Temperature assessment is a vital component of patient monitoring. You have now explored temperature physiology, homeostasis, influencing factors, measurement sites, and assessment technique. These skills support early recognition of deterioration and safe, effective nursing care.
+Next, we move on to our final vital sign — Pain.
+
+
+===== FILE: 49 - Purpose of documentation.epub =====
+Purpose of documentation
+-
+-
+Interpreting and documenting vital signs is a core nursing responsibility. Accurate, timely, and meaningful documentation transforms raw measurements into clinical information that supports safe decision‑making, communication, and continuity of care. Recording vital signs is not a passive task — it is an active component of patient assessment and early recognition of deterioration.
+Vital signs must be interpreted in context — not simply recorded. Nurses must consider:
+- trends over time
+- the patient’s baseline
+- the clinical picture
+- escalation criteria
+- the need for urgent review
+Good documentation is:
+- clear
+- legible
+- concise
+- contemporaneous
+- accurate
+- aligned with medico‑legal standards
+You will practise documentation in your Clinical Skills Assessment (Week 7).
+
+
+===== FILE: 50 - Principles of high quality documentation.epub =====
+Principles of high quality documentation
+-
+-
+Vital signs must be documented in a way that is:
+- Clear — easy to read and understand
+- Legible — handwriting or digital entries must be unambiguous
+- Concise — only relevant information included
+- Contemporaneous — recorded immediately after measurement
+- Progressive — showing changes over time
+- Accurate — correct values, units, and interpretation
+- Complete — includes assessments, actions taken, outcomes, and reassessment
+Documentation may be:
+- Paper‑based
+- Electronic (eMR)
+- Hybrid, depending on the facility
+Examples include: care plans, observation charts, handover notes, referral letters, pathology requests, operation notes, and discharge summaries.
+Interpreting vital signs before documenting
+Documentation is not simply recording numbers — it requires clinical interpretation.
+Before documenting, ask:
+- Is this value normal for this patient?
+- Is it consistent with their baseline?
+- Is there a trend developing?
+- Does this require escalation (e.g., Between the Flags criteria)?
+- Do I need to reassess sooner?
+- Do I need to communicate this to the RN or medical team?
+This reflective step is essential for safe practice and will be assessed in your Week 7 Clinical Skills Assessment.
+Where to document vital signs
+Vital signs are documented on:
+- SAGO charts (NSW and QLD versions differ — both are included in this module)
+- Electronic medical records (eMR)
+- Clinical notes, when relevant (e.g., escalation, interventions, patient response)
+Each vital sign has a designated area on the chart:
+- Temperature
+- Pulse / Heart rate
+- Respiratory rate
+- Blood pressure
+- Oxygen saturation
+- Pain score
+- AVPU
+Accurate placement ensures clarity and prevents misinterpretation.
+Documentation and patient safety
+Poor or missed documentation can lead to:
+- misdiagnosis
+- delayed treatment
+- medication errors
+- failure to escalate
+- preventable deterioration
+High‑quality documentation supports:
+- early recognition of deterioration
+- safe handover
+- effective teamwork
+- patient advocacy
+- legal protection for the nurse
+Activity: Documenting vital signs
+Watch the presentation by Dr Kolleen Miller‑Rosser on documenting vital signs. This presentation supports your preparation for the Week 7 Clinical Skills Assessment.
+(Link not available)
+
+
+===== FILE: 51 - Introduction to the Sago Chart.epub =====
+Introduction to the Sago Chart
+-
+-
+The Standard Adult General Observation (SAGO) Chart is the NSW Health tool used to document vital signs and recognise early deterioration. It uses colour‑coded zones (Yellow and Red) to guide escalation and supports the Between the Flags (BTF) safety system.
+NSW-Health-Standard-Adult-General-Observation-Chart.pdf
+Principles of accurate documentation
+High‑quality documentation must be:
+Timely
+Recorded as soon as possible after care or observation to ensure accuracy.
+Legible
+Clear and easy to read to prevent misinterpretation.
+Sequential
+Entered in the correct time order to support trend recognition.
+Consistent with the Patient’s Presentation
+Values should match what you see clinically; recheck anything that doesn’t fit.
+Free from Gaps or Overwriting
+Each entry must be complete, with no blank spaces or altered records.
+Verified When Values Are Unusual
+Recheck any observation that seems unlikely or inconsistent.
+Legal Requirements for Documentation
+Legal considerations underpin every aspect of nursing practice, and documentation is no exception. Accurate, timely, and compliant record‑keeping is both a professional responsibility and a legal requirement that safeguards patient safety and supports accountability.
+Accuracy and Timeliness
+Documentation must reflect correct data and be recorded promptly after care or observation. This ensures clinical decisions are based on reliable, up‑to‑date information.
+Clarity and Legibility
+Entries must be easy to read and understand. Clear documentation prevents misinterpretation and reduces the risk of error.
+Comprehensive Details
+Include all relevant information—time, date, patient identifiers, and clinical context—so the record provides a complete and accurate picture of care.
+Compliance with Policies and Standards
+Follow organisational guidelines, professional standards, and legal requirements. This ensures consistency, accountability, and adherence to best practice.
+Secure and Permanent Records
+Documentation must be stored safely and remain permanent, whether electronic or paper-based. This protects patients confidentiality and provides a legal record of care
+Link to National Standards
+Accurate documentation also aligns with the National Safety and Quality Health Service (NSQHS) Standards set by the Australian Commission on Safety and Quality in Health Care (ACSQHC). In particular, Standard 1 (Clinical Governance) and Standard 6 (Communicating for Safety) require clear, timely, and reliable documentation to support safe, coordinated, and effective patient care.
+
+
+===== FILE: 52 - Why documentation matters.epub =====
+Why documentation matters
+-
+-
+Vital signs provide essential information about a patient’s physiological status. When documented accurately, they support:
+Baseline indicators
+Vital signs establish a starting point for understanding a patient’s normal physiological state. Deviations from baseline can signal early deterioration or improvement.
+Trend monitoring
+Regular documentation allows nurses to identify patterns over time — rising temperature, falling blood pressure, increasing respiratory rate — all of which may indicate clinical change.
+Clinical decision‑Making
+Accurate documentation supports timely interventions, escalation, and treatment planning. Clinicians rely on these records to make safe, evidence‑based decisions.
+Communication
+Vital signs form a shared language across the healthcare team. Clear documentation ensures everyone has access to the same information, promoting continuity of care and reducing risk.
+Legal and Ethical accountability
+Documentation is a legal record of the care provided. Clear, contemporaneous entries demonstrate professional responsibility, adherence to standards, and patient advocacy.
+
+
+===== FILE: 54 - Documentation presentation.epub =====
+Documentation presentation
+-
+-
+Before you move on, it’s really important that you take the time to watch the documentation video. Everything we’ve covered in this module — all the vital signs, all the symbols, all the colour zones — only becomes meaningful when you know how to document them accurately on the SAGO chart.
+Documentation isn’t just a student task.
+It’s a core nursing skill you will use every single day of your career. Whether you’re in aged care, ED, mental health, community, or ICU, your ability to document clearly, accurately, and legally will directly impact patient safety. It’s one of the most powerful tools you have as a nurse.
+This video will show you exactly how to bring all the pieces together — how to plot, connect, interpret, and record vital signs in a way that tells the patient’s story. It will also help you prepare for your Week 7 clinical skills assessment, where you’ll be expected to demonstrate safe, confident documentation as part of your OSCE in week7
+You’ll also be practising this skill in your on‑campus labs, so the more familiar you are with the chart now, the more confident you’ll feel when you’re hands‑on with the equipment and working through scenarios.
+So take a moment, grab a your self as snack or a drink if you need one, and then watch the documentation video.
+It’s the final step in consolidating everything you’ve learned — and it will set you up for success not just in Week 7, but for your entire nursing career.
+Completed SAGO chart for documentation.pdf
+
+
+===== FILE: 55 - Wrap up.epub =====
+Wrap up
+-
+-
+Interpreting and documenting vital signs is more than a procedural task — it is a critical thinking process that underpins safe, effective nursing care. Every entry you make contributes to the patient’s clinical story, supports decision‑making, and ensures continuity of care across the healthcare team.
+Accurate documentation is a professional obligation and a cornerstone of patient safety.
+
+
+===== FILE: 56 - Topic_ Purpose and overview (1).epub =====
+Topic: Purpose and overview
+-
+-
+Being a nurse involves far more than performing clinical skills or understanding disease processes. Safe practice requires critical thinking, sound judgement, and an understanding of why we do what we do in ways that optimise quality and safety. The World Health Organization (WHO, 2017) describes patient safety as a fundamental principle of healthcare, and nurses — who spend the most time with patients — are central to protecting that safety.
+This topic introduces the essential concepts of healthcare safety and helps you understand how errors occur, how systems prevent harm, and how nurses contribute to a culture of safety. You will explore patient safety principles, the National Safety and Quality Health Service (NSQHS) Standards, human factors, the Swiss Cheese Model, and the importance of reporting errors and near misses.
+By the end of this topic, you will be able to:
+- Discuss the concepts of quality and safety in nursing practice in relation to person‑centred care.
+
+
+===== FILE: 57 - Patient safety.epub =====
+Patient safety
+-
+-
+-
+“First, do no harm” is the most fundamental principle of any health care service. Patient safety, as defined by the is primarily concerned with preventing harm to patients within the healthcare system. This encompasses three key principles: preventing errors, learning from errors when they do occur, and fostering a culture of safety involving healthcare professionals, organisations, and patients. A more detailed explanation extends the concept to "freedom from accidental or preventable injuries produced by medical care."
+Patient safety practices are those designed to reduce the risk of adverse events associated with medical care across various diagnoses and conditions. It's important to note that not all practices have been thoroughly studied for their effectiveness in harm prevention.
+The World Health Organization (WHO) characterises patient safety as a healthcare discipline that has evolved in response to the increasing complexity of healthcare systems and the rise in patient harm within healthcare facilities. Its primary aim is to prevent and mitigate risks, errors, and harm that patients may encounter during their healthcare experience. Understanding the causes behind adverse outcomes is crucial for patients and nurses to minimise harm.
+Patient safety holds immense importance because it aligns with the fundamental goal of providing the best care for patients. Achieving this involves various actions such as adhering to policies, raising concerns, critical thinking, self-reflection, and incident reporting. Incident reporting plays a significant role in improving healthcare safety and is a shared responsibility among healthcare professionals, including nurses.
+The dedication to healthcare safety is underscored by establishing Australia's National Safety and Quality Health Service Standards (NSQHS Standards). This initiative, driven by the Australian Commission on Safety and Quality in Health Care, aims to enhance patient safety and quality outcomes.
+
+
+===== FILE: 58 - Factors contributing to errors in healthcare.epub =====
+Factors contributing to errors in healthcare
+-
+-
+Factors contributing to errors in Healthcare
+Errors in healthcare are often the result of a combination of factors rather than a single cause, highlighting the need for a comprehensive approach to error prevention and patient safety.
+The Swiss Cheese Model is a risk management concept that was developed by James Reason in the 1990s and is used in various industries, including healthcare. It illustrates how multiple layers of defense, represented as slices of Swiss cheese, can have holes or vulnerabilities. When these vulnerabilities align or "line up," errors or accidents can occur, emphasising the importance of implementing multiple safeguards to prevent adverse events.
+Watch this video
+The Swiss cheese model of risk
+Errors in healthcare rarely arise from a single mistake. Instead, they occur when multiple system weaknesses align. The Swiss Cheese Model, developed by James Reason, illustrates how each layer of defence has “holes” — vulnerabilities. When these holes line up, an error can reach the patient.
+Understanding this model helps nurses recognise:
+- How system factors contribute to harm
+- Why multiple safeguards are essential
+- How communication, workload, environment, and human factors influence safety
+UNSAFE_HTML_20260509005630.html
+
+
+===== FILE: 60 - Learning from and reporting errors and near misses.epub =====
+Learning from and reporting errors and near misses
+-
+-
+Australia’s health system performs well internationally, but safety challenges remain. Learning from errors is essential for improvement. Reporting incidents — including near misses — helps identify patterns, gaps, and risks that may otherwise go unnoticed.
+Incident reporting:
+- supports system improvement
+- informs safety campaigns
+- prevents future harm
+- strengthens a culture of openness and accountability
+As a student, you will be supported when completing incident reports and guided through the process in your placement setting.
+south-australian-falls-prevention-stats(3).pdf
+Government of South Australia (2016).
+
+
+===== FILE: 62 - Activities to complete for this week.epub =====
+Activities to complete for this week
+-
+-
+Activity 1: Priority:
+Please ensure you have completed the Nursing lab safety quiz and the Student agreement and reached the 100% score for both , BEFORE coming to the labs this week or access will be denied. You can have as many attempts as needed to reach the 100%.
+Activity 2:
+Reflection of pulse measurement bring to the labs
+You are required to reflect on these two questions relating to measurement of the pulse. The purpose of this activity is to allow you to reflect on why we do what we do and this will help you to explain why you are undertaking certain measurements in the clinical assessment at the end of the module. Please bring your responses to the nursing labs this week for discussion.
+- When measuring your patients’ pulse, we ask you to assess the radial pulse. Explain the rationale for this.
+- When measuring your patients’ pulse, we ask you to use your 2-3 fingers, not your thumb. Explain the rationale for this.

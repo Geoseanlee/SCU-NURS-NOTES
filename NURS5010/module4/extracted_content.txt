@@ -1,0 +1,693 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+This module continues on with clinical nursing skills, in which you again have the opportunity to apply concepts addressed in Module 1. Think about your posture, infection prevention and how you can be culturally aware of your patient’s needs during these nursing skills. Throughout the module, we delve into essential concepts that are fundamental to patient care: skin integrity and elimination. Understanding these areas is crucial for promoting overall health and well-being in patients.
+By engaging with these written / reading / watching / listening activities here on the BB site, hands-on activities and discussions in the nursing labs, you will build a strong foundation in essential nursing skills, preparing you to provide comprehensive and compassionate care to your patients.
+Module purpose
+By the end of this module, students will be able to:
+- Analyse and apply evidence-based strategies to assess, maintain, and promote skin integrity, ensuring early identification and prevention of potential complications.
+- Explain the physiological principles underlying normal elimination and bowel care, and evaluate their implications for nursing practice.
+- Demonstrate the safe administration of a suppository for patients experiencing difficulties with defecation, in accordance with professional standards and clinical guidelines.
+- Perform the correct procedure for positioning and assisting a patient with the use of a bedpan, ensuring patient comfort, dignity, and safety throughout the process.
+
+
+===== FILE: 03 - Introduction.epub =====
+Introduction
+-
+-
+Did you know that the skin is the largest organ of your body? Did you know that it has many vital functions and accessory structures that help keep you safe? The skin is also a good indicator of when something is going wrong with a person’s health and can give you information that could help you identify any underlying disease affecting your patient. There are many ways in which the skin can alert us to minor or life-threatening issues with our patients. This is achieved by assessment, by looking, feeling, touching and smelling. But before we do the assessment, what are we looking at when we look at the skin? Some of you have covered this aspect when you undertook the anatomy and physiology unit, before this one, therefore we won’t double up on that information. For those who have not yet undertaken anatomy and physiology (A&P), we suggest that you have a look at the integumentary system, before undertaking this topic, as it will help you to understand the skin and what it does. For those who do have A&P, revision can be fun, and who knows, you may pick up on something that you have forgotten. OK, let’s move on now and see what you do remember about the Integumentary system.
+
+
+===== FILE: 04 - attachment.epub =====
+Activity 1: Drag and drop quiz - Integumentary system
+-
+-
+Instructions for Drag and Drop quiz
+Purpose: This drag and drop quiz is designed to help you review and reinforce your knowledge of Anatomy and Physiology (A&P). It’s a fun and interactive way to test what you remember from your studies.
+Instructions:
+- Read the Statements: Carefully read each statement provided in the quiz.
+- Drag and Drop: Drag the correct words or phrases from the side and drop them into the appropriate boxes to complete the statements.
+- Check Your Answers: Once you’ve completed the quiz, check your answers to see how well you did.
+- Practice Makes Perfect: Don’t worry if you get some answers wrong. You can keep practicing until you feel confident with the material.
+Rationale:
+- Reinforcement of Knowledge: This quiz helps reinforce your understanding of key concepts in A&P, ensuring that you retain important information.
+- Active Learning: Engaging in interactive activities like this quiz promotes active learning, which is more effective than passive study methods.
+- Self-Assessment: The quiz allows you to assess your own knowledge and identify areas where you may need further review.
+- Confidence Building: By practicing and improving your answers, you’ll build confidence in your understanding of A&P, which is crucial for your future nursing practice.
+- Enjoy the quiz and use it as a valuable tool to enhance your learning experience!
+
+
+===== FILE: 05 - Introduction to pressure area_skin tears.epub =====
+Introduction to pressure area/skin tears
+-
+-
+Pressure area, pressure sores, pressure ulcer, decubitus ulcer and bed sores are all commonly used terms to describe pressure injuries. A pressure injury is any injury to the skin and/or underlying structures/tissues. If pressure is placed on an area for long periods of time, or if the skin is placed under constant pressure for varying periods of time, it can result in limiting nutrients and oxygen supply to the tissues and eventually, the skin dies. Have a look at the picture, which identifies the most common areas for pressure injuries.
+The Australian Commission on Safety and Quality in Health Care (ACSQHC) has recognised pressure injuries as the fifth (5th) most commonly occurring preventable condition. It has also been identified that pressure injuries have a negative effect on the patient’s well-being, and it adds an additional financial cost to the healthcare system, with the cost of treatment for each pressure injury being around AU$98,489.22. Australian public hospitals estimated that around AU$983 million per annum is spent on factors relating to pressure injuries, which represents approximately 1.9% of all public hospital expenditure (Nguyen et al., 2015; Wilson et al., 2019).
+Earlier in the module, you looked at skin integrity and read about the functions of the skin. We will now take that further and look at how a pressure injury develops. This is an introduction to pressure injuries, as they will be covered in more depth throughout other units in your nursing studies.
+Activity: Watch these two presentations relating to pressure injuries
+The purpose of this activity is to help you understand how pressure injuries develop and what nurses can do to prevent them. By engaging with two short videos from the Australian Commission on Safety and Quality in Health Care, you will explore the key messages behind pressure injury prevention and learn practical strategies that support safe patient care.
+Task
+Step 1: Watch the two videos provided:
+- Video 1: Five Key Messages to Prevent Pressure Ulcers
+- Video 2: Reducing the Risk of Pressure Injuries
+Step 2: After watching both videos, reflect on the key ideas presented. Consider how the messages connect to what you have learned about skin integrity, risk assessment, and prevention strategies.
+The 5 key messages to prevent pressure ulcers
+UNSAFE_HTML_20260509195640.html
+Reducing the risk of pressure injuries
+This presentation is more related to patient education around pressure injuries.
+UNSAFE_HTML_20260509195641.html
+
+
+===== FILE: 06 - attachment (1).epub =====
+Activity : Read and complete the activity relating to Skin integrity in older adults
+-
+-
+Read the following article
+The following article discusses skin integrity in our older adult population. This is an excellent article that will help you to identify the importance of assessing the skin, not only of an elderly person, but also of all our patients. The benefits of reading this article are many, and these include gaining insight into the effects of aging on the skin, factors that impair skin integrity, the importance of skin integrity in our elderly population, and how to assess skin integrity. All of these are important concepts that you will need to be aware of when you start your clinical experience placements and when you transition into the role of a registered nurse.
+Skin integrity in older adults(1).pdf
+Great job reading the article!
+Now that you have read that informative article, see if you can answer these questions below. The purpose of this activity is to gauge your understanding of skin integrity and how important it is. Identifying what you have learned will also assist you in identifying where you may have a learning gap relating to this topic.
+
+
+===== FILE: 07 - Skin integrity.epub =====
+Skin integrity
+-
+-
+Intact skin refers to the presence of normal skin and the skin layers being uninterrupted by wounds. Good skin integrity is vital for good health. Intact skin acts as a barrier that helps repel microorganisms, toxins, and the sun, to name a few, from damaging the skin and allowing us to remain infection-free (Payne, 2020).
+As the skin loses some elasticity during the aging process, it is important that as nurses, you recognise the changes that occur and the maintenance that is needed to preserve skin integrity across the lifespan (Berman et al., 2021).
+Chronic illnesses can take a toll on our patients’ skin, as observed in a patient who has an impairment of the cardiovascular system, and they have issues with their circulating blood. These patients may present with shiny skin on their legs and skin that can damage easily. Additionally, for our patients who are bed-bound due to illness, their skin integrity can be damaged as a result of pressure, and they can develop what are known as pressure injuries/pressure sores/ pressure wounds.
+
+
+===== FILE: 08 - Staging pressure areas.epub =====
+Staging pressure areas
+-
+-
+Activity 5: Watch this video on the staging of pressure injuries
+Pressure injury staging can be complicated and confusing. The following video helps walk you through the various pressure injury stages. The purpose of watching this video is to help you understand the staging of pressure injuries, which is important when you are caring for your patient.
+UNSAFE_HTML_20260509195741.html
+Activity 6: Staging of pressure injuries
+We have an important task for you: Identifying the 5 Stages of Pressure Area Development and putting them in the correct order.
+Why is this important?
+- Accurate Diagnosis: Understanding and correctly identifying the stages of pressure injuries is crucial for accurate diagnosis and effective treatment planning.
+- Preventive Care: Knowing the stages helps you implement timely and appropriate interventions to prevent the progression of pressure injuries.
+- Enhanced Patient Outcomes: Proper staging and management of pressure injuries can significantly improve patient outcomes, reducing complications and promoting faster healing.
+Completing this task will deepen your understanding of pressure injuries and enhance your ability to provide high-quality care. Take your time to review the stages and ensure you can accurately identify and order them. This knowledge is essential for your development as a competent and compassionate nurse.
+
+
+===== FILE: 09 - Pressure injuries - the lived experience - a very moving video.epub =====
+Pressure injuries - the lived experience - a very moving video
+-
+-
+Activity: Watch this video about a consumer experience of a pressure injury
+We encourage you to watch the powerful video “Pressure Injuries - The Lived Experience”, which shares a consumer’s personal journey of dealing with a pressure injury. This firsthand account provides invaluable insights into the physical and emotional challenges faced by patients.
+Why is this important?
+- Empathy and Understanding: By hearing directly from someone who has experienced a pressure injury, you’ll gain a deeper understanding of the significant physical pain and emotional distress these injuries cause. This perspective is crucial for developing empathy and compassion in your nursing practice.
+- Patient-Centered Care: Watching this video will help you think critically about how you can best support your patients in preventing pressure injuries. You’ll learn about the importance of early intervention, regular assessments, and personalized care plans to mitigate the risk of pressure injuries.
+- Holistic Approach: Understanding the lived experience of pressure injuries emphasizes the need for a holistic approach to patient care. It’s not just about treating the physical wound but also addressing the emotional and psychological impact on the patient.
+Video: Pressure injuries – the lived experience
+By watching this video, you’ll be better equipped to provide comprehensive care that addresses both the physical and emotional needs of your patients, ultimately improving their quality of life and health outcomes.
+UNSAFE_HTML_20260509195848.html
+Understanding the lived experience of pressure injuries highlights why early identification is essential. The next section focuses on the practical nursing skill of skin assessment, one of the most effective ways to prevent pressure injuries from developing.
+
+
+===== FILE: 10 - Skin assessment.epub =====
+Skin assessment
+-
+-
+Purpose
+To develop your ability to recognise normal and abnormal skin findings, understand what they indicate about a patient’s health, and apply this knowledge to prevent complications such as pressure injuries.
+What is Skin Assessment?
+Skin assessment is a fundamental part of daily nursing care. It involves carefully observing the skin to identify what is normal and detecting early signs of abnormalities that may indicate underlying health issues.
+Normal skin is typically:
+- intact
+- evenly coloured
+- smooth in texture
+- free from rashes, lesions, or breaks
+Abnormal findings may include:
+- redness
+- swelling
+- discolouration
+- wounds or breaks in the skin
+- areas of warmth, hardness, or moisture
+These changes can signal problems such as pressure injuries, infection, inflammation, poor circulation, or systemic conditions like diabetes or vascular disease.
+Why Skin Assessment Matters
+Incorporating skin assessments into routine nursing care allows for early detection of issues before they become serious. For example:
+- Persistent redness may indicate pressure injury risk
+- Non‑healing wounds may suggest poor circulation or immune compromise
+- Dry, fragile skin may reflect nutritional deficiencies or dehydration
+Early recognition leads to timely intervention, preventing complications and improving patient outcomes.
+How This Links to Pressure Injury Prevention
+After viewing the consumer video, you’ve seen the real‑life impact of pressure injuries.
+Skin assessment is one of the most effective nursing actions to prevent them.
+By routinely assessing the skin, nurses can:
+- identify pressure areas early
+- implement repositioning and pressure‑relief strategies
+- escalate concerns promptly
+- protect patients from avoidable harm
+This proactive approach supports safe, patient‑centred care and strengthens your clinical reasoning.
+Quick Checklist: What to Look For During a Skin Assessment
+Skin Assessment Checklist
+When assessing a patient’s skin, look for:
+1. Colour
+- Normal: even tone, appropriate for ethnicity
+- Abnormal: redness, pallor, cyanosis, jaundice, mottling
+2. Temperature
+- Normal: warm
+- Abnormal: hot (infection/inflammation), cool (poor perfusion)
+3. Moisture
+- Normal: dry, not flaky
+- Abnormal: excessive moisture, sweating, maceration
+4. Integrity
+- Normal: intact skin
+- Abnormal: tears, cracks, blisters, open areas, wounds
+5. Texture
+- Normal: smooth, supple
+- Abnormal: rough, thin, fragile, thickened
+6. Sensation
+- Ask the patient: pain? numbness? tingling?
+- Loss of sensation increases pressure injury risk
+7. Pressure Areas
+Check bony prominences for:
+- redness
+- non‑blanching areas
+- warmth or hardness
+- early signs of pressure injury
+8. Devices & Equipment
+Look under/around:
+- oxygen tubing
+- catheters
+- splints
+- compression devices
+- dressings
+- These can cause pressure or friction injuries.
+
+
+===== FILE: 11 - Introduction to APAT and Intentional Hourly Rounding.epub =====
+Introduction to APAT and Intentional Hourly Rounding
+-
+-
+In clinical practice, nurses rely on structured assessment tools and routine safety checks to ensure patients receive consistent, high‑quality care. Two key tools that support this work are the Adult Patient Assessment Tool (APAT) and Intentional Hourly Rounding (IHR). Both play an important role in preventing patient deterioration, improving communication, and supporting safe pressure‑area care.
+Adult Patient Assessment Tool (APAT)
+The APAT is a comprehensive assessment framework that guides nurses through a systematic review of the patient’s condition. It prompts you to collect cues, interpret information, and identify risks — including those related to mobility, skin integrity, nutrition, continence, cognition, and comfort.
+Because the APAT is structured around the same principles you have already learned — clinical reasoning, person‑centred care, emotional intelligence, and reflective practice — it helps you make sense of what you see, hear, and document. When used consistently, the APAT supports early recognition of pressure‑area risk, ensuring timely interventions such as repositioning, equipment use, skin inspection, and escalation.
+Adult patient assessment tool (APAT)(1).pdfIntentional Hourly Rounding (IHR)
+Intentional Hourly Rounding is a proactive nursing practice that ensures regular, purposeful contact with every patient. During each round, nurses check the “4 Ps” (or similar framework):
+- Pain
+- Position
+- Personal needs
+- Placement of items
+This structured approach helps prevent pressure injuries by ensuring patients are repositioned regularly, supported with appropriate equipment, and assessed for discomfort or early skin changes. IHR also strengthens communication, reduces call‑bell use, and builds trust — aligning closely with the emotional intelligence and person‑centred care principles explored earlier in the module.
+Intentional hourly rounding.pdf
+How These Tools Work Together in Pressure‑Area Care
+When combined, the APAT and IHR provide nurses with a powerful safety net:
+- APAT identifies risk
+- IHR provides routine prevention
+- Both reinforce clinical reasoning, reflection, and timely action
+They help nurses deliver consistent, evidence‑based care, reduce the likelihood of pressure injuries, and ensure patients feel seen, supported, and safe.
+
+
+===== FILE: 12 - Waterlow Risk Assessment Tool.epub =====
+Waterlow Risk Assessment Tool
+-
+-
+The Waterlow Risk Assessment Tool is a widely used clinical tool designed to assess a patient’s risk of developing pressure ulcers, also known as bedsores. Developed by Judy Waterlow in 1985, this tool evaluates various factors that contribute to pressure ulcer risk, including age, sex, body mass index (BMI), skin type, continence, mobility, nutrition, and special risk factors such as existing medical conditions.
+Why is it important?
+- Early Identification: The Waterlow tool helps healthcare professionals identify patients at risk of developing pressure ulcers early, allowing for timely intervention and prevention strategies.
+- Comprehensive Assessment: By considering multiple factors, the tool provides a holistic view of the patient’s condition, ensuring that all potential risks are accounted for.
+- Guiding Interventions: The scores generated by the Waterlow tool categorise patients into different risk levels (low, moderate, high, and very high), guiding healthcare providers in implementing appropriate preventive measures, such as frequent repositioning, use of pressure-relieving devices, and enhanced skin care.
+- Improving Patient Outcomes: Regular use of the Waterlow tool in clinical practice can significantly reduce the incidence of pressure ulcers, improving patient comfort, reducing complications, and enhancing overall health outcomes.
+Understanding and utilising the Waterlow Risk Assessment Tool is essential for nurses and other healthcare professionals to provide high-quality, proactive care and prevent the development of pressure ulcers in vulnerable patients. In addition, there are various tools used in the hospital to assist with the prevention of pressure area care
+Watch: Waterlow risk assessment
+I found a helpful video that demonstrates how to use the Waterlow Risk Assessment Tool:
+- Pressure Sore Risk Assessment and Waterlow Scoring: This video provides a guide on how to use the Waterlow Risk Assessment Tool, explaining the scoring system and its application in clinical practice, and gives you a clear understanding of the tool and how to effectively assess the risk of pressure injuries in your patients, as we will be using this tool in the labs this week. While it is a UK video, it is still relevant to us.
+- There is no talking for the first minute or so in this video.
+UNSAFE_HTML_20260509200004.html
+
+
+===== FILE: 13 - Summary.epub =====
+Summary
+-
+-
+Comprehensive skin assessment is integral to safeguarding patient wellbeing, with structured tools such as pressure ulcer staging systems and the Waterlow risk assessment chart providing a systematic framework for identifying vulnerability and guiding preventative care. Having established the significance of maintaining skin integrity, we now, through the next topic, transition to the assessment of bowel function, another critical dimension of holistic patient evaluation that directly influences comfort, dignity, and clinical outcomes.
+
+
+===== FILE: 14 - Topic purpose and overview.epub =====
+Topic purpose and overview
+-
+-
+Just as a systematic skin assessment enables early recognition and prevention of complications, the assessment of bowel function is an essential component of holistic patient care.  Careful evaluation of elimination patterns informs clinical decision-making and supports patient comfort, dignity, and overall wellbeing. It also highlights the interconnected nature of body systems in nursing practice.
+Elimination of waste products is a vital part of normal body function. Bowel habits vary between individuals, and there is no single “normal” pattern—one person may have three bowel movements a day, while another may have three per week. Factors such as diet, fluid intake, activity, and medications can all influence bowel elimination. As nurses, our role is to recognise changes, support patients experiencing alterations in elimination, and provide appropriate care to maintain comfort, safety, and dignity.
+At the completion of this topic, you will be able to:
+- Explain the normal physiology of bowel elimination and factors that influence bowel function.
+- Undertake a basic assessment of bowel function, including abdominal assessment and auscultation of bowel sounds.
+- Describe safe and appropriate nursing care to support patients with bowel elimination, including maintaining comfort, dignity, and safety.
+
+
+===== FILE: 15 - Physiology of bowel elimination.epub =====
+Physiology of bowel elimination
+-
+-
+The digestive system is constantly working to break down food, absorb nutrients, and eliminate waste products. Food travels through a gastrointestinal tract approximately nine metres long, taking up to 40 hours to move through the body. Elimination of waste is a normal and essential body function that supports overall health and wellbeing. Bowel elimination refers to the removal of solid waste from the body. When considering elimination, it is important to understand the role of the gastrointestinal system, which extends from the mouth to the anus and includes the organs responsible for digestion and waste removal.
+Although elimination is a natural process, bowel habits vary between individuals. Differences in frequency, consistency, and ease of elimination are influenced by a range of factors and should always be considered within the context of what is normal for that person.
+Activity:
+Watch this short animated video on how the bowel functions in relation to elimination.
+While we are all familiar with the concept of elimination, this video will help deepen your understanding of how the process occurs within the body and support your learning for clinical practice.
+UNSAFE_HTML_20260509200142.html
+
+
+===== FILE: 16 - Factors affecting elimination.epub =====
+Factors affecting elimination
+-
+-
+Bowel elimination is a normal and essential body function that helps remove waste and maintain overall health. It can be influenced by a variety of factors, such as age, diet, physical activity, medications, and everyday routines.
+You have likely experienced changes in bowel habits, such as diarrhoea or constipation, at some point in your life. While these are often short-term, some people experience ongoing or chronic changes that can affect fluid balance, comfort, and skin integrity.
+As a nurse, understanding what is normal and recognising when something has changed is an important part of patient care. This knowledge allows you to support your patients, identify potential concerns early, and provide education to promote healthy elimination.
+Activity: Video - Factors that affect elimination
+In this video, you will learn about the factors that can influence bowel elimination. Understanding these factors will help you ask relevant questions about your patient’s health, recognise changes in their bowel habits, and guide your assessment. Assessing elimination is an important part of nursing care. While it may not always be the most glamorous task, it plays a key role in maintaining patient comfort, safety, and overall health.
+When you have watched the video, choose one (1) of the discussed factors, and go to the BB discussion board and discuss the type of patient education that you would provide to the patient, based on the related factor.
+https://www.canva.com/design/DAF1UHvCOnI/CT_7WT2ennLkR8OuK3iB8A/view?utm_content=DAF1UHvCOnI&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
+
+===== FILE: 17 - Abdominal assessment.epub =====
+Abdominal assessment
+-
+-
+Purpose
+To introduce you to the fundamentals of abdominal assessment, with a focus on auscultating bowel sounds. This skill helps you identify normal and abnormal gastrointestinal function and supports safe decision‑making when caring for patients with altered elimination.
+Why We Assess the Abdomen in Elimination Care
+When a patient reports changes in bowel habits, discomfort, or altered elimination, abdominal assessment provides important clues about what is happening in the digestive tract. For this week, we are focusing specifically on bowel sounds, which help us understand gastrointestinal motility.
+You will build on this foundation in NURS2004: Foundations of Health Assessment, where you will learn the full abdominal assessment sequence.
+How we auscultate the abdomen: Focusing on bowel sounds
+The evaluation of our patient’s digestive system includes listening to your patients bowel sounds. While generally you would undertake an abdominal assessment, for the purpose of this week, we will be primarily concentrating on the evaluation of bowel sounds.
+After obtaining the patient’s history regarding elimination, the following step is to listen to the bowel noises in order to gather additional information about what is occurring in the lower digestive tract. It is best to address the patient’s discomfort first if they are complaining of it so that when you auscultate the abdomen, you will have a better idea of what is going on.
+When auscultating the abdomen, we split it into four (4) quadrants by drawing an imaginary line across the middle, both above and downward, as shown below: left upper quadrant, left lower quadrant, right upper quadrant, and right lower quadrant. This is done because it gives a more comprehensive picture of the abdomen. Some will segment it into nine regions, but for the purposes of this article, we’ll stick with the four-region arrangement.
+Below is a simple guide to help you understand the key steps involved in auscultating bowel sounds
+1. Start with the Patient’s History
+Before listening to bowel sounds, ask about:
+- usual bowel habits
+- recent changes
+- pain or discomfort
+- diet and fluid intake
+- medications
+If the patient is in pain, address this first — it will help you interpret what you hear.
+2. Quadrants of the Abdomen
+For assessment, the abdomen is divided into four quadrants:
+- Right Upper Quadrant (RUQ)
+- Right Lower Quadrant (RLQ)
+- Left Upper Quadrant (LUQ)
+- Left Lower Quadrant (LLQ)
+This helps you systematically compare findings and identify where abnormalities occur.
+https://medlineplus.gov/ency/images/ency/fullsize/19578.jpg
+3. Why We Auscultate Before Palpation
+Palpation can stimulate or alter bowel activity.
+Listening first ensures you are hearing the bowel’s natural activity.
+4. How to Auscultate
+- Begin in the Right Lower Quadrant (RLQ)
+- Move clockwise through all four quadrants
+- Listen long enough to determine if sounds are present, absent, or abnormal
+- Be aware that bowel sounds may be harder to hear in patients with a thicker abdominal wall
+5. What Normal Bowel Sounds Sound Like
+Normal bowel sounds are:
+- high‑pitched
+- gurgling
+- irregular
+- occurring every 5–15 seconds
+They may be louder if the patient is hungry.
+6. Abnormal Bowel Sounds
+These sounds can indicate underlying pathology:
+- Bruits – swishing over major arteries (vascular narrowing or aneurysm)
+- Pops/tinkles – high‑pitched sounds suggesting early obstruction
+- Rushes – high‑pitched sounds with cramping (obstruction)
+- Borborygmi – loud, hyperactive sounds (hunger or hypermotility)
+- Rubs – grating sounds (peritoneal inflammation)
+- Venous hum – soft humming (portal hypertension)
+- Decreased/absent sounds – peritonitis or paralytic ileus
+This focused assessment helps you recognise early signs of altered gastrointestinal function and supports safe, evidence‑based care, and guide further assessment and escalation.
+Next Step: Watch the Video
+The following video demonstrates how to auscultate the abdomen and what different bowel sounds may indicate. As you watch, focus on:
+- where the stethoscope is placed
+- how long the clinician listens
+- how normal and abnormal sounds differ
+- how quadrant findings relate to elimination concerns
+Auscultating the abdomen
+
+
+===== FILE: 18 - Assessment of bowel sounds.epub =====
+Assessment of bowel sounds
+-
+-
+Assessment of bowel elimination is an important component of nursing care. As part of the admission process, nurses gather information about a patient’s usual bowel habits, patterns, and any recent changes. It is important to recognise that some patients may feel uncomfortable discussing bowel habits. As a nurse, your role is to create a safe, respectful, and non-judgemental environment to support open communication and reduce feelings of embarrassment or shame.
+Assessment is typically guided by structured questions within the admission process, helping you to gather relevant information and develop an appropriate plan of care. In this week’s nursing labs, you will explore an admission form and identify the types of questions used to assess bowel elimination.
+
+
+===== FILE: 19 - Assisting with bowel elimination (including suppository administration).epub =====
+Assisting with bowel elimination (including suppository administration)
+-
+-
+Purpose
+Assisting with bowel elimination is an important aspect of nursing care, particularly for patients who are unwell, immobile, or unable to use the toilet independently. Nursing care in this area focuses on supporting safe elimination while maintaining patient comfort, dignity, and privacy. This may include helping patients use a bedpan, ensuring proper positioning, and providing hygiene care following elimination.
+As a nurse, it is essential to combine clinical skill with sensitivity, recognising that patients may feel embarrassed or uncomfortable. Providing reassurance, maintaining a respectful approach, and protecting the patient’s dignity all contribute to a positive and safe care experience.
+General Assistance Strategies
+Supporting a patient with bowel elimination involves a combination of practical skills, communication, and sensitivity. As a nurse, your role is to promote comfort, dignity, and safety while helping the patient meet a basic physiological need.
+Key strategies include:
+- Positioning for effective elimination
+- Ensure the patient is in the most natural and comfortable position possible. For patients in bed, raising the head of the bed and supporting the knees can help mimic a seated posture and promote bowel movement.
+- Providing privacy and reassurance
+- Close curtains, shut doors, and explain what you are doing. Many patients feel embarrassed, so a calm, respectful approach helps reduce anxiety.
+- Using appropriate equipment
+- Assist with bedpans, commodes, or urinals as needed. Check that the equipment is warm, stable, and positioned correctly to prevent spills or discomfort.
+- Supporting hygiene and comfort
+- After elimination, assist with perineal hygiene, apply barrier creams if required, and ensure the patient is dry and comfortable.
+- Encouraging mobility and fluids (if appropriate)
+- Gentle movement, walking, or repositioning can stimulate bowel activity. Adequate hydration also supports normal elimination.
+- Observing and reporting changes
+- Note stool characteristics (colour, consistency, amount), patient discomfort, or difficulty eliminating. These observations help guide further assessment
+When a suppository may be needed
+Suppositories are one of several interventions used to support bowel elimination when more conservative measures are not effective. They should always be used with clinical reasoning and patient consent.
+Indications
+A suppository may be considered when a patient has:
+- constipation that has not responded to diet, fluids, or mobility
+- difficulty initiating a bowel movement
+- reduced mobility or neurological conditions affecting bowel function
+- the need to clear the rectum before a procedure
+- discomfort or straining that requires relief
+When nurses might consider or prepare for one
+Nurses may prepare for suppository administration when:
+- the patient reports ongoing constipation or discomfort
+- bowel sounds are present but elimination is not occurring
+- the patient is on medications known to slow bowel motility
+- the medical officer has prescribed a suppository
+- conservative strategies (positioning, fluids, mobility) have been attempted
+Before proceeding, always check the medication chart, confirm the indication, and explain the procedure to the patient.
+What the patient might experience
+Patients may feel:
+- mild pressure or fullness in the rectum
+- a sensation of needing to open their bowels
+- slight embarrassment or discomfort due to the intimate nature of the procedure
+Reassurance, clear communication, and maintaining dignity are essential.
+Safety considerations
+- Ensure the patient has no contraindications, such as rectal bleeding, recent rectal surgery, or severe haemorrhoids.
+- Use gloves and appropriate infection control measures.
+- Insert the suppository gently to avoid trauma.
+- Allow the patient time and privacy to retain the suppository long enough for it to work.
+- Monitor for discomfort, dizziness, or vagal responses (rare but possible).
+Escalation or documentation
+After administration, document:
+- the type and dose of suppository
+- the time given
+- the patient’s tolerance of the procedure
+- the outcome (e.g., bowel movement, stool characteristics, no effect)
+- any concerns or abnormal findings
+Escalate to the RN or medical officer if:
+- the patient experiences severe pain
+- there is rectal bleeding
+- the suppository is ineffective after a reasonable timeframe
+- the patient’s condition deteriorates
+Administering a suppository
+Suppository insertion is a common method used to support bowel elimination, particularly for patients who are unable to defecate independently or who have constipation that has not responded to more conservative measures. Suppositories are solid medications inserted into the rectum, where they dissolve and release their active ingredients to stimulate bowel movements. Because the medication acts directly on the rectal area, this method can be effective and fast‑acting.
+Suppositories may be used for patients who are immobile, recovering from surgery, or experiencing constipation related to reduced mobility, medications, or illness. Proper insertion technique is essential to ensure the suppository is placed correctly, works effectively, and is comfortable for the patient. Understanding this procedure helps nurses support safe, dignified, and effective elimination care.
+Watch: Suppository Insertion
+This video demonstrates the correct technique for administering a suppository and provides step‑by‑step guidance to help you understand the procedure. Watching it will build your confidence and prepare you for hands‑on practice in the nursing labs.
+Pay attention to:
+- how the nurse explains the procedure
+- positioning and privacy
+- insertion technique
+- communication and reassurance
+- safety and infection control
+This is an essential skill that you will continue to develop throughout your nursing practice.
+OSCE prep: Inserting a Suppository
+
+
+===== FILE: 20 - Safety considerations and documentation.epub =====
+Safety considerations and documentation
+-
+-
+Safety Considerations
+When administering a suppository, patient safety and comfort must always guide your actions. Key considerations include:
+- Check for contraindications
+- Avoid suppository use in patients with rectal bleeding, recent rectal surgery, severe haemorrhoids, or suspected bowel obstruction unless specifically directed.
+- Maintain infection control
+- Use gloves, hand hygiene, and appropriate PPE. Ensure the environment is clean and private.
+- Protect patient dignity
+- Provide clear explanations, maintain privacy, and use draping to minimise exposure.
+- Use gentle technique
+- Insert the suppository slowly and carefully to avoid discomfort or rectal trauma.
+- Monitor the patient
+- Observe for pain, dizziness, or signs of a vagal response. Stay nearby if the patient is frail or unsteady.
+- Support retention
+- Encourage the patient to retain the suppository for the recommended time to allow it to dissolve and act effectively.
+Documentation
+Accurate documentation ensures continuity of care and supports safe clinical decision‑making. After administering a suppository, record:
+- the type, dose, and time of administration
+- the indication for use
+- the patient’s tolerance of the procedure
+- the outcome, including whether a bowel movement occurred and stool characteristics
+- any abnormal findings, such as pain, bleeding, or no effect
+- any escalation or communication with the RN or medical officer
+Clear documentation helps the healthcare team evaluate the effectiveness of the intervention and plan further care.
+
+
+===== FILE: 21 - Summary (1).epub =====
+Summary
+-
+-
+Assessment of bowel function provides important insights into a patient’s health, helping to identify patterns or changes that may indicate underlying conditions and guide appropriate care. Supporting patients with bowel elimination is an essential part of nursing practice, requiring clinical skill, sensitivity, and respect for dignity.
+With this foundation in place, we now move to urinary elimination and the skills required to support patients safely and respectfully.
+
+
+===== FILE: 23 - Topic overview and purpose.epub =====
+Topic overview and purpose
+-
+-
+Urinary elimination is a fundamental aspect of nursing care that provides important insights into a patient’s fluid balance, kidney function, and overall health. In this topic, you will develop an understanding of how to assess urinary elimination and safely assist patients with toileting needs. This includes supporting patients with the use of a urinal and bedpan, while maintaining comfort, dignity, and infection prevention principles.
+These skills are essential for promoting patient wellbeing, recognising changes in condition, and providing safe, person-centred care in clinical practice.
+Learning Objectives
+Keep them simple and actionable:
+By the end of this topic, you should be able to:
+- Describe factors that influence urinary elimination and recognise normal and abnormal findings.
+- Demonstrate safe and respectful techniques for assisting patients with urinary elimination using a urinal and bedpan.
+
+
+===== FILE: 24 - Understanding urinary elimination.epub =====
+Understanding urinary elimination
+-
+-
+What is urinary elimination?
+Urinary elimination is the process by which the body removes liquid waste (urine) through the urinary system. It helps maintain fluid balance, electrolyte levels, and waste removal.
+Anatomy of the urinary system
+The urinary system includes:
+- Kidneys – filter blood and produce urine
+- Ureters – carry urine from kidneys to bladder
+- Bladder – stores urine
+- Urethra – allows urine to exit the bod
+How urine is formed
+Urine formation occurs in three main steps:
+- Filtration – blood is filtered in the kidneys
+- Reabsorption – useful substances (water, glucose, electrolytes) are reabsorbed
+- Secretion – additional wastes are added to urine
+Normal characteristics of urine
+Healthy urine typically has:
+- Colour: pale yellow to amber
+- Clarity: clear
+- Odour: mild
+- Output: ~1000–2000 mL/day (varies with intake)
+Normal characteristics of urine
+Healthy urine typically has:
+- Colour: pale yellow to amber
+- Clarity: clear
+- Odour: mild
+- Output: ~1000–2000 mL/day (varies with intake)
+
+
+===== FILE: 26 - Common urinary problems and their signs & symptoms.epub =====
+Common urinary problems and their signs & symptoms
+-
+-
+Urinary retention – inability to empty the bladder
+Description: The bladder fills but does not empty completely, or cannot empty at all.
+Signs and symptoms:
+- Feeling of fullness or pressure in the lower abdomen
+- Difficulty starting urination
+- Weak or intermittent urine stream
+- Dribbling after voiding
+- Discomfort or pain
+- Distended bladder on palpation
+- Frequent small voids or inability to void at all
+Urinary incontinence – loss of bladder control
+Description: Involuntary leakage of urine due to weakened pelvic muscles, neurological issues, or other causes.
+Signs and symptoms:
+- Leakage when coughing, laughing, sneezing, or lifting
+- Sudden, strong urge to urinate
+- Frequent urination
+- Bedwetting or nighttime leakage
+- Skin irritation from moisture
+Dysuria – pain when urinating
+Description: Painful or uncomfortable urination, often caused by infection or inflammation.
+Signs and symptoms:
+- Burning or stinging sensation during urination
+- Pain in the urethra or lower abdomen
+- Increased urgency or frequency
+- Cloudy or foul‑smelling urine
+- Possible blood in urine
+Polyuria – excessive urine output
+Description: Producing abnormally large volumes of urine (often >3 L/day).
+Signs and symptoms:
+- Frequent urination
+- Large volumes each time
+- Increased thirst
+- Possible dehydration if fluid intake doesn’t match output
+- Fatigue
+Oliguria – low urine output
+Description: Reduced urine production (typically <400 mL/day in adults).
+Signs and symptoms:
+- Very small amounts of urine
+- Dark, concentrated urine
+- Fluid retention (swelling, weight gain)
+- Signs of dehydration
+- Possible confusion or lethargy if severe
+Urinary tract infection (UTI)
+Description: Infection of the urinary system, commonly the bladder (cystitis) or urethra.
+Signs and symptoms:
+- Burning or pain when urinating
+- Urgency and frequency
+- Lower abdominal or pelvic pain
+- Cloudy, foul‑smelling, or bloody urine
+- Fever or chills (if infection ascends to kidneys)
+- Confusion in older adults
+Activity: In clinical practice, UTIs are one of the most frequently encountered infections. Nurses play a key role in early recognition and management. As you watch this video, think about the signs, symptoms, and risk factors you may need to assess in your patients.
+Urinary Tract Infections, Animation.
+
+
+===== FILE: 28 - Assessment of urinary elimination.epub =====
+Assessment of urinary elimination
+-
+-
+Assessment of urinary elimination is an important component of nursing care and provides valuable insight into a patient’s fluid balance, kidney function, and overall health. As part of your assessment, you will consider the patient’s usual urinary patterns, including frequency, volume, and any recent changes. You should also observe the colour, clarity, and odour of urine, as well as any associated symptoms such as pain, urgency, or difficulty voiding.
+Urinary assessment also contributes to understanding a patient’s fluid balance. Changes in urinary patterns—such as decreased output, increased frequency, or altered appearance—may indicate an imbalance in fluid status or underlying health concerns. For patients experiencing changes from their normal pattern, ongoing monitoring of urine output supports timely clinical decision‑making.
+It is important to recognise that some patients may feel uncomfortable discussing urinary concerns. As a nurse, you play a key role in creating a respectful and supportive environment to encourage open communication and accurate assessment.
+Key Assessment Components
+Subjective history
+Review the patient’s medical and surgical history, medications, and fluid intake. Ask about usual urinary patterns, and document the onset, frequency, and severity of any symptoms.
+Urine output
+Normal adult urine output is approximately 1,500 mL per day, or 0.5–1.5 mL/kg/hour. Output less than 30 mL/hour is considered low and requires prompt clinical attention.
+Urine characteristics
+Normal urine is typically clear and light in colour. Document any changes in colour (e.g., haematuria), clarity (e.g., cloudy), or odour, as these may indicate underlying conditions.
+Symptom assessment
+Identify symptoms such as:
+- Dysuria (painful urination)
+- Nocturia (urinating at night)
+- Polyuria (increased urine output)
+- Oliguria (reduced output)
+- Anuria (absence of urine)
+Bladder diary (when appropriate)
+A bladder diary may be used to record urinary frequency, volume, and episodes of leakage over a 24-hour period to support assessment and care planning.
+
+
+===== FILE: 29 - Assisting with urinary elimination - bed pan.epub =====
+Assisting with urinary elimination - bed pan
+-
+-
+In many clinical settings, patients may be unable to walk to the bathroom due to surgery, illness, injury, or reduced mobility. In these situations, nurses assist with urinary elimination using a bedpan.
+NOTE: This section focuses on assisting with urinary elimination using a bedpan
+This is a fundamental nursing skill that supports patient dignity, comfort, and safety, and requires careful preparation and communication.
+Why this skill matters
+- Maintains dignity and autonomy
+- Timely and respectful support helps patients feel in control and preserves their sense of self.
+- Prevents complications
+- Immobility and delayed toileting can lead to urinary retention, infection, or pressure injuries.
+- Supports clinical assessment
+- Observing elimination patterns and patient comfort provides important information for care planning.
+- Promotes recovery
+- Supporting regular elimination contributes to overall comfort, hydration, and wellbeing.
+Preparing for the procedure
+Before assisting, ensure that:
+- The patient is positioned safely (e.g. semi‑Fowler’s, knees slightly bent)
+- Appropriate manual handling techniques are used to protect both the patient and yourself
+- Hand hygiene is performed and gloves are applied
+- The bedpan is clean, dry, and, where possible, warmed for patient comfort
+Maintaining privacy and dignity
+- Explain the procedure clearly and respectfully
+- Provide privacy by closing curtains or doors
+- Maintain patient coverage with a sheet or blanket
+- Ensure the call bell is within reach and step away if appropriate
+Communication considerations
+- Use respectful, inclusive language (e.g. “Would you like assistance with the bedpan?”)
+- Check for comfort, pain, or positioning needs
+- Be attentive to patient preferences and timing where possible
+Aftercare and documentation
+- Dispose of waste safely according to infection control guidelines
+- Perform hand hygiene
+- Document:
+- Urine characteristics (colour, clarity, volume if appropriate)
+- Patient comfort and tolerance
+- Any abnormalities (e.g. pain, blood, incontinence)
+
+
+===== FILE: 30 - Assisting a Male Patient with a Urinal.epub =====
+Assisting a Male Patient with a Urinal
+-
+-
+Assisting with urinary elimination is an important part of nursing care, particularly for patients who are unable to mobilise independently. One common method is assisting a male patient to use a urinal. Assisting with urinary elimination is an essential nursing skill that combines technical competence with respectful, patient‑centred care.
+This skill supports patient dignity, promotes comfort, and enables accurate measurement of urinary output, which is essential for monitoring fluid balance and overall health.
+Why this skill matters
+- Maintains dignity and comfort
+- Providing timely assistance helps preserve patient independence and reduces discomfort.
+- Supports fluid balance monitoring
+- Accurate measurement of urine output contributes to clinical assessment and decision-making.
+- Promotes safety
+- Reduces the risk of falls in patients who may attempt to mobilise unsafely to the bathroom.
+Preparing for the procedure
+Before assisting:
+- Perform hand hygiene and gather equipment:
+- Clean urinal
+- Gloves
+- Barrier (e.g. towel or pad)
+- Knock, gain consent, and introduce yourself
+- Identify the patient correctly
+- Explain the procedure clearly
+- Provide privacy (close curtains or door)
+Assisting with urinal use
+- Position the patient
+- Assist into a comfortable position (e.g. sitting upright, semi‑Fowler’s, or standing if appropriate)
+- Apply gloves and prepare
+- Place a protective barrier if needed
+- Position the urinal correctly
+- Gently position the urinal so it fits securely
+- Ensure it is held upright to prevent leakage
+- Provide privacy
+- Step away or turn aside if appropriate, allowing the patient time to void without feeling rushed
+Post‑void care
+- Check if the patient has finished
+- Carefully remove the urinal to avoid spills
+- Assist with hygiene as needed
+- Ensure the patient is comfortable and safe
+- Empty urine according to facility policy
+- Clean and store equipment appropriately
+- Remove gloves and perform hand hygiene
+Documentation
+- Record:
+- Volume of urine (if measured)
+- Colour, clarity, and any abnormalities
+- Time of voiding
+- Patient comfort and any concerns
+- f blood)
+- Document the time and patient response
+Horta Reis Da Silva, T. (2024). Urinary incontinence: Implications for nursing practice. British Journal of Nursing, 33(21), 1032–1037. https://doi.org/10.12968/bjon.2024.33.21.1032
+
+
+===== FILE: 31 - Summary (3).epub =====
+Summary
+-
+-
+Assisting with elimination is a fundamental aspect of nursing care that supports patient dignity, comfort, and overall health. This module has highlighted the nurse’s role in recognising normal and abnormal patterns of bowel and bladder function, providing appropriate assistance, and maintaining privacy and respect throughout the process.
+It has also emphasised the importance of infection control practices, safe use of equipment, and accurate documentation to support clinical decision‑making.
+By combining compassion with technical skill, nurses can help prevent complications such as constipation, incontinence, and urinary tract infections, while promoting patient independence wherever possible. Ultimately, assisting with elimination reinforces the nurse’s responsibility to deliver holistic, patient‑centred care that protects both physical wellbeing and emotional dignity.
+
+
+===== FILE: 32 - Module Summary.epub =====
+Module Summary
+-
+-
+Across this module we have examined three interconnected dimensions of patient care: maintaining skin integrity, assessing bowel function, and assisting with elimination. Together, these areas highlight the nurse’s role in safeguarding comfort, dignity, and physiological stability through systematic assessment and compassionate intervention. By integrating these practices, we reinforce a holistic approach to care that not only prevents complications but also promotes wellbeing and professional accountability in every clinical encounter.
+The next module will continue this focus on holistic patient care, turning to personal hygiene and bed making as further essential aspects of nursing practice.

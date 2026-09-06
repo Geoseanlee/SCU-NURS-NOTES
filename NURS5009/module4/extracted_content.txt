@@ -1,0 +1,358 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+This module explores the unique health needs of individuals during the middle years of life and equips nurses with the knowledge to deliver comprehensive and person-centred care. Main topics include into women and men's health, stress, coping, and health perceptions, as well as addressing the prevalent issue of Intimate Partner Violence (IPV).
+Module purpose
+By the end of this module, you will be able to:
+- Critically analyse the diverse interpretations of health in the middle years.
+- Demonstrate an advanced understanding of developmental milestones in the middle years, focusing on women's and men's health.
+- Apply adaptation and change concepts to explore challenges in the middle years, encompassing stress, coping, health perceptions, and Intimate Partner Violence (IPV)
+
+
+===== FILE: 02 - Introduction.epub =====
+Introduction
+-
+-
+From a developmental standpoint, the middle years, also known as middle adulthood or midlife, denote the phase occurring after young adulthood and preceding late adulthood. This period typically spans 20 to 40 years, contingent on cultural definitions of stages, ages, and tasks. While the conventional chronological age range for middle adulthood is 40 to 65, a flexible span of up to 10 years (ages 30-75) exists beyond these parameters.
+Characterised by its complexity, this life stage involves continual negotiation and renegotiation across three fundamental dimensions of human existence:
+- Physical,
+- Psychological, and
+- Social.
+Subjective aging
+Life span and life course psychologists are particularly intrigued by how individuals perceive and assess their aging and associate themselves with an age group. Subjective age, a complex construct, denotes the perceived age and age category to which individuals assign themselves (Westerhof & Wurm, 2018). Beyond early adulthood, most people feel younger than their actual age, and this gap widens over time. Individuals over 40 report feeling approximately 20% younger than their chronological age (Pinquart & Wahl, 2021). Evaluating individuals' satisfaction with their aging experience provides insight into the evaluative aspect of age identity. While certain aspects of age identity may be positively regarded, such as gaining seniority or becoming a grandparent, others may be devalued depending on societal norms. The perceived physical age, representing one's appearance in the mirror, requires significant self-adjustment in social and cultural contexts, emphasising youthful bodies. Feeling young and content with one's aging process indicates positive self-perceptions of aging, showcasing self-related processes contributing to enhanced well-being. Studies reveal that individuals who positively adapt to and embrace changes in appearance and physical capabilities report higher well-being, improved health, and increased longevity.
+In developmental psychology, there is a growing acknowledgment that relying solely on chronological age is inappropriate. Individuals harbour distinct expectations about aging, shaped by their unique perspectives and internalised societal beliefs, collectively forming a tacit understanding of the aging process. A negative perception of the aging experience can tangibly affect life expectancy and overall health. Research estimates suggest that individuals with positive attitudes toward aging tend to live longer than those with negative perspectives. Subjective aging encompasses a broad spectrum of psychological viewpoints and empirical investigations. Presently, a burgeoning body of research focuses on a concept known as Awareness of Age-Related Change (AARC), which scrutinises the impact of subjective perceptions of age and their tangible consequences. Studies indicate that this subjective awareness is susceptible to daily fluctuations, and adverse events or comments may disproportionately influence individuals with a particularly positive outlook on aging.
+
+
+===== FILE: 03 - Levinson theory of development.epub =====
+Levinson theory of development
+-
+-
+Levinson (1986) defined five primary stages within his developmental theory, each delineating unique periods marked by specific psychological and social challenges. The theory attempts to explain life course, life cycle, life structure, and adult development during early and middle adulthood.
+
+
+===== FILE: 04 - Middle adulthood mini lecture (18 mins long).epub =====
+Middle adulthood mini lecture (18 mins long)
+-
+-
+This first activity in this topic requires you to watch the mini-lecture that provides valuable insights into middle adulthood. While the content is for Developmental Psychology subject, it is very appropriate as it focuses on nursing students.
+Pay particular attention to the following content covered in the mini-lecture:
+- Biological Changes in Adulthood
+- Appearance
+- Osteoporosis
+- Reproductive changes
+- Stress
+- Practical Intelligence
+- Cystral intelligence
+- The Five-factor Model
+- Erickson's Seventh phase
+- Midlife correction
+- The sandwich generation
+- The Phillip Barry obligation
+- Grandparents
+UNSAFE_HTML_20260519094035.html
+
+
+===== FILE: 05 - Erikson's 8 stages of psychosocial development.epub =====
+Erikson's 8 stages of psychosocial development
+-
+-
+Erikson's theory is based on what is known as the epigenetic principle. This principle suggests that people grow in a sequence that occurs over time and in the context of a larger community.
+The figure below illustrates the stages of Erikson's psychosocial theory.
+Credit: Verywell / Joshua Seong
+Erickson's 7th phase of psychosocial development
+The mini-lecture above focuses on Erickson's 7th phase of psychosocial development. One of the conflicts that occurs during this phase is Generativity vs. Stagnation.
+Most middle-aged adults derive considerable satisfaction from guiding their children and other young individuals toward becoming productive and responsible adults. Additionally, this phase often involves assisting aging parents, a responsibility especially pronounced in certain cultures, particularly among women, daughters, and daughters-in-law. Effectively utilising leisure time in fulfilling and creative ways poses a challenge for some and is a vital necessity for others. When successfully met, the creative pursuit of activities beyond employment allows middle-aged adults to lay the groundwork for a productive and rewarding retirement.
+Generativity involves the concern for establishing and guiding the next generation. It includes activities such as parenting, mentoring, and contributing to the well-being of society. Erikson believed that during this stage, individuals experience a need to create and nurture things that will outlast them, often taking the form of raising children, contributing to society, or mentoring others.
+On the other hand, stagnation occurs when individuals fail to find ways to contribute and create a legacy. They may feel unproductive, stuck, and unfulfilled in their lives. This can result in a sense of purposelessness, dissatisfaction with one's accomplishments, and an overall lack of satisfaction during middle adulthood.
+Activity: Generativity vs stagnation
+In your future role as a nurse, how can understanding the Generativity vs. Stagnation conflict influence your approach to patient care and interactions with individuals in different stages of their lives, particularly those experiencing challenges related to this psychosocial developmental stage?
+
+
+===== FILE: 06 - Physical assessment in the middle-aged adult.epub =====
+Physical assessment in the middle-aged adult
+-
+-
+Regular physical assessments in middle adulthood are important during this life stage to allow for the early identification of health deviations and risk factors. This proactive approach enables nurses to implement targeted interventions, offer health education, and collaborate with individuals to formulate personalised care plans, promoting holistic well-being during the middle years.
+Physical assessment in the middle-aged adult
+Body system
+Findings
+Body system
+Findings
+Integument
+- Intact condition
+- Appropriate distribution of pigmentation
+- slight, progressive decrease in skin turgor
+- Greying and loss of hair (baldness patterns in males are established by age 55; hair loss after this time might have other causes)
+Vital signs
+- Temperature: 36.7°C to 37.6°C
+- Pulse: 60–100 (conditioned athlete < 50)
+- Blood pressure: 95–140/60–90 mmHg
+- Respirations: 12–20 breaths per minute
+- All pulses palpable
+Head and neck
+- Symmetry of scalp, skull and face
+- Normal accessory organs of vision
+Breasts
+- Decreased size resulting from decreased muscle mass
+- Normal nipples
+Eyes
+- Visual acuity by the Snellen chart is less than 20/50
+- Pupillary reaction to light and accommodation
+- Normal visual fields and extraocular movements
+- Normal retinal structures
+Abdomen
+- No tenderness or organomegaly
+- Decreased strength of abdominal muscles
+Ears
+- Normal auditory structures and acuity
+Female reproductive system
+- Change in menstrual cycle, and in duration and quality of menstrual flow
+- 'Hot flushes'
+- Change in cervical mucosa
+Nose, sinuses and throat
+- Patent nares and intact sinuses, mouth and pharynx
+- Location of the trachea at the midline
+- Non-palpable lateral thyroid lobes
+Male reproductive system
+- Normal penis and scrotum
+- Prostatic enlargement in some individuals
+Thorax and lungs
+- Increased anteroposterior diameter
+- Respiratory rate 16–20 breaths per minute and regular
+- Ratio of respiratory rate to heart rate: 1: 4
+- Normal tactile fremitus, resonance and breath sounds
+Musculoskeletal system
+- Decreased muscle mass
+- Decreased range of joint motion
+Heart and vascular system
+- Normal heart sounds
+- Systole: S1 less than S2 at base
+- Diastole: S1 greater than S2 at apex
+- Point of maximal impulse: at the fifth intercostal space in the midclavicular line and 2 cm or less in diameter
+Neurological system
+- Appropriate affect, appearance and behaviour
+- Lucidity and an appropriate level of cognitive ability
+- Intact cranial nerves
+- Adequate motor responses
+- Responsive sensory system
+Activity: Exploring physical assessment in middle-aged adults
+The aim of this activity is to enhance your understanding of physical assessment considerations in middle-aged adults and reflect on their implications for nursing practice.
+Read the content in the table above listing physical assessment considerations in middle-aged adults, paying attention to the specific areas of assessment, potential findings, and implications for nursing care.
+Reflect on the following questions:
+- What are the key physical assessment areas highlighted in the table for middle-aged adults?
+- How do these assessments contribute to individuals' overall health and well-being in this life stage?
+- Consider the implications for nursing practice. How can nurses use this information to provide comprehensive care to middle-aged adults?
+- Reflect on potential challenges or sensitivities related to physical assessments and how nurses can address them.
+Come prepared to discuss your responses during the Week 4 face-to-face tutorial.
+
+
+===== FILE: 07 - Physical changes in middle adulthood.epub =====
+Physical changes in middle adulthood
+-
+-
+The middle years signify a significant transition, ushering in physiological decline and mortality onset. While acute illnesses in middle adulthood mirror those of young adulthood, the recuperative processes slow with age, potentially prolonging recovery from injuries and acute conditions.
+Emerging health concerns characterise this life stage, including cardiovascular issues, metabolic changes, and musculoskeletal conditions. Both men and women in middle adulthood grapple with adapting their self-concept and body image to physiological realities, navigating shifts in physical appearance, and responding to societal pressures and values, much like they did during adolescence and youth.
+Use the interactive image below to find the hot spot to identify important changes in middle adulthood.
+
+
+===== FILE: 08 - attachment.epub =====
+Focus on cultural care: Menopause
+-
+-
+Understanding women's perspectives on menopause and its impact is crucial for implementing effective illness prevention and health promotion strategies during perimenopause. Women employ diverse approaches, including traditional, complementary, Western, and spiritual practices, to address menopausal issues. Many opt for a combination of strategies, either focusing on issue management or preventive measures. Delivering culturally competent nursing care necessitates providing culturally appropriate interventions.
+Watch
+Let's watch a video featuring Dr. Wen Shen, a menopause specialist and Assistant Professor in the Johns Hopkins Medicine Department of Gynecology and Obstetrics, who serves as the clinical director of the Menopause Consultation service and Co-Director of the Women's Wellness & Healthy Aging Program.
+UNSAFE_HTML_20260509080039.html
+Also watch these videos about menopause:
+UNSAFE_HTML_20260515095947.html
+UNSAFE_HTML_20260515100021.html
+Reflective exercise: Perceptions of menopause
+In Western societies, perceptions of menopause have been dominated by biophysical changes and medical treatments that potentially minimise symptoms and reduce the risk of other disorders that may increase in likelihood following menopause. However, perceptions of menopause, its symptoms and challenges vary greatly between different cultures and ethnic groups.
+How can healthcare professionals set aside cultural biases and personal imperatives when listening to women's concerns about menopause, ensuring a supportive and empathetic approach?
+
+
+===== FILE: 09 - Psychosocial development in midlife.epub =====
+Psychosocial development in midlife
+-
+-
+Topic 3 focuses on exploring midlife adults' challenges, such as balancing work and family obligations amid the physical and psychological changes associated with aging. We will also explore various strategies nurses can employ to assist middle-aged adults in navigating and mitigating these challenges effectively.
+Psychosocial development in midlife
+Midlife is a complex phase of psychosocial development characterised by a myriad of changes in various domains of life, including career, relationships, and personal identity. One intriguing aspect of this period is the paradox of aging, a phenomenon that challenges conventional assumptions about happiness and life satisfaction across different stages.
+Research suggests that individuals experience fluctuations in reported levels of happiness and depressive symptoms during midlife. Surprisingly, men tend to reach a peak of unhappiness and depressive symptoms in their early 50s, while women may encounter this peak in their late 30s (Blanchflower & Oswald,2008). This gender discrepancy underscores the diverse psychosocial challenges that individuals face during midlife, influenced by factors such as societal expectations, biological changes, and evolving personal goals.
+A distinct pattern emerges in Western cultures, with minimum reported happiness occurring around the mid-40s for both men and women (Baird, Lucas & Donnellan, 2010). However, noteworthy differences exist, highlighting the importance of cultural and contextual factors in shaping individuals' subjective well-being during midlife. This diversity in experiences underlines the need for a nuanced understanding of psychosocial development that considers not only age but also cultural, social, and individual contexts.
+A compelling finding in psychosocial development is the reported reduction in perceived stress among men in their early 50s. This decline in stress levels suggests that individuals may undergo a transformative period of reassessment and adaptation, leading to a more positive outlook on life. This shift in perception challenges the stereotypical notion of midlife as a crisis and suggests that it can be a period of growth and resilience.
+The paradox of aging becomes evident in the notion that older individuals, typically those aged 50 and above, may paradoxically be happier than younger people despite facing cognitive and functional losses. This perspective challenges ageist stereotypes and encourages a more optimistic view of aging. Positive attitudes toward cognitive and behavioural activities, sustained interpersonal engagement, and the recognised impact on human neural plasticity may contribute to increased life satisfaction and continued communal involvement.
+Ultimately, understanding psychosocial development in midlife requires an appreciation of individual experiences and acknowledging the influence of various factors such as gender, culture, and personal resilience. The paradox of aging challenges preconceived notions about happiness across the lifespan, emphasising the potential for positive transformation and continued fulfilment during the midlife years and beyond.
+
+
+===== FILE: 10 - Activity_ Margie Lachman (2004) article.epub =====
+Activity: Margie Lachman (2004) article
+-
+-
+Activity: Margie Lachman (2004)
+Let's start by reading this article by Margie Lachman (2004), which provides a comprehensive overview of the challenges facing midlife adults, outlining the roles and responsibilities of those entering the "afternoon of life". These include:
+- Losing parents and experiencing associated grief.
+- Launching children into their own lives.
+- Adjusting to home life without children (often referred to as the empty nest).
+- Dealing with adult children who return to live at home (known as Boomerang children).
+- Becoming grandparents.
+- Preparing for late adulthood.
+- Acting as caregivers for aging parents or spouses.
+Activity: Quiz based on Margie Lachman (2004) article
+Take the following quiz to showcase your understanding of the topics discussed in the that you read in the previous activity: Lachman, M. E. (2004). Development in midlife. Annual Review of Psychology., 55, 305-331.
+Keys issues in adulthood
+Let us examine specific factors that can potentially induce stress during the middle-age stage. Please click on each heading to expand and explore the nuances of these stress-inducing factors:
+
+
+===== FILE: 11 - Internal and external stressors.epub =====
+Internal and external stressors
+-
+-
+Watch: What is the difference between internal and external causes of stress?
+Watch this video, which briefly explains the distinction between internal and external stressors, and proceed to the next activity.
+UNSAFE_HTML_20260515100731.html
+Activity: Quiz
+Evaluate your understanding of internal and external stressors by categorising the following as either internal or external stressors by cometing the Quiz below:
+Reflection activity: ED presentation
+Priya is a 48-year-old married woman and the mother of two sons, aged 13,16 and a daughter who is 8 months old. Recently, she has had to assume responsibility for the care of her 78-year-old mother, Lakshmi, who suffered a stroke while visiting Australia from her home country. Priya presents to the local hospital emergency department experiencing breathlessness and expressing high levels of stress.
+Identify and explain the internal and external stressors in Paulina's situation. Additionally, describe your role as a nurse and how you would assist Paulina in caring for herself and her mother.
+Come prepared to discuss your responses during this week's tutorial.
+
+
+===== FILE: 12 - Intersection of growth and decline in midlife.epub =====
+Intersection of growth and decline in midlife
+-
+-
+Despite the historically positive perception of midlife, contemporary views often characterise it as a stressful period marked by crisis, influenced by writings from the 1960s and 1970s that focused on the challenges rather than the successes of those in middle age.
+In contrast to the prevailing positive outlook on old age, midlife is frequently depicted as unfavourable, with little consideration given to the significant consequences of poor functioning during this period, affecting those who interact with or depend on individuals in midlife. Depression and stress peak in the middle years, particularly for those facing financial strain, and midlife exhibits a higher suicide rate compared to other age groups. It is crucial to address the mental health needs of individuals in midlife while examining potential variations based on socioeconomic status, cohort, race, or gender.
+Adopting a lifespan perspective underscores the dynamic nature of change, recognising both gains and losses at every age. Midlife, positioned at the intersection of growth and decline pathways, represents a pivotal period characterised by a shift towards the maintenance and stability of functioning within a multidimensional, multisystem view, as depicted below:
+Figure from Lachman, M. E., Teshale, S., & Agrigoroaei, S. (2015)
+Interventions for stress reduction
+Throughout life, individuals, including those in middle age, encounter various stressors. The initial step in addressing stress is to identify these stressors, paving the way for targeted interventions to modify the stress response. Here are three categories of specific interventions for stress reduction:
+Addressing stress-Inducing situations:
+- Collaboratively discuss stressors with the client and offer coping strategies.
+- Identifying approaches to prevent stressful situations, such as habituation, change-avoidance, time blocking, time management, and environmental modification.
+Enhancing psycho-physiological preparedness:
+- Initiating measures to boost stress resistance, such as enhancing self-esteem, improving assertiveness, exploring alternative goals, and adjusting cognitive appraisal.
+Managing physiological stress responses:
+- Suggest techniques to avoid or mitigate physiological stress responses, including relaxation techniques, imagery, and biofeedback.
+- Guiding community services that offer stress reduction programs.
+- These interventions effectively empower individuals to navigate and cope with stressors at different levels, promoting overall well-being.
+
+
+===== FILE: 13 - Introduction (1).epub =====
+Introduction
+-
+-
+Family violence refers to violence between family members, while domestic violence refers to violence between intimate partners ( former or current) and is the most common type of violence in families.
+Domestic violence is also called ‘intimate partner violence’ which can can involve sexual violence, physical violence, emotional abuse, psychological abuse, economic abuse, threats and coercion.
+Family, domestic and sexual violence is a major health and welfare issue not only in Australia, but globally. Unfortunately, violence in families mainly affects women and children.
+How common is domestic violence globally?
+According to the World Health Organisation (WHO, 2021), gender inequality and norms on the acceptability of violence against women are a root cause of violence against women.
+Globally, the WHO has reported that 1 in 3 women has experienced violence from their husband or partner.
+How common is domestic violence in Australia?
+Unfortunately Domestic Violence Family and domestic violence is not uncommon in Australia.
+Around 1 in 6 women (17.3%) and 1 in 16 men (6.1%) in Australia report having experienced physical or sexual violence from a partner since the age of 15.
+At these prevalence rates, more than 1.7 million women and 580,000 men in Australia will have experienced partner violence.
+The incidence of recent FDV in Australia is highest among younger cohorts, with around 75,000 women aged 25 to 34 (3.9% of their cohort) having experienced partner violence over a two-year period.
+For men, the share is highest among those aged 35 to 44, with 42,900 (2.7%) having experienced partner violence in the last two years, as per the Australian Bureau of Statistics
+Figure 4 below shows the types and incidence of DV currently reported in Australia.
+Figure 4: Incidence of Domestic Violence in Australia (AIHW, 2023)
+The alarming news:
+- On average, one woman a week is murdered by her current or former partner (AIC, 2023)
+- Almost 10 women a day are hospitalised for assault injuries perpetrated by a spouse or domestic partner (AIHW, 2023)
+Who are most at risk?
+- Indigenous people are 32 times more likely to be hospitalised for family violence as non-Indigenous people
+- Australian Institute of Health and Welfare
+- People with disability are 1.8 times as likely to have experienced physical and/or sexual violence from a partner compared with people without disability
+- pregnant women
+
+
+===== FILE: 14 - Video watch and quiz.epub =====
+Video watch and quiz
+-
+-
+Watch: WHO video
+One in three women worldwide will encounter physical and/or sexual violence from a partner or non-partner. This violence leads to various short- and long-term health consequences. The health system serves as a crucial resource for women who have experienced violence, providing services and support for their physical and mental health needs. Watch the video below from the WHO on Violence against women.
+UNSAFE_HTML_20260509082315.html
+Attitudes to gender equality and violence
+Watch
+Now watch this video below on Attitudes to Gender Equality and Violence.
+Have you heard these statements before? Any others?
+They are all statements that males and females might make that represent attitudes of gender equality and violence.
+Think about statements like “Give her another drink, and she's all yours”, even though a person cannot give consent when intoxicated.
+UNSAFE_HTML_20260509082440.html
+
+
+===== FILE: 15 - Activity_ WHO video quiz; Starting the conversation reflection.epub =====
+Activity: WHO video quiz; Starting the conversation reflection
+-
+-
+Activity: WHO video watch and quiz
+Complete the following quiz to test your knowledge of domestic violence.
+undefined
+Domestic violence: Starting the conversation
+Watch
+Starting the conversation about family violence can be challenging, yet it is a vital skill for healthcare professionals. This video has some strategies that may be helpful.
+UNSAFE_HTML_20260509082622.html
+Reflection
+If you were a practice nurse, what skills would you need to start this conversation?
+
+
+===== FILE: 17 - Screening domestic violence in the community.epub =====
+Screening domestic violence in the community
+-
+-
+The purpose of screening for domestic and family violence is to help identify those at risk (often early in the life of the violence), the opportunities for support and provide effective responses to people experiencing domestic and family violence.
+Research has suggested that early identification and intervention strategies in health care are beneficial in providing assistance and education to promote awareness of DV for people. It is important to establish a safe and collaborative environment in order to assess and screen effectively.
+It has been noted that abused women are more likely to use healthcare services than non-abused women. Importantly, evidence has also shown that victims of DV identify that the professionals they would most trust to disclose abuse are healthcare workers. Domestic Violence Screening can be undertaken in Primary Health care (community) and in secondary care ( hospital).
+In this unit, we will focus on DV screening in the community. Nurses have an important role to play in their work in community settings, to assist women (and their children) who are victims of abuse/violence in a domestic situation. Screening people for domestic violence can be undertaken by community nurses, doctors and allied health workers. Nurses may work in various community settings such as General Practice, Sexual Health Clinics, Antenatal clinics, nurse-led clinics, outreach clinics, and many more.
+Understanding how to respond to women who are experiencing DV will depend on training and experience. The key elements are to:
+- Respond to the disclosure of abuse or potential abuse
+- identify abuse
+- Provide support and refer people experiencing violence to further specialist support
+It is important to note that each state in Australia has separate guidelines for responding to and referring people who are victims of DV; however, assessment screening is systematic.
+Screening women for domestic violence
+Review the following slides to help your understanding of screening women for DV.
+undefined
+
+
+===== FILE: 18 - Assessment 2 preparation; Tutorials 4 required reading.epub =====
+Assessment 2 preparation; Tutorials 4 required reading
+-
+-
+Assessment 2: Preparation Activity
+This information was at the end of Module 3. Placed here again as a reminder to do before week 4 tutorials:
+For Weeks 3, 4 and 5, you must identify a peer-reviewed article published within the last 10 years (2016-2026) that are relevant to the Australian healthcare context and directly relates to the content of the respective week's module and aligns with Unit learning outcomes 1, 3, and 4. This activity requires you to access the SCU Library resources and database to search for appropriate articles. You can use a Documentation Tool to write a 300- 350-word critical reflection summarising the article's content, its relevance to the learning outcomes, and your student's personal insights and analysis. In Week 6, you must submit a Critical review as outlined in the Assessment 2 descriptor. You need to follow APA 7th style of references as per SCU Library referencing guides. If the Documentation Tool causes any stress or technical difficulties, you may complete your reflection using familiar programs like Word. The intent behind the documentation tool is merely to serve as a prompt, reminding you to undertake this activity after each module while this information is still fresh in your mind.
+Step 1: Identify a peer-reviewed article published within last ten (10) years (2016- 2026) directly relevant to the Australian healthcare contex, this weeks Module content and Unit learning outcomes 1,3 and 4.
+Step 2: Explore the SCU Library for resources supporting nursing students including Searching the Literature in Health Videos.
+Step 3:  Write a 300- 350-word critical reflection summarising the article's content, its relevance to the learning outcomes, and your personal insights and analysis on how this information will inform your nursing career.
+Required reading for Tutorials 4 and 5
+This information was at the end of Module 3. Placed here again as a reminder to read before week 4 tutorials, if you have not already read the article:
+Please read, download or print this article before the Tutorials 4 and 5 to ensure a thorough understanding of the topics to be discussed.
+Tribble 2023 A Multidisciplinary Collabor(3).pdf
+Tribble, E., & Stewart, D. (2023). A Multidisciplinary Collaboration to Reduce Vaping in Adolescents. Pediatric Nursing, 49(5).
+
+
+===== FILE: 19 - Summary.epub =====
+Summary
+-
+-
+This module's goal is to provide an understanding of the health experiences of individuals in their middle years and to critically analyse diverse perspectives on health during the middle years, exhibit an advanced comprehension of developmental milestones specific to women and men. Key focal points include:
+- women's and men's health
+- stress management
+- coping mechanisms
+- Intimate Partner Violence (IPV)
+References
+Al-Qutob, R. (2001). Menopause-associated problems: types and magnitude. A study in Ain Al Basha area, Jordan. Journal of Advanced Nursing, 33(5), 613.
+Baird, B. M., Lucas, R. E., & Donnellan, M. B. (2010). Life satisfaction across the lifespan: Findings from two nationally representative panel studies. Social Indicators Research, 99, 183-203.
+Blanchflower, D. G., & Oswald, A. J. (2008). Is well-being U-shaped over the life cycle? Social science & medicine, 66(8), 1733-1749.
+Chirawatkul, S., Patanasri, K., & Koochiayasit, C. (2002). Perceptions about menopause and health practices among women in northeast Thailand. Nursing & Health Sciences, 4, 113.
+Lachman, M. E. (2004). Development in midlife. Annual Review of Psychology, 55, 305-331.
+Lachman, M. E., Teshale, S., & Agrigoroaei, S. (2015). Midlife as a pivotal period in the life course: Balancing growth and decline at the crossroads of youth and old age. International journal of behavioral development, 39(1), 20-31.
+Levinson, D. J. (1986). A conception of adult development. American Psychologist, 41(1), 3–13. doi:10.1037/0003-066X.41.1.3.
+National Multicultural Advisory Council. (1999). Australian multiculturalism for a new century: toward inclusiveness. Canberra: AGPS.
+Pinquart, M., & Wahl, H. W. (2021). Subjective age from childhood to advanced old age: A meta-analysis. Psychology and Aging, 36(3), 394.
+Tsao, L-I. (2002). Relieving discomforts: the help-seeking experiences of Chinese perimenopausal women in Taiwan. Journal of Advanced Nursing, 39(6), 580.
+Westerhof, G. J., & Wurm, S. (2018). Subjective aging and health. In Oxford research encyclopedia of psychology.

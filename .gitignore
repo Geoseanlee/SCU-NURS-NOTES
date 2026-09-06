@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Temporary files & extracts
+_tmp_extract/
+.tmp_extract/
+tmp_extract_m3.py
+tmp_extract_m3.txt
+
+# Credentials & environment (Security)
+.env
+.env.*
+*.pem
+*.key
+gpg.config

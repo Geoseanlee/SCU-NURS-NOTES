@@ -1,0 +1,299 @@
+===== FILE: 01 - Overview.epub =====
+Overview
+-
+-
+In this module, we begin exploring the essential foundations of nursing practice through hydration, nutrition, fluid balance, and documentation. Hydration and nutrition are central to maintaining patient health, supporting recovery, and preventing complications. Nurses play a critical role in assessing intake, recognising deficits, and promoting safe, evidence‑based interventions.
+We also introduce fluid balance and fluid balance charting, where accurate measurement of intake and output provides vital information about a patient’s physiological status. Precision in charting is not only a clinical skill but also a professional responsibility, ensuring continuity of care and supporting clinical decision‑making. Documentation underpins all of these practices, reinforcing accountability, communication, and patient safety.
+In the labs, we’ll use paper charts for practice, but the real focus is on understanding the process and developing your competence. When you’re on your Work Integrated Learning (WIL) placement, you’ll use electronic systems for documentation. By learning the principles now, you’ll be ready to adapt easily and confidently in the clinical environment.
+This is your opportunity to build practical skills that directly impact patient outcomes. Every technique you learn here brings you one step closer to becoming the kind of nurse who delivers exceptional care.
+Furthermore, fluid balance and accurate charting are essential aspects of your Week 7 clinical assessment, emphasising the importance of mastering this skill in your learning journey.
+Module objectives
+At the completion of this module you will be able to:
+- discuss the importance of maintaining homeostasis within the body
+- discuss the importance of documentation in nursing
+- identify the various ways of supporting the patients' nutritional needs
+- discuss the importance of maintaining an accurate fluid balance chart
+- competently complete fluid balance charting
+
+
+===== FILE: 02 - Introduction.epub =====
+Introduction
+-
+-
+You’ve probably heard the saying, “You are what you eat.” There’s truth in that. The food and fluids we consume provide the fuel our bodies need to function, heal, and stay healthy. When we don’t give the body the right fuel, things start to break down — just like putting the wrong fuel in a car. If you filled a petrol engine with diesel, it wouldn’t run properly. The same applies to the human body: too much of the wrong foods, or not enough of the right ones, can lead to obesity, cardiovascular disease, undernourishment, and other health issues.
+Hydration works the same way. The body relies on fluids to regulate temperature, transport nutrients, remove waste, and keep every system running smoothly. Without adequate hydration, even simple tasks become harder, and recovery slows.
+So how do nutrition and hydration work together, and why are they so important in nursing care? By the end of this module, you’ll understand how these two fundamentals support homeostasis, influence patient outcomes, and guide the decisions you make as a nurse.
+Basic concepts of nutrition
+Nutrition provides the body with the energy and building blocks it needs to function, heal, and stay healthy. The key nutrients — carbohydrates, proteins, fats, vitamins, and minerals — each play a specific role in maintaining homeostasis. When patients are unwell, their nutritional needs often change, and understanding these needs helps nurses support recovery.
+Reading
+The reading below introduces the essential nutrients and explains why the body needs them. As you work through it, consider how illness, surgery, or chronic conditions can affect a patient’s nutritional status and how nurses can help promote a balanced diet.
+https://wtcs.pressbooks.pub/nursingfundamentals/chapter/14-2-nutrition-basic-concepts/
+Please read from the beginning of the chapter down to “Factors Affecting Nutrition” only.
+Factors affecting nutrition
+Many factors influence a person’s ability to meet their nutritional needs, including physical health, emotional wellbeing, cultural preferences, socioeconomic status, and access to food. Understanding these influences helps nurses provide person‑centred care and tailor nutritional support to each patient.
+Nutrition can be affected by a variety of factors, from health to environment to lifestyle factors. Lets have a look at some:
+
+
+===== FILE: 04 - Factors affecting nutrition.epub =====
+Factors affecting nutrition
+-
+-
+Many factors influence a person’s ability to meet their nutritional needs, including physical health, emotional wellbeing, cultural preferences, socioeconomic status, and access to food. Understanding these influences helps nurses provide person‑centred care and tailor nutritional support to each patient.
+Nutrition can be affected by a variety of factors, from health to environment to lifestyle factors. Lets have a look at some:
+
+
+===== FILE: 06 - Undertaking a nutritional assessment.epub =====
+Undertaking a nutritional assessment
+-
+-
+Undertaking a nutritional assessment
+A nutritional assessment helps nurses identify whether a patient is receiving adequate nutrition or is at risk of malnutrition. This assessment includes reviewing dietary intake, medical history, physical signs, and relevant laboratory results.
+Early identification of nutritional issues allows for timely intervention, supports healing, and helps prevent complications. Nutritional assessments are especially important for patients recovering from illness or surgery, or those living with chronic conditions such as diabetes or cardiovascular disease.
+By understanding a patient’s nutritional needs — including cultural preferences, values, and beliefs — nurses can provide personalised, respectful, and effective care.
+Activity: Watch this video on how to undertake a nutritional assessment
+Check out this video on nutritional assessment for nurses. It covers essential techniques and strategies to effectively assess your patients' nutritional status. By watching this video, you'll gain practical insights and deepen your understanding of the critical role nutrition plays in patient care.
+Throughout the video, you'll learn how to collect and interpret dietary information, recognise signs of malnutrition, and tailor your interventions to meet individual patient needs. Engaging with this content will enhance your ability to conduct thorough assessments and provide high-quality, personalised care to your patients. Enjoy and happy learning!
+UNSAFE_HTML_20260509193747.html
+Providing nutritional support
+Nurses play a key role in ensuring patients receive adequate nutrition to support healing and maintain health. For patients who can eat and drink normally, this includes monitoring intake, encouraging balanced meals, and addressing barriers such as poor appetite or swallowing difficulties.
+When oral intake isn’t possible, alternative methods such as nasogastric tubes (NGT) or percutaneous endoscopic gastrostomy (PEG) tubes may be used. These methods deliver nutrition directly to the stomach and ensure patients continue to receive essential nutrients.
+Understanding both oral and alternative feeding methods allows nurses to provide safe, holistic care that meets each patient’s individual needs.
+
+
+===== FILE: 08 - Alternative methods of nutrition.epub =====
+Alternative methods of nutrition
+-
+-
+Nurses play a key role in ensuring patients receive adequate nutrition to support healing and maintain health. For patients who can eat and drink normally, this includes monitoring intake, encouraging balanced meals, and addressing barriers such as poor appetite or swallowing difficulties.
+When oral intake isn’t possible, alternative methods such as nasogastric tubes (NGT) or percutaneous endoscopic gastrostomy (PEG) tubes may be used. These methods deliver nutrition directly to the stomach and ensure patients continue to receive essential nutrients.
+Understanding both oral and alternative feeding methods allows nurses to provide safe, holistic care that meets each patient’s individual needs.
+Alternative methods nutrition
+Not every patient can safely eat or absorb nutrients through the mouth.
+When this happens, we need to provide nutrition using an alternative route. There are several options, but the ones you’ll most often see during your Work Integrated Learning (WIL) placement are:
+- Nasogastric Tube (NGT)
+- Percutaneous Endoscopic Gastrostomy (PEG)
+Let’s explore these methods and what makes each unique.
+
+
+===== FILE: 09 - Activities.epub =====
+Activities
+-
+-
+Activity: Find the missing word
+"Find the Missing Word" is an engaging exercise designed to help students reinforce their knowledge in a fun and interactive way. In this activity, you will be presented with a number of identified words and a grid made up of many scrambled letters. Your task is to identify words, within the grid, drawing on your understanding of the subject matter.
+This exercise not only promotes active recall and reinforces learning but also adds an element of challenge and enjoyment. By turning revision into a game, we are hoping that you will be more likely to stay motivated and retain information effectively. It’s a playful yet powerful tool for solidifying knowledge and boosting confidence. Good luck and enjoy!
+Activity 2.4. Find a word(2).pdf
+Activity: Read the following article by the Clinical Excellence Committee, NSW
+Proper nutrition and hydration are vital for maintaining the health and well-being of elderly individuals. These factors play a crucial role in recovery from illness, maintaining independence, and preventing hospital readmissions. The article by the Clinical Excellence Committee, NSW, provides practical advice and strategies to help caregivers ensure that older adults receive adequate nutrition and hydration, highlighting the importance of these practices in promoting overall health and quality of life.
+By reading this article, students will gain valuable insights into the challenges and solutions related to elderly nutrition and hydration, enhancing their ability to provide comprehensive and compassionate care to this vulnerable population.
+Nutrition-and-Hydration-Eating-Well-to-Prevent-Falls.pdf
+Activity: Complete the following questions relating to the article you have just read
+
+
+===== FILE: 10 - Summary.epub =====
+Summary
+-
+-
+Understanding a patient’s nutritional status — and knowing how to assess it — is a key part of providing safe, person‑centred care.
+Now that we’ve explored how the body takes in fuel, it’s time to look at how the body uses and regulates that fuel through fluid balance. Hydration doesn’t exist in isolation; it directly influences how well the body maintains homeostasis.
+So how do we know if a patient is hydrated, dehydrated, or retaining fluid? What happens when this balance is disrupted? And what clues should nurses look for?
+Let’s move into the next topic: Fluid Balance, where we’ll explore these questions and build on the foundations you’ve just learned.
+
+
+===== FILE: 11 - Topic purpose and overview.epub =====
+Topic purpose and overview
+-
+-
+Body fluids consist of water and dissolved substances such as electrolytes and gases. Because fluid makes up most of the human body, maintaining fluid balance is essential for health. Almost every organ contributes to regulating this balance, and disruptions can quickly lead to deterioration. Understanding how the body manages fluids — and how nurses assess and document these changes — is a fundamental part of safe nursing practice.
+At the completion of this topic, you will be able to:
+- Describe the functions of body fluids
+- Describe the function, regulation, sources and losses of fluid, within the body
+- Accurately assess and document a patients fluid balance
+Glossary and clinical relevance for fluid balance
+This glossary provides clear definitions of key concepts essential for understanding fluid balance and hydration in nursing practice. Reviewing these terms will strengthen your theoretical knowledge and support accurate application in clinical settings. Refer to this glossary before your lab sessions to build confidence and ensure you’re prepared to apply these concepts effectively.
+Glossary_with_Clinical_Relevance - Module 3.pdf
+The role of fluid balance within the body
+We often hear that we should drink 2–3 litres of water a day, but the real reason goes deeper than “staying healthy.” The body must maintain homeostasis — a balance between fluid intake and output — to support metabolic processes, temperature regulation, circulation, and cellular function. In this topic, we explore how the body maintains this balance, how fluids move between compartments, and how electrolytes work alongside water to keep the body functioning.
+
+
+===== FILE: 13 - Homeostasis.epub =====
+Homeostasis
+-
+-
+Homeostasis refers to the body’s ability to maintain a stable internal environment despite external changes. This requires constant adjustments by body systems to stay within a normal range (the “set point”). Understanding homeostasis helps nurses recognise when fluid balance is disrupted and why early intervention is essential.
+Activity 1
+Watching this brief video will help you understand the process of homeostasis and why it is important for health. The video uses the likeness of homeostasis to a fish tank.
+UNSAFE_HTML_20260509194113.html
+Activity 2: Activity related to homeostasis video
+Once you have watched the video relating to homeostasis, complete this activity, to show your understanding of the concept.
+
+
+===== FILE: 14 - Water balance within the body.epub =====
+Water balance within the body
+-
+-
+Fluid and electrolyte balance means that each body compartment contains the right amount of water and electrolytes for normal function. Nurses must understand where fluids are located, how they shift, and what happens when these shifts become abnormal. This knowledge supports safe assessment and early recognition of fluid imbalance.
+Activity 3: Watch this video
+Once you have watched the homeostasis video, this one about maintaining an equal water balance in the body, should further help you understand the difference between too little and too much water, which will help when you are caring for a patient who has an alteration in input or output.
+UNSAFE_HTML_20260509194224.html
+Fluid management in hospitalised patients
+Many hospitalised patients cannot regulate their own hydration due to illness, surgery, or impaired consciousness. When oral intake is inadequate, intravenous (IV) fluids may be required to restore balance. While you will learn more about IV therapy later in your degree, it is important to understand that dehydration, bleeding, burns, and surgical recovery often require careful fluid replacement.
+Assessment of fluid balance in the patient
+Assessing fluid balance is a core nursing skill. At a student level, this includes:
+- History taking: recent illness, surgery, medications, vomiting, diarrhoea, or chronic conditions
+- Physical assessment: skin turgor, mucous membranes, oedema, vital signs
+- Daily weights: the most sensitive indicator of fluid changes
+- Intake and output monitoring: oral, IV, urine, vomit, drains
+- Laboratory results: electrolytes, BUN, creatinine, haematocrit
+- Observation of symptoms: thirst, dizziness, fatigue, breathlessness
+Accurate documentation on a fluid balance chart transforms these observations into actionable data for clinical decision‑making.
+
+
+===== FILE: 15 - Alterations in fluid balance.epub =====
+Alterations in fluid balance
+-
+-
+Fluid imbalances can occur when the body retains too much fluid or loses too much. Conditions such as heart failure, kidney disease, liver disease, vomiting, diarrhoea, burns, and endocrine disorders can all disrupt fluid regulation. These imbalances affect cardiovascular stability, renal function, and cellular health, making early recognition essential.
+Common conditions and fluid balance
+Conditions Leading to Fluid Overload
+Heart Failure:
+Reduced cardiac output causes the body to retain fluid, leading to oedema and shortness of breath.
+Example: A 72‑year‑old with chronic heart failure presents with swollen ankles and breathlessness. Their fluid balance chart shows a positive balance, and diuretics are prescribed.
+Renal Impairment
+When the kidneys cannot excrete fluid effectively, hypervolemia can occur.
+Example: A patient with stage 4 kidney disease has generalised oedema and high blood pressure. Strict intake/output monitoring and fluid restriction are required.
+Liver Disease:
+Reduced protein synthesis and portal hypertension can cause ascites and peripheral oedema.
+Reduced protein synthesis and portal hypertension can cause ascites and peripheral oedema. Example: A patient with cirrhosis develops abdominal distension. Nursing care includes monitoring abdominal girth and administering diuretics as ordered.
+Conditions Leading to Fluid Deficit
+Gastrointestinal Disorders:
+Vomiting and diarrhoea can rapidly deplete fluids and electrolytes.
+Example: A child with gastroenteritis shows dry mucous membranes and tachycardia. Oral rehydration therapy is commenced.
+Burns
+Damage to the skin causes significant fluid loss and shifts into injured tissues.
+Example: A patient with 30% burns requires aggressive fluid resuscitation to prevent hypovolemic shock.
+Endocrine Disorders:
+Diabetes insipidus causes excessive fluid loss, while SIADH leads to inappropriate fluid retention.
+Example: A patient with diabetes insipidus presents with polyuria and intense thirst. Monitoring urine output and administering prescribed desmopressin are key interventions.
+Why this matters for nursing practice
+Fluid imbalances affect cardiovascular stability, kidney function, and cellular health. Early recognition — through assessment, daily weights, and accurate fluid balance charting — is essential for preventing complications and supporting recovery.
+
+
+===== FILE: 16 - Summary (1).epub =====
+Summary
+-
+-
+In this topic, we explored how the body maintains fluid balance through careful regulation of intake and output. You learned how to assess hydration status, recognise imbalances, and understand the clinical implications of fluid shifts. Accurate observation and documentation are essential to safeguarding patient wellbeing and preventing complications.
+Now that you understand what to look for, we move to how to record it. Our next focus is fluid balance charting, where precise documentation supports continuity of care, clinical decision‑making, and professional accountability.
+References for Fluid balance
+Please find the references, in the link below, for fluid balnce, used in this module.
+APA7_Reference_List FB - Module 3(1).pdf
+
+
+===== FILE: 17 - Importance of fluid balance documentation.epub =====
+Importance of fluid balance documentation
+-
+-
+Accurate fluid balance documentation is essential for safe, high‑quality nursing care. Fluid charts provide a clear record of a patient’s intake and output, allowing healthcare teams to identify trends, recognise early signs of deterioration, and make informed clinical decisions. When documentation is incomplete or inaccurate, the risk of dehydration, fluid overload, misdiagnosis, and treatment delays increases.
+In Australia, nurses are professionally and legally required to document clinical observations—including fluid balance—in a timely, clear, and truthful manner. These records support interprofessional communication, continuity of care, and compliance with national safety and quality standards. They also contribute to auditing, quality improvement, and evaluation of nursing performance.
+Effective documentation is more than a task—it is a critical component of patient safety, professional accountability, and evidence‑based practice.
+Accurate fluid balance documentation is essential for effective communication in nursing care. Because many healthcare professionals contribute to a patient’s treatment, fluid balance charts—whether paper‑based or electronic—serve as a shared reference point. When intake and output are not recorded clearly or consistently, communication breaks down, increasing the risk of dehydration, fluid overload, misdiagnosis, and preventable harm.
+Fluid balance charts provide written evidence of observations, interventions, and reassessments. They reflect the patient’s physiological status and can highlight early signs of deterioration or improvement. These records also support communication between nurses, doctors, allied health staff, patients, and families, ensuring continuity and safety in care.
+The NSQHS Communicating for Safety Standard (Action 6.11) requires that critical information, reassessment outcomes, and changes to care plans are documented contemporaneously. Fluid balance charts directly support these requirements, reinforcing their role as both a clinical and communication tool in multidisciplinary practice.
+Australian Commission on Safety and Quality in Health Care. (2021). National Safety and Quality Health Service Standards (2nd ed.). ACSQHC. https://www.safetyandquality.gov.au
+Documenting fluid balance: Legal requirements and professional accountability
+Accurate fluid balance documentation is not only a clinical responsibility—it is a legal and professional obligation. Every entry forms part of the patient’s permanent healthcare record and must be truthful, complete, and recorded at the time of observation. Inadequate or delayed documentation can compromise patient safety and expose practitioners to legal scrutiny.
+Fluid balance charts are considered legal documents. They must reflect the nurse’s assessment, reasoning, and actions across all stages of care. Poor documentation can interrupt continuity of care and contribute to adverse outcomes such as dehydration, fluid overload, or medication errors.
+Electronic medical records (EMRs) are now widely used, but the shift to digital systems does not reduce the nurse’s accountability. Each entry must still be accurate, timely, and aligned with organisational policies.
+Link for Documentation of information
+https://www.safetyandquality.gov.au/standards/nsqhs-standards/communicating-safety-standard/documentation-information
+
+
+===== FILE: 18 - Types of documentation.epub =====
+Types of documentation
+-
+-
+Documentation can be paper-based, electronic or a mix of both. It can also take a number of forms, including the care plan, handover notes, checklists, pathology results, operation reports and discharge summaries. All organisations are required to have in place systems to ensure the essential information about a persons care is documented in the healthcare record (NSQHS, n.d)
+You will be introduced to the various types of documentation for nursing notes in upcoming units, however, for this unit we are going to focus on the following types of documentation
+- fluid balance charting
+- vital signs charting (covered in module 2)
+Fluid balance charting
+Hospitalised patients are at increased risk of fluid balance disorders, and many ofthese can be prevented with accurate monitoring. Fluid balance charting is a fundamental nursing skill that supports safe, evidence-based care by guiding fluid prescriptions and evaluating the effectiveness of interventions such as diuretics.
+Fluid balance refers to the difference between fluid intake and output over a 24-hour period.  It helps clinicians determine whether a parient's fluid status is positive, negative or balanced. For this unit, the focus is on oral intake and measurable output such as urine, vomit and liquid stool.
+Although fluid balance charts are widely used, research shows that errors in documentation, such as incomplete calculations, are common  (Leinum et al., 2023). Accurate, timely recording is essential to support clinical decision-maling and maintain patient safety.
+Fluid balance documentation (1).mp4
+Activity: Presentation relating to fluid balance charting
+Learning Preparation: Fluid Balance Documentation
+To support your understanding of accurate fluid balance documentation, please watch the presentation by Dr Kolleen Miller-Rosser.
+After viewing, complete the accompanying activity to demonstrate your grasp of the key concepts introduced. Bring your completed activity to this week’s nursing lab session. This will allow us to review your progress together and provide guidance where needed.
+You will find this in the next folder
+Vital signs activity
+As part of your ongoing clinical preparation, please download the appropriate vital signs chart for your campus—NSW or QLD—and complete it using the SAGO framework. This activity will help consolidate your understanding of vital signs documentation and support your readiness for upcoming assessments.
+Once completed, bring your chart to the nursing labs for review. Your tutors will provide feedback and help clarify any questions you may have.
+This is a learning opportunity—perfection isn’t expected. The goal is to engage with the documentation process and build confidence in your clinical skills.
+Module 3 - Vital signs activity.docx
+Chart – NSW
+https://qualitysafety.bmj.com/content/qhc/23/9/714/F2.large.jpg?width=800&height=600&carousel=1
+SAGO chart for QLD – for review
+https://asset.jmir.pub/assets/40e1db8f76f3e769072cdb2c162eb8f3.jpg
+
+
+===== FILE: 19 - Fluid balance workbook.epub =====
+Fluid balance workbook
+-
+-
+Fluid balance - Information - read first
+This section provides the essential knowledge you need before completing the fluid balance scenarios.
+It includes:
+- core concepts in fluid balance
+- why fluid balance matters in nursing
+- how hydration affects vital signs
+- condition snapshots linked to your scenarios
+- immediate nursing interventions within first‑year scope
+- common reasons students misinterpret fluid balance
+Read this information before attempting the practice fluid balance scenarios as this content will help you recognise hydration changes, interpret vital signs and make safe first-year nursing decisions.
+Fluid balance practice booklet.pdf
+Fluid balance - Information - read first
+This section provides the essential knowledge you need before completing the fluid balance scenarios.
+It includes:
+- core concepts in fluid balance
+- why fluid balance matters in nursing
+- how hydration affects vital signs
+- condition snapshots linked to your scenarios
+- immediate nursing interventions within first‑year scope
+- common reasons students misinterpret fluid balance
+Read this information before attempting the practice fluid balance scenarios as this content will help you recognise hydration changes, interpret vital signs and make safe first-year nursing decisions.
+Fluid balance Scenarios - students.pdfFluid balance chart - Blank.docx
+
+
+===== FILE: 20 - Fluid balance activity to complete for this week before coming to the labs.epub =====
+Fluid balance activity to complete for this week before coming to the labs
+-
+-
+Activity 1:  Fluid balance charting
+You are required to complete a fluid balance documentation exercise. While we understand that you have not yet practised this skill in the lab, this activity is an important preparation step. Completing it now will:
+- Give you early exposure to the process of recording fluid intake and output.
+- Help us identify your current understanding and any areas where you may need support.
+- Ensure you are ready to apply this skill during this week’s lab session.
+Accurate fluid balance documentation is critical in nursing practice for monitoring patient hydration, detecting imbalances, and supporting clinical decision-making. Developing this skill early will strengthen your confidence and competence in real-world scenarios.
+Please complete the activity before the lab session and bring it with you to this week's nursing labs. If you have questions, reach out to your facilitator.
+For the fluid balance sheet, only print off the first page in A4 - check it's not in A3 before you print.
+BB Self-driected activity - student(1).pdfFluid balance chart.pdf
+
+
+===== FILE: 21 - Vital signs activity to complete this week and bring to week 3 labs with you.epub =====
+Vital signs activity to complete this week and bring to week 3 labs with you
+-
+-
+Vital signs activity
+Vital sign scenario for students to complete.pdfNSW-Health-Standard-Adult-General-Observation-Chart.pdf
+
+
+===== FILE: 22 - Summary (2).epub =====
+Summary
+-
+-
+Summary
+This module has highlighted how hydration, nutrition, fluid balance, and documentation are interconnected aspects of safe, holistic nursing care. Accurate assessment and recording of intake and output, combined with clear documentation, ensure that patients receive appropriate interventions and that deterioration is recognised early. By linking nutrition and hydration to fluid balance monitoring, nurses strengthen their ability to safeguard patient wellbeing and contribute to effective team communication.
+Together, these skills form the bedrock of nursing fundamentals, preparing students to integrate technical accuracy with professional accountability.
+Building on these foundations, we now move into Module 4: Nursing Fundamentals II. This next stage extends core nursing skills into broader aspects of patient care, deepening your ability to apply evidence‑based practice, uphold safety, and deliver compassionate, person‑centred care in more complex clinical scenarios.

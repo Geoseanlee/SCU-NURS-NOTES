@@ -1,0 +1,236 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+This module provides a holistic understanding of mental health, emphasising personal narratives, strengths-based approaches, and the challenges faced by families. Exploring lived experiences fosters empathy while acknowledging strengths empowers nurses to support individuals with intellectual disabilities. The focus on family experiences enhances context-specific care. This knowledge will empower you to deliver nursing care that enhances the well-being of diverse individuals, fostering a more inclusive healthcare environment.
+
+
+===== FILE: 03 - Introduction.epub =====
+Introduction
+-
+-
+Mental health and mental illness
+Our understanding of wellness and illness has evolved from a diagnostic-focused approach in the mid-twentieth century to a contemporary person-focused definition of mental health. Defining mental health and mental illness becomes challenging due to the dynamic nature of these concepts and their cultural and societal influences. As a result of our enhanced understanding, more people are receiving treatment for mental illness than in the past.
+The World Health Organization defines health holistically, considering physical, mental, and social well-being. However, mental health and mental illness lack a universally accepted definition, with cultural and societal variations playing a significant role. Mental illness encompasses conditions affecting mood, behaviour, and thinking, such as depression, schizophrenia, anxiety disorders, and addictive disorders, often causing distress and impaired functioning.
+The modern approach to treating mental illness adopts an eclectic stance, incorporating concepts and strategies from various sources. Holistic perspectives acknowledge that mental health is shaped by a multitude of components and factors, contributing to its dynamic nature. Three primary categories of factors influence mental health: individual, interpersonal, and social/cultural. The key categories encompassing factors that influence mental health include:
+
+
+===== FILE: 04 - What is it like to be a mental health nurse_.epub =====
+What is it like to be a mental health nurse?
+-
+-
+Activity: What is it like to be a Mental Health Nurse?
+Watch the two videos below: the first is "Mental Health Q&A - Episode 1," featuring Oxford Brookes lecturers, alumni, and current Oxford Health NHS workers, and the next is closer to home—Linda’s Story, a Mental Health Nurse in Melbourne. Pay close attention to the insights about the daily challenges and rewards of working in mental health nursing.
+UNSAFE_HTML_20260509084311.html
+UNSAFE_HTML_20260509084423.html
+Reflection: Mental Health Nurse
+
+
+===== FILE: 05 - Psychosocial interventions in mental health nursing.epub =====
+Psychosocial interventions in mental health nursing
+-
+-
+While many nurses may not specialise in mental health nursing, it is highly likely that they will provide nursing care for individuals experiencing mental health issues. Intervention plays a crucial role in mental health nursing, and psychosocial interventions are nursing activities aimed at enhancing the client's social and psychological functioning. These interventions improve social skills, interpersonal relationships, and communication. Nurses frequently employ psychosocial interventions to address client's needs and achieve desired outcomes in various practice settings, extending beyond mental health.
+Read, reflect and discuss
+Read the article "Mental health nurses establishing psychosocial interventions within acute inpatient settings" by Mullen (2009).
+Identify and reflect on the key issues regarding problems with mental health nursing practice in acute inpatient settings.
+Consider the following questions and be prepared to discuss your responses during this week's tutorial:
+- List and briefly describe four key issues outlined in the article related to mental health nursing practice in acute inpatient settings.
+- Consider aspects such as the focus on containment, erosion of recovery-based philosophies, and the absence of psychosocial interventions.
+- Reflect on how these identified issues may impact the quality of care provided to individuals experiencing acute mental illness.
+- Consider the implications for both patients and mental health nursing professionals.
+- Suggest potential solutions or strategies that could address the problems highlighted in the article.
+- Consider how routine use of psychosocial interventions may positively impact mental health nursing practice in acute inpatient settings.
+
+
+===== FILE: 06 - Introduction (1).epub =====
+Introduction
+-
+-
+In this topic, we will explore the profound impact of personal stories shared by individuals who have lived through mental health challenges, offering insights into their journeys. We will also consider the perspectives of carers, families, and mental health professionals. Our exploration encompasses personal narratives, particularly focusing on the experience of depression, including in older individuals.
+The lived experience – Personal stories
+The Mental Health Commission, New South Wales (NSW) is an independent statutory agency committed to monitoring, reviewing, and enhancing mental health and well-being throughout NSW. The Commission is guided by the invaluable insights shared in lived experience journeys, exemplified by the compelling narratives presented by individuals, caregivers, and mental health professionals.
+They have numerous personal stories but our focal point is the captivating story of Pat, accessible through the Mental Health Commission's platform, where narratives come to life. Pat's journey is a testament to resilience, perseverance, and the transformative power of sharing one's mental health experiences.
+Pat's journey involves medication adjustments and lifestyle changes, including diet and activity. He also attributes part of his weight loss to a reduction in the dose of clozapine. Consider the following question using the principles of holistic and person-centred approach.
+- How does this reflect the intricate relationship between medication, physical health, and mental well-being?
+- How might healthcare providers consider this delicate balance in treatment plans?
+- How does his story illustrate the interconnectedness of physical and mental health in the recovery process?
+Activity: Older person depression
+Personal stories of depression in older people provide a firsthand look into the unique challenges and experiences faced by individuals in this demographic. These narratives offer a glimpse into the emotional struggles, coping mechanisms, and the impact of depression on various aspects of their lives. Watch the following three short videos that talk with people about older person depression.
+Older person depression
+Older women experiences with anxiety and depression
+UNSAFE_HTML_20260509090933.html
+UNSAFE_HTML_20260509091149.html
+Older men experiences with anxiety and depression
+UNSAFE_HTML_20260509091258.html
+
+
+===== FILE: 07 - Reflection activity.epub =====
+Reflection activity
+-
+-
+Now that you have viewed the videos addressing Depression in older people, take a moment to reflect on the following aspects and consider how they shape the experiences of individuals living with depression:
+- Emotional Struggles: Explore the portrayal of emotional challenges experienced by individuals with depression in the videos. Consider the range of emotions depicted and how they contribute to the narrative.
+- Coping Mechanisms: Take note of the coping mechanisms presented in the stories. Evaluate the effectiveness of these strategies in helping individuals navigate and manage their depressive experiences.
+- Impact on Relationships: Examine how depression affects the relationships portrayed in the videos. Analyse the dynamics within familial, social, or professional connections and reflect on the broader implications of mental health on interpersonal interactions.
+- Resilience and Recovery: Anayalse any instances of strength and recovery depicted in the narratives. Identify the factors or strategies contributing to an individual's ability to bounce back and work towards improved mental well-being.
+Come prepared to share your insights and thoughts during our face-to-face tutorial this week. Consider how these factors intertwine to shape the experiences of those living with depression, and be ready to contribute to a meaningful discussion on the multifaceted aspects of mental health.
+
+
+===== FILE: 08 - Introduction to neurodiversity.epub =====
+Introduction to neurodiversity
+-
+-
+Neurodiversity is the acknowledgment that people possess varying information and processing styles, resulting in diverse ways of thinking. This concept is closely tied to the understanding that autism represents a distinct cognitive perspective and a unique experience of being in the world. Wendy Lawson, an autism advocate, has termed autism as a disability. Tony Attwood and Carol Grey explored this notion earlier during their work on the discovery of Asperger's syndrome, concluding that while recognising differences is crucial, autism is more than a case of different abilities; it is a disorder causing subjective distress and impaired social and occupational functioning. This understanding that autism, while neurodiverse, constitutes a disability is embedded in the DSM criteria for diagnosis. Dutch philosopher Soren Kierkegaard, in older writings, questioned whether extremely restrictive and repetitive behaviours could be adaptive. Through a playful process, he concluded that such behaviour represents impairment (Cashin, 2017). These writings pre-date the construct of Autism Spectrum Disorder (ASD) and contribute to understanding neurodiversity. This paper is worth reading to see how texts that pre-dated the construct of Autism Spectrum Disorder (ASD) discussed behaviours and thinking that would clearly fit into the construct of autism and were steps towards understanding neurodiversity. The book 'Repetition' was written by Kierkegaard in 1843 (Kierkegaard, 1843/1983).
+Understanding disabilities is a core responsibility for nurses, aligned with international conventions focused on discrimination and inclusion. As we will discuss later, there are strong imperatives arising from international conventions to which Australia is a signatory to, and national and state laws, related to discrimination and inclusion. Perhaps even more significantly understanding diverse thinking gives insight into typical thinking, this insight is very important as understanding how people think and process information is central to person-centred care.
+What is autism?
+Throughout your career all registered nurses in all settings will care for someone with Autism Spectrum Disorder (ASD). By increasing your understanding of ASD and making small adjustments to your practice you can help improve the health outcomes of this cohort of patients.
+What is intellectual disability?
+Unlike autism, intellectual disability does not represent a different style of thinking. Rather the diversity occurs in the volume of information that can be processed and the speed at which it is processed. In intellectual diversity, the degree of difference in processing is signified in the diagnosis which ranges from mild to severe.
+
+
+===== FILE: 10 - Dr Horstmanshof interview Professor Cashin.epub =====
+Dr Horstmanshof interview Professor Cashin
+-
+-
+Watch: Dr Horstmanshof interview Professor Cashin about ASD
+Note: This Interview goes for over one hour, but the video is broken into chapters so you don’t have to watch it in one go.
+After watching the interview, complete the following activity.
+UNSAFE_HTML_20260509091713.html
+A different way of thinking
+Understanding disabilities is a core responsibility for nurses, aligned with international conventions focused on discrimination and inclusion. As we will discuss later, there are strong imperatives arising from international conventions to which Australia is a signatory to, and national and state laws, related to discrimination and inclusion. Perhaps even more significantly understanding diverse thinking gives insight into typical thinking, this insight is very important as understanding how people think and process information is central to person-centred care.
+
+
+===== FILE: 11 - Young people, adults and Autism Spectrum Disorder.epub =====
+Young people, adults and Autism Spectrum Disorder
+-
+-
+Read the introduction in Cashin, A (2020). Young people. adults and Autism Spectrum Disorder. Nova Science: New York This is available through the SCU library at: https://scu.primo.exlibrisgroup.com/permalink/61SCU_INST/14tpmab/cdi_askewsholts_vlebooks_9781536180305
+Watch: Interview with Harrison
+There is a clear link between thinking and behaviour. Watch the video and watch out for how impaired abstraction makes it very difficult and stressful for Harrison to know when to use the call bell as a hospital inpatient.
+UNSAFE_HTML_20260509091950.html
+Watch: Interview with Amy and Ken
+One strongly emerging insight is that a good experience not only facilitates a better patient journey in the immediate admission/episode of care but it also positions people to be more willing to again work with health providers and have treatment. Watch the video of Amy interviewing Ken the father of a child with autism, in which he provides a concrete example of this phenomenon.
+UNSAFE_HTML_20260519131136.html
+
+
+===== FILE: 12 - Reasonable adjustments in person-centred care practice.epub =====
+Reasonable adjustments in person-centred care practice
+-
+-
+What are needed adjustments?
+Unlike autism, Intellectual Disability does not represent a different style of thinking. Rather, the diversity occurs in the volume of information that can be processed and the speed at which it is processed. In Intellectual Diversity, the degree of difference in processing is signified in the diagnosis which ranges from mild to severe. Over the last century there has been a revolution in how society views the rights and citizenship of people with developmental disabilities (including Intellectual Disability and Autism). Well into the 1900s, Western societies' prevailing view could be maternalistic or paternalistic. People with developmental disabilities were infantilised and the mission of care was predominantly one of maintenance (maternalistic?). Earlier in the 20th century, when people with developmental disabilities did not live with family, they were usually separated in large institutional settings, often alongside people with mental illness (paternalistic?). This view has shifted to a recognition that people with developmental disabilities are citizens who like all citizens have rights and responsibilities. The lens shifted from one of caring for alone, to one of recognition of the potential inherent in all humans.
+Good life for individuals with developmental disabilities
+The right to full inclusion has developed even further to the right to have a good life. Having a good life includes such things as meaningful social participation, the chance to have friends and form relationships, and the right to have a secure place to call home over which one has a sense of control. Consistent with the underpinning tenants of inclusion, a good life also includes meaningful engagement in study or employment. Inclusion and the right to a good life as concepts both are founded on the acknowledged need for reasonable adjustments to be made. Developmental disabilities have morphed from being conceptualised as problems that need treatment to a natural part of the neurodiversity of the human species. Because people with developmental disabilities have divergent neurodevelopment, they think, and as a result behave, differently. This can be a different thinking style, as in the case of autism, or a difference in the speed of processing and the amount of information that can be processed at any one time, as in intellectual disability. Both require adjustments to be made to systems designed in society for typical thinkers (those without a developmental disability).
+Challenges in advancing health equity for people with developmental disabilities
+Society has not just recognised neurodiversity and the right to inclusion, and the need for the necessary adjustments to be made to allow this. However, international conventions have been made that enshrine these principles. National, state and territory legislation and policy exist that are based on these principles in general systems and specifically related to healthcare. Developmental disabilities are overtly named in the Australian NMBA Standards for Practice for the Registered Nurse (2016) as a context of practice. The standards are founded upon person-centred care. Person-centred care means adjusting care as needed for each individual. Unfortunately, even though gains have been made and our vision refined, and the lifespan for people with developmental disabilities is approaching the general population norm in western countries, general health outcomes for this group are some of the poorest of any group. In Australia, it has been identified that people with developmental disabilities are at higher risk of premature mortality and greater risk of morbidity than peers without a developmental disability. There is much work to be done to change the health outcomes, and Registered Nurses are central to this process.
+
+
+===== FILE: 13 - Positive behaviour support.epub =====
+Positive behaviour support
+-
+-
+Two common approaches to constructing support or intervention in nursing are deficit-based and strengths-based approaches:
+- The deficit-based approach centres on impairments and limitations, focusing on what an individual cannot do. In contrast, the strengths-based approach emphasises a person's capabilities, utilising their strengths to establish new functional routines.
+- Positive Behaviour Support aligns with a strengths-based nursing focus, recognising that understanding, interpreting, and modifying behaviour necessitates considering the whole person. This holistic exercise harmonises well with nursing practice.
+Behaviour, excluding autonomic reflex actions, is rooted in cognition. A person's senses can influence behaviour, representing actions to achieve desired or necessary outcomes. Like driving a car, habits become automatic over time, operating without conscious effort.
+Understanding that behaviour is thought-driven, especially before becoming habitual, connects with the earlier domains. For individuals with hyper or hypo sensitivities, distorted sensory information can disrupt meaning-making efforts and become a distressing source.
+Meaning-making involves expressive and receptive communication, and individuals with intellectual disabilities (ID) or autism spectrum disorder (ASD) may exhibit a deceptive imbalance between the two. Positive behaviour support operates on the principle that all behaviour serves a function, leading to the exploration of supporting positive behaviour and developing functional routines.
+This process entails working collaboratively to re-engineer routines and find more adaptive ways to achieve desired outcomes. Despite behaviour having a function, some behaviours may be efficient but not adaptive, leading to undesirable consequences. Strong emotions like anxiety, confusion, and frustration can influence behaviour expression, impacting the meaning-making process.
+Maladaptive behaviour, typically labelled as "bad behaviour," may elicit negative responses.
+
+
+===== FILE: 14 - Amy Pracilio with Prof. Andrew Cashin (SCU) and Prof.epub =====
+Amy Pracilio with Prof. Andrew Cashin (SCU) and Prof
+-
+-
+Watch this video
+Watch the interview conducted by SCU’s Amy Pracilio with Professors Andrew Cashin, SCU and Nathan Wilson, WSU.
+UNSAFE_HTML_20260509092414.html
+After watching the interview where they are discussing 'scaffolding', explain in your own words what is scaffolding.
+Three steps in positive behaviour support
+There are three easy steps in Positive Behaviour support. Click on the tabs below to read more.
+
+
+===== FILE: 15 - Introduction (2).epub =====
+Introduction
+-
+-
+Parenting, while often filled with joy, can also be a source of significant stress. Research consistently shows that parenting a child with an Intellectual Disability is more stressful than parenting neurotypical children, and parenting a child with Autism Spectrum Disorder (ASD) can be even more challenging.
+The metaphor of the vortex has been used to describe the experience of parenting a child with autism (Cashin, 2004), especially for neurotypical parents. Neurotypical parents, who typically have behavioural and thinking flexibility, may find themselves struggling to adapt to the unique needs of a child with ASD. This struggle can reduce flexibility and spontaneity, causing family activities and routines to become overly regulated. Unfortunately, this attempt at adaptation through overregulation may, in turn, hinder the family's ability to adapt effectively, creating a vortex effect where autism dominates the family system.
+As a result of this overregulation and loss of flexibility, parents often experience heightened stress and anxiety. These challenges are compounded by the complexities of navigating various systems to meet their child's needs.
+Nurses can play a crucial role in supporting parents by mindfully working with them to navigate and alleviate stress in the context of raising a child with ASD, and the main focus of this topic is to explore the experience of parenting children with ID and/or ASD.
+.
+
+
+===== FILE: 16 - The developmental trajectory in Autism Spectrum Disorder.epub =====
+The developmental trajectory in Autism Spectrum Disorder
+-
+-
+ASD a lifelong disorder
+In the DSM IV-TR and earlier versions, autism and the related diagnostic constructs were clustered under disorders appearing in childhood. Many viewed autism as an issue for children and adolescents, even though it was acknowledged that autism was a pervasive developmental disorder. Research expenditure internationally has been informed by this view, with historically less than 2% of ASD research funds being invested into research with adults by the Office of Autism Research Coordination in the National Institute of Mental Health. While this has shifted a little in recent times, the disparity in targets of research funding remains (Cervantes et al., 2021). In terms of physical health, people with ASD appear to be at higher risk of all-cause mortality than the general population. While the average lifespan for people with intellectual disability is normalising, we do not know the average lifespan for people with ASD. Outcome studies in adults indicate that people with ASD have significant challenges and experience disadvantages in the domains of physical and mental health, independent living, relationships, educational attainment and employment. In 2012, it was noted that it had not been demonstrated that the positive effects of early intervention translate into adulthood benefits. It had not been demonstrated that early intervention impacted the poor outcomes experienced by adults with ASD, and this remains the case (Howlin & Moss, 2012). This finding is counterintuitive for some who have enthusiastically championed the belief that early intervention will reduce the expression of ASD and reduce the need for intervention across the lifespan.
+The developmental trajectory
+In this topic, we explore the developmental trajectory of those with ASD across the lifespan. We look at the change in the ways the associated behaviours are manifested and the common accompanying challenges across the lifespan. Of course, there is no fixed trajectory, and every individual will encounter unique challenges and opportunities along the way. ASD does not define who a person is. This is emphasised in person-first language as discussed in the reading in activity 1.1, and even those who advocate for the use of identity-based language often acknowledge that the use of the term autistic does not mitigate the fact that the person referred to is an individual (Shakes & Cashin, 2018). Even though there is no fixed trajectory, the idea of a trajectory (or even the metaphor of a tour itinerary) is a useful way to think about the transitions encountered between, and problems that are common within, different life periods. If we use the itinerary metaphor, this could be thought of as the common stops on the tour.
+The trajectory
+Some researchers would have us begin the journey/tour pre-delivery. There has been some research on birthing times for people later diagnosed with ASD. The authors of the small-scale study that did identify a more extended time from the onset of labour to delivery wondered in writing whether resistance to change begins this early. Using your literature search skills honed by completing assessments in other units, see if you can track down this research. For me, the image generated was a baby in utero with ASD being confronted with an externally imposed change as the uterus contracts and labour begins. As with all change that comes with a lack of predictability for someone with ASD, anxiety builds, and behavioural flexibility decreases. Then in my mind comes the image of a baby with arms and legs out in star pose resisting the change and travelling down the birth canal. This resistance culminated in more prolonged labour. Click on the tabs below to learn about ASD across the lifespan.
+UNSAFE_HTML_20260515124638.html
+
+
+===== FILE: 17 - Assessment of intelligence and functional assessment in Intellectual Disability and ASD.epub =====
+Assessment of intelligence and functional assessment in Intellectual Disability and ASD
+-
+-
+Both intelligence and functional assessments play crucial roles in the diagnostic process of Intellectual Disability. In this section, we will delve into the significance of evaluating both intelligence (Intelligence Quotient - IQ) and functional capacity.
+Psychologists traditionally conduct psychometric testing, which includes intelligence tests. While an intelligence test provides a full-scale IQ, it also yields a set of sub-scores. The full-scale IQ score aids in determining the severity of Intellectual Disability. However, understanding an individual's profile across the sub-scores is equally valuable in identifying their strengths and areas of relative challenge.
+For instance, if someone exhibits higher scores in visual reasoning than verbal reasoning, it suggests the potential benefit of using easy-to-read resources, simplifying language, providing concise verbal instructions, and visually augmenting instructions. Interpreting the IQ test results can be exceptionally beneficial for nurses in developing strengths-based intervention and support plans for those they are assisting.
+Watch: IQ Testing - Understanding the process
+As can be see in the video intelligence testing is a social process. Testability refers to a person’s ability/willingness to participate in an IQ test. People who have impaired social communication may underperform or not perform at all in an IQ test. Outcomes depend on engagement with the testor and the test. The test outcomes are indicative and not definitive. Functional assessment refers to a person’s adaptive functioning or behaviours. Adaptive functioning refers to age appropriate things one needs to do to successfully navigate their world and care for themselves. This includes the need to cope with changes and unexpected events. To receive a diagnosis in the DSM 5
+After waching the video, think on how can an IQ test assist nurses in identifying strengths of those they are working with? Bring your responses to this week's tutorial for further discussion.
+UNSAFE_HTML_20260519114018.html
+
+
+===== FILE: 18 - Autism jargon – The Vineland Adaptive Behaviour Scale.epub =====
+Autism jargon – The Vineland Adaptive Behaviour Scale
+-
+-
+Watch this video
+This video explains the assessment of adaptive functioning and discusses the parent experience of participating in the process.
+UNSAFE_HTML_20260509092937.html
+After watching the video repond to the following questions:
+
+
+===== FILE: 19 - Richard -18 years old and has ASD.epub =====
+Richard -18 years old and has ASD
+-
+-
+Richard -18 years old and has ASD
+Watch the video - tje colonoscopy. Richard is 18 years old and has ASD with comorbid Intellectual Disability.
+After watching the video, respond to the following 2 questions:
+- In the video, Richard’s mother, Randa, had to assert herself as things were going badly. Describe how you would feel in this context if you were Randa.
+- Acquiescence was one feature of Richard’s responses. What is acquiescence?
+We will discuss further in the tutorial.
+UNSAFE_HTML_20260509093032.html
+
+
+===== FILE: 20 - Summary.epub =====
+Summary
+-
+-
+This module's goal is to provide an understanding of mental health and Intellectual disability across the lifespan
+The key concepts for this module were:
+- Holistic perspectives of mental health and illness
+- Narratives of mental health – the lived experience
+- Strengths-based approach to nursing those with an intellectual disability
+- The experience of parenting children with ID and/or ASD
+References
+Baron-Cohen, S., Cox, A., Baird., G., Swettenham, J., Nightingale, N., Morgan, K., Drew, A., & Charman, T.(1996). Psychological markers in the detection of autism in infancy in a large population.The British Journal of Psychiatry, 168(2), 158–163.
+Berney, T. (2000). Autism – an evolving concept.The British Journal of Psychiatry, 176(1), 20–25.
+Cashin, A. (2004). Painting the vortex: The existential structure of the experience of parenting a child with autism. International Forum of Psychoanalysis, 13 (3),164-174.
+Cashin, A. (2014). Shortage of supported housing for people with mental illness: Australia as an exemplar of an international problem. Issues in Mental Health Nursing, 35(2), 148–151.
+Cashin, A. (2018). The transition from university completion to employment for students with autism spectrum disorder. Issues in mental health nursing, 39(12), 1043-1046.
+Cashin, A. (2020). Young people, adults and autism spectrum disorder. Nova Science Publishers.
+Cervantes, P. E., Matheis, M., Estabillo, J., Seag, D. E., Nelson, K. L., Peth-Pierce, R., ... & Horwitz, S. M. (2021). Trends over a decade in NIH funding for autism spectrum disorder services research. Journal of Autism and Developmental Disorders, 51, 2751-2763.
+Howlin, P., & Moss, P. (2012). Adults with Autism Spectrum Disorders. Canadian Journal of Psychiatry,57(5), 275–283.
+Nicholas, D. B., & Klag, M. (2020). Critical reflections on employment among autistic adults. Autism in Adulthood, 2(4), 289-295.
+Shakes, P., & Cashin, A. (2019). Identifying language for people on the autism spectrum: A scoping review. Issues in Mental Health Nursing, 40(4), 317-325.
+Wing, L. (1996).The autistic spectrum a guide for parents and professionals. London: Constable.
