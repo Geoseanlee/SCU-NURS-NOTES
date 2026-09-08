@@ -21,7 +21,7 @@
 - Family-centred care and the effects of hospitalisation
 - Communication and assessment of the paediatric patient
 - The Charter on the Rights of Children and Young People in Healthcare Services
-- Responding to parental concerns using the REACH OUT framework
+- Responding to parental concerns using the REACH framework
 
 **Nursing focus:**
 - Provide holistic, developmentally appropriate and culturally safe care.
@@ -332,28 +332,71 @@ planning.
 
 ---
 
-## 10. REACH OUT: Responding to Parental Concerns
+## 10. REACH: Responding to Parental Concerns
 
-Parental concerns can be overlooked because of bias, communication breakdown, workload
-and busy clinical environments. A parent's concern may provide important information about
-a change in the child's condition and should be taken seriously.
+### Reflective activity: Meet Noah
 
-When a parent says that their child is getting worse:
+Watch **Meet Noah** and reflect on:
 
-1. **Listen** without interruption and clarify what has changed.
-2. **Acknowledge** the concern and show that it is being taken seriously.
-3. **Assess** the child promptly, including appearance, behaviour, breathing, circulation,
-   pain, feeding and other relevant observations.
-4. **Communicate** findings and concerns to the RN/clinical team using structured
-   communication and local escalation processes.
-5. **Help** by taking appropriate immediate action within scope and seeking assistance.
-6. **Observe** the response and repeat the assessment.
-7. **Update** the family clearly and explain the plan.
-8. **Tell/document** the concern, assessment, actions, escalation and outcome.
+- How you would feel as Noah's nurse while caring for him and his family
+- What you can do to self-care and wind down after your shift
+- How you might cope with the emotional impact of caring for a sick child
 
-The exact expansion of REACH OUT should be checked against the course framework used by the
-school. The essential practice is to listen, assess, escalate, document and close the
-communication loop.
+Video channel: https://www.youtube.com/channel/UC4Zaux92-w_C5xP2ITKIoBQ
+
+An important component of family-centred care is not only being able to express concerns
+and be involved in decision-making, but also being heard. Parental concerns can be
+overlooked because of bias, communication breakdowns, busy departments and high workload.
+
+REACH is a system developed by the Clinical Excellence Commission, in collaboration with
+local health districts and consumers, to assist patients, caregivers and families in
+raising concerns with staff about significant changes in a patient's condition.
+
+The system acronym stands for:
+
+- **Recognize**
+- **Engage**
+- **Act**
+- **Call**
+- **Help is on its way**
+
+The system is based on the surf life-saving analogy, which promotes recognising and
+appropriately treating deteriorating patients by signalling for help.
+
+REACH encourages partnership between patients, caregivers, families and healthcare teams
+when recognising and escalating deterioration. Families should initially engage with the
+medical team. If concerns persist, they can escalate by requesting a clinical review,
+which should occur within 30 minutes. If they remain concerned after the review, an
+independent review or rapid response can be activated by calling the facility's designated
+REACH number. REACH enables consumers to "speak up for safety" and provides reassurance
+that help is on the way.
+
+Watch the Clinical Excellence Commission **Day Family** video explaining the story behind
+the REACH system (5:47): https://www.youtube.com/watch?v=3gxsCgOpThQ
+
+### Similar escalation systems: Ryan's Rule
+
+Similar systems operate across Australia. **Ryan's Rule** was introduced in Queensland
+after the death of three-year-old Ryan Saunders in 2007. Ryan died from invasive group A
+streptococcal infection. His parents had raised concerns several times but felt that their
+concerns were not acted on.
+
+Ryan's Rule provides patients of any age, families, carers and guardians with another way
+to obtain help when a patient's condition is getting worse or not improving as expected.
+It is for clinical deterioration, not general complaints.
+
+The three steps are:
+
+1. Speak to the nurse or doctor and explain the concern.
+2. If concerns persist, ask to speak with the nurse in charge of the shift or the doctor
+   on duty.
+3. If concerns remain after steps 1 and 2, request a Ryan's Rule clinical review by
+   calling **13 HEALTH (13 43 25 84)**, or ask a nurse or Aboriginal and Torres Strait
+   Islander Support Person to call on your behalf.
+
+Families and carers should use the process when the patient looks worse, is not improving
+as expected, or shows behaviour that is not normal for them. General complaints should be
+directed through the hospital's usual complaints process.
 
 ---
 
