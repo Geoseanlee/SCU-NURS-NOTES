@@ -1,0 +1,30 @@
+Source: https://scu.h5p.com/content/1291785164227714699
+Type: activity text extraction (full data in JSON)
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words
+
+Orthostatic hypotension
+
+Dyspnoea
+
+Nasal congestion
+
+Finish ?
+
+Retry ?
+
+The first beta blockers that came out (the first generation beta blockers) were non-selective. They blocked both the beta 1 and the beta 2 receptors. When the selective beta blockers came out, they were selective, hitting 'only' the beta 1 receptor. The major advantage of the second generation beta blockers over the first generation ones is that fact that they do not cause:
+
+Untitled Multiple Choice
+
+false
+
+In general, the term "first generation" means that it is non-selective, while the term 'second generation' means that it is selective.
+
+Untitled True/False Question
+
+true
+
+Since Congestive Heart Failure (CHF) can be successfully treated for 20, 30 or more years, with a combination of Beta blockers and other medications, it is important to be sensitive about the way in which we explain the condition.

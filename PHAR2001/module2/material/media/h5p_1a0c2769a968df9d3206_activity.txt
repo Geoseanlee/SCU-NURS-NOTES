@@ -1,0 +1,32 @@
+Source: https://scu.h5p.com/content/1291785142187165509
+Type: activity text extraction (full data in JSON)
+
+Dyspnoea due to blocking the beta 2 receptor on the airways which normally open up the airways.
+
+Nasal congestion due to the blocking of the alpha 1 receptor on the blood vessels in the sinuses, essentially doing the opposite thing that decongestants do.
+
+A racing heart from partially blocking the Beta 2 receptor
+
+Ankle oedema due to partially blocking the Beta 1 receptor
+
+Finish ?
+
+Retry ?
+
+Labetalol is a valuable antihypertensive agent that is frequently used in women with pregnancy-induced hypertension, including pre-eclampsia. It is a pregnancy category C drug, which means that it could possibly cause harm to the foetus but if pre-eclampsia advances to eclampsia, it becomes a life threatening condition for both mother and child. It has a lot of side effects, and if you don't remember those, you can figure it out by the fact that it is non-selective, moderately blocking the alpha 1 and beta 2 receptors and partially blocking the beta 1 receptor. Which of the following is/are common side effect(s) of labetalol (and the correct reason for this effect)
+
+Untitled Multiple Choice
+
+Phentolamine
+
+Labetalol
+
+Oxymetazoline
+
+Because of the profound vasoconstrictive effects of adrenaline, a needle stick injury with an EpiPen should be treated with which drug to ensure the finger does not become necrotic from lack of blood?
+
+true
+
+Labetalol can be considered a non-selective alpha blocker or a non-selective beta blocker owing to the fact that it has cross over effects onto both Alpha 1 and Beta 1 receptors. This gets confusing, as Beta 1 blockers will normally end in the suffix OLOL. The thing to remember about labetalol is the fact that it blocks the action of adrenaline on the peripheral blood vessels, thus, in effect, dilating them and blocks the beta 1 receptors on the receptors of the heart, thus decreasing heart rate and contractility. This combination appears to be especially effective in treating eclampsia, which involves increased blood pressure and proteinuria during pregnancy.
+
+Untitled True/False Question

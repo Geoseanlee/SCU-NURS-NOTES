@@ -1,0 +1,76 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=49bc9017-2a39-4941-8c9f-b47b00c3dee5
+Type: captions, not an independently verified transcript
+
+[15.32] What I'm going to do right now, really quickly,
+[17.48] is to review the autonomic nervous system and how it fits into the entire nervous system, so you have it fresh in your mind.
+[26.32] Let's take the central nervous system to begin with. The central nervous system consists of the brain and the spinal cord.
+[34.08] And then off of the central nervous system comes the peripheral nervous system.
+[39.72] The peripheral nervous system can be divided into the afferent and the efferent portions of the peripheral nervous system.
+[48.04] The afferent a before E, the afferent comes into the central nervous system bringing in the sensory impulses,
+[56.80] and the efferent portion is the motor division.
+[61.50] So the sensory or afferent portion is the portion of the peripheral nervous system
+[67.06] that sends its information from the periphery to the central nervous system.
+[72.10] For instance, the sensory division allows you to feel that object that's in your hand.
+[77.34] And once again, that's not the portion of the nervous system that we're concerned with today.
+[82.26] We're just trying to make sure that you have the overview in your mind.
+[86.54] What we are going to be talking about today is a portion of the French nervous system,
+[92.14] the portion that comes off of the central nervous system and goes out to the periphery.
+[97.34] The efferent nervous system consists of the somatic nervous system and the autonomic nervous system.
+[106.06] The somatic portion of the nervous system is the portion that we have control over, the portion that allows you to control your muscles.
+[114.54] It allows you to pick up your pen, to move the muscles in your hand, to make a fist, and so forth for the most part.
+[121.28] We have voluntary control over that portion of the peripheral nervous system.
+[126.48] But the portion of the nervous system that we'll be speaking about right now is separate.
+[131.56] The autonomic nervous system is the portion of the peripheral nervous system that we have very little control over.
+[139.76] So recall what the autonomic nervous system actually does.
+[144.40] For instance, let's take your heart. The heart beats at an intrinsic rate.
+[149.96] The heart is able to generate its own impulses. And even if you completely disconnected it from the brain, it would still beat at that intrinsic rate.
+[162.08] And with the autonomic nervous system control over the heart, we can start adjusting the heart rate to suit our needs at the time.
+[172.60] For instance, if you have a really good fright, the heart rate is going to be very different from that intrinsic rate,
+[179.91] and that's largely due to the autonomic nervous system control over the heart as the sympathetic nervous system is engaged.
+[189.91] Adrenaline will increase the heart rate and increase the contractility of the heart.
+[196.27] Another example is the motility of the gastrointestinal tract.
+[200.99] The GI has an intrinsic rate of movement as well.
+[204.87] There are cells of Cajal that determine how frequently the peristaltic contractions occur in the GI t.
+[214.19] In that case, when we have a meal, our parasympathetic nervous system will send out acetylcholine,
+[221.31] and that's going to be the stimulus to increase the rate of movement in the GI and increase all secretions into the GI tract.
+[232.07] Remember, the parasympathetic nervous system is the rest and digest portion of the nervous system.
+[240.09] But then even if you've just eaten, if there's a sudden sympathetic nervous system stimulation, for instance, someone breaks into your home,
+[249.29] the sympathetic nervous system will slow down the git,
+[253.65] because that fight or flight response will dictate that we won't spend our energy digesting food.
+[261.01] So the autonomic nervous system is very important,
+[264.33] and it's a portion of the nervous system that's going to regulate various organs to suit our needs at the time.
+[271.41] And hopefully with that quick review, you've put that autonomic nervous system back into context with respect to the entire nervous system.
+[282.33] Another thing that I'd like you to have fresh in your mind is the type of neurotransmitters that we use in the peripheral nervous system,
+[290.49] and the way that the neurotransmitters work, so that we can apply that to our drugs that work on the neurones.
+[298.71] In this next slide we see neurotransmitters of the peripheral nervous system.
+[304.35] The somatic nervous system which innervates our muscles uses acetylcholine as the neurotransmitter.
+[311.35] So for instance, if we're going to move our hand,
+[314.31] the signal that allows our muscles to contract is the acetylcholine binding to the receptors in the neuromuscular junction.
+[325.11] But let's go back even further so that you can picture what's happening.
+[329.79] This diagram depicts a neurone transmitting its message to a second neurone.
+[335.71] When the first neurone gets excited or depolarised, there's an action potential that goes down to the far end of the nerve.
+[345.31] And that's called the neurones End terminal.
+[349.83] That action potential is the message for the synaptic vesicles that contain the neurotransmitters to fuse onto the neurone and terminal.
+[361.65] And as that fusion occurs, there's a release of the neurotransmitters into that synaptic cleft.
+[370.13] Those neurotransmitters have an incredibly small distance to diffuse across the synaptic cleft and bind onto the receptors of the next neurone.
+[382.81] And as that neurotransmitter binds to the receptor on the next neurone, it's the signal to excite or inhibit the next neurone.
+[393.37] And another thing to remember is that the neurotransmitters do not last in that synaptic cleft very long,
+[401.49] because it'd be very dangerous if we kept sending messages to the next neurone.
+[407.17] So we degrade the neurotransmitters at an incredibly rapid pace within about three milliseconds or 3/1000 of a second,
+[416.60] that neurotransmitter is being degraded. And you might be thinking, well, how is it that that degrades so quickly?
+[423.96] Well, for acetylcholine, it's being degraded by the enzyme called acetylcholine esterase.
+[431.20] And the acetylcholine esterase is an enzyme that splits the acetylcholine in half.
+[438.28] And the resulting products have less than 1/10,000 of the action that it originally had.
+[445.08] In the sympathetic nervous system, we have two different enzymes that break down the adrenaline.
+[451.04] There is Comt and monoamine oxidase, which is abbreviated Mao.
+[459.60] I'll be repeating all of the important things that you need to remember.
+[463.56] So if you didn't catch all that, don't worry,
+[465.96] this is just a review of the important facts that allow you to get a really good picture of the autonomic nervous system.
+[473.98] So what I'm going to do right now is to go back to a slide that we've already seen and fill in a couple little things.
+[481.22] The autonomic nervous system is interestingly different to the somatic nervous system.
+[487.70] Recall that the somatic nervous system was a one neurone pathway.
+[493.78] So from the central nervous system all the way to the effector there's just one neurone.
+[500.74] But the big difference in the autonomic nervous system is that it has a two neurone approach
+[507.10] to getting that message to the ultimate effector in the sympathetic nervous system.
+[512.66] We've got a ganglion that's really close to the central nervous system.
+[516.94] While in the parasympathetic nervous system, that ganglion is much closer to the effectors.

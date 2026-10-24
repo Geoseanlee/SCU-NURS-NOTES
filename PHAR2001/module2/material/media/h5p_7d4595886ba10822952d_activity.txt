@@ -1,0 +1,19 @@
+Source: https://scu.h5p.com/content/1291784288756881599
+Type: activity text extraction (full data in JSON)
+
+Salbutamol is also known as Ventolin and is primarily
+administered by metred inhaler
+
+Salbutamol dilates the airways and stabilises the mast cells, and as such is good for asthmatic clients.
+
+Dobutamine is a beta 1 agonist that increases heart rate and increases contractility and is mainly used in the hospital setting.
+
+The fact that dobutamine has a chronotropic effect tells you that it increases the contractility of the heart.
+
+Finish ?
+
+Retry ?
+
+Choose the statement(s) that is/are correct
+
+Untitled Multiple Choice

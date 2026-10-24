@@ -1,0 +1,40 @@
+Source: https://scu.h5p.com/content/1291783426965961659
+Type: activity text extraction (full data in JSON)
+
+Type I Hypersensitivity Reaction
+
+Type II Hypersensitivity Reaction
+
+Type III Hypersensitivity Reaction
+
+Type IV Hypersensitivity Reaction
+
+Finish ?
+
+Retry ?
+
+There are four types of hypersensitivity reactions. Which of the following is termed "a true allergy", and can be successfully treated with antihistamines and/or adrenaline injection? (it is treated with adrenaline and antihistamines if it causes widespread anaphylaxis, or treated with antihistamines if a local reaction such as allergic rhinitis (hay fever).
+
+Untitled Multiple Choice
+
+Histamine dilates the bronchi
+
+Histamine Dilates the blood vessels
+
+Histamine makes the blood vessels more permeable, leading to oedema (locally or systemically, depending on how extensive the reaction is)
+
+Histamine is released from mast cells (a local reaction) and basophils (a systemic reaction) in response to the allergen
+
+Please choose each of the statements that are true about the histamine that is released from mast cells during a true allergy (a Hypersensitivity Type I reaction)
+
+true
+
+Adrenaline is called the physiological antagonist of histamine, because it has the exact opposite effect of histamine.
+
+Untitled True/False Question
+
+A colleague just had a needle stick injury with an EpiPen (adrenaline injector) into her finger. She should consider a follow up of phentolamine (an adrenaline antagonist) into that local area to prevent necrosis, because adrenaline is such a strong constrictor of blood vessels that she could loose the tip of her finger.
+
+false
+
+Once a person experiencing anaphylaxis administers adrenaline, they should be fine and can continue on with their day as normal.

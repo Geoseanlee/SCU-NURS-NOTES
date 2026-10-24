@@ -1,0 +1,62 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=649c638f-f628-481d-bcac-b47b00986a0a
+Type: captions, not an independently verified transcript
+
+[14.40] The way that I think about the acetylcholinesterase inhibitors is to look at whether they can break into the blood brain barrier or not.
+[25.20] If they break into the blood brain barrier and through into the brain, then they're going to be good for Alzheimer's to see.
+[32.80] So medications like donepezil and galante are useful in Alzheimer's disease.
+[40.32] And if they don't break through the blood brain barrier,
+[43.96] they're going to be useful in a disorder called myasthenia gravis, which I'll talk about right now,
+[49.44] because in order to fully understand the value of neo stigma and acetylcholine esterase inhibitor that stays out in the periphery,
+[60.05] We need to understand myasthenia gravis. Myasthenia gravis is what we call an autoimmune disorder,
+[68.25] and each one of the autoimmune disorders involve the person's immune system targeting one portion of the body.
+[77.01] And in this case, the immune system is targeting the acetylcholine receptors.
+[84.65] Take a look at this portion of the diagram right here.
+[88.17] Normally we have the acetylcholine go into the synaptic cleft and it's going to bind to the acetylcholine receptors.
+[97.45] Well in the case of myasthenia gravis the body's own immune system starts fighting those acetylcholine receptors.
+[107.21] So what happens there. We wind up with less acetylcholine receptors.
+[112.25] And although our medications can't cure myasthenia gravis we can allow the Acetylcholine to be there in the synaptic cleft there longer,
+[122.51] so that there can be some compensation for not having the ideal amount of acetylcholine receptors.
+[131.99] Remember, our cells can replace things like receptors.
+[136.59] So after an exacerbation of myasthenia gravis,
+[140.43] there's going to be an upregulation of the number of receptors that's made and will kind of try to keep up with it.
+[147.83] But what the medication is doing is allowing there to be extra acetylcholine to help compensate for the lack of acetylcholine receptors.
+[161.91] Normally in myasthenia gravis, the number of acetylcholine receptors in the neuromuscular junction is decreased mainly in the face,
+[173.31] so the muscles of the face, the muscles of the eyes, the muscles that are necessary for swallowing.
+[179.88] And then later, as the disorder progresses, oftentimes the respiratory system is going to be involved.
+[187.84] Neo stigma and stigma, which is the longer acting medication, are oftentimes used in people with myasthenia gravis.
+[197.04] And as you can imagine, there's going to be a lot of side effects with these medications.
+[201.28] And one of the most dangerous side effects is bradycardia, or a resting heartbeat of under 60 beats per minute.
+[210.16] Remember that we're not just affecting the amount of acetylcholine there at the neuromuscular junction.
+[217.24] We're also affecting the amount of acetylcholine at the various organs that are innervated by the parasympathetic nervous system,
+[226.88] the acetylcholine antagonist. Atropine is oftentimes taken along with the neo stigma and the stigma to counteract the cardiovascular
+[238.93] side effects and the other disorder in which an indirect acting cholinergic agonist is going to be used.
+[246.69] Is Alzheimer's disease. Alzheimer's disease is a progressive degenerative disorder in which there is fewer neurones in the brain,
+[255.41] and this diagram depicts the degeneration of the neurones.
+[259.45] And think about it what's going to fill the space in the brain if the neurones are degraded?
+[266.77] The head's not going to become hollow. So what fills that space?
+[272.57] Well, the ventricles become enlarged. When you look at it, MRI of the brain.
+[278.77] And you look at the assessment report that says enlarged ventricles, that oftentimes means that there's less brain mass than normal.
+[288.09] And obviously you don't interpret that to your client. You would say something like, well, that observation is oftentimes found.
+[297.11] Given the fact that there is fewer neurones in the brain,
+[299.99] we don't expect to find a medication that's going to reverse the pathology of the disorder and just make more neurones.
+[307.43] That type of therapy may be available in about 50 years, as we really refine our ability to use stem cells.
+[315.31] But in the meantime, there is a couple of medications that can help by increasing the acetylcholine in the brain.
+[323.99] The acetylcholine receptors are the most important receptors with respect to the areas of the brain that are affected by Alzheimer's disease,
+[334.15] and the two acetylcholine esterase inhibitors that I'd like you to remember include galanti, amine, and donepezil.
+[344.15] Galanti mean is normally given to people with moderate dementia, while donepezil is given to people with advanced stage disease.
+[353.95] The most frequent side effects of gallant mean include git complaints,
+[359.40] as you'd expect with something that increases the parasympathetic nervous system, the rest and digest system.
+[367.52] Donepezil is the drug of choice for clients who are more advanced.
+[372.04] For instance, they are not able to remember names of family members.
+[376.88] One of the reasons for the increased efficacy of donepezil is the ease with which it crosses the blood brain barrier,
+[385.48] and as a matter of fact, it has an oral bioavailability of 100%, which is really, really unusual for oral medications.
+[395.20] And once again, as you'd expect, the primary side effect of donepezil will be the git complaints.
+[404.32] But remember, the other organs that use the acetylcholine include the heart.
+[409.92] Donepezil is contraindicated in people who have heart problems.
+[414.94] So it really eliminates a large percentage of the people who would normally benefit from taking the donepezil.
+[424.26] The best that we can hope for with any of our acetylcholinesterase inhibitor medications that are used for Alzheimer's disease,
+[432.98] is that they kind of, in effect, turn the clock back by about six months to a maximum of about a year.
+[441.50] But those medications are also going to be effective in a limited number of Alzheimer's disease patients,
+[449.42] and therefore the person should be assessed before treatment begins.
+[454.70] And then about two months after the treatment has started, to determine whether the medication is resulting in therapeutic benefits.
+[463.94] If there is no therapeutic benefit after about 2 to 3 months, the medication should be discontinued.

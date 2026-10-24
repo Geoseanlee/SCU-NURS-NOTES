@@ -1,0 +1,36 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=6dab43b7-7059-4524-bafe-b47c002114a6
+Type: captions, not an independently verified transcript
+
+[16.00] As we begin to understand the drugs of the parasympathetic nervous system, let's first quickly recall where they fit into the entire nervous system.
+[26.04] We were saying that the central nervous system consists of the brain and the spinal cord,
+[30.76] and off that comes the somatic nervous system and the autonomic nervous system.
+[37.00] This is another way to view the efferent portion of the nervous system.
+[41.20] The semantic nervous system is a portion of the efferent nervous system that's primarily voluntary and uses acetylcholine as a neurotransmitter.
+[51.48] And the autonomic nervous system is the portion that is, for the most part, not in our control.
+[57.92] As we saw in the last two portions. The sympathetic nervous system uses adrenaline and noradrenaline.
+[65.56] Meanwhile, the parasympathetic nervous system uses acetylcholine, and at this point,
+[71.95] just note that both the somatic nervous system and the autonomic nervous system use acetylcholine as the neurotransmitter.
+[81.19] So if we're using the same neurotransmitter, how is it that our medications that affect the parasympathetic nervous system,
+[90.23] the acetylcholine and the parasympathetic nervous system, how is it that that medication doesn't affect all of the muscles?
+[101.43] Well, the neuromuscular junction right here has nicotinic receptors at the effector.
+[108.35] So right here at the neuromuscular junction we use nicotinic receptors.
+[114.31] And meanwhile the parasympathetic nervous system receptors at the effector are mostly muscarinic receptors.
+[123.67] And that's the reason that most of our cholinergic or anticholinergic medications, for instance, do not affect the neuromuscular junction.
+[134.15] But we will see an exception to that rule.
+[137.65] In this lecture, when we talk about one specific type of medication, and that's something that we'll look out for.
+[145.61] Since the receptors in the parasympathetic nervous system are cholinergic receptors, so they use acetylcholine.
+[153.17] And most of the medications of the parasympathetic nervous system bind to the muscarinic receptors.
+[162.09] Some authors use the terms cholinergic and muscarinic interchangeably.
+[168.53] And given the fact that we often see the terms cholinergic and muscarinic used interchangeably,
+[174.97] are medications that affect the parasympathetic nervous system are often called cholinergic agents,
+[181.69] muscarinic agents, anticholinergic agents, or anti muscarinic agents.
+[189.41] So really quickly right now name four different names for the parasympathetic agents.
+[198.01] And you were right. If you said anti muscarinic agents. Anticholinergic agents parasympathetic antagonists, and acetylcholine antagonists.
+[210.08] All of those are oftentimes used interchangeably.
+[214.24] It can get confusing because authors oftentimes use different terms for these medications and sometimes within the same sentence.
+[222.84] So it's important to know all of those terms.
+[226.44] And the final thing that I want to point out about acetylcholine in this introduction is that the neurotransmitter is used all through the brain.
+[237.52] So any of our cholinergic agents or anticholinergic agents that break through the blood brain barrier, they're going to have effects on the brain.
+[248.04] As a matter of fact, as you'll see in a minute, some of our medications for Alzheimer's disease are cholinergic agents.
+[255.04] And conversely,
+[256.60] some of our anticholinergic agents that break through into the brain have been associated with increasing risk of developing Alzheimer's disease.

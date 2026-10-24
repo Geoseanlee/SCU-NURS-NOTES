@@ -1,0 +1,44 @@
+Source: https://scu.h5p.com/content/1291786006247891129
+Type: activity text extraction (full data in JSON)
+
+The acetylcholine that is released by the motor nerves at the neuromuscular junction binds to NICOTINIC receptors. (In other words, the neurotransmitter that moves your muscles binds to nicotinic receptors)
+
+The acetylcholine that is released at the effector in the parasympathetic nervous system (PNS), binds to MUSCARINIC receptors. (In other words, the main receptors for Acetylcholine in the PNS are the muscarinic receptors.)
+
+When we give a drug that affects the Parasympathetic Nervous System, it always affects muscle movement.
+
+Finish ?
+
+Retry ?
+
+Select the statement(s) that is(are) correct:
+
+Untitled Multiple Choice
+
+PNS antagonist
+
+Muscarinic antagonist
+
+Muscarinic blocker
+
+Acetylcholine antagonist
+
+Anticholinergic agent
+
+Antimuscarinic agent
+
+Sympathomimetic agent
+
+Parasympatholytic agent.
+
+Which of the following is NOT a commonly used term for a Parasympathetic Nervous System (PNS) antagonist?
+
+true
+
+Some of our medications that are helpful in Alzheimer's disease increase the acetylcholine in the brain.
+
+Untitled True/False Question
+
+false
+
+Anticholinergic agents that break the blood brain barrier (go into the brain) have no effect on memory or cognition

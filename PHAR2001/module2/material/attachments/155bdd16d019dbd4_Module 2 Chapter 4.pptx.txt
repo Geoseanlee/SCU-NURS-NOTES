@@ -1,0 +1,301 @@
+## ppt/notesSlides/notesSlide1.xml
+5
+
+## ppt/notesSlides/notesSlide2.xml
+12
+
+## ppt/notesSlides/notesSlide3.xml
+22
+
+## ppt/notesSlides/notesSlide4.xml
+25
+
+## ppt/slides/slide1.xml
+Introductory Pharmacology PHAR2001
+Final part/chapter of the Autonomic Nervous System Pharmacology
+Dr. Ken Wojcikowski
+
+## ppt/slides/slide2.xml
+Objectives
+Explain the difference between direct-acting and indirect-acting Parasympathomimetic drugs
+Know terms used to describe the parasympathomimetic drugs, for instance, muscarinic drugs, cholinergic agents, 
+acetylcholine agonists.
+Describe the actions interactions and side effects of the:
+Direct acting cholinergic agonists bethanechol and pilocarpine
+Indirect acting cholinergic agonists neostigmine and donepezil
+The antimuscarinic agents, using atropine as an example
+.
+
+## ppt/slides/slide3.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Drugs of the Parasympathetic Nervous System (PNS)
+Lesson 1:
+Understanding Acetylcholine, the neurotransmitter for the PNS (and the muscles – how can that be?) 
+
+## ppt/slides/slide4.xml
+
+
+## ppt/slides/slide5.xml
+Neurotransmitters of the ANS
+(Neurotransmitters are degraded by COMT and MAO in the SNS and Acetylcholinesterase in the PNS)
+From: Pearson Education Inc. 
+Benjamin Cummings  
+
+## ppt/slides/slide6.xml
+Acetylcholine binding 
+Skeletal muscle = nicotinic receptors. 
+PNS= muscarinic receptors
+
+## ppt/slides/slide7.xml
+
+
+## ppt/slides/slide8.xml
+
+
+## ppt/slides/slide9.xml
+Anticholinergic agents that break into the brain are associated with dementia
+
+## ppt/slides/slide10.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Drugs of the Parasympathetic Nervous System (PNS)
+Lesson 2:
+Important foundational information about the PNS
+
+## ppt/slides/slide11.xml
+The parasympathetic nervous system
+The 
+‘rest and digest’ 
+system
+Heart rate slows down
+Digestion begins
+Pupils constrict
+Think about the last time 
+you were able to relax
+
+## ppt/slides/slide12.xml
+
+
+## ppt/slides/slide13.xml
+
+
+## ppt/slides/slide14.xml
+
+
+## ppt/slides/slide15.xml
+
+
+## ppt/slides/slide16.xml
+Cholinergic agents
+Direct acting       or      Indirect acting
+Can be:
+Nicotinic
+Muscarinic (5 subsets)
+M1 brain (decreased in Alzheimer’s disease)
+M2 heart (cause decreased rate and force of heart beat)
+M3 relaxation of GIT, lacrimal secretion, pupil constriction, increased micturition and defecation, bronchoconstriction 
+M4 and M5 (not elucidated)
+
+## ppt/slides/slide17.xml
+Direct acting cholinergic agents act on the receptors, acting like acetylcholine
+
+## ppt/slides/slide18.xml
+Indirect acting cholinergic agents act on the enzyme that degrades acetylcholine 
+
+## ppt/slides/slide19.xml
+Thanks to Pearson Education 2011
+
+## ppt/slides/slide20.xml
+Cholinergic agents
+Direct acting       or      Indirect acting
+Can be:
+Nicotinic
+Muscarinic (5 subsets)
+M1 brain (decreased in Alzheimer’s disease)
+M2 heart (cause decreased rate and force of heart beat)
+M3 relaxation of GIT, lacrimal secretion, pupil constriction, increased micturition and defecation, bronchoconstriction 
+M4 and M5 (not elucidated)
+
+## ppt/slides/slide21.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Drugs of the PNS
+Lesson 3:
+Understanding the difference between direct and indirect acting cholinergic agents
+
+## ppt/slides/slide22.xml
+Cholinergic agonists
+Direct acting non-selective agonists include:
+Pilocarpine 
+(know this drug; used to treat glaucoma. While this is a non-selective agonist, pilocarpine is administered topically and has little systemic absorption, therefore the actions are fairly limited to the m3 receptors in the eyes)
+Bethanechol
+ (know this drug; previously used for non-obstructive urinary retention. Adverse effects: bradycardia, hypotension, diarrhoea, all consistent with parasympathetic stimulation.
+
+## ppt/slides/slide23.xml
+Direct acting cholinergic agonists
+Indications include non-obstructive postoperative and postpartum urinary retention
+Topically in eye to reduce intraocular pressure of glaucoma, mydriasis
+Adverse effects
+Extreme caution, even if used in eye
+Bradycardia, 
+Hypotension, 
+Nausea, vomiting, 
+Diarrhoea, dehydration
+Bronchoconstriction 
+
+## ppt/slides/slide24.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Drugs of the PNS
+Lesson 4:
+Indirect acting acetylcholine inhibitors for Myasthenia gravis and Alzheimer’s disease
+
+## ppt/slides/slide25.xml
+Indirect acting cholinergic agonists
+Act on 
+acetylcholinesterase
+ at the post synaptic cleft
+Prevents the breakdown of acetylcholine
+More acetylcholine remains longer
+Drugs cause a reversible bond; 
+nerve gas is irreversible 
+Used for patients with: 
+Myasthenia gravis 
+(Edrophonium is used to diagnose myasthenia gravis)
+Neo
+stigmine
+ 
+(know this drug) and pyrido
+stigmine 
+are used to treat MG 
+Alzheimer’s disease
+Donepezil 
+(know this drug)
+Galantamine
+ 
+(know this drug)
+Riva
+stigmine
+ 
+
+## ppt/slides/slide26.xml
+Myasthenia 
+gravis
+
+## ppt/slides/slide27.xml
+Myasthenia Gravis often affects facial muscles
+
+## ppt/slides/slide28.xml
+Myasthenia Gravis
+Myasthenia gravis
+Autoimmune disorder
+Destruction of 
+ACh
+ receptors
+Neostigmine 
+Prevents breakdown of 
+ACh
+Side effects: 
+Bradycardia
+Normally taken with a parasympatholytic such as atropine.
+Anorexia, nausea, vomiting, abdominal cramps, and diarrhoea
+
+## ppt/slides/slide29.xml
+Alzheimer’s disease
+Progressive loss of 
+ACh
+ neurons
+Galantamine
+Acetylcholinesterase inhibitor
+Git complaints 
+Alzheimer’s disease
+
+## ppt/slides/slide30.xml
+Alzheimer’s disease
+Progressive loss of 
+ACh
+ neurons
+Galantamine
+Acetylcholinesterase inhibitor
+Git complaints 
+
+## ppt/slides/slide31.xml
+Advanced Alzheimer’s disease
+Donepezil
+ (Aricept; know this drug) 
+Reversible acetylcholinesterase inhibitor that is 100% bioavailable and crosses the BB barrier
+Two clinical trials indicate it may be effective for moderate to severe Alzheimer’s disease
+Should be used with caution in patients with cardiac disease, cardiac conduction disturbances, chronic obstructive pulmonary disease, asthma
+Patients with gastrointestinal disorders should use caution because nausea or vomiting may occur.
+
+## ppt/slides/slide32.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Drugs of the PNS
+Lesson 5:
+Anticholinergic agents
+
+## ppt/slides/slide33.xml
+Anticholinergic agents
+Other terms used:
+Anticholinergics
+Parasympatholytics
+Muscarinic antagonists
+Antimuscarinic agents 
+Allows the sympathetic system to dominate
+
+## ppt/slides/slide34.xml
+Many of our medications inadvertently bind to and block the acetylcholine muscarinic receptor
+
+## ppt/slides/slide35.xml
+Anticholinergic agents allow the sympathetic nervous system to dominate
+
+## ppt/slides/slide36.xml
+Muscarinic antagonists
+Include 
+Atropine (know this drug)
+Hyoscine
+Hyoscamine
+Cyclopentolate
+Indications:
+Antispasmodics in GIT spasm, 
+Counterbalance bradycardia
+Antiemetic
+Antiasthma agent
+Treatment of urinary frequency
+
+## ppt/slides/slide37.xml
+Deadly nightshade contains atropine that is an anticholinergic agent
+
+## ppt/slides/slide38.xml
+This is a common mnemonic for anticholinergic overdose
+To describe the physiologic manifestations of atropine overdose: 
+“Hot as a hare, blind as a bat, dry as a bone, red as a beet, and mad as a hatter“ describing 
+warm, dry skin from decreased sweating, 
+blurry vision, decreased lacrimation, 
+vasodilation, and 
+central nervous system effects on muscarinic receptors
+This set of symptoms is known as anticholinergic toxidrome, and may also be caused by other drugs with anticholinergic effects, such as hyoscine hydrobromide (scopolamine), diphenhydramine, phenothiazine antipsychotics and benztropine
+
+## ppt/slides/slide39.xml
+References 
+Goldsy
+ RA et Al. Immunology 5
+th
+ ed. WH Freeman Publishers, 2003
+Marieb
+ E. Human Anatomy and Physiology, 5
+th
+ ed. Benjamin Cummings, San Francisco, 2001
+Rad, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+Martini FH, et al. Visual Anatomy and Physiology 1
+st
+ ed. Benjamin Cummings, 2011
+Royalty free images from Shutterstock
+The PowerPoint and associated Video were edited and produced by Dr. Ken Wojcikowski

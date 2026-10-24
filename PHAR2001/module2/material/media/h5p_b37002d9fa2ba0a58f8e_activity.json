@@ -1,0 +1,165 @@
+{
+  "source": "https://scu.h5p.com/content/1291786445255516849",
+  "assetBase": "h5p_b37002d9fa2ba0a58f8e_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_2_4_3_Direct_vs_indirect_cholinergic_agents",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "<div>This is the correct answer. What we want to do is to negate the high levels of acetylcholine in the PNS only. A muscarinic antagonist will do that and atropine is the drug of choice.</div>\n",
+                    "notChosenFeedback": "<div>This is the correct answer. What we want to do is to negate the high levels of acetylcholine in the PNS only. A muscarinic antagonist will do that and atropine is the drug of choice.&nbsp;</div>\n"
+                  },
+                  "text": "<div>Atropine</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "<div>Pilocarpine is a cholinergic agonist that is used as eye drops to decrease effects of glaucoma while awaiting surgery.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Pilocarpine is a cholinergic agonist that is used as eye drops to decrease effects of glaucoma while awaiting surgery.&nbsp;</div>\n"
+                  },
+                  "text": "<div>Pilocarpione</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "<div>Bethanechol is an acetylcholine agonist that acts like acetylcholine in the brain and as such is good for Alzheimer's disease.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Bethanechol is an acetylcholine agonist that acts like acetylcholine in the periphery, and as such is good to relax the urinary system so that the peson who has just undergone surgery can urinate.&nbsp;</div>\n"
+                  },
+                  "text": "<div>Bethanechol</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "<p>Donepezil is an indirect acetylcholine agonist that can cross into the brain and as such is good for Alzheimer's disease.</p>\n",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>Donepezil.&nbsp;</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Myasthenia gravis is an autoimmune disorder in which the client’s own immune system degrades the nicotinic acetylcholine receptors in the muscles. In order to get more acetylcholine in the neuromuscular junction, we cannot selectively hit the nicotinic receptors, so we use a different approach.</p>\n\n<p>Fistly, we administer an indirect cholinergic drug like neostigmine. That inhibits the enzyme that degrades acetylecholine and results in lots of acetylcholine. But it does it in the muscles AND in the PNS, yielding a lot of PNS side effects.</p>\n\n<p>Then we take an acetylcholine muscarinic antagonist like ________ to decrease the PNS side effects.&nbsp; Viola, we have more acetylcholine in the muscles and the normal amount in the PNS.&nbsp;</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "fd1b1e4e-27e3-4f57-bdac-0c6b95e7cb54"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+Source: https://scu.h5p.com/content/1291786458973868979
+Type: activity text extraction (full data in JSON)
+
+A sympatholytic agent
+
+A cholinergic agent
+
+An anticholinergic agent that stays out in the periphery
+
+An anticholinergic agent that breaks into the blood brain barrier.
+
+Finish ?
+
+Retry ?
+
+You listen to the client's history and your notes say this person is experiencing
+***Urinary retension,
+***Dry mouth and other GIT complaints
+***Light sensitivity from dilated pupils,
+***Mental confusion
+You think back to Introductory Pharmacology when you learned that these important symptoms probably mean that the person is on:
+
+Untitled Multiple Choice
+
+Atropine from the deadly nightshade plant
+
+Muscarine from the muscarinic mushrooms
+
+Donepezil from the deadly nightshade plant
+
+Bethanechol from the muscarinic mushrooms
+
+Anticholinergic agents include the bronchodilators (that we discuss next chapter) ipratropium bromide and tiotropium bromide which are structural analogues of the only drug we discussed in this lesson. What was the name of the anticholinergic agent we discussed and from plant is it derived?

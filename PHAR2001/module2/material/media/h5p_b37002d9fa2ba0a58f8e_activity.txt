@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291786445255516849
+Type: activity text extraction (full data in JSON)
+
+Atropine
+
+Pilocarpione
+
+Bethanechol
+
+Donepezil is an indirect acetylcholine agonist that can cross into the brain and as such is good for Alzheimer's disease.
+
+Donepezil.
+
+Finish ?
+
+Retry ?
+
+Myasthenia gravis is an autoimmune disorder in which the client’s own immune system degrades the nicotinic acetylcholine receptors in the muscles. In order to get more acetylcholine in the neuromuscular junction, we cannot selectively hit the nicotinic receptors, so we use a different approach.
+Fistly, we administer an indirect cholinergic drug like neostigmine. That inhibits the enzyme that degrades acetylecholine and results in lots of acetylcholine. But it does it in the muscles AND in the PNS, yielding a lot of PNS side effects.
+Then we take an acetylcholine muscarinic antagonist like ________ to decrease the PNS side effects.  Viola, we have more acetylcholine in the muscles and the normal amount in the PNS.
+
+Untitled Multiple Choice

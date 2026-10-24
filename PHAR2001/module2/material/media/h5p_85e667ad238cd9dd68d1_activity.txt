@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291801650029399899
+Type: activity text extraction (full data in JSON)
+
+Asthma involves smooth muscle hypertrophy and hyperplasia, thickened basement membrane in the bronchi, hyperplasia of mucus glands, and can potentially result in thick mucus that dries, causing mucus plugs.
+
+When the diameter of an airway decreases to half of its original size, the flow decreases to 16th meaning that a very small change in the diameter has a huge effect on the resistance of the airway.
+
+Asthma is often called a reversible disorder, but if left untreated, it is likely to result in permanent changes in the airways that restricts the flow of air.
+
+The best way to help asthmatic clients is to work extensively with one asthmatic client to find out what suggestions are helpful, and apply the same suggestions to all asthmatics.
+
+Treatment of asthma initially includes the occasional use of inhaled short acting bronchodilators, and if those need to be taken more than four times per week, there will be an inclusion of a low-dose inhaled corticosteroid or other anti-inflammatory agent. More severe asthma includes stronger inhaled corticosteroids and finally the addition of oral corticosteroid treatment.
+
+Asthma, Chronic Obstructive Pulmonary Disease (COPD; the combination of chronic bronchitis and emphysema) and cystic fibrosis can be called obstructive or ventilation disorders, as they all involve obstruction of the airways.
+
+Finish ?
+
+Retry ?
+
+Which of the follwoing is/are correct?
+
+Untitled Multiple Choice

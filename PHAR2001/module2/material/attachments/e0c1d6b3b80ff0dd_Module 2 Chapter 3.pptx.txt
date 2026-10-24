@@ -1,0 +1,205 @@
+## ppt/notesSlides/notesSlide1.xml
+5
+
+## ppt/slides/slide1.xml
+Introductory Pharmacology PHAR2001
+Third Part/Chapter of the Autonomic Nervous System (ANS) Pharmacology
+Dr. Ken Wojcikowski
+
+## ppt/slides/slide2.xml
+Objectives
+Describe the actions interactions and side effects of the following adrenergic antagonists:
+Phentolamine and labetalol (non-selective antagonist)
+Prazosin and doxazosin (an alpha 1 selective antagonist)
+Metoprolol and atenolol (a beta 1 selective adrenergic antagonist)
+These medications will be taken again at a later time. It is most important right now to understand why the actions and side effects occur.
+
+## ppt/slides/slide3.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Sympatholytics
+ (drugs that block the SNS) 
+Lesson 1:
+Understanding drugs that block the SNS
+
+## ppt/slides/slide4.xml
+Sympatholytic agents allow the parasympathetic nervous system dominate
+
+## ppt/slides/slide5.xml
+Sympatholytic drugs
+Block
+ adrenoreceptors on the surface of an effector or
+Prevent
+ transmission by adrenergic nerves 
+1. block
+2.prevent
+
+## ppt/slides/slide6.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Sympatholytics
+ 
+Lesson 2:
+Non-selective adrenergic blockers
+
+## ppt/slides/slide7.xml
+Non-selective sympatholytic drugs
+Mostly used to treat hypertension
+Labetalol (know this drug; used to treat pre-eclampsia)
+Adverse effects
+Postural hypotension 
+Blurred vision
+Bronchospasm (dyspnoea; contraindicated in asthma)
+Swollen ankles
+Nasal congestion
+
+## ppt/slides/slide8.xml
+Pre-eclampsia can advance to life threatening eclampsia
+
+## ppt/slides/slide9.xml
+Alpha antagonists 
+Recall the location of receptors:
+Blood vessels 
+Smooth muscles of the GIT
+Radial muscles of the eye
+Sphincters of the bladder
+If you block the adrenergic activity of these, 
+Vasodilation = decreased blood pressure
+Increased GI motility and secretions
+Pupil constriction
+Increased micturition
+
+## ppt/slides/slide10.xml
+ Non-selective 
+Alpha
+ antagonists
+Phentolamine (
+Regitine
+; know this drug)
+Used to: 
+Control hypertensive emergencies,  cocaine overdose, and adrenaline overdose
+Locally to increase blood flow for instance in the location of an injection of adrenaline
+Side effects:
+Nasal congestion
+Postural (orthostatic) hypotension
+
+## ppt/slides/slide11.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Sympatholytics
+ 
+Lesson 3:
+Selective adrenergic blockers                     (Part 1: Alpha 1 blockers)
+
+## ppt/slides/slide12.xml
+Alpha 1 antagonists
+Receptors in the blood vessels and prostate
+Drugs end in ‘…
+osin
+’ alfuz
+osin
+, praz
+osin
+…
+Treatment of 
+Hypertension  
+Benign prostatic hyperplasia
+May result in hypotension!!
+
+## ppt/slides/slide13.xml
+
+
+## ppt/slides/slide14.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Sympatholytics
+ 
+Lesson 4:
+Selective adrenergic blockers                      (Part 2: Beta blockers)
+
+## ppt/slides/slide15.xml
+Beta blockers
+
+## ppt/slides/slide16.xml
+Beta antagonists (…
+olol
+ drugs)
+Can be non-selective:
+Propran
+olol
+ (
+know
+ this drug; first of this class, but crosses blood brain barrier)
+Tim
+olol
+ (
+know
+ this drug; treatment of choice in the patient with hypertension and angina)
+Acebut
+olol
+… (other examples)
+Or selective for Beta 1 or Beta 2 receptors, but there are no clinical applications for Beta 2 antagonists
+Selective Beta 1 antagonists were developed to reduce bronchospasm
+Contraindicated for those with asthma, COPD, allergies
+
+## ppt/slides/slide17.xml
+Beta 1 antagonists
+The blockage of the beta 1 receptors in the heart 
+Decreased chronotropic effects 
+Decreased inotropic effects
+Together, these have the effect of 
+stabilising the rhythm and 
+leading to decrease in arrhythmias, 
+decreased cardiac workload 
+decreased oxygen consumption
+The blockage of the beta 1 receptors in the kidneys 
+Renin- angiotensin-aldosterone mechanism decreased 
+Decreased blood pressure 
+
+## ppt/slides/slide18.xml
+Beta 1 antagonists
+Metoprolol (
+lopressor
+; know this drug)
+Betaxolol
+, Atenolol 
+Adverse reactions:
+Dizziness
+Bradycardia
+Orthostatic hypotension
+Bronchospasm 
+Never stop this drug abruptly!
+
+## ppt/slides/slide19.xml
+The renin angiotensin aldosterone system increases water and salt retention
+A. Rad (me), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+
+## ppt/slides/slide20.xml
+There is no clinical use for Beta 2 antagonists in humans
+Why?
+Recall the location of the receptors:
+Lung
+Mast cells
+Skeletal muscle
+(These would constrict the bronchioles and make mast cells more sensitive, so there is no clinical application for this type of drug)
+
+## ppt/slides/slide21.xml
+References 
+Goldsy
+ RA et Al. Immunology 5
+th
+ ed. WH Freeman Publishers, 2003
+Marieb
+ E. Human Anatomy and Physiology, 5
+th
+ ed. Benjamin Cummings, San Francisco, 2001
+Rad, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+Martini FH, et al. Visual Anatomy and Physiology 1
+st
+ ed. Benjamin Cummings, 2011
+Royalty free images from Shutterstock
+The PowerPoint and associated Video were edited and produced by Dr. Ken Wojcikowski

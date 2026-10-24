@@ -1,0 +1,92 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=25100970-a922-4dca-88be-b47b00c09c2c
+Type: captions, not an independently verified transcript
+
+[15.40] The first thing that we need to do is to realise that different authors will use different terms for the drugs that act like adrenaline,
+[23.84] and we need to get used to all of those terms.
+[27.28] The terms symptomatic adrenergic agonists, alpha agonists, beta agonists and adrenergic receptor stimulators are all used,
+[41.44] and we need to know that those pertain to the drugs that act like adrenaline.
+[48.68] Hopefully you've got a good feel for exactly what a sympathetic mimetic, or in other words,
+[55.36] an adrenergic agonist will do as they stimulate various individual organs.
+[61.16] And if you've engaged in the introductory lecture. That should be the case.
+[66.49] You can refer back to this picture if you're finding it difficult to remember the actions of adrenergic agonists.
+[73.93] The first classification of adrenergic agonists that we'll be looking at in this lecture is going to be the non-selective sympathetic memetics.
+[84.61] Recall what we mean by non-selective.
+[88.09] Remember that we have different subsets of the adrenaline receptor the alpha one, alpha two, beta one and the beta two receptors,
+[97.85] adrenaline and other non-selective adrenergic agonists will hit all of those receptors equally.
+[105.21] So they'll have a profound action all the way through the body.
+[109.73] But in most applications, we need to narrow that down.
+[114.05] We need to try to be more selective so that we don't have as many adverse effects.
+[122.01] Here is a list of drugs that will fall under the classification of non-selective adrenergic agonists,
+[129.23] and the ones that I want you to know have the words know this drug after the name.
+[135.67] One of the most important uses of adrenaline itself is in the treatment of anaphylaxis, or sometimes called anaphylactic shock.
+[144.35] And as such, we need to know exactly what anaphylaxis is and how it's treated.
+[150.99] And to begin with, as an overview, there's four types of hypersensitivity reactions termed type one, type two, type three and type four.
+[161.95] The type one hypersensitivity reaction is also called a true allergic reaction.
+[168.91] So if a drug causes a type two or 3 or 4 hypersensitivity reaction, that's not a true allergy.
+[177.91] We would say that they have a hypersensitivity to the drug, because we try to restrict the use of the term allergy to a true allergic reaction.
+[189.12] Another thing to note is that we can have a type one hypersensitivity reaction without having anaphylaxis or anaphylactic shock.
+[198.12] For instance, allergic rhinitis, or sometimes called hay fever, is a local type one hypersensitivity reaction in the sinuses.
+[208.52] One can also have other local allergic reactions like skin allergies.
+[214.80] Adrenaline is not normally used for the local allergic reactions,
+[219.72] but when we have a reaction that becomes systemic and starts affecting a number of different organs, that's termed anaphylaxis.
+[229.32] And that's the point at which our adrenaline is going to be the primary treatment.
+[235.32] The type one hypersensitivity reaction begins as the person is exposed to the foreign protein, called the allergen.
+[243.00] It's normally a protein, but in some instances it's not.
+[247.44] Common allergens include proteins in bee stings and peanuts, shellfish and other fish.
+[254.81] Also penicillin and many other drugs and other foreign particles.
+[259.77] On the first exposure to the allergen, the immune system determines that it's harmful,
+[265.81] and it sets up a cascade of events that ends up with these memory T cells and the plasma cells.
+[274.45] That's an important step, because on the first exposure to the allergen,
+[278.69] the person may have some reactions to the allergen, but it's not generally going to proceed to anaphylaxis.
+[286.25] What that first exposure has done is to ensure that the body can respond really, really quickly the next time the body is exposed to that allergen.
+[298.17] So now that the person has been exposed to the allergen once and their immune system is armed and waiting upon the second exposure to the allergen,
+[308.73] there's an immediate type one hypersensitivity reaction that results in this mature B cell,
+[316.27] called a plasma cell, releasing these Y shaped proteins called immunoglobulins or immunoglobulin E.
+[324.95] The immunoglobulins then insert the bottom portion of this Y shaped structure, this protein that bottom portion into the mast cell.
+[335.39] And the basophils, those are similar cells.
+[338.87] And both of those become activated when that binding of the immunoglobulin occurs.
+[346.87] The biggest difference between those cells is that the mast cell is in the tissues like it does in the sinuses,
+[354.99] while the basophils are one of the blood cells, they float around in the blood as that immunoglobulin attaches to the mast cells in the basophils.
+[364.95] Those cells release what we call bags of granules.
+[370.03] Those cells have pre-formed bags of granules that contain mediators of inflammation,
+[379.80] and one of the most important mediators of inflammation that's released at that time is histamine.
+[386.96] Histamine does a lot of important things, and we need to understand those things in order to understand anaphylaxis.
+[396.44] Firstly it constricts the bronchi. It also dilates the blood vessels.
+[401.84] And finally it increases the permeability of the blood vessels.
+[406.84] So massive amounts of histamine are being released throughout the body.
+[410.76] And the histamine is hitting all those tiny little blood vessels, dilating the blood vessels and increasing the permeability.
+[419.04] The histamine is also hitting those airways, and at this point,
+[424.12] try to picture what you would think the person is experiencing in an anaphylactic shock.
+[429.88] What's happening to the blood pressure? The blood pressure is going to plummet.
+[434.84] Not only is there less resistance in the blood vessels. There's also less blood volume because a lot of it is escaping into the interstitial spaces.
+[446.78] What's going to happen to the face? What is the face going to look like?
+[451.86] Remember that all of the blood vessels are becoming more permeable, so the fluid from the blood is going into the interstitial spaces.
+[461.42] And that's going to give the person a thing called angioedema, a swelling of the face and mostly the lips.
+[469.46] But of course, that's not the only place that the oedema is occurring.
+[474.26] It's going to happen all the way through the body. The angioedema is just the thing that everyone notices.
+[482.42] The fluid in the blood is escaping to the interstitial spaces throughout the body.
+[487.94] So that's where adrenaline comes in. Adrenaline is actually called the physiological antagonist of histamine.
+[498.42] Remember the fight or flight response, what it does to the blood vessels, to the heart, and to the lumen of the airways.
+[505.79] Yes, it does exactly opposite the things that the histamine does.
+[510.47] And in addition to constricting the blood vessels, dilating the airways,
+[517.07] it also speeds up the heart to make sure that the blood pressure can get back up to the point where the bodily tissues have adequate blood supply.
+[527.91] So now you can understand why a person with a high probability of getting anaphylaxis is going to carry around what we call an EpiPen,
+[536.47] that is an injection of adrenaline. It's also called epinephrine into the thigh.
+[542.87] Normally it's the thigh as you see in this picture. Here you may wonder why adrenaline is also called epinephrine.
+[551.71] And that has to do with the derivation of the words.
+[557.67] So adrenaline comes from the Latin term add or above and renal, which is the kidney.
+[568.36] So above the kidney and epinephrine comes from the Greek words epi which is above, and nephron which has to do with the kidney as well.
+[578.48] So basically the two terms are both referring to the fact that the kidney above the kidney is the adrenal gland.
+[586.32] And in the adrenal medulla that is the the main source of noradrenaline and adrenaline.
+[594.68] One of the things about injections of adrenaline is the fact that it's a very, very strong constrictor of blood vessels.
+[602.72] And if you inject the adrenaline into the thigh,
+[606.36] there's a little bit of an area of necrosis there because of the fact that it's such a strong vasoconstrictor,
+[613.12] and that actually decreases the blood supply to the area and results in a area of necrosis.
+[621.32] But what would happen? What do you think would happen if you accidentally injected your finger with that same amount of adrenaline?
+[632.14] And sometimes that type of needle stick injury results in the loss of the tip of the finger.
+[640.26] So it's really important that if that type of thing happens, that the area is treated with Ventolin and Ventolin.
+[649.50] Amin is the antagonist of adrenaline.
+[653.06] It's actually a non-selective antagonist, which will say a little bit about in the next lecture.
+[660.94] In summary of the discussion of adrenaline, the primary use of adrenaline is in the treatment of anaphylactic shock.
+[667.94] But it's also important to realise that the person who treats themselves with
+[672.66] an EpiPen injection will still need to be assessed in a hospital setting.

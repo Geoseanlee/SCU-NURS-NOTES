@@ -1,0 +1,142 @@
+Source: https://www.youtube.com/watch?v=s6BzyVJ4V_g
+Type: captions, not an independently verified transcript
+
+[14.60] one of the things we have to understand
+[16.24] about the sympathetic nervous system
+[18.40] pharmacology is that it's much more
+[21.08] difficult to understand than it was for
+[23.00] instance about 50 years ago before that
+[26.36] time when we gave a sympathetic nervous
+[29.20] system Agonist for instance a drug that
+[32.92] acts like the sympathetic nervous system
+[36.00] uh sometimes it's called a
+[38.48] sympathomimetic or an adrenergic Agonist
+[42.12] there's a lot of different names for the
+[43.84] drugs and we have to remember pretty
+[45.96] much all of them but before about 50
+[48.84] years ago the sympathetic nervous system
+[51.60] agonists for instance were non selective
+[55.40] and what that meant was that the drugs
+[57.76] bound to Adrenaline receptor equally
+[60.84] they bound to all of the adrenaline
+[63.32] receptors and they acted like adrenaline
+[66.52] throughout the body and that was great
+[69.16] in conditions like anif shock where you
+[71.92] basically need all of the actions of
+[74.36] adrenaline but it was really problematic
+[76.68] in other applications so how could you
+[79.24] actually use a medication to just affect
+[83.12] the lungs for instance and not affect
+[85.64] the entire body and as our understanding
+[88.84] of the adrenergic receptors evolved we
+[91.36] started discovering the fact that
+[93.16] different organs have slightly different
+[96.28] receptors it's not like every organ has
+[99.84] a separate receptor adrenergic receptor
+[103.44] but there are four different major types
+[106.24] of
+[107.44] receptors so that's the point at which
+[110.12] our medications started becoming more
+[112.64] and more
+[114.04] selective so right now we have
+[116.88] medications that just affect the alpha
+[120.00] one receptor or just affect the beta 1
+[123.88] receptor or just affect the beta 2
+[127.24] receptor and right now I'd like to give
+[129.48] you an overview of the different
+[131.40] receptors that we found because we're
+[133.84] going to use that information in the
+[136.04] next two parts as we learn some of the
+[138.12] more specific important drugs that work
+[141.60] on the sympathetic nervous system
+[144.40] there's four major types of adrenergic
+[146.80] receptors the alpha 1 Alpha 2 beta 1 and
+[150.64] beta 2 receptors and we've already
+[153.36] learned that we're going to put that
+[155.72] Alpha 2 receptor aside for right now
+[158.96] because that one's employed to have the
+[161.80] body make sure that the adrenaline
+[164.12] response doesn't get out of control it
+[166.32] does pretty much exactly opposite of
+[168.60] what our other receptors do so let's put
+[171.96] the Alpha 2 aside we just have three to
+[174.32] overview right now there's the alpha 1
+[177.40] receptor and the most important organs
+[180.28] that have the alpha 1 receptor is the
+[183.80] blood vessels the smooth muscles of the
+[186.28] gastrointestinal tract the radial
+[188.52] muscles of the eye and the sphincters of
+[191.36] the urinary bladder so let's just play
+[194.08] with this for a moment if we had a
+[197.12] sympathomimetic or sometimes called a
+[199.52] sympathetic nervous system Agonist that
+[202.96] was selective for the alpha 1 receptor
+[207.60] what actions would it have on the blood
+[209.28] vessels what actions would it have on
+[211.28] the git on the radial muscles of the eye
+[214.72] and the sphincters of the urinary
+[217.84] bladder well thinking about it just
+[220.40] logically a selective sympathetic
+[223.56] nervous system Agonist so something that
+[226.16] acts just like adrenaline would
+[229.12] constrict the blood vessels giving a
+[232.52] higher blood pressure of course and it
+[234.72] would slow down the git and that would
+[238.48] possibly result in con ipation and dry
+[240.84] mouth it would also dilate the pupils of
+[244.24] the eye allowing more light in and it
+[247.48] would constrict the urinary bladder
+[249.80] possibly making it much more difficult
+[251.80] to
+[252.52] urinate do you see what we're doing here
+[255.00] let's go the other way let's try a
+[257.12] selective
+[259.04] sympatholytic drug so an antagonist an
+[262.88] adrenergic
+[264.52] antagonist that's selectively blocking
+[267.48] the Alpha One receptor
+[270.76] what's that going to
+[272.80] do well it's going to dilate the blood
+[275.52] vessels it would get the git secretions
+[278.40] and motility moving it would constrict
+[281.08] the pupils of the eye and it would relax
+[283.64] the urinary bladder and being a
+[286.68] selective drug that works on the alpha 1
+[289.60] receptors that's going to have far fewer
+[292.64] side effects than a non-selective drug
+[295.68] because it's not going to affect other
+[297.64] organs as much but just to be clear a
+[301.24] selective medication is still going to
+[303.88] have some effects on The receptors on
+[306.76] the other receptors just not as much of
+[309.88] an effect as a non-selective
+[312.96] medication and in this slide we see the
+[315.32] beta one receptor is primarily on the
+[317.72] heart and the kidneys so hypothesize
+[320.72] what would happen to the heart rate and
+[323.76] contractility if a selective beta 1
+[327.16] antagonist was given so we're
+[330.16] antagonizing we're blocking the effect
+[332.64] of adrenaline on the heart the
+[335.20] adrenaline normally speeds up the heart
+[337.92] so an antagonist would slow down the
+[342.40] heart and finally there's the beta 2
+[345.96] receptor and the primary location of the
+[348.76] beta 2 receptor is the
+[351.48] lungs so right now hypothesize what type
+[355.16] of drug you would give for a person who
+[357.92] has asthma in asthma you have a
+[360.56] constriction of the Airways what you
+[362.24] want to do is dilate it so what kind of
+[365.08] drug would you use would you use a beta
+[367.80] 2 Agonist or a beta 2
+[372.60] antagonist remember you'd want to get
+[375.60] the actions of adrenaline for an asmatic
+[378.20] so that would be a beta 2 Agonist so
+[381.32] something that acts like adrenaline most
+[384.20] puffer drugs for asmatics have some
+[386.52] selective beta 2 agonists in the
+[391.80] medication good thanks very much for
+[395.12] sticking with us to the end of the
+[397.60] introduction of the autonomic nervous
+[399.76] system

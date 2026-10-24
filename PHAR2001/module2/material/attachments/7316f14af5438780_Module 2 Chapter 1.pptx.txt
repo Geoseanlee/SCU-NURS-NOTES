@@ -1,0 +1,206 @@
+## ppt/notesSlides/notesSlide1.xml
+6
+
+## ppt/notesSlides/notesSlide2.xml
+7
+
+## ppt/notesSlides/notesSlide3.xml
+8
+
+## ppt/notesSlides/notesSlide4.xml
+15
+
+## ppt/notesSlides/notesSlide5.xml
+19
+
+## ppt/notesSlides/notesSlide6.xml
+21
+
+## ppt/notesSlides/notesSlide7.xml
+22
+
+## ppt/slides/slide1.xml
+
+
+## ppt/slides/slide2.xml
+Introductory Pharmacology PHAR2001
+First Part/Chapter of the Autonomic Nervous System (ANS) Pharmacology
+Dr Ken Wojcikowski
+
+## ppt/slides/slide3.xml
+Autonomic Nervous System Pharmacology
+Chapter Approach for the ANS:
+Introduction 
+Adrenergic pharmacology (Agonists) 
+Adrenergic pharmacology (Antagonists)
+Cholinergic pharmacology
+
+## ppt/slides/slide4.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Foundational Information for Understanding Autonomic Nervous System (ANS) Pharmacology
+Lesson 1:
+Overview of the autonomic nervous system 
+
+## ppt/slides/slide5.xml
+Describe the general properties of the ANS including the bodily functions it helps regulate, its two neuron nature, the neurotransmitters used, and the enzymes that degrade those neurotransmitters in the synaptic cleft.
+Give the other names of a sympathomimetic drug (for instance, adrenergic agonist), a sympatholytic drug (for instance, an adrenergic antagonist or blocker), an acetylcholine agonist (for instance, a muscarinic drug) and an acetylcholine antagonist (for instance, an antimuscarinic drug)
+Name the structures affected by the alpha 1, the beta 1 and the beta 2 receptors of the sympathetic nervous system, and for each of those structures note the effect of a 1. Sympathomimetic drug, and 2. Sympatholytic drug.
+Compare the actions of the sympathetic and parasympathetic nervous systems on the heart, the pupils of the eyes, the entire gastrointestinal system including the amount of saliva that is produced, the lungs, and the urinary bladder
+.
+Objectives for first ANS chapter
+
+## ppt/slides/slide6.xml
+Pinrest.com 
+https://www.pinterest.com.au/pin/217650594465085044/
+
+## ppt/slides/slide7.xml
+
+
+## ppt/slides/slide8.xml
+Neurotransmitters of the ANS
+(Neurotransmitters are degraded by COMT and MAO in the SNS and Acetylcholinesterase in the PNS)
+From: Pearson Education Inc. 
+Benjamin Cummings  
+
+## ppt/slides/slide9.xml
+
+
+## ppt/slides/slide10.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Foundational Information for Understanding ANS Pharmacology
+Lesson 2:
+Using logic to understand the divisions of the ANS
+
+## ppt/slides/slide11.xml
+The sympathetic system
+‘Fight or flight’ 
+responses
+Rapid heart rate
+No need to digest or urinate
+Need to dilate pupils
+Think about the last time 
+a bear chased you…
+
+## ppt/slides/slide12.xml
+https://www.telegraph.co.uk/news/newstopics/howaboutthat
+
+## ppt/slides/slide13.xml
+Contracts urinary sphincters 
+Relaxes urinary sphincters 
+
+## ppt/slides/slide14.xml
+The parasympathetic system
+The 
+‘rest and digest’ 
+system
+Heart rate slows
+Digestion begins
+Pupils constrict
+Think about the last time you were able to chill out (
+well, try to remember
+)
+
+## ppt/slides/slide15.xml
+
+
+## ppt/slides/slide16.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Foundational Information for Understanding ANS Pharmacology
+Lesson 3:
+Overview of the drugs of the ANS
+
+## ppt/slides/slide17.xml
+ANS pharmacology has one simple rule
+Drugs that affect the autonomic nervous system have one of four actions
+They can increase the sympathetic system response
+They can increase the parasympathetic system response
+They can decrease the sympathetic system response
+They can decrease the parasympathetic system response
+
+## ppt/slides/slide18.xml
+In medicine, there are always exceptions to the rule…
+Drugs that affect the autonomic nervous system have one of four actions
+They can increase the sympathetic system response
+They can increase the parasympathetic system response
+They can decrease the sympathetic system response
+They can decrease the parasympathetic system response
+EXCEPT:
+Alpha 2 receptors (sympathetic system)
+Central nicotinic receptors (parasympathetic system) 
+LET’S IGNORE THE EXCEPTIONS UNTIL LATER (postpone readings until the appropriate time)
+
+## ppt/slides/slide19.xml
+Neurotransmitters of the ANS
+(Neurotransmitters are degraded by COMT and MAO in the SNS and Acetylcholinesterase in the PNS)
+From: Pearson Education Inc. 
+Benjamin Cummings  
+
+## ppt/slides/slide20.xml
+Contracts urinary sphincters 
+Relaxes urinary sphincters 
+
+## ppt/slides/slide21.xml
+
+
+## ppt/slides/slide22.xml
+Autonomic Nervous System (ANS)
+Sympathetic         vs        Parasympathetic
+
+## ppt/slides/slide23.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Foundational Information for Understanding ANS Pharmacology
+Lesson 4:
+The selective nature of ANS receptors
+
+## ppt/slides/slide24.xml
+‘Selective’ SNS receptors: Alpha 1 receptors
+Location of receptors:
+Blood vessels 
+Smooth muscles of the GIT
+Sweat glands
+Radial muscles of the eye
+Sphincters of the bladder
+
+## ppt/slides/slide25.xml
+‘Selective’ SNS receptors: Beta 
+1
+ receptors
+Location of receptors:
+Heart 
+Git 
+Kidneys
+
+## ppt/slides/slide26.xml
+‘Selective’ SNS receptors: Beta 
+2
+ receptors
+Location of receptors:
+Lung
+Mast cells
+Uterus
+Skeletal muscle
+
+## ppt/slides/slide27.xml
+References 
+Goldsy
+ RA et Al. Immunology 5
+th
+ ed. WH Freeman Publishers, 2003
+Marieb
+ E. Human Anatomy and Physiology, 5
+th
+ ed. Benjamin Cummings, San Francisco, 2001
+Rad, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+Martini FH, et al. Visual Anatomy and Physiology 1
+st
+ ed. Benjamin Cummings, 2011
+Royalty free images from Shutterstock
+The PowerPoint and associated Video were edited and produced by Dr. Ken Wojcikowski

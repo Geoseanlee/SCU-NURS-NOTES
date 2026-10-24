@@ -1,0 +1,52 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=3739ed9e-90b3-4c24-aa2f-b47b01292169
+Type: captions, not an independently verified transcript
+
+[14.84] So the parasympathetic nervous system the rest and digest system.
+[20.40] Take a deep breath, relax and think about what that is going to do to your organs.
+[27.32] The pupils. They're constricting your heart.
+[32.72] It's slowing down your gi t salivation and other secretions are increasing.
+[41.84] Movement is increasing. It's the rest and digest system.
+[46.84] The digest system. Your blood vessels.
+[52.20] There's a lack of constriction, so it's similar to relaxing the blood vessels.
+[57.52] Your blood pressure is going down. In urination.
+[62.75] Urination becomes easier. Be careful. Don't relax too much.
+[68.75] That's pretty much what you would expect from a cholinergic agent, sometimes called a muscarinic agent.
+[76.51] Oh, this slide has some really pretty mushrooms. I wonder whether they're edible.
+[81.67] The term muscarinic comes from early studies on the parasympathetic nervous system.
+[87.47] When we found that muscarinic from these mushrooms bound to the muscarinic acetylcholine receptor and acted as acetylcholine.
+[99.67] So if you served these mushrooms to a guest at a dinner party, what would you think that they would start to experience?
+[107.71] Remember, they're acting like acetylcholine, the main neurotransmitter of the parasympathetic nervous system.
+[114.67] The rest and digest system. They're acting on the muscarinic receptors, but not the nicotinic receptors.
+[124.25] So your guests aren't going to be experiencing spasticity.
+[129.05] Their muscles aren't going to be constantly contracted.
+[133.25] Those mushrooms are not going to affect the muscles, but they are going to affect the organs of the parasympathetic nervous system.
+[143.01] So how are you going to know that you just served poisonous mushrooms to your dinner guests?
+[148.65] Predict what will be happening. It's the same effects that we just went through, but this time a toxic dose is involved.
+[158.37] You'd be correct if you predicted an increased salivation, excessive movement in the JIT leading to cramping and diarrhoea.
+[167.13] Broncho constriction leading to a feeling of dyspnoea, bradycardia or a decreased heart rate leading to hypotension.
+[176.97] And finally, the pupils of the eyes would be constricting to the point where they will have eye pain.
+[184.32] So as your guests are rushed to the hospital from eating those pretty mushrooms, what kind of treatment are they going to receive as an antidote?
+[193.04] Well, they've just taken something that's acting like acetylcholine on the muscarinic receptors.
+[199.48] So what we need to do is give them an acetylcholine antagonist.
+[204.68] We want to block those acetylcholine muscarinic receptors.
+[208.92] And atropine is the specific drug that they'll receive.
+[213.84] We'll talk about atropine later in this chapter. The cholinergic action of those mushrooms are direct acting.
+[221.80] But there can be indirect acting cholinergic agents as well.
+[226.60] And you may think, well, what's the difference?
+[230.88] Well, at the level of the neurone, the direct acting cholinergic agents bind to the receptor sites and act like acetylcholine on the receptors.
+[241.94] So that's a direct acting cholinergic agent.
+[246.18] But conversely, the indirect acting cholinergic agents act on that enzyme in the synaptic cleft that degrades the acetylcholine.
+[256.82] Recall that acetylcholine, or any neurotransmitter for that matter,
+[260.82] is degraded in milliseconds after its release so that it doesn't continue sending messages to the next neurone.
+[268.82] Well, the indirect acting cholinergic agents inhibit that enzyme called acetylcholine esterase,
+[277.66] and in turn, the acetylcholine is there for a lot longer period of time.
+[283.22] Recall when we were talking about the sympathetic nervous system,
+[286.86] we broke down the selective receptors to alpha one, alpha two, beta one, and beta two.
+[295.02] Well, we're finding subsets of cholinergic receptors as well.
+[299.78] In comparison, however, the elucidation of those specific cholinergic receptors is fairly recent in time, so we don't know as much about them.
+[308.85] And also we don't have as many selective cholinergic drugs.
+[313.93] Nonetheless, it is important to know that they exist, and in the future, we're no doubt going to have more selective cholinergic drugs.
+[323.61] At this point, know that M1, the muscarinic one receptor, is in the brain M2.
+[331.33] The specific muscarinic receptor is in the heart, and the M3 receptor is associated with just about everything else.
+[340.65] It's associated with the relaxation of the GI t, the criminal secretion,
+[346.69] the pupil constriction, increased urination, defaecation, and also the broncho constriction.

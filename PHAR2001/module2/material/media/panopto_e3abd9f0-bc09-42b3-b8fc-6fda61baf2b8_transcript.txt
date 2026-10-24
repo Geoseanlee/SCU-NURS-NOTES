@@ -1,0 +1,58 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=5f2a6597-b996-4c9a-87d2-b47b018aa376
+Type: captions, not an independently verified transcript
+
+[14.48] One of the things we have to understand about the sympathetic nervous system pharmacology is that it's much more difficult to understand that it was,
+[22.76] for instance, about 50 years ago, before that time when we gave a sympathetic nervous system agonist,
+[30.72] for instance, a drug that acts like the sympathetic nervous system.
+[36.24] Sometimes it's called a sympathetic mimetic or an adrenergic agonist.
+[42.12] There's a lot of different names for the drugs, and we have to remember pretty much all of them.
+[46.92] But before, about 50 years ago, the sympathetic nervous system agonists, for instance, were non-selective.
+[55.32] And what that meant was that the drugs bound to adrenaline receptors.
+[60.29] Equally, they bound to all of the adrenaline receptors and they acted like adrenaline throughout the body.
+[67.89] And that was great in conditions like anaphylactic shock where you basically need all of the actions of adrenaline.
+[74.97] But it was really problematic in other applications.
+[77.89] So how could you actually use a medication to just affect the lungs, for instance, and not affect the entire body?
+[87.01] And as our understanding of the adrenergic receptors evolved, we started discovering the fact that different organs have slightly different receptors.
+[97.01] It's not like every organ has a separate receptor adrenergic receptor, but there are four different major types of receptors.
+[108.13] So that's the point at which our medications started becoming more and more selective.
+[114.81] So right now we have medications that just affect the alpha one receptor or just affect the beta one receptor, or just affect the beta two receptor.
+[128.03] And right now, I'd like to give you an overview of the different receptors that we've found,
+[133.23] because we're going to use that information in the next two parts as we learn some of the more specific,
+[139.67] important drugs that work on the sympathetic nervous system.
+[144.03] There's four major types of adrenergic receptors the alpha one, alpha two, beta one and beta two receptors.
+[152.23] And we've already learned that we're going to put that alpha two receptor aside for right now,
+[158.79] because that one's employed to have the body make sure that the adrenaline response doesn't get out of control.
+[165.95] It does pretty much exactly the opposite of what our other receptors do.
+[170.79] So let's put the alpha two aside. And we just have three to overview right now.
+[175.63] There's the alpha one receptor, and the most important organs that have the alpha one receptor is the blood vessels,
+[185.04] the smooth muscles of the gastrointestinal tract, the radial muscles of the eye, and the sphincters of the urinary bladder.
+[192.68] So let's just play with this for a moment.
+[195.12] If we had a sympathetic mimetic or sometimes called a sympathetic nervous system agonist that was selective for the alpha one receptor,
+[207.20] what actions would it have on the blood vessels?
+[209.84] What actions would it have on the git, on the radial muscles of the eye and the sphincters of the urinary bladder?
+[218.64] Well, thinking about it, just logically a selective sympathetic nervous system agonist.
+[225.20] So something that acts just like adrenaline would constrict the blood vessels, giving a higher blood pressure, of course.
+[233.88] And it would slow down the git and that would possibly result in constipation and dry mouth.
+[241.70] It would also dilate the pupils of the eye, allowing more light in,
+[246.34] and it would constrict the urinary bladder, possibly making it much more difficult to urinate.
+[253.50] Do you see what we're doing here? Let's go the other way. Let's try a selective sympathetic lytic drug.
+[260.42] So an antagonist, an adrenergic antagonist that's selectively blocking the alpha one receptor.
+[270.50] What's that going to do? Well, it's going to dilate the blood vessels.
+[276.06] It would get the GI secretions and motility moving.
+[279.90] It would constrict the pupils of the eye and it would relax the urinary bladder.
+[285.54] And being a selective drug that works on the alpha one receptors,
+[290.38] that's going to have far fewer side effects than a non-selective drug because it's not going to affect other organs as much.
+[299.19] But just to be clear, a selective medication is still going to have some effects on the receptors on the other receptors,
+[308.51] just not as much of an effect as a non-selective medication.
+[313.71] And in this slide we see the beta one receptor is primarily on the heart and the kidneys.
+[319.31] So hypothesise what would happen to the heart rate and contractility if a selective beta one antagonist was given.
+[328.91] So we're antagonising. We're blocking the effect of adrenaline on the heart.
+[334.87] The adrenaline normally speeds up the heart, so an antagonist would slow down the heart.
+[342.95] And finally, there's the beta two receptor. And the primary location of the beta two receptor is the lungs.
+[352.03] So right now Hypothesise what type of drug you would give for a person who has asthma.
+[359.45] In asthma, you have a constriction of the airways. What you want to do is dilate it.
+[363.49] So what kind of drug would you use? Would use a beta two agonist or a beta two antagonist?
+[373.45] Remember you'd want to get the actions of adrenaline for an asthmatic.
+[378.01] So that would be a beta two agonist. So something that acts like adrenaline.
+[383.77] Most puffer drugs for asthmatics have some selective beta two agonists in the medication.
+[392.57] Good. Thanks very much for sticking with us to the end of the introduction of the autonomic nervous system.

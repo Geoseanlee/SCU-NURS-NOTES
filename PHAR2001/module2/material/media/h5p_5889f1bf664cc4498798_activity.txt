@@ -1,0 +1,6 @@
+Source: https://scu.h5p.com/content/1291801056476788779
+Type: activity text extraction (full data in JSON)
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words

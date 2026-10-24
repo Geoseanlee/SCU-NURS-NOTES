@@ -1,0 +1,273 @@
+## ppt/notesSlides/notesSlide1.xml
+5
+
+## ppt/notesSlides/notesSlide2.xml
+6
+
+## ppt/notesSlides/notesSlide3.xml
+18
+
+## ppt/notesSlides/notesSlide4.xml
+19
+
+## ppt/notesSlides/notesSlide5.xml
+21
+
+## ppt/notesSlides/notesSlide6.xml
+22
+
+## ppt/notesSlides/notesSlide7.xml
+24
+
+## ppt/notesSlides/notesSlide8.xml
+29
+
+## ppt/notesSlides/notesSlide9.xml
+31
+
+## ppt/slides/slide1.xml
+Introductory Pharmacology PHAR2001
+Second Part/Chapter  of the Autonomic Nervous System (ANS) Pharmacology
+Dr. Ken Wojcikowski
+
+## ppt/slides/slide2.xml
+Objectives for second chapter on the ANS drugs
+Describe the actions, interactions and side effects of the following adrenergic agonists:
+Adrenaline (non-selective agonist)
+Phenylephrine (an alpha 1 selective agonist)
+Dobutamine (a beta 1 adrenergic agonist)
+Salbutamol (a beta 2 adrenergic agonist)
+Dopamine
+These medications will be taken again at a later time. It is most important right now to 
+understand
+ why the actions and side effects occur
+
+## ppt/slides/slide3.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Sympathomimetics (Drugs that mimic the sympathetic nervous system (SNS)
+Lesson 1:
+Understanding Anaphylaxis and the Role of Adrenaline
+
+## ppt/slides/slide4.xml
+Sympathomimetic drugs
+Sympathomimetics
+Adrenergic agonists 
+Alpha agonist
+Beta agonist
+Adrenergic receptor stimulators
+These terms are often used interchangeably and therefore should all be known as drugs that increase the sympathetic response
+
+## ppt/slides/slide5.xml
+From: Daily 
+Mail.Co
+ UK
+Contraction of urinary sphincters 
+
+## ppt/slides/slide6.xml
+Non-selective sympathomimetic 
+Specific drugs:
+Adrenaline (know this drug)
+Noradrenaline
+Metaraminol
+Ephedrine
+Dopamine (know this drug)
+Pseudoephedrine (Know; combined with antihistamines and analgesics)
+These have limited use due to their effect on a wide range of organs, but are still used for treatment of hypotension and anaphylactic shock. 
+After intravenous administration of adrenaline, an Alpha-adrenergic antagonist should be administered locally to offset the vasoconstricting effects of adrenaline. 
+
+## ppt/slides/slide7.xml
+Only a Type I hypersensitivity reaction is a true allergy!
+
+## ppt/slides/slide8.xml
+
+
+## ppt/slides/slide9.xml
+
+
+## ppt/slides/slide10.xml
+
+
+## ppt/slides/slide11.xml
+
+
+## ppt/slides/slide12.xml
+
+
+## ppt/slides/slide13.xml
+
+
+## ppt/slides/slide14.xml
+
+
+## ppt/slides/slide15.xml
+
+
+## ppt/slides/slide16.xml
+Anaphylaxis (Anaphylactic shock)
+
+## ppt/slides/slide17.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Sympathomimetics 
+Lesson 2:
+Non-selective adrenergic agonists other than adrenaline
+
+## ppt/slides/slide18.xml
+Non-selective sympathomimetic 
+Specific drugs:
+Adrenaline (know this drug)
+Noradrenaline
+Metaraminol
+Ephedrine
+Dopamine (know this drug)
+Pseudoephedrine (Know; combined with antihistamines and analgesics)
+These have limited use due to their effect on a wide range of organs, but are still used for treatment of hypotension and anaphylactic shock. 
+After intravenous administration of adrenaline, an Alpha-adrenergic antagonist should be administered locally to offset the vasoconstricting effects of adrenaline. 
+
+## ppt/slides/slide19.xml
+‘Selective’ adrenergic receptor stimulation
+Subtypes of adrenergic receptors
+Alpha
+Alpha 1
+Alpha 2
+Beta
+Beta 1 
+Beta2
+While drugs that target these ‘selective’ receptors have more selectivity, they still result in some stimulation to the       other receptors, especially in high doses. 
+
+## ppt/slides/slide20.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Sympathomimetics 
+Lesson 3:
+Selective alpha adrenergic agonists
+
+## ppt/slides/slide21.xml
+‘Selective’ adrenergic receptor stimulation
+Subtypes of adrenergic receptors
+Alpha
+Alpha 1
+Alpha 2
+Beta
+Beta 1 
+Beta2
+While drugs that target these ‘selective’ receptors have more selectivity, they still result in some stimulation to the       other receptors, especially in high doses. 
+
+## ppt/slides/slide22.xml
+Alpha 1 receptors
+Location of receptors:
+‘Peripheral’ blood vessels (including those in the nasal passages; large muscles do not have this constriction to ensure they get enough blood to move quickly)
+Smooth muscles of the GIT (less effect than Beta 1 stimulation)
+Sphincters of the bladder
+Radial muscles of the eye
+ Given the location of the receptors, hypothesise the uses and side effects of Alpha 1 sympathomimetics
+
+## ppt/slides/slide23.xml
+Alpha 1 agonists: side effects
+Any sympathetic nervous system actions can be increased, but the most common adverse effects include: 
+Hypertension
+Constipation 
+Urinary retention
+(eye pain is possible)
+
+## ppt/slides/slide24.xml
+Actions: Alpha 1 agonists
+Nasal passages and eyes:
+The constrictive effects of Alpha 1 adrenergic agonists can counteract the vasodilation that leads to nasal congestion and the ‘red eye’.
+Systemically:
+Increase in blood pressure (through a constriction of blood vessels).
+Dilate the pupils
+Allows as much light in as possible but can also lead to eye pain when too much light is being allowed in. 
+In minor surgery	
+Local administration constricts blood vessels for less bleeding and decreased systemic absorption of local anaesthesia
+
+## ppt/slides/slide25.xml
+Alpha 1 agonists
+(Most end in -
+ine
+, like epinephrine but that is not a formal suffix)
+Phenylephrine (know this one; used primarily as a decongestant, as an agent to dilate the pupils, and to increase blood pressure. )
+Midodrine (oral decongestant)
+Naphazoline (intranasal decongestant)
+Oxymetazoline (know this drug; intranasal decongestant)
+Xylometazoline (intranasal decongestant)
+
+## ppt/slides/slide26.xml
+Alpha 2 agonists
+This is the exception to the rule so ignore for now. 
+Explanation: the Alpha 2 receptor exists to make sure that the adrenaline response does not result in so much stimulation that it can do harm. It is a ‘negative feedback’ type of receptor and does exactly opposite to that which one would expect. 
+
+## ppt/slides/slide27.xml
+Introductory Pharmacology PHAR2001
+Autonomic Nervous System Pharmacology
+Dr Ken Wojcikowski
+Sympathomimetics 
+Lesson 4:
+Selective beta adrenergic agonists
+
+## ppt/slides/slide28.xml
+Beta 1 adrenergic receptors
+Location
+Heart 
+Git 
+Kidneys
+Given the location of the receptors, hypothesise the uses and side effects of Beta 1 agonists (selective Beta 1 sympathomimetics)
+
+## ppt/slides/slide29.xml
+Actions: Beta 1 adrenergic agonists
+Positive 
+chronotropic
+ effects (increased heart rate)
+Positive 
+inotropic
+ effect (increase in the contractile force of the heart)
+K
+now these terms – chrono=time (beats/min)  
+inos
+=fibre (how much stretch 
+Therefore these drugs are useful in circulatory shock, hypotension and cardiac arrest
+Adverse effects
+GIT – constipation
+Kidneys – decreased blood flow = increased systemic blood pressure via the renin angiotensin aldosterone mechanism
+Example: 
+Dobutamine
+ (know this drug; used to treat acute but potentially reversible heart failure)
+
+## ppt/slides/slide30.xml
+Beta 2 receptors
+Location
+Lung 
+Mast cells
+Skeletal muscle
+Given the location of the receptors, hypothesise the uses and side effects of Beta 2 agonists (selective Beta 2 sympathomimetics)
+
+## ppt/slides/slide31.xml
+Actions: Beta 2 agonists
+Bronchodilation
+Mast cell stabilisation 
+(Side effect: often associated with muscle tremor)
+Used in chronic obstructive pulmonary disease, acute asthma and premature labour
+Eformoterol
+, indacaterol, salmeterol
+Salbutamol (know this drug; used for the relief of bronchospasm in conditions such as asthma and COPD
+
+## ppt/slides/slide32.xml
+References 
+Goldsy
+ RA et Al. Immunology 5
+th
+ ed. WH Freeman Publishers, 2003
+Marieb
+ E. Human Anatomy and Physiology, 5
+th
+ ed. Benjamin Cummings, San Francisco, 2001
+Rad, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+Martini FH, et al. Visual Anatomy and Physiology 1
+st
+ ed. Benjamin Cummings, 2011
+Royalty free images from Shutterstock
+The PowerPoint and associated Video were edited and produced by Dr. Ken Wojcikowski

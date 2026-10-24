@@ -1,0 +1,32 @@
+Source: https://scu.h5p.com/content/1291786398763847049
+Type: activity text extraction (full data in JSON)
+
+Tachycardia, or an increased heart rate and increased contractility.
+
+Dry mouth
+
+Constipation
+
+Bronchoconstriction and dyspnoea (feeling of difficulty in breathing)
+
+Dilation of the pupils and difficulty adjusting to bright light
+
+Hypertension
+
+Finish ?
+
+Retry ?
+
+The poisonous, pretty mushrooms that were seen in this lesson contain the alkaloid MUSCARINE, which binds to the acetylcholine MUSCARINIC receptors in the PNS, and acts like an agonist. (it acts like acetylcholine)  As such they would cause which of the following?
+
+Untitled Multiple Choice
+
+true
+
+Direct acting cholinergic drugs of the PNS act like acetylcholine on the muscarinic receptors. Indirect acting cholinergic drugs inhibit the enzyme acetylcholinesterase, that breaks down acetylcholine in the synaptic cleft, allowing the actual nerurotransmitter acetylcholine to remain in the synaptic cleft longer.
+
+Untitled True/False Question
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words

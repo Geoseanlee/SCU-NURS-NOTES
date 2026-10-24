@@ -1,0 +1,27 @@
+Source: https://scu.h5p.com/content/1291782605297171429
+Type: activity text extraction (full data in JSON)
+
+A drug gives a side effect of thirst. This would be a result
+of a drug that increased the SNS or decreased the PNS
+
+A drug is contraindicated in asthmatic clients. This would be likely with drugs that decreased the SNS or increased the PNS due to the constriction of the airways.
+
+A drug has a side effect of constipation. The drug would most likely be one that increases the SNS or decreases the PNS.
+
+A drug gives your client a racing heart. This would be likely with drugs that increase the SNS or decrease the PNS
+
+A drug makes urination difficult. This would be likely with drugs that decrease the SNS or increase the PNS
+
+Finish ?
+
+Retry ?
+
+We can predict the actions of drugs using the simple rule that we learned in this lesson. Choose the correct statement(s) from the following list:
+
+Untitled Multiple Choice
+
+true
+
+You can predict the actions of adrenaline on various organs, as the previous activity just proved. But the adrenergic alpha 2 receptor is a receptor primarily aimed at controlling the sympathetic nervous system response and does the opposite of what we would expect in some organs. Therefore, we will be putting the drugs that primarily act on the alpha 2 receptor aside and not discuss those drugs in this module.
+
+Untitled True/False Question
