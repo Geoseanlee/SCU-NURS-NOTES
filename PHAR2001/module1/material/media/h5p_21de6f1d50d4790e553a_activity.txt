@@ -1,0 +1,18 @@
+Source: https://scu.h5p.com/content/1291770401923001649
+Type: activity text extraction (full data in JSON)
+
+While most of our enzymatic inhibitors are reversible, there are irreversible inhibitors as well
+
+If an irreversible inhibitor is used, the drug needs to be degraded at the active site or the enzyme needs to be replaced by the cell, meaning that the effect of the drug will last a lot longer than the half life of the drug would suggest.
+
+Enzymes are proteins that catalyse or speed up a biological process
+
+Irreversible enzymatic inhibitors last for the life of the cell involved.
+
+Finish ?
+
+Retry ?
+
+Choose the correct statement(s) about enzymes and our medications that inhibit them
+
+Untitled Multiple Choice

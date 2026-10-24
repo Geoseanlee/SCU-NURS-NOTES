@@ -1,0 +1,540 @@
+# PHAR2001 — complete course index / 完整课程索引
+
+Snapshot: 2026-10-24. All six modules are included. Every node returned by the signed-in recursive Blackboard course inventory is indexed; this does **not** mean every external video or tool works offline.
+
+**范围与限制：**保存当前账号可访问的课程正文、附件、可下载的视频、字幕及互动活动数据。外部服务、未发布内容、课堂录播入口、评分测验仅保留链接；未进行答题、提交或修改课程内容。H5P 保存活动题文与完整参数 JSON，不宣称为可离线运行的互动播放器。YouTube 视频与字幕的实际下载状态分别列于 manifest；失败及限流逐项记录。
+
+## Coverage / 完整性
+
+| Section | Inventory nodes | HTML body nodes |
+|---|---:|---:|
+| [assessments](assessments/) | 10 | 0 |
+| [classes](classes/) | 3 | 0 |
+| [general](general/) | 5 | 2 |
+| [module1](module1/) | 99 | 46 |
+| [module2](module2/) | 72 | 33 |
+| [module3](module3/) | 48 | 21 |
+| [module4](module4/) | 71 | 33 |
+| [module5](module5/) | 47 | 22 |
+| [module6](module6/) | 33 | 15 |
+| [orientation](orientation/) | 35 | 14 |
+| [tutorials](tutorials/) | 4 | 0 |
+
+Attachments downloaded: 106/106.
+Attachment types: {'application/pdf': 26, 'text/html': 47, 'application/vnd.openxmlformats-officedocument.wordprocessingml.document': 7, 'image/png': 8, 'application/vnd.openxmlformats-officedocument.presentationml.presentation': 17, 'image/jpeg': 1}.
+HTML iframe wrappers are saved as original files and their YouTube targets are tracked separately; a saved wrapper is not counted as a saved video. The digital assessment planner is an online application, not an offline tool.
+Media: {'panopto: captions_downloaded': 121, 'youtube: transcript_downloaded': 85, 'h5p: activity_data_downloaded': 129, 'youtube: unavailable': 65}.
+Playable video copies downloaded: 271/271.
+
+## Revision notes / 中英文复习笔记
+
+- Module 1: [English](module1/Module1_Notes_EN.md) · [中文](module1/Module1_%E7%AC%94%E8%AE%B0.md)
+- Module 2: [English](module2/Module2_Notes_EN.md) · [中文](module2/Module2_%E7%AC%94%E8%AE%B0.md)
+- Module 3: [English](module3/Module3_Notes_EN.md) · [中文](module3/Module3_%E7%AC%94%E8%AE%B0.md)
+- Module 4: [English](module4/Module4_Notes_EN.md) · [中文](module4/Module4_%E7%AC%94%E8%AE%B0.md)
+- Module 5: [English](module5/Module5_Notes_EN.md) · [中文](module5/Module5_%E7%AC%94%E8%AE%B0.md)
+- Module 6: [English](module6/Module6_Notes_EN.md) · [中文](module6/Module6_%E7%AC%94%E8%AE%B0.md)
+
+**External-resource checks:** both courses’ Zoom Cloud Recordings tabs reported no recordings on or before 2026-10-24. No meeting was joined and no Zoom setting was changed. Graded assessment attempts, submissions and other students’ discussion posts are not part of this archive. Blackboard knowledge-check placeholders are labelled online-only; H5P practice questions are saved separately as activity data.
+
+Video quality: Panopto copies use the player-provided podcast MP4 rendition; YouTube copies use a selected playable MP4 (normally 360p, up to 480p where available), not a claim of maximum/source resolution.
+
+Large originals are stored as numbered byte-for-byte parts when above 80 MiB. Each includes a REASSEMBLE guide and SHA-256. `archive_manifest.json` records original sizes and hashes.
+
+## Remaining limits / 尚未完整离线保存
+
+- youtube youtube_CelLRGhOYLo: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=CelLRGhOYLo! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=CelLRGhOYLo)
+- youtube youtube_5VO8tvLr8lA: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5VO8tvLr8lA! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=5VO8tvLr8lA)
+- youtube youtube_iyAAMKdmJqM: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=iyAAMKdmJqM! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=iyAAMKdmJqM)
+- youtube youtube_DxefitZjDgg: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=DxefitZjDgg! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=DxefitZjDgg)
+- youtube youtube_UlQ-1phs9e4: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=UlQ-1phs9e4! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=UlQ-1phs9e4)
+- youtube youtube_9sekPhLCRKU: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9sekPhLCRKU! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=9sekPhLCRKU)
+- youtube youtube_S8cw2DwelGo: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=S8cw2DwelGo! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=S8cw2DwelGo)
+- youtube youtube_aMtGnRigvXY: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=aMtGnRigvXY! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=aMtGnRigvXY)
+- youtube youtube_BQPrsjPPrc0: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=BQPrsjPPrc0! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=BQPrsjPPrc0)
+- youtube youtube_6czDpuDkvaY: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=6czDpuDkvaY! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=6czDpuDkvaY)
+- youtube youtube_vw4vli66x04: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=vw4vli66x04! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=vw4vli66x04)
+- youtube youtube_mu-DUuec6Mo: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mu-DUuec6Mo! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=mu-DUuec6Mo)
+- youtube youtube_4lreyYOsz8c: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=4lreyYOsz8c! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=4lreyYOsz8c)
+- youtube youtube_kFmDvGVocDw: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=kFmDvGVocDw! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=kFmDvGVocDw)
+- youtube youtube_DcPfA4RMlno: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=DcPfA4RMlno! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=DcPfA4RMlno)
+- youtube youtube_SiwTmemPXPI: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=SiwTmemPXPI! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=SiwTmemPXPI)
+- youtube youtube_lVGyiGFgRnQ: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lVGyiGFgRnQ! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=lVGyiGFgRnQ)
+- youtube youtube_yKeudiDKj3s: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=yKeudiDKj3s! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=yKeudiDKj3s)
+- youtube youtube_8FdEzQsqgo8: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=8FdEzQsqgo8! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=8FdEzQsqgo8)
+- youtube youtube_9QDtu2sOrns: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9QDtu2sOrns! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=9QDtu2sOrns)
+- youtube youtube_JaIpI37x1WI: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JaIpI37x1WI! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=JaIpI37x1WI)
+- youtube youtube_e13XqgS9Ui8: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=e13XqgS9Ui8! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=e13XqgS9Ui8)
+- youtube youtube_jH2HaHALg5Y: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=jH2HaHALg5Y! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=jH2HaHALg5Y)
+- youtube youtube_xTeti-xMmyQ: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=xTeti-xMmyQ! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=xTeti-xMmyQ)
+- youtube youtube_CQll7zLf06Y: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=CQll7zLf06Y! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=CQll7zLf06Y)
+- youtube youtube_hdMz4XTFP9Y: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=hdMz4XTFP9Y! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=hdMz4XTFP9Y)
+- youtube youtube_ujyBu_yk-do: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=ujyBu_yk-do! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=ujyBu_yk-do)
+- youtube youtube_Pi_jiBXSFNI: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Pi_jiBXSFNI! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=Pi_jiBXSFNI)
+- youtube youtube_Cjz-FVBqaoQ: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Cjz-FVBqaoQ! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=Cjz-FVBqaoQ)
+- youtube youtube_K502bYWUfvE: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=K502bYWUfvE! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=K502bYWUfvE)
+- youtube youtube_YZ6o_AxxVH8: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=YZ6o_AxxVH8! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=YZ6o_AxxVH8)
+- youtube youtube_FXuOFqVJASc: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=FXuOFqVJASc! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=FXuOFqVJASc)
+- youtube youtube__Mu15EvK0rc: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=_Mu15EvK0rc! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=_Mu15EvK0rc)
+- youtube youtube_AvYepI8IsdI: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=AvYepI8IsdI! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=AvYepI8IsdI)
+- youtube youtube_wUdOzo2_Unw: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=wUdOzo2_Unw! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=wUdOzo2_Unw)
+- youtube youtube_YJzeDV_Iy70: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=YJzeDV_Iy70! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=YJzeDV_Iy70)
+- youtube youtube_1MvwAoOotBQ: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1MvwAoOotBQ! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=1MvwAoOotBQ)
+- youtube youtube_KMbEtKAW1sI: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=KMbEtKAW1sI! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=KMbEtKAW1sI)
+- youtube youtube_kkB2s6vWfeY: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=kkB2s6vWfeY! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=kkB2s6vWfeY)
+- youtube youtube_hqk7mNHr5UY: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=hqk7mNHr5UY! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=hqk7mNHr5UY)
+- youtube youtube_5TwyLfbTurk: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5TwyLfbTurk! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=5TwyLfbTurk)
+- youtube youtube_bcZz8o8kbE0: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=bcZz8o8kbE0! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=bcZz8o8kbE0)
+- youtube youtube_lYiCDGU-uD0: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lYiCDGU-uD0! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=lYiCDGU-uD0)
+- youtube youtube_SKFzMtmTRS4: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=SKFzMtmTRS4! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=SKFzMtmTRS4)
+- youtube youtube_zNkQjraUIvw: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=zNkQjraUIvw! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=zNkQjraUIvw)
+- youtube youtube_DhnrkhpC8vA: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=DhnrkhpC8vA! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=DhnrkhpC8vA)
+- youtube youtube_OQAr4i7YDQ0: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=OQAr4i7YDQ0! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=OQAr4i7YDQ0)
+- youtube youtube_IJVy9bMH7uo: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=IJVy9bMH7uo! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=IJVy9bMH7uo)
+- youtube youtube_9M3jm6OvIwU: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9M3jm6OvIwU! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=9M3jm6OvIwU)
+- youtube youtube_uecvUng8Nko: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=uecvUng8Nko! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=uecvUng8Nko)
+- youtube youtube_2BYS8hsiKDY: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=2BYS8hsiKDY! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=2BYS8hsiKDY)
+- youtube youtube_rO28DSDYxOs: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rO28DSDYxOs! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=rO28DSDYxOs)
+- youtube youtube_L7syhck3rBE: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=L7syhck3rBE! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=L7syhck3rBE)
+- youtube youtube_9f-EnJ7PkBA: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9f-EnJ7PkBA! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=9f-EnJ7PkBA)
+- youtube youtube_fyb2zV_rdPQ: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fyb2zV_rdPQ! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=fyb2zV_rdPQ)
+- youtube youtube_O98AyvpcKcc: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=O98AyvpcKcc! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=O98AyvpcKcc)
+- youtube youtube_Kowy80UHvCo: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Kowy80UHvCo! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=Kowy80UHvCo)
+- youtube youtube_FWbciTdfHzY: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=FWbciTdfHzY! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=FWbciTdfHzY)
+- youtube youtube_YDjkebWWgAs: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=YDjkebWWgAs! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=YDjkebWWgAs)
+- youtube youtube_bdTj3G3cW_Y: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=bdTj3G3cW_Y! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=bdTj3G3cW_Y)
+- youtube youtube_pRZAL64qJCs: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=pRZAL64qJCs! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=pRZAL64qJCs)
+- youtube youtube_EvI8JR2q8Ps: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=EvI8JR2q8Ps! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=EvI8JR2q8Ps)
+- youtube youtube_fD0PoYVUUJk: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fD0PoYVUUJk! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=fD0PoYVUUJk)
+- youtube youtube_Lp3pFjKoZl8: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Lp3pFjKoZl8! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=Lp3pFjKoZl8)
+- youtube youtube_JNihp-m2Um0: video saved; captions limitation: IpBlocked:  Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JNihp-m2Um0! This is most likely caused by:  YouTube is blocking requests from your IP. This usually is due to one of the following reas — [original](https://www.youtube.com/watch?v=JNihp-m2Um0)
+
+## Reading order / 原课程层级
+
+- [Classes](classes/material/7352141_1_classes.html) — container_archived
+  - [Class timetable](classes/material/7352164_1_class_timetable.html) — external_link_indexed
+  - [Join a class (Zoom)](classes/material/7352165_1_join_a_class_zoom.html) — link_or_empty_source
+- [Unit Orientation - Part 1](orientation/material/7352139_1_unit_orientation_part_1.html) — container_archived
+  - [Getting Started with the new MySCU](orientation/material/7352148_1_getting_started_with_the_new_myscu.html) — media_archived
+  - [Welcome to the unit](orientation/material/7352149_1_welcome_to_the_unit.html) — container_archived
+    - [Welcome to the unit](orientation/material/7352169_1_welcome_to_the_unit.html) — body_archived
+  - [Unit Outline](orientation/material/7817224_1_unit_outline.html) — file_archived
+  - [Unit Outline](orientation/material/7817213_1_unit_outline.html) — file_archived
+  - [Optional Content: PHAR2001 Unit Download](orientation/material/7821077_1_optional_content_phar2001_unit_download.html) — container_archived
+    - [Optional Content: PHAR2001 Unit Download](orientation/material/7821078_1_optional_content_phar2001_unit_download.html) — body_archived
+  - [GenAI use guide](orientation/material/7352154_1_genai_use_guide.html) — container_archived
+    - [GenAI use guide](orientation/material/7352173_1_genai_use_guide.html) — body_archived
+  - [Mandatory Modules at SCU](orientation/material/7352155_1_mandatory_modules_at_scu.html) — container_archived
+    - [Mandatory Modules at SCU](orientation/material/7352174_1_mandatory_modules_at_scu.html) — body_archived
+  - [Accessibility & technology support](orientation/material/7352156_1_accessibility_technology_support.html) — container_archived
+    - [Accessibility & technology support](orientation/material/7352175_1_accessibility_technology_support.html) — body_archived
+  - [Your feedback](orientation/material/7352157_1_your_feedback.html) — container_archived
+    - [Your feedback](orientation/material/7352176_1_your_feedback.html) — body_archived
+  - [Get ready for week 1](orientation/material/7352158_1_get_ready_for_week_1.html) — container_archived
+    - [Get ready for week 1](orientation/material/7352177_1_get_ready_for_week_1.html) — body_archived
+- [Unit Orientation Part 2: Pre-term activities](orientation/material/7758060_1_unit_orientation_part_2_pre_term_activities.html) — container_archived
+  - [A warm welcome from your Unit Assessor](orientation/material/7758080_1_a_warm_welcome_from_your_unit_assessor.html) — container_archived
+    - [A warm welcome from your Unit Assessor](orientation/material/7758144_1_a_warm_welcome_from_your_unit_assessor.html) — body_archived
+  - [Let's practice learning from your interactive pharmacology textbook!](orientation/material/7758081_1_let_s_practice_learning_from_your_interactive_pharmacology_textbook.html) — container_archived
+    - [Let's practice learning from your interactive pharmacology textbook!](orientation/material/7758145_1_let_s_practice_learning_from_your_interactive_pharmacology_textbook.html) — body_archived
+  - [Activity: Example 1 of the individual lessons: Scheduling of drugs](orientation/material/7758082_1_activity_example_1_of_the_individual_lessons_scheduling_of_drugs.html) — container_archived
+    - [Activity: Example 1 of the individual lessons: Scheduling of Drugs](orientation/material/7758146_1_activity_example_1_of_the_individual_lessons_scheduling_of_drugs.html) — body_archived
+  - [Activity: Example 2 of the individual lessons: Medicinal formulations](orientation/material/7758083_1_activity_example_2_of_the_individual_lessons_medicinal_formulations.html) — container_archived
+    - [Activity: Example 2 of the individual lessons: Medicinal formulations](orientation/material/7758147_1_activity_example_2_of_the_individual_lessons_medicinal_formulations.html) — body_archived
+  - [Activity: Example 3 of the individual lessons](orientation/material/7758084_1_activity_example_3_of_the_individual_lessons.html) — container_archived
+    - [Example 3 of the individual lessons](orientation/material/7758148_1_example_3_of_the_individual_lessons.html) — body_archived
+  - [Activity: Start a folder for your notes!](orientation/material/7758085_1_activity_start_a_folder_for_your_notes.html) — container_archived
+    - [Activity: Start a folder for your notes!](orientation/material/7758149_1_activity_start_a_folder_for_your_notes.html) — body_archived
+  - [Your warm-up is finished: You are ready to go for it!](orientation/material/7758086_1_your_warm_up_is_finished_you_are_ready_to_go_for_it.html) — container_archived
+    - [Your warm-up is finished: You are ready to go for it!](orientation/material/7758150_1_your_warm_up_is_finished_you_are_ready_to_go_for_it.html) — body_archived
+  - [Click on this video if you have ever said that you don't like online units](orientation/material/7758087_1_click_on_this_video_if_you_have_ever_said_that_you_don_t_like_online_units.html) — container_archived
+    - [Click on this video if you have ever said that you don't like online units](orientation/material/7758151_1_click_on_this_video_if_you_have_ever_said_that_you_don_t_like_online_units.html) — body_archived
+- [Assessments](assessments/material/7352140_1_assessments.html) — container_archived
+  - [Assessment 1: The Quiz Folder](assessments/material/7352161_1_assessment_1_the_quiz_folder.html) — container_archived
+    - [Assessment 1 Brief](assessments/material/7788755_1_assessment_1_brief.html) — container_archived
+      - [Assessment 1 Brief](assessments/material/7788756_1_assessment_1_brief.html) — body_archived
+  - [Assessment 2: The workbook folder](assessments/material/7352162_1_assessment_2_the_workbook_folder.html) — container_archived
+    - [Assessment 2 Brief](assessments/material/7788757_1_assessment_2_brief.html) — container_archived
+      - [Assessment 2 Brief](assessments/material/7788758_1_assessment_2_brief.html) — body_archived
+  - [Assessment 3: The Case Study Folder](assessments/material/7352163_1_assessment_3_the_case_study_folder.html) — container_archived
+    - [Assessment 3 Brief](assessments/material/7788775_1_assessment_3_brief.html) — container_archived
+      - [Assessment 3 Brief](assessments/material/7788776_1_assessment_3_brief.html) — body_archived
+- [The Interactive Pharmacology 'Textbook' involves all module content below (Modules 1-6)](general/material/7783593_1_the_interactive_pharmacology_textbook_involves_all_module_content_below_modules_1_6.html) — link_or_empty_source
+- [Module 1: Understanding Medications using the Gastrointestinal System](module1/material/7758061_1_module_1_understanding_medications_using_the_gastrointestinal_system.html) — container_archived
+  - [Module overview](module1/material/7758088_1_module_overview.html) — container_archived
+    - [Module overview](module1/material/7758152_1_module_overview.html) — body_archived
+  - [Chapter 1.1: Medications that work by chemical or direct action](module1/material/7758089_1_chapter_1_1_medications_that_work_by_chemical_or_direct_action.html) — container_archived
+    - [Introduction to Module 1: Chapter 1](module1/material/7758153_1_introduction_to_module_1_chapter_1.html) — container_archived
+      - [Introduction to Module 1: Chapter 1](module1/material/7758357_1_introduction_to_module_1_chapter_1.html) — body_archived
+    - [Introduction to antacids](module1/material/7758154_1_introduction_to_antacids.html) — container_archived
+      - [Activity: Overview of antacids](module1/material/7758358_1_activity_overview_of_antacids.html) — body_archived
+    - [Activity: Safety issues of antacids](module1/material/7758155_1_activity_safety_issues_of_antacids.html) — container_archived
+      - [Activity: Safety issues of antacids](module1/material/7758359_1_activity_safety_issues_of_antacids.html) — body_archived
+    - [Specific antacids](module1/material/7758156_1_specific_antacids.html) — container_archived
+      - [Activity: Specific antacids](module1/material/7758360_1_activity_specific_antacids.html) — body_archived
+    - [Introduction to the laxatives](module1/material/7758157_1_introduction_to_the_laxatives.html) — container_archived
+      - [Activity: Introduction to the laxatives](module1/material/7758361_1_activity_introduction_to_the_laxatives.html) — body_archived
+    - [Understand constipation before suggesting laxatives](module1/material/7758158_1_understand_constipation_before_suggesting_laxatives.html) — container_archived
+      - [Activity: Understand constipation before suggesting laxatives](module1/material/7758362_1_activity_understand_constipation_before_suggesting_laxatives.html) — body_archived
+    - [Osmotic laxatives](module1/material/7758159_1_osmotic_laxatives.html) — container_archived
+      - [Activity: Osmotic laxatives](module1/material/7758363_1_activity_osmotic_laxatives.html) — body_archived
+    - [Stimulant laxatives](module1/material/7758160_1_stimulant_laxatives.html) — container_archived
+      - [Activity: Stimulant laxatives](module1/material/7758364_1_activity_stimulant_laxatives.html) — body_archived
+    - [Activity: Mineral oil and detergent laxatives](module1/material/7758161_1_activity_mineral_oil_and_detergent_laxatives.html) — container_archived
+      - [Activity: Mineral oil and detergent laxatives](module1/material/7758365_1_activity_mineral_oil_and_detergent_laxatives.html) — body_archived
+    - [Summary of Chapter 1](module1/material/7758162_1_summary_of_chapter_1.html) — container_archived
+      - [Summary of Chapter 1](module1/material/7758366_1_summary_of_chapter_1.html) — body_archived
+  - [Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors](module1/material/7758090_1_chapter_1_2_intro_to_pharmacodynamics_medications_that_work_on_cellular_receptors.html) — container_archived
+    - [Introduction to Chapter 2](module1/material/7758163_1_introduction_to_chapter_2.html) — container_archived
+      - [Introduction to Chapter 2](module1/material/7758367_1_introduction_to_chapter_2.html) — body_archived
+    - [Understand safety issues around diarrhoea before treating it](module1/material/7758164_1_understand_safety_issues_around_diarrhoea_before_treating_it.html) — container_archived
+      - [Understand safety issues around diarrhoea before treating it](module1/material/7758368_1_understand_safety_issues_around_diarrhoea_before_treating_it.html) — body_archived
+    - [Drug nomenclature (Naming)](module1/material/7758165_1_drug_nomenclature_naming.html) — container_archived
+      - [Drug nomenclature (Naming)](module1/material/7758369_1_drug_nomenclature_naming.html) — body_archived
+    - [Comparing Loperamide to other opioids](module1/material/7758166_1_comparing_loperamide_to_other_opioids.html) — container_archived
+      - [Comparing Loperamide to other opioids](module1/material/7758370_1_comparing_loperamide_to_other_opioids.html) — body_archived
+    - [Cellular receptors](module1/material/7758167_1_cellular_receptors.html) — container_archived
+      - [Cellular receptors](module1/material/7758371_1_cellular_receptors.html) — body_archived
+    - [Affinity potency selectivity](module1/material/7758168_1_affinity_potency_selectivity.html) — container_archived
+      - [Affinity potency selectivity](module1/material/7758372_1_affinity_potency_selectivity.html) — body_archived
+    - [Agonists antagonists and inverse agonists](module1/material/7758169_1_agonists_antagonists_and_inverse_agonists.html) — container_archived
+      - [Agonists antagonists and inverse agonists](module1/material/7758373_1_agonists_antagonists_and_inverse_agonists.html) — body_archived
+    - [Loperamide](module1/material/7758170_1_loperamide.html) — container_archived
+      - [Loperamide](module1/material/7758374_1_loperamide.html) — body_archived
+    - [Activity: Summary video](module1/material/7758171_1_activity_summary_video.html) — container_archived
+      - [Activity: Summary video](module1/material/7758375_1_activity_summary_video.html) — body_archived
+  - [Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs](module1/material/7758091_1_chapter_1_3_intro_to_pharmacokinetics_absorption_distribution_metabolism_and_excretio.html) — container_archived
+    - [Introduction](module1/material/7758172_1_introduction.html) — container_archived
+      - [Introduction](module1/material/7758376_1_introduction.html) — body_archived
+    - [Absorption of drugs](module1/material/7758173_1_absorption_of_drugs.html) — container_archived
+      - [Absorption of drugs, Part 1](module1/material/7758377_1_absorption_of_drugs_part_1.html) — body_archived
+    - [Distribution of drugs](module1/material/7758174_1_distribution_of_drugs.html) — container_archived
+      - [Distribution of drugs](module1/material/7758378_1_distribution_of_drugs.html) — body_archived
+    - [Metabolism of drugs](module1/material/7758175_1_metabolism_of_drugs.html) — container_archived
+      - [Metabolism of drugs](module1/material/7758379_1_metabolism_of_drugs.html) — body_archived
+    - [Excretion of drugs](module1/material/7758176_1_excretion_of_drugs.html) — container_archived
+      - [Excretion of drugs](module1/material/7758380_1_excretion_of_drugs.html) — body_archived
+    - [Drug class affixes](module1/material/7758177_1_drug_class_affixes.html) — container_archived
+      - [Drug class affixes](module1/material/7758381_1_drug_class_affixes.html) — body_archived
+    - [Understanding the side effects of reducing stomach acid](module1/material/7758178_1_understanding_the_side_effects_of_reducing_stomach_acid.html) — container_archived
+      - [Understanding the side effects of reducing stomach acid](module1/material/7758382_1_understanding_the_side_effects_of_reducing_stomach_acid.html) — body_archived
+    - [Histamine 2 blockers](module1/material/7758179_1_histamine_2_blockers.html) — container_archived
+      - [Histamine 2 blockers](module1/material/7758383_1_histamine_2_blockers.html) — body_archived
+    - [Activity: Watch this video summary of this chapter](module1/material/7758180_1_activity_watch_this_video_summary_of_this_chapter.html) — container_archived
+      - [Activity: Watch this video summary of this chapter](module1/material/7758384_1_activity_watch_this_video_summary_of_this_chapter.html) — body_archived
+  - [Chapter 1.4: Medications that exert their effects on enzymes](module1/material/7758092_1_chapter_1_4_medications_that_exert_their_effects_on_enzymes.html) — container_archived
+    - [Introduction](module1/material/7758181_1_introduction.html) — container_archived
+      - [Introduction](module1/material/7758385_1_introduction.html) — body_archived
+    - [Reviewing Pharmacokinetics by following omeprazole through the body](module1/material/7758182_1_reviewing_pharmacokinetics_by_following_omeprazole_through_the_body.html) — container_archived
+      - [Reviewing Pharmacokinetics by following omeprazole through the body](module1/material/7758386_1_reviewing_pharmacokinetics_by_following_omeprazole_through_the_body.html) — body_archived
+    - [Enzymatic inhibition by drugs, Part 1](module1/material/7758183_1_enzymatic_inhibition_by_drugs_part_1.html) — container_archived
+      - [Enzymatic inhibition by drugs, Part 1](module1/material/7758387_1_enzymatic_inhibition_by_drugs_part_1.html) — body_archived
+    - [Understanding proton pump enzymatic inhibitors](module1/material/7758184_1_understanding_proton_pump_enzymatic_inhibitors.html) — container_archived
+      - [Understanding proton pump enzymatic inhibitors](module1/material/7758388_1_understanding_proton_pump_enzymatic_inhibitors.html) — body_archived
+    - [Understanding side effects of enzymatic inhibitors](module1/material/7758185_1_understanding_side_effects_of_enzymatic_inhibitors.html) — container_archived
+      - [Understanding side effects of enzymatic inhibitors](module1/material/7758389_1_understanding_side_effects_of_enzymatic_inhibitors.html) — body_archived
+    - [Omeprazole](module1/material/7758186_1_omeprazole.html) — container_archived
+      - [Omeprazole](module1/material/7758390_1_omeprazole.html) — body_archived
+    - [Summary of Chapter 4 on enzymatic inhibitors](module1/material/7758187_1_summary_of_chapter_4_on_enzymatic_inhibitors.html) — container_archived
+      - [Summary of Chapter 4 on enzymatic inhibitors](module1/material/7758391_1_summary_of_chapter_4_on_enzymatic_inhibitors.html) — body_archived
+  - [Chapter 1.5 CONDENSED (ONLY the ASSESSABLE material from: Medications that affect neurotransmitters](module1/material/7758093_1_chapter_1_5_condensed_only_the_assessable_material_from_medications_that_affect_neuro.html) — container_archived
+    - [Introduction to Chapter 5 on neurotransmitters](module1/material/7758188_1_introduction_to_chapter_5_on_neurotransmitters.html) — container_archived
+      - [Introduction to Chapter 5 on neurotransmitters](module1/material/7758392_1_introduction_to_chapter_5_on_neurotransmitters.html) — body_archived
+    - [Understand safety issues around vomiting before treating it](module1/material/7758189_1_understand_safety_issues_around_vomiting_before_treating_it.html) — container_archived
+      - [Understand safety issues around vomiting before treating it](module1/material/7758393_1_understand_safety_issues_around_vomiting_before_treating_it.html) — body_archived
+    - [Antiemetics for motion sickness](module1/material/7758190_1_antiemetics_for_motion_sickness.html) — container_archived
+      - [Antiemetics for motion sickness](module1/material/7758394_1_antiemetics_for_motion_sickness.html) — body_archived
+    - [Signing off of Module 1](module1/material/7758191_1_signing_off_of_module_1.html) — container_archived
+      - [Activity: Signing off of Module 1](module1/material/7758395_1_activity_signing_off_of_module_1.html) — body_archived
+  - [Chapter 1.5: Medications that affect neurotransmitters (FULL Chapter including non-compulsory lessons)](module1/material/7758094_1_chapter_1_5_medications_that_affect_neurotransmitters_full_chapter_including_non_comp.html) — container_archived
+    - [Introduction to Chapter 5 on neurotransmitters](module1/material/7758192_1_introduction_to_chapter_5_on_neurotransmitters.html) — container_archived
+      - [Introduction to Chapter 5 on neurotransmitters](module1/material/7758396_1_introduction_to_chapter_5_on_neurotransmitters.html) — body_archived
+    - [Neurotransmitters](module1/material/7758193_1_neurotransmitters.html) — container_archived
+      - [Neurotransmitters](module1/material/7758397_1_neurotransmitters.html) — body_archived
+    - [Understand safety issues around vomiting before treating it](module1/material/7758194_1_understand_safety_issues_around_vomiting_before_treating_it.html) — container_archived
+      - [Understand safety issues around vomiting before treating it](module1/material/7758398_1_understand_safety_issues_around_vomiting_before_treating_it.html) — body_archived
+    - [Antiemetics for motion sickness](module1/material/7758195_1_antiemetics_for_motion_sickness.html) — container_archived
+      - [Antiemetics for motion sickness](module1/material/7758399_1_antiemetics_for_motion_sickness.html) — body_archived
+    - [Antiemetics for chemotherapy and GIT origins](module1/material/7758196_1_antiemetics_for_chemotherapy_and_git_origins.html) — container_archived
+      - [Antiemetics for chemotherapy and GIT origins](module1/material/7758400_1_antiemetics_for_chemotherapy_and_git_origins.html) — body_archived
+    - [Activity: Watch this summary video](module1/material/7758197_1_activity_watch_this_summary_video.html) — container_archived
+      - [Activity: Watch this summary video](module1/material/7758401_1_activity_watch_this_summary_video.html) — body_archived
+- [Module 2: The Respiratory and Autonomic Nervous Systems](module2/material/7758062_1_module_2_the_respiratory_and_autonomic_nervous_systems.html) — container_archived
+  - [Module overview](module2/material/7758095_1_module_overview.html) — container_archived
+    - [Module overview](module2/material/7758198_1_module_overview.html) — body_archived
+  - [Chapter 2.1: Foundational information for understanding Autonomic Nervous System (ANS) Pharmacology](module2/material/7758096_1_chapter_2_1_foundational_information_for_understanding_autonomic_nervous_system_ans_p.html) — container_archived
+    - [Activity: Watch this video introduction to Chapter 1](module2/material/7758199_1_activity_watch_this_video_introduction_to_chapter_1.html) — container_archived
+      - [Activity: Watch this video introduction to Chapter 1](module2/material/7758402_1_activity_watch_this_video_introduction_to_chapter_1.html) — body_archived
+    - [Overview of the Autonomic Nervous System (ANS)](module2/material/7758200_1_overview_of_the_autonomic_nervous_system_ans.html) — container_archived
+      - [Overview of the Autonomic Nervous System (ANS)](module2/material/7758403_1_overview_of_the_autonomic_nervous_system_ans.html) — body_archived
+    - [Divisions of the ANS](module2/material/7758201_1_divisions_of_the_ans.html) — container_archived
+      - [Divisions of the ANS](module2/material/7758404_1_divisions_of_the_ans.html) — body_archived
+    - [Overviewing drugs of the ANS](module2/material/7758202_1_overviewing_drugs_of_the_ans.html) — container_archived
+      - [Overviewing drugs of the ANS](module2/material/7758405_1_overviewing_drugs_of_the_ans.html) — body_archived
+    - [Selective receptors of the ANS](module2/material/7758203_1_selective_receptors_of_the_ans.html) — container_archived
+      - [Selective receptors of the ANS](module2/material/7758406_1_selective_receptors_of_the_ans.html) — body_archived
+    - [Looking to the future](module2/material/7758204_1_looking_to_the_future.html) — container_archived
+      - [Looking to the future](module2/material/7758407_1_looking_to_the_future.html) — body_archived
+  - [Chapter 2.2: Sympathomimetics (drugs that mimic the sympathetic nervous system)](module2/material/7758097_1_chapter_2_2_sympathomimetics_drugs_that_mimic_the_sympathetic_nervous_system.html) — container_archived
+    - [Activity: Watch this video introduction to the chapter](module2/material/7758205_1_activity_watch_this_video_introduction_to_the_chapter.html) — container_archived
+      - [Activity: Watch this video introduction to the chapter](module2/material/7758408_1_activity_watch_this_video_introduction_to_the_chapter.html) — body_archived
+    - [Anaphylaxis and adrenaline](module2/material/7758206_1_anaphylaxis_and_adrenaline.html) — container_archived
+      - [Anaphylaxis and adrenaline](module2/material/7758409_1_anaphylaxis_and_adrenaline.html) — body_archived
+    - [Other non-selective adrenergic agonists](module2/material/7758207_1_other_non_selective_adrenergic_agonists.html) — container_archived
+      - [Other non-selective adrenergic agonists](module2/material/7758410_1_other_non_selective_adrenergic_agonists.html) — body_archived
+    - [Selective alpha agonists](module2/material/7758208_1_selective_alpha_agonists.html) — container_archived
+      - [Selective alpha agonists](module2/material/7758411_1_selective_alpha_agonists.html) — body_archived
+    - [Selective beta agonists](module2/material/7758209_1_selective_beta_agonists.html) — container_archived
+      - [Selective beta agonists](module2/material/7758412_1_selective_beta_agonists.html) — body_archived
+    - [Summary of Chapter 2](module2/material/7758210_1_summary_of_chapter_2.html) — container_archived
+      - [Summary of Chapter 2](module2/material/7758413_1_summary_of_chapter_2.html) — body_archived
+  - [Chapter 2.3: Sympatholytic Drugs (drugs that block the sympathetic nervous system)](module2/material/7758098_1_chapter_2_3_sympatholytic_drugs_drugs_that_block_the_sympathetic_nervous_system.html) — container_archived
+    - [Activity: Watch this video introduction to the chapter](module2/material/7758211_1_activity_watch_this_video_introduction_to_the_chapter.html) — container_archived
+      - [Activity: watch this video introduction to the chapter](module2/material/7758414_1_activity_watch_this_video_introduction_to_the_chapter.html) — body_archived
+    - [Understanding sympatholytics](module2/material/7758212_1_understanding_sympatholytics.html) — container_archived
+      - [Understanding sympatholytics](module2/material/7758415_1_understanding_sympatholytics.html) — body_archived
+    - [Non-selective adrenergic blockers](module2/material/7758213_1_non_selective_adrenergic_blockers.html) — container_archived
+      - [Non-selective adrenergic blockers](module2/material/7758416_1_non_selective_adrenergic_blockers.html) — body_archived
+    - [Alpha 1 blockers](module2/material/7758214_1_alpha_1_blockers.html) — container_archived
+      - [Alpha 1 blockers](module2/material/7758417_1_alpha_1_blockers.html) — body_archived
+    - [Beta blockers](module2/material/7758215_1_beta_blockers.html) — container_archived
+      - [Beta blockers](module2/material/7758418_1_beta_blockers.html) — body_archived
+    - [Summary of Chapter 3](module2/material/7758216_1_summary_of_chapter_3.html) — container_archived
+      - [Summary of Chapter 3](module2/material/7758419_1_summary_of_chapter_3.html) — body_archived
+  - [Chapter 2.4: Pharmacology of the Parasympathetic Nervous System (PNS)](module2/material/7758099_1_chapter_2_4_pharmacology_of_the_parasympathetic_nervous_system_pns.html) — container_archived
+    - [Activity: Watch this video introduction to Chapter 4](module2/material/7758217_1_activity_watch_this_video_introduction_to_chapter_4.html) — container_archived
+      - [Activity: Watch this video introduction to Chapter 4](module2/material/7758420_1_activity_watch_this_video_introduction_to_chapter_4.html) — body_archived
+    - [Understanding acetylcholine](module2/material/7758218_1_understanding_acetylcholine.html) — container_archived
+      - [Understanding acetylcholine](module2/material/7758421_1_understanding_acetylcholine.html) — body_archived
+    - [Understanding the PNS](module2/material/7758219_1_understanding_the_pns.html) — container_archived
+      - [Understanding the PNS](module2/material/7758422_1_understanding_the_pns.html) — body_archived
+    - [Direct vs indirect cholinergic agents](module2/material/7758220_1_direct_vs_indirect_cholinergic_agents.html) — container_archived
+      - [Direct vs indirect cholinergic agents](module2/material/7758423_1_direct_vs_indirect_cholinergic_agents.html) — body_archived
+    - [Indirect acting acetylcholine agonists](module2/material/7758221_1_indirect_acting_acetylcholine_agonists.html) — container_archived
+      - [Indirect acting acetylcholine agonists](module2/material/7758424_1_indirect_acting_acetylcholine_agonists.html) — body_archived
+    - [Anticholinergic agents](module2/material/7758222_1_anticholinergic_agents.html) — container_archived
+      - [Anticholinergic agents](module2/material/7758425_1_anticholinergic_agents.html) — body_archived
+    - [Summary of Chapter 4](module2/material/7758223_1_summary_of_chapter_4.html) — container_archived
+      - [Summary of Chapter 4](module2/material/7758426_1_summary_of_chapter_4.html) — body_archived
+  - [Chapter 2.5: Pharmacology of the Respiratory System](module2/material/7758100_1_chapter_2_5_pharmacology_of_the_respiratory_system.html) — container_archived
+    - [Introduction to Respiratory System Pharmacology](module2/material/7758224_1_introduction_to_respiratory_system_pharmacology.html) — container_archived
+      - [Introduction to Respiratory System Pharmacology](module2/material/7758427_1_introduction_to_respiratory_system_pharmacology.html) — body_archived
+    - [Preview of respiratory system](module2/material/7758225_1_preview_of_respiratory_system.html) — container_archived
+      - [Preview of respiratory system](module2/material/7758428_1_preview_of_respiratory_system.html) — body_archived
+    - [Antitussives expectorants and mucolytic agents](module2/material/7758226_1_antitussives_expectorants_and_mucolytic_agents.html) — container_archived
+      - [Antitussives expectorants and mucolytic agents](module2/material/7758429_1_antitussives_expectorants_and_mucolytic_agents.html) — body_archived
+    - [Decongestants and antihistamines](module2/material/7758227_1_decongestants_and_antihistamines.html) — container_archived
+      - [Decongestants and antihistamines](module2/material/7758430_1_decongestants_and_antihistamines.html) — body_archived
+    - [Lower respiratory system disorders](module2/material/7758228_1_lower_respiratory_system_disorders.html) — container_archived
+      - [Lower respiratory system disorders](module2/material/7758431_1_lower_respiratory_system_disorders.html) — body_archived
+    - [Treatment of Asthma (and other Ventilation Disorders)](module2/material/7758229_1_treatment_of_asthma_and_other_ventilation_disorders.html) — container_archived
+      - [Treatment of Asthma (and other Ventilation Disorders)](module2/material/7758432_1_treatment_of_asthma_and_other_ventilation_disorders.html) — body_archived
+    - [Congratulations on finishing the final Chapter in Module 2!](module2/material/7758230_1_congratulations_on_finishing_the_final_chapter_in_module_2.html) — container_archived
+      - [Congratulations on finishing the final Chapter in Module 2!](module2/material/7758433_1_congratulations_on_finishing_the_final_chapter_in_module_2.html) — body_archived
+- [Module 3: The Endocrine System](module3/material/7758063_1_module_3_the_endocrine_system.html) — container_archived
+  - [Module overview](module3/material/7758101_1_module_overview.html) — container_archived
+    - [Module overview](module3/material/7758231_1_module_overview.html) — body_archived
+  - [Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH](module3/material/7758102_1_chapter_3_1_introduction_to_the_endocrine_system_adh_oxytocin_and_gh.html) — container_archived
+    - [Introduction to Endocrine System](module3/material/7758232_1_introduction_to_endocrine_system.html) — container_archived
+      - [Introduction to Endocrine System](module3/material/7758434_1_introduction_to_endocrine_system.html) — body_archived
+    - [Review Part 1](module3/material/7758233_1_review_part_1.html) — container_archived
+      - [Review Part 1](module3/material/7758435_1_review_part_1.html) — body_archived
+    - [Review Part 2](module3/material/7758234_1_review_part_2.html) — container_archived
+      - [Review Part 2](module3/material/7758436_1_review_part_2.html) — body_archived
+    - [Oxytocin](module3/material/7758235_1_oxytocin.html) — container_archived
+      - [Oxytocin](module3/material/7758437_1_oxytocin.html) — body_archived
+    - [ADH water saver (not compulsory for this unit)](module3/material/7758236_1_adh_water_saver_not_compulsory_for_this_unit.html) — container_archived
+      - [ADH water saver (Not compulsory for this unit)](module3/material/7758438_1_adh_water_saver_not_compulsory_for_this_unit.html) — body_archived
+    - [Growth hormone (not compulsory for this unit)](module3/material/7758237_1_growth_hormone_not_compulsory_for_this_unit.html) — container_archived
+      - [Growth hormone (not compulsory for this unit)](module3/material/7758439_1_growth_hormone_not_compulsory_for_this_unit.html) — body_archived
+    - [Sign off chapter 1](module3/material/7758238_1_sign_off_chapter_1.html) — container_archived
+      - [Sign off chapter 1](module3/material/7758440_1_sign_off_chapter_1.html) — body_archived
+  - [Chapter 3.2: The Thyroid Axis](module3/material/7758103_1_chapter_3_2_the_thyroid_axis.html) — container_archived
+    - [Understanding thyroid hormone](module3/material/7758239_1_understanding_thyroid_hormone.html) — container_archived
+      - [Understanding thyroid hormone](module3/material/7758441_1_understanding_thyroid_hormone.html) — body_archived
+    - [Hypothyroidism and its treatment](module3/material/7758240_1_hypothyroidism_and_its_treatment.html) — container_archived
+      - [Hypothyroidism and its treatment](module3/material/7758442_1_hypothyroidism_and_its_treatment.html) — body_archived
+    - [Hyperthyroidism and its treatment (Not compulsory)](module3/material/7758241_1_hyperthyroidism_and_its_treatment_not_compulsory.html) — container_archived
+      - [Hyperthyroidism and its treatment (Not compulsory)](module3/material/7758443_1_hyperthyroidism_and_its_treatment_not_compulsory.html) — body_archived
+    - [Signing Off](module3/material/7758242_1_signing_off.html) — container_archived
+      - [Signing Off](module3/material/7758444_1_signing_off.html) — body_archived
+  - [Chapter 3.3: Diabetes and Metabolic Syndrome](module3/material/7758104_1_chapter_3_3_diabetes_and_metabolic_syndrome.html) — link_or_empty_source
+  - [Chapter 3.4: The Adrenal Axis](module3/material/7758105_1_chapter_3_4_the_adrenal_axis.html) — container_archived
+    - [Introduction Stress Axis](module3/material/7758243_1_introduction_stress_axis.html) — container_archived
+      - [Introduction Stress Axis](module3/material/7758445_1_introduction_stress_axis.html) — body_archived
+    - [Overview Stress Axis](module3/material/7758244_1_overview_stress_axis.html) — container_archived
+      - [Overview Stress Axis](module3/material/7758446_1_overview_stress_axis.html) — body_archived
+    - [Glucocorticoids](module3/material/7758245_1_glucocorticoids.html) — container_archived
+      - [Glucocorticoids](module3/material/7758447_1_glucocorticoids.html) — body_archived
+    - [Side effects of corticosteroids](module3/material/7758246_1_side_effects_of_corticosteroids.html) — container_archived
+      - [Side effects of corticosteroids](module3/material/7758448_1_side_effects_of_corticosteroids.html) — body_archived
+    - [Signing off](module3/material/7758247_1_signing_off.html) — container_archived
+      - [Signing off](module3/material/7758449_1_signing_off.html) — body_archived
+  - [Chapter 3.5: The Endocrine System and Bone Health](module3/material/7758106_1_chapter_3_5_the_endocrine_system_and_bone_health.html) — container_archived
+    - [Introduction to medications for bone health](module3/material/7758248_1_introduction_to_medications_for_bone_health.html) — container_archived
+      - [Introduction to medications for bone health](module3/material/7758450_1_introduction_to_medications_for_bone_health.html) — body_archived
+    - [Understanding bone health](module3/material/7758249_1_understanding_bone_health.html) — container_archived
+      - [Understanding bone health](module3/material/7758451_1_understanding_bone_health.html) — body_archived
+    - [Understanding bone health 2](module3/material/7758250_1_understanding_bone_health_2.html) — container_archived
+      - [Understanding bone health 2](module3/material/7758452_1_understanding_bone_health_2.html) — body_archived
+    - [Bisphosphonates Teriparatide SERMS](module3/material/7758251_1_bisphosphonates_teriparatide_serms.html) — container_archived
+      - [Bisphosphonates Teriparatide SERMS](module3/material/7758453_1_bisphosphonates_teriparatide_serms.html) — body_archived
+- [Module 4: The Cardiovascular and Renal System](module4/material/7758064_1_module_4_the_cardiovascular_and_renal_system.html) — container_archived
+  - [Cardiovascular System Chapter 1: Lipids](module4/material/7758107_1_cardiovascular_system_chapter_1_lipids.html) — container_archived
+    - [Introduction to Module 4 Chapter 1](module4/material/7758252_1_introduction_to_module_4_chapter_1.html) — container_archived
+      - [Introduction to Module 4 Chapter 1](module4/material/7758454_1_introduction_to_module_4_chapter_1.html) — body_archived
+    - [Understanding Lipids](module4/material/7758253_1_understanding_lipids.html) — container_archived
+      - [Understanding Lipids](module4/material/7758455_1_understanding_lipids.html) — body_archived
+    - [Understanding atherosclerosis](module4/material/7758254_1_understanding_atherosclerosis.html) — container_archived
+      - [Understanding atherosclerosis](module4/material/7758456_1_understanding_atherosclerosis.html) — body_archived
+    - [Understanding atherosclerosis, Part 2](module4/material/7758255_1_understanding_atherosclerosis_part_2.html) — container_archived
+      - [Understanding atherosclerosis, Part 2](module4/material/7758457_1_understanding_atherosclerosis_part_2.html) — body_archived
+    - [The statins](module4/material/7758256_1_the_statins.html) — container_archived
+      - [The statins](module4/material/7758458_1_the_statins.html) — body_archived
+    - [Lowering cholesterol](module4/material/7758257_1_lowering_cholesterol.html) — container_archived
+      - [Lowering cholesterol](module4/material/7758459_1_lowering_cholesterol.html) — body_archived
+    - [Nicotinic acid](module4/material/7758258_1_nicotinic_acid.html) — container_archived
+      - [Nicotinic acid](module4/material/7758460_1_nicotinic_acid.html) — body_archived
+    - [HDL levels](module4/material/7758259_1_hdl_levels.html) — container_archived
+      - [HDL levels](module4/material/7758461_1_hdl_levels.html) — body_archived
+    - [Summary](module4/material/7758260_1_summary.html) — container_archived
+      - [Summary](module4/material/7758462_1_summary.html) — body_archived
+  - [Cardiovascular System Chapter 2: Hypertension](module4/material/7758108_1_cardiovascular_system_chapter_2_hypertension.html) — container_archived
+    - [Introduction to Module 4, Chapter 2](module4/material/7758261_1_introduction_to_module_4_chapter_2.html) — container_archived
+      - [Introduction to Module 4, Chapter 2](module4/material/7758463_1_introduction_to_module_4_chapter_2.html) — body_archived
+    - [Understanding blood pressure control, Part 1](module4/material/7758262_1_understanding_blood_pressure_control_part_1.html) — container_archived
+      - [Understanding blood pressure control, Part 1](module4/material/7758464_1_understanding_blood_pressure_control_part_1.html) — body_archived
+    - [Understanding blood pressure control, Part 2](module4/material/7758263_1_understanding_blood_pressure_control_part_2.html) — container_archived
+      - [Understanding blood pressure control, Part 2](module4/material/7758465_1_understanding_blood_pressure_control_part_2.html) — body_archived
+    - [Understanding blood pressure control, Part 3](module4/material/7758264_1_understanding_blood_pressure_control_part_3.html) — container_archived
+      - [Understanding blood pressure control, Part 3](module4/material/7758466_1_understanding_blood_pressure_control_part_3.html) — body_archived
+    - [Hypertension](module4/material/7758265_1_hypertension.html) — container_archived
+      - [Hypertension](module4/material/7758467_1_hypertension.html) — body_archived
+    - [The A, B, C, D's of the drug classes that are useful in hypertension](module4/material/7758266_1_the_a_b_c_d_s_of_the_drug_classes_that_are_useful_in_hypertension.html) — container_archived
+      - [The A, B, C, D's of the drug classes that are useful in hypertension](module4/material/7758468_1_the_a_b_c_d_s_of_the_drug_classes_that_are_useful_in_hypertension.html) — body_archived
+    - [Alpha Antagonists](module4/material/7758267_1_alpha_antagonists.html) — container_archived
+      - [Alpha Antagonists](module4/material/7758469_1_alpha_antagonists.html) — body_archived
+    - [Medications that affect angiotensin II](module4/material/7758268_1_medications_that_affect_angiotensin_ii.html) — container_archived
+      - [Medications that affect angiotensin II](module4/material/7758470_1_medications_that_affect_angiotensin_ii.html) — body_archived
+    - [Alternative drugs for hypertension](module4/material/7758269_1_alternative_drugs_for_hypertension.html) — container_archived
+      - [Alternative drugs for hypertension](module4/material/7758471_1_alternative_drugs_for_hypertension.html) — body_archived
+    - [Calcium channel blockers](module4/material/7758270_1_calcium_channel_blockers.html) — container_archived
+      - [Calcium channel blockers](module4/material/7758472_1_calcium_channel_blockers.html) — body_archived
+    - [Final words about antihypertensive agents](module4/material/7758271_1_final_words_about_antihypertensive_agents.html) — container_archived
+      - [Final words about antihypertensive agents](module4/material/7758473_1_final_words_about_antihypertensive_agents.html) — body_archived
+  - [Cardiovascular System Chapter 3: Thrombi](module4/material/7758109_1_cardiovascular_system_chapter_3_thrombi.html) — container_archived
+    - [Introduction to Module 4 Chapter 3](module4/material/7758272_1_introduction_to_module_4_chapter_3.html) — container_archived
+      - [Introduction to Module 4 Chapter 3](module4/material/7758474_1_introduction_to_module_4_chapter_3.html) — body_archived
+    - [Arterial clots](module4/material/7758273_1_arterial_clots.html) — container_archived
+      - [Arterial clots](module4/material/7758475_1_arterial_clots.html) — body_archived
+    - [Antiplatelet drugs](module4/material/7758274_1_antiplatelet_drugs.html) — container_archived
+      - [Antiplatelet drugs](module4/material/7758476_1_antiplatelet_drugs.html) — body_archived
+    - [Anticoagulants](module4/material/7758275_1_anticoagulants.html) — container_archived
+      - [Anticoagulants](module4/material/7758477_1_anticoagulants.html) — body_archived
+    - [Fibrinolytics](module4/material/7758276_1_fibrinolytics.html) — container_archived
+      - [Fibrinolytics](module4/material/7758478_1_fibrinolytics.html) — body_archived
+    - [Summary](module4/material/7758277_1_summary.html) — container_archived
+      - [Summary](module4/material/7758479_1_summary.html) — body_archived
+  - [The Renal System Chapter 4: Diuretics](module4/material/7758110_1_the_renal_system_chapter_4_diuretics.html) — container_archived
+    - [Introduction to diuretics](module4/material/7758278_1_introduction_to_diuretics.html) — container_archived
+      - [Introduction to diuretics](module4/material/7758480_1_introduction_to_diuretics.html) — body_archived
+    - [Understanding diuretics](module4/material/7758279_1_understanding_diuretics.html) — container_archived
+      - [Understanding diuretics](module4/material/7758481_1_understanding_diuretics.html) — body_archived
+    - [Understanding diuretics 2](module4/material/7758280_1_understanding_diuretics_2.html) — container_archived
+      - [Understanding diuretics 2](module4/material/7758482_1_understanding_diuretics_2.html) — body_archived
+    - [Thiazide diuretics](module4/material/7758281_1_thiazide_diuretics.html) — container_archived
+      - [Thiazide diuretics](module4/material/7758483_1_thiazide_diuretics.html) — body_archived
+    - [Loop diuretics (not compulsory)](module4/material/7758282_1_loop_diuretics_not_compulsory.html) — container_archived
+      - [Loop diuretics (not compulsory)](module4/material/7758484_1_loop_diuretics_not_compulsory.html) — body_archived
+    - [Potassium sparing diuretics (Not compulsory)](module4/material/7758283_1_potassium_sparing_diuretics_not_compulsory.html) — container_archived
+      - [Potassium sparing diuretics (Not compulsory)](module4/material/7758485_1_potassium_sparing_diuretics_not_compulsory.html) — body_archived
+    - [Other diuretics (not compulsory)](module4/material/7758284_1_other_diuretics_not_compulsory.html) — container_archived
+      - [Other diuretics (not compulsory)](module4/material/7758486_1_other_diuretics_not_compulsory.html) — body_archived
+- [Module 5: Analgesics and Psychotropic Drugs](module5/material/7758065_1_module_5_analgesics_and_psychotropic_drugs.html) — container_archived
+  - [Module overview](module5/material/7758111_1_module_overview.html) — container_archived
+    - [Module overview](module5/material/7758285_1_module_overview.html) — body_archived
+  - [Analgesics](module5/material/7758112_1_analgesics.html) — container_archived
+    - [Understanding Inflammation and pain introduction](module5/material/7758286_1_understanding_inflammation_and_pain_introduction.html) — container_archived
+      - [Understanding Inflammation and pain introduction](module5/material/7758487_1_understanding_inflammation_and_pain_introduction.html) — body_archived
+    - [Mechanisms of inflammation and anti-inflammatory Agents](module5/material/7758287_1_mechanisms_of_inflammation_and_anti_inflammatory_agents.html) — container_archived
+      - [Mechanisms of inflammation and anti-inflammatory Agents](module5/material/7758488_1_mechanisms_of_inflammation_and_anti_inflammatory_agents.html) — body_archived
+    - [Mechanisms of pain and analgesics](module5/material/7758288_1_mechanisms_of_pain_and_analgesics.html) — container_archived
+      - [Mechanisms of pain and analgesics](module5/material/7758489_1_mechanisms_of_pain_and_analgesics.html) — body_archived
+    - [Intro to fever and antipyretics](module5/material/7758289_1_intro_to_fever_and_antipyretics.html) — container_archived
+      - [Intro to fever and antipyretics](module5/material/7758490_1_intro_to_fever_and_antipyretics.html) — body_archived
+    - [Paracetamol (Acetaminophen)](module5/material/7758290_1_paracetamol_acetaminophen.html) — container_archived
+      - [Paracetamol (Acetaminophen)](module5/material/7758491_1_paracetamol_acetaminophen.html) — body_archived
+    - [Pain relief in children and elderly](module5/material/7758291_1_pain_relief_in_children_and_elderly.html) — container_archived
+      - [Pain relief in children and elderly](module5/material/7758492_1_pain_relief_in_children_and_elderly.html) — body_archived
+    - [Opioid overview](module5/material/7758292_1_opioid_overview.html) — container_archived
+      - [Opioid overview](module5/material/7758493_1_opioid_overview.html) — body_archived
+    - [Opioid mechanisms](module5/material/7758293_1_opioid_mechanisms.html) — container_archived
+      - [Opioid mechanisms](module5/material/7758494_1_opioid_mechanisms.html) — body_archived
+    - [Specific opioids (Not compulsory)](module5/material/7758294_1_specific_opioids_not_compulsory.html) — container_archived
+      - [Specific opioids (Not compulsory)](module5/material/7758495_1_specific_opioids_not_compulsory.html) — body_archived
+    - [Chronic and neuropathic pain](module5/material/7758295_1_chronic_and_neuropathic_pain.html) — container_archived
+      - [Chronic and neuropathic pain](module5/material/7758496_1_chronic_and_neuropathic_pain.html) — body_archived
+  - [Psychotropic Medications](module5/material/7758113_1_psychotropic_medications.html) — container_archived
+    - [Introduction to psychotropic medications](module5/material/7758296_1_introduction_to_psychotropic_medications.html) — container_archived
+      - [Introduction to psychotropic medications](module5/material/7758497_1_introduction_to_psychotropic_medications.html) — body_archived
+    - [Medications for Parkinson's disease](module5/material/7758297_1_medications_for_parkinson_s_disease.html) — container_archived
+      - [Medications for Parkinson's disease](module5/material/7758498_1_medications_for_parkinson_s_disease.html) — body_archived
+    - [Medications for treatment of Alzheimer's disease](module5/material/7758298_1_medications_for_treatment_of_alzheimer_s_disease.html) — container_archived
+      - [Medications for treatment of Alzheimer's disease](module5/material/7758499_1_medications_for_treatment_of_alzheimer_s_disease.html) — body_archived
+    - [Anxiety](module5/material/7758299_1_anxiety.html) — container_archived
+      - [Anxiety](module5/material/7758500_1_anxiety.html) — body_archived
+    - [Alternatives to benzodiazepines](module5/material/7758300_1_alternatives_to_benzodiazepines.html) — container_archived
+      - [Alternatives to benzodiazepines](module5/material/7758501_1_alternatives_to_benzodiazepines.html) — body_archived
+    - [Depression](module5/material/7758301_1_depression.html) — container_archived
+      - [Depression](module5/material/7758502_1_depression.html) — body_archived
+    - [SSRIs and TCAs](module5/material/7758302_1_ssris_and_tcas.html) — container_archived
+      - [SSRIs and TCAs](module5/material/7758503_1_ssris_and_tcas.html) — body_archived
+    - [SNRIs and atypical antidepressants](module5/material/7758303_1_snris_and_atypical_antidepressants.html) — container_archived
+      - [SNRIs and atypical antidepressants](module5/material/7758504_1_snris_and_atypical_antidepressants.html) — body_archived
+    - [Psychosis (Not compulsory for this unit)](module5/material/7758304_1_psychosis_not_compulsory_for_this_unit.html) — container_archived
+      - [Psychosis (Not compulsory for this unit)](module5/material/7758505_1_psychosis_not_compulsory_for_this_unit.html) — body_archived
+    - [Specific antipsychotics (Not compulsory for this unit)](module5/material/7758305_1_specific_antipsychotics_not_compulsory_for_this_unit.html) — container_archived
+      - [Specific antipsychotics (Not compulsory for this unit)](module5/material/7758506_1_specific_antipsychotics_not_compulsory_for_this_unit.html) — body_archived
+    - [Seizures (Not compulsory for this unit)](module5/material/7758306_1_seizures_not_compulsory_for_this_unit.html) — container_archived
+      - [Seizures (Not compulsory for this unit](module5/material/7758507_1_seizures_not_compulsory_for_this_unit.html) — body_archived
+- [Module 6: Medications with Selective Toxicity](module6/material/7758066_1_module_6_medications_with_selective_toxicity.html) — container_archived
+  - [Module overview](module6/material/7758114_1_module_overview.html) — container_archived
+    - [Module overview](module6/material/7758307_1_module_overview.html) — body_archived
+  - [Shortened Chapter: Only the 43 minutes of compulsory lessons on Medications with Selective Toxicity](module6/material/7758115_1_shortened_chapter_only_the_43_minutes_of_compulsory_lessons_on_medications_with_selec.html) — container_archived
+    - [A/1: Antibiotics](module6/material/7758308_1_a_1_antibiotics.html) — container_archived
+      - [A/1: Antibiotics](module6/material/7758508_1_a_1_antibiotics.html) — body_archived
+    - [Antibiotics overview](module6/material/7758309_1_antibiotics_overview.html) — container_archived
+      - [Antibiotics overview](module6/material/7758509_1_antibiotics_overview.html) — body_archived
+    - [C/3: Antifungal agents](module6/material/7758310_1_c_3_antifungal_agents.html) — container_archived
+      - [C/3: Antifungal agents](module6/material/7758510_1_c_3_antifungal_agents.html) — body_archived
+    - [D/4: Antiviral agents](module6/material/7758311_1_d_4_antiviral_agents.html) — container_archived
+      - [D/4: Antiviral agents](module6/material/7758511_1_d_4_antiviral_agents.html) — body_archived
+    - [E/5: Anticancer chemotherapy](module6/material/7758312_1_e_5_anticancer_chemotherapy.html) — container_archived
+      - [E/5: Anticancer chemotherapy](module6/material/7758512_1_e_5_anticancer_chemotherapy.html) — body_archived
+  - [Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities)](module6/material/7758116_1_medications_with_selective_toxicity_full_chapter_including_non_compulsory_lessons_and.html) — container_archived
+    - [A/1: Antibiotics](module6/material/7758313_1_a_1_antibiotics.html) — container_archived
+      - [A/1: Antibiotics](module6/material/7758513_1_a_1_antibiotics.html) — body_archived
+    - [Antibiotics overview](module6/material/7758314_1_antibiotics_overview.html) — container_archived
+      - [Antibiotics overview](module6/material/7758514_1_antibiotics_overview.html) — body_archived
+    - [B/2: Specific antibiotics](module6/material/7758315_1_b_2_specific_antibiotics.html) — container_archived
+      - [B/2: Specific antibiotics](module6/material/7758515_1_b_2_specific_antibiotics.html) — body_archived
+    - [Specific Antibiotics 2](module6/material/7758316_1_specific_antibiotics_2.html) — container_archived
+      - [Specific Antibiotics 2](module6/material/7758516_1_specific_antibiotics_2.html) — body_archived
+    - [C/3: Antifungal agents](module6/material/7758317_1_c_3_antifungal_agents.html) — container_archived
+      - [C/3: Antifungal agents](module6/material/7758517_1_c_3_antifungal_agents.html) — body_archived
+    - [D/4: Viruses 1](module6/material/7758318_1_d_4_viruses_1.html) — container_archived
+      - [D/4: VirusesViruses 1](module6/material/7758518_1_d_4_virusesviruses_1.html) — body_archived
+    - [Viruses 2](module6/material/7758319_1_viruses_2.html) — container_archived
+      - [Viruses 2](module6/material/7758519_1_viruses_2.html) — body_archived
+    - [E/5: Anticancer chemotherapy](module6/material/7758320_1_e_5_anticancer_chemotherapy.html) — container_archived
+      - [E/5: Anticancer chemotherapy](module6/material/7758520_1_e_5_anticancer_chemotherapy.html) — body_archived
+  - [Polypharmacy 1: A reflective section](module6/material/7758117_1_polypharmacy_1_a_reflective_section.html) — container_archived
+    - [Polypharmacy 1](module6/material/7758321_1_polypharmacy_1.html) — body_archived
+- [Tutorials](tutorials/material/7758067_1_tutorials.html) — container_archived
+  - [Tutorial Week 1](tutorials/material/7758120_1_tutorial_week_1.html) — container_archived
+    - [Notes and PowerPoint for Tutorial 1](tutorials/material/7758324_1_notes_and_powerpoint_for_tutorial_1.html) — container_archived
+      - [Notes and PowerPoint for Tutorial 1](tutorials/material/7758522_1_notes_and_powerpoint_for_tutorial_1.html) — body_archived
+- [Acknowledgement of Traditional Custodians](general/material/7352138_1_acknowledgement_of_traditional_custodians.html) — container_archived
+  - [Acknowledgement of Traditional Custodians](general/material/7352147_1_acknowledgement_of_traditional_custodians.html) — body_archived
+- [Copyright notice](general/material/7352143_1_copyright_notice.html) — container_archived
+  - [Copyright notice](general/material/7352168_1_copyright_notice.html) — body_archived

@@ -1,0 +1,40 @@
+Source: https://scu.h5p.com/content/1291769584099037629
+Type: activity text extraction (full data in JSON)
+
+Fluid abnormalities (dehydration)
+
+Electrolyte abnormalities which can lead to irregular heart beat, seizures, coma and death
+
+Abnormalities in the pH
+
+Finish ?
+
+Retry ?
+
+Before making recommendations about how to treat anything, we should know a bit about the underlying conditions, such as the safety issues. What are the main complications that can result from diarrhoea itself?
+
+Untitled Multiple Choice
+
+The very young (especially infants)
+
+The elderly
+
+Very thin individuals
+
+What age groups and body shapes are very susceptible to the complications of diarrhoea?
+
+Dry mouth and mucus membranes
+
+Decreased skin turgor (the elastic spring-back of the skin)
+
+Dark yellow, strong smelling urine
+
+Profound eyes in an infant
+
+Since dehydration can be life threatening, we should know how to assess it. What are the signs of dehydration?
+
+false
+
+The primary therapy for diarrhoea is loperamide.
+
+Untitled True/False Question

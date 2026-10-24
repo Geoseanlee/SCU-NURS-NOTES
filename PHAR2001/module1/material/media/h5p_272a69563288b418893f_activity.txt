@@ -1,0 +1,28 @@
+Source: https://scu.h5p.com/content/1291757619938277839
+Type: activity text extraction (full data in JSON)
+
+Magnesium Hydroxide (or citrate)
+
+Aluminium Hydroxide (or citrate)
+
+Sodium Bicarbonate
+
+Calcium carbonate
+
+Finish ?
+
+Retry ?
+
+Which of the following antacids is/are ABSORBED, potentially resulting in greater side effects?
+
+Untitled Multiple Choice
+
+Magnesium hydroxide is an antacid that is osmotically active and not absorbed. As such it causes diarrhoea in many people.
+
+Aluminium hydroxide or citrate is an antacid that causes constipation and also binds to many drugs and nutrients so care should be taken not to take them with meals or medications.
+
+Calcium carbonate has the strongest antacid effects but also has the strongest rebound hyperacidity
+
+Sodium bicarbonate is the preferred antacid because it is not absorbed
+
+Select the answer or answers that is/are correct:

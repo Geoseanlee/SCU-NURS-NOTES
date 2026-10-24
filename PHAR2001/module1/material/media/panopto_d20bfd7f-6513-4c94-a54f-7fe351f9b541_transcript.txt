@@ -1,0 +1,21 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=e28d780e-3750-4ef5-8e1d-b47c01023668
+Type: captions, not an independently verified transcript
+
+[0.80] The vomiting centre in the medulla can be activated directly by irritants or indirectly following input from four major areas.
+[14.24] The first area is the cerebral cortex,
+[17.28] so an example of some stimuli that would prompt the cerebral cortex and send messages over to the vomiting centre would be extreme pain or anxiety.
+[31.60] And examples of drugs that would decrease the inputs from the cerebral cortex include the benzodiazepines.
+[41.68] Another area that can send messages over to the vomiting centre in the medulla is the vestibular area.
+[51.24] An example of a condition that originates in the vestibular area and can prompt nausea and vomiting is of course,
+[58.84] motion sickness, and the neurotransmitters that are involved in motion sickness are the histamine one and the acetylcholine.
+[70.72] So the best medications for motion sickness are usually going to be the histamine one antagonists,
+[79.24] or in other words, the antihistamines and the acetylcholine antagonists.
+[87.48] The last two areas that can prompt nausea and vomiting include from the vagal nerve of the GI.
+[95.96] For instance, if there is damage to the GI and from the chemo receptor trigger zone, which is up right next to the vomiting centre in the medulla.
+[109.48] Both of those areas use serotonin as the neurotransmitter.
+[114.92] And both of those areas are affected as a person goes through chemotherapy.
+[121.11] In most instances, ondansetron and other drugs are the most effective drugs for relieving nausea and vomiting from chemotherapy.
+[133.43] So just knowing the pathways you see, you can actually predict the effectiveness of antiemetic.
+[142.35] One would not expect ondansetron to be an effective agent in decreasing emesis from motion sickness, for instance,
+[152.15] because the pathways that go from the vestibular area into the vomiting centre are not going to be mediated by serotonin.
+[163.07] In that instance, you would actually choose one of the first generation antihistamines, or the anticholinergic agents to decrease the motion sickness.

@@ -1,0 +1,517 @@
+## word/document.xml
+B
+uild your 
+GenAI 
+skills
+:
+T
+he PAIR framework resource
+B
+uild your 
+GenAI 
+skills
+:
+T
+he PAIR framework resource
+T
+he 
+PAIR Framework 
+(
+Acar
+, 2023) is a good 
+way 
+to develop your skills 
+for
+ using 
+GenAI
+ technologies
+ 
+effectively and responsibly
+ 
+as well as 
+record how you use these tools to help with
+ learning and assessment tasks. 
+P
+P
+A
+A
+I
+I
+R
+R
+PROBLEM
+AI
+INTERACTION
+REFLECTION
+What is the problem?
+Select suitable 
+GenAI
+ tool
+/
+s
+.
+Interact with 
+GenAI
+ tool
+/
+s
+.
+Reflect on YOUR experience
+.
+Here, you formulate your problem
+:
+What is it you want 
+GenAI
+ to help with?
+Is it within the 
+acceptable limits
+ if you are using 
+GenAI
+ for
+ 
+an
+ assessment? 
+Here
+, you i
+dentify suitable 
+GenAI
+ tools for the problem
+:
+For help, try
+ 
+Futurepedia.io
+Here
+,
+ you
+:
+try different 
+ways to prompt 
+GenAI
+ 
+c
+ritically evaluate outputs
+refine prompts to improve responses.
+Here you e
+valuate:
+how 
+GenAI
+ helped or limited what YOU were trying to do 
+how it impacted YOUR learning. 
+The 
+PAIR Framework 
+(
+adapted from 
+Acar
+, 2023)
+Following each step will 
+help 
+develop
+ your digital literacy
+ skills
+ 
+for using
+ 
+GenAI
+ effectively and 
+responsibly.
+ 
+Use this framework with the support 
+resources
+ from SCU Library
+ and the Learning Zone
+.
+Visit 
+the 
+SCU Library Guide 
+GenAI
+ 
+f
+or help and guidance on
+:
+e
+thic
+s of 
+GenAI
+ 
+prompting
+ 
+- writing 
+effective prompts 
+evaluat
+ing 
+GenAI
+ outputs
+r
+eferenc
+ing (
+and
+ 
+acknowledg
+ing) 
+GenAI
+.
+Visit the Learning Zone:
+ 
+Academic Integrity and Turnitin 
+Reference
+Acar
+, O. A. (2023, June 15). 
+Are your students ready for AI? A 4-step framework to prepare learners for a 
+ChatGPT
+ world
+. Harvard Business Publishing Education. https://hbsp.harvard.edu/inspiring-minds/are-your-students-ready-for-ai
+Next, 
+using the PAIR 
+F
+ramework, 
+we
+ 
+provide an
+ example of how you might
+ use a 
+GenAI
+ tool 
+and 
+record what you have done and why
+.
+ 
+Including a short reflection 
+will 
+help develop your critical thinking about the
+ benefits and risks of 
+GenAI
+ use. 
+Example
+:
+ 
+Using the PAIR Framework (
+Acar
+, 2023) to guide and record 
+GenAI
+ interactions
+Use this template 
+to 
+guide and record your interactions and reflections on GenAI use
+. 
+This will help 
+you demonstrate academic integrity through accountability, honesty, transparency, and responsibility and also help you
+ develop your digital literacy skills
+.
+Remember
+,
+ only use GenAI tools within the acceptable limits that 
+have been defined for each assessment task
+.
+Problem 
+AI
+Interactions
+Reflection
+What is it you want 
+GenAI
+ to help with? State your problem.
+Is
+ what you want to use 
+GenAI
+ for within the acceptable limits for this task?
+ 
+Record the GenAI tool you have used (name of tool and version
+ 
+- if available).
+How did you interact with GenAI? 
+What prompts
+/ refinements 
+were used?
+How did you 
+evaluate
+ the outputs?
+W
+hat did you do with the outputs?
+If allowed
+, ho
+w were outputs integrated into your 
+work
+? 
+E
+vidence
+:
+K
+eep record
+s
+ by providing links to prompts/ 
+GenAI 
+outputs/ modifications and versions of your work
+ (
+including file properties)
+.
+How has GenAI helped or limited what you wanted to do?
+ 
+What impact has GenAI had on your learning?
+I 
+want GenAI
+ to generate 
+case study ideas that 
+I can use to frame my 
+p
+resentation
+ on inclusivity in the classroom
+. I am interested in doing this for 
+students from refugee backgrounds
+.
+Google Gemini (Feb 12, 202
+4
+)
+Prompt 1: (12/2/24
+, no refinements made)
+The output was a bit stereotypical and include
+d too much detail for my presentation, so I have focused on two key learning needs and the background information 
+for the student. I will 
+adapt 
+t
+his for 
+my 
+presentation, plus
+ 
+I 
+added in some strengths of the child that can be harnessed to tailor the approach to inclusivity. 
+PROMPT: 
+‘
+Please create a fictitious case study about a 
+9-year-old
+ refugee student from Iran studying in an Australian school 
+to address
+ factors around inclusivity. The case study is for a university
+-
+level presentation and needs to be brief, describing some of the child's learning needs, their 
+family and
+ length of time in Australia.
+’
+Outputs
+ 
+- 
+see screenshot
+ see CASE STUDY.doc
+ 
+/
+ 
+T1_Assessment 1 folder
+.
+A
+s
+ I am using some of the 
+content
+ generated in my presentation
+,
+ I wil
+l 
+refer
+e
+nce this according to the APA7 Lib guide. 
+The case study generation saved me a lot of time 
+to focus on applying the unit learnings and other research I have done to complete
+ the assessment requirements. I used the case study to frame my presentation
+; it provides an engaging, more authentic way to explore the assignment topic
+ for the audience. 
+Template: PAIR Framework (
+Acar
+, 2023) 
+to guide and record G
+enAI
+ interactions
+Use this template to guide and record your interactions and reflections on GenAI use
+. This will help 
+you demonstrate academic integrity through accountability, honesty, transparency, and responsibility and also help you
+ develop your digital literacy skills
+.
+Remember, only use GenAI tools within the acceptable limits that have been defined for each assessment task.
+ If in doubt, contact your Unit Assessor
+.
+Problem 
+AI
+Interactions
+Reflection
+What is it you want 
+GenAI
+ to help with? State your problem.
+Is what you want to use 
+GenAI
+ for within the acceptable limits for this task? 
+Record the GenAI tool you have used (name of tool and version - if available).
+How did you interact with GenAI? 
+What prompts/ refinements were used?
+How did you evaluate the outputs?
+What did you do with the outputs?
+If allowed, how were outputs integrated into your work? 
+Evidence:
+Keep records by providing links to prompts/ GenAI outputs/ modifications and versions of your work (including file properties).
+How has GenAI helped or limited what you wanted to do? 
+What impact has GenAI had on your learning?
+[record information here]
+[record information here]
+[record information here]
+[record information here]
+[record information here]
+Remember
+:
+ 
+I
+f you are allowed
+ to and choose 
+to use 
+content generated from GenAI in your assessment
+,
+ 
+remember to 
+reference 
+this appropriately 
+according to 
+your Unit’s referencing style
+ 
+(
+see 
+SCU 
+Lib
+G
+u
+i
+de
+ 
+GenAI
+ 
+- 
+R
+efer
+e
+nc
+ing
+ 
+GenAI
+)
+.
+ 
+I
+f you are allowed
+ and choose to 
+use GenAI 
+in the ‘
+process
+’
+ 
+of completing 
+your assessment
+, 
+do so within the acceptable limits
+. I
+f you use GenAI in 
+the process of 
+completing your assessment, it is recommended 
+that 
+you provide a statement of acknowledgement 
+and include this at th
+e end of your assessment. You can 
+paste 
+this 
+statement 
+as a screenshot
+.
+If 
+using
+ GenAI is
+ not permitted
+, then you should not be using any GenAI tools to complete any part of your assessment.
+P
+roces
+s 
+refers to using 
+Gen
+AI 
+to
+ construct frameworks for the assessment – such as creating an outline, dot points, definitions or clarifying questions, 
+and 
+providing feedback on an aspect of your work.
+Acknowledgment 
+s
+tatement
+An acknowledgement statement provides a brief overview of how you used GenAI in the ‘process’ of completing your assessment. 
+W
+here GenAI is permitted or permitted with limitations,
+ 
+by following the 
+PAI
+R
+ 
+F
+ramework 
+and recording the 
+rel
+e
+vant information as you go
+, you can extract the information from the template to recorded data 
+to formulate
+ a statement of a
+cknowledgeme
+nt
+ 
+that you can 
+include with your assessment.
+I acknowledge the use of <Gen AI tool> to <purpose of using Gen AI> on <date> I <actions taken>. The output was then <actions taken>. The link to my original work is <link here> and the AI output is <link here>.
+Example 
+(from what we record
+ed
+ in the PAIR 
+Framework template 
+example above) 
+I acknowledge the use of Goog
+l
+e Gemini
+ (Feb 12, 2024)
+ to 
+provide
+ 
+ideas
+ 
+for a 
+case study 
+to frame my presentation. 
+I submitted the following prompt
+: ‘
+Please create a fictitious case study about a 9-year-old refugee student from Iran studying in an Australian school to address factors around inclusivity. The case study is for a university-level presentation and needs to be brief, describing some of the child's learning needs, their family and length of time in Australi
+a
+.
+’
+ The
+ 
+output 
+was 
+read and evaluated
+. I used the ideas for 
+two learning needs and the family background and 
+then 
+wrote my own 
+brief 
+c
+a
+se study
+. 
+T
+he
+ case study doe
+s
+ not answer the assignment task but was used to frame my presen
+t
+ation
+.
+ 
+The link to my 
+case study 
+is *here* 
+and the AI output is 
+*
+ here
+*
+.
+* links 
+to saved documents or screenshots 
+can be provided
+ for full transparency
+.
+ 

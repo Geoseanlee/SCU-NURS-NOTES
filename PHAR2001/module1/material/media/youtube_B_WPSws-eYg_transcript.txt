@@ -1,0 +1,130 @@
+Source: https://www.youtube.com/watch?v=B_WPSws-eYg
+Type: captions, not an independently verified transcript
+
+[0.12] hi there and welcome back to
+[2.40] understanding medications
+[5.04] so far in this chapter we've introduced
+[7.44] the histamine II receptor blockers like
+[10.50] famotidine
+[12.30] which are used for decreasing stomach
+[15.06] acid and our last lesson went through
+[18.18] some exercises to help you predict the
+[21.54] kind of side effects that you'd expect
+[24.00] from decreasing stomach acid for a long
+[27.48] period of time given the role of the
+[30.06] acid in the stomach
+[31.92] and right now we're going to make sure
+[35.46] that you really picture the histamine 2
+[38.34] receptor blockers like simethidine and
+[41.34] famotidine
+[42.72] and how they exert their effects in
+[45.96] other words we're going to look at their
+[48.66] mechanism of action
+[51.48] the histamine II receptor blockers like
+[54.18] cimetidine and famotidine bind to the
+[57.96] histamine II receptor in the stomach
+[61.44] so let's take a look at where they act
+[65.10] if we go down the esophagus into the
+[68.64] stomach and took a microscopic view of
+[72.48] the lining of the stomach we would find
+[75.54] that the lining of the stomach has
+[77.70] gastric pits and in those pits some of
+[81.90] those cells are called parietal cells
+[85.92] now the parietal cells are the ones that
+[88.32] secrete the acid they secrete hydrogen
+[92.76] ions or in other words protons into the
+[96.54] Lumen of the stomach and they do that by
+[100.32] using an enzyme called the hydrogen
+[102.78] potassium atpase pump
+[106.80] the parietal cell is the same cell that
+[109.74] we affect as we take a proton pump
+[112.62] inhibitor like Omeprazole which will
+[115.50] investigate in the next chapter
+[118.44] so how do the histamine 2 receptor
+[121.56] blockers work
+[123.36] well when there's a stimulation of the
+[125.94] parietal cell from gastrin histamine and
+[130.26] also acetylcholine all three of those at
+[133.50] the same time not just one of them the
+[136.14] proton pumps in the parietal cells start
+[139.68] secreting the protons or in other words
+[142.92] the hydrogen ions the acid
+[147.78] the histamine II antagonists are
+[150.72] competitive antagonists so they compete
+[154.56] with the histamine tube that's trying to
+[157.08] bind to that same receptor
+[160.32] as you can imagine if there's less
+[162.30] histamine 2 binding onto its receptor
+[165.00] there will be fewer hydrogen ions
+[167.76] secreted and a reduced acidity in the
+[171.60] stomach
+[172.50] in fact the histamine II receptor
+[175.14] blockers can be about 80 percent
+[177.06] effective in reducing the acid secretion
+[180.36] from the parietal cells in the stomach
+[187.82] we said that histamine 2 antagonists are
+[191.82] not as effective at decreasing stomach
+[194.16] acid as the proton pump inhibitors but
+[197.58] why is that proton pump inhibitors
+[200.22] decrease the stomach acidity by 99 and
+[204.48] yes that is difficult to beat but why
+[208.08] can't the histamine 2 antagonists reach
+[211.74] that level even if we take a maximum
+[214.44] dose
+[215.76] the way that the histamine 2 blocker
+[219.72] like Ranitidine works is to bind to and
+[225.24] block the histamine II receptor and that
+[228.60] binding is not permanent
+[231.18] the tadine medications the histamine II
+[235.74] blockers work by competitive antagonism
+[239.82] they're competitive antagonists
+[242.94] there's still some histamine too that's
+[245.94] being released and there's still some
+[248.04] binding of that histamine too to The
+[250.20] receptors on the parietal cells
+[251.64] regardless of how much drug is in the
+[254.52] system
+[255.24] and every time that the histamine 2 gets
+[258.54] its spot on that parietal cell receptor
+[261.06] as long as there's acetylcholine binding
+[263.40] and gastrin binding at the same time
+[265.26] there will be acids secreted
+[270.06] and the last thing that we need to
+[271.86] discuss with respect to the histamine II
+[274.32] antagonists such as famotidine is a
+[277.62] thing called selectivity
+[280.14] you may be wondering what's the
+[282.66] difference between an
+[285.14] antihistamine that you take for a runny
+[287.88] nose and allergic conditions
+[291.06] and a histamine 2 blocker or are they
+[296.04] the same is a histamine tube blocker a
+[299.34] antihistamine
+[301.32] well we reserve the term antihistamine
+[304.74] for a group of medications that block
+[307.62] the histamine one receptor
+[311.70] so while you could argue that histamine
+[314.40] 2 antagonists should really be called an
+[317.60] antihistamine we don't use that term
+[320.22] because the antihistamines are the ones
+[322.98] for the runny nose the ones that bind to
+[326.10] the histamine one receptor
+[328.92] and this diagram depicts that there's
+[333.00] three subsets of histamine receptors and
+[336.12] they're located in different organs when
+[338.94] you take a normal dose of a histamine 2
+[341.28] receptor blocker like Ranitidine there
+[344.88] is very little crossover onto that
+[347.04] histamine one receptor so it's a very
+[350.76] little use in allergic rhinitis
+[354.66] so we say that the histamine II receptor
+[358.08] blockers are fairly selective for the
+[361.86] histamine II receptor and the
+[364.74] antihistamines that work in allergic
+[366.78] rhinitis are fairly selective for the
+[370.44] histamine one receptor although
+[374.04] interestingly enough the histamine one
+[377.96] antihistamines some of those actually
+[380.76] bind to
+[382.22] acetylcholine receptors which gives them
+[385.44] some side effects

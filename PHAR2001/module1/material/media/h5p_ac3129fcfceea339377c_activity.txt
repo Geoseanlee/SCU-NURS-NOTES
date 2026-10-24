@@ -1,0 +1,40 @@
+Source: https://scu.h5p.com/content/1291775019196074819
+Type: activity text extraction (full data in JSON)
+
+Smell his breath
+
+Give him Pepto-Bismol
+
+Give him a first generation antihistamine like diphenhydramine
+
+Prescribe Ondansetron
+
+Finish ?
+
+Retry ?
+
+JR, a 13YO boy has vomited each morning for the past 3 days. What should the prescriber do?
+
+Untitled Multiple Choice
+
+Intestinal obstruction
+
+Appendicitis
+
+Gallstones
+
+Perforated bowel
+
+anything that greatly affects the level of glucose, electrolytes, acid, base, or thyroid hormone
+
+Psychological stress that is being suppressed
+
+None of the other choices in this list are correct (Each of these choices can cause vomiting and should be considered before an antiemetic is given to the client)
+
+Which of the following is NOT a cause of vomiting?
+
+true
+
+One of the problems with vomiting is that the VOMITING ITSELF CAN CAUSE fluid, acid/base, and electrolyte abnormalities that become a secondary problem that is a clinical emergency. Therefore, vomiting itself can cause neurological and/or cardiovascular abnormalities, coma and death.
+
+Untitled True/False Question

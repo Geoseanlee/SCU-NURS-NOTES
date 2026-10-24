@@ -1,0 +1,34 @@
+Source: https://scu.h5p.com/content/1291773083508889699
+Type: activity text extraction (full data in JSON)
+
+4 PM
+
+6 PM
+
+8 PM
+
+10 PM
+
+Midnight
+
+Finish ?
+
+Retry ?
+
+Choose the correct answer for a drug that has a half-life of 4 hours.
+If there is 4 mg of medication in the system at noon, when will there be an equivalent of 1 mg in the system?
+
+Untitled Multiple Choice
+
+true
+
+Most drugs are metabolised using First order kinetics, meaning that in the first half life, half of the drug is excreted. Then, the timer starts again, and half of the remaining dose is excreted in the second half life. After 4.5 half lifes, about 5% of the drug remains.
+
+Untitled True/False Question
+
+3 hours
+
+7 or more hours, depending on the person
+
+Ethanol (the alcohol that is in wine and beer) is metabolised by zero order kinetics meaning that it is initially metabolised in a linear way, with about one standard drink metabolised per hour. But after it has been metabolised to the point that there is only about < 1 standard drink, it is metabolised by first order kinetics.
+Given that, how long would it take a P plater to metabolise 3 standard drinks to the point that they have 0 blood alcohol?

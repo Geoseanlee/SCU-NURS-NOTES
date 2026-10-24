@@ -1,0 +1,30 @@
+Source: https://scu.h5p.com/content/1291757551253383279
+Type: activity text extraction (full data in JSON)
+
+The rebound hyperacidity of the antacids can contribute to the development of chronic problems like dysplastic changes in the oesophagus (called Barrett's disease or Barrett's Oesophagus)
+
+The rebound hyperacidity may contribute to the development of a peptic ulcer
+
+The client may not get proper medical advice, resulting in the advancement of dysplastic changes in the oesophagus
+
+Antacids taken incorrectly can affect the absorption of some nutrients, resulting in nutritional deficiencies.
+
+Finish ?
+
+Retry ?
+
+SAFETY ISSUES: Which of the following can result from a client relying on antacids for long periods of time? (click each correct answer)
+
+Untitled Multiple Choice
+
+false
+
+The REBOUND EFFECT seen with antacids is uncommon with our other medications
+
+Untitled True/False Question
+
+One to two hours before or after meals or medications.
+
+With the meals or drugs
+
+The acid in the stomach may affect the absorption of some nutrients and the metabolism of some drugs. Given that, when should antacids be taken?

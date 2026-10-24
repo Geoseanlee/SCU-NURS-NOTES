@@ -1,0 +1,24 @@
+Source: https://scu.h5p.com/content/1291775004030627759
+Type: activity text extraction (full data in JSON)
+
+As a receptor antagonist
+
+By blocking the reuptake of the neurotransmitter into the original cell.
+
+By degrading the neurotransmitter in the synaptic cleft
+
+By inhibiting the enzyme that degrades the neurotransmitter.
+
+Finish ?
+
+Retry ?
+
+Medications that work on neurons can work by at least four different mechanisms of action. Which way do almost all antiemetics work?
+
+Untitled Multiple Choice
+
+true
+
+There are four separate pathways that go to the vomiting centre, and they all use different neurotransmitters. This means that the correct medication needs to be chosen, or the antiemetic will have no therapeutic effects.
+
+Untitled True/False Question

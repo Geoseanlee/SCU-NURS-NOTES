@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291769937724110709
+Type: activity text extraction (full data in JSON)
+
+Loperamide (Imodium) is an opioid receptor antagonist because it decreases the transmission of impulses from the GIT
+
+While most opioids can decrease diarrhoea, Loperamide is the preferred medication for diarrhoea (after of course, fluid and electrolytes have been administered if necessary) because very little of it gets into systemic circulation.
+
+Loperamide activates opioid receptors on the enteric nervous system, resulting in an inhibition of gastric emptying, increase in sphincter tone, and blockade of peristalsis. As such, it decreases diarrhoea in those with diarrhoea, or causes constipation in those who have normal bowel habits at the time.
+
+Finish ?
+
+Retry ?
+
+Choose the correct statement(s)
+
+Untitled Multiple Choice
+
+Loperamide
+
+Methylnaltrexone
+
+Morphine
+
+Naloxone
+
+Which of the following is (are) opioid ANTAGONISTS?

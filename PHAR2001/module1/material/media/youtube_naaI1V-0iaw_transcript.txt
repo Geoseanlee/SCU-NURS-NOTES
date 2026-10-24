@@ -1,0 +1,213 @@
+Source: https://www.youtube.com/watch?v=naaI1V-0iaw
+Type: captions, not an independently verified transcript
+
+[0.96] hi there and welcome back to our
+[2.76] understanding medications we've just
+[4.86] taken a look at the first two processes
+[6.90] of pharmacokinetics the absorption and
+[10.08] distribution of medications and right
+[12.30] now we're going to be taking a look at
+[13.98] the metabolism of drugs
+[16.50] as we concluded our last lesson our
+[18.78] orally administered medication had been
+[21.18] absorbed into the hepatic portal venous
+[24.48] system on the way to the liver
+[26.58] and recall that our medications have no
+[29.82] choice if they're orally administered
+[32.10] because of the fact that any absorption
+[34.26] that occurs from the middle portion of
+[36.24] the esophagus all the way down to the
+[38.28] middle portion of the rectum is going to
+[40.80] go into the hepatic portal venous system
+[43.38] on the way to the liver to be
+[45.54] metabolized and that can be problematic
+[48.54] for a number of different medications
+[50.22] for instance glycerol trinitrite or
+[53.84] nitroglycerin for Angina or sometimes
+[57.00] called angina and also morphine have
+[60.72] what we call a very high first pass
+[64.02] effect and that means that the orally
+[67.20] administered medication is very
+[69.48] significantly altered before it gets to
+[73.32] systemic circulation
+[75.48] for orally administered glycerol
+[77.88] trinitrate the bioavailability is less
+[82.14] than one percent and that means that
+[85.44] less than one percent of the medication
+[87.72] that is orally administered is going to
+[90.18] be reaching systemic circulation
+[93.26] unchanged and that's the reason we most
+[97.26] frequently administer the medication the
+[100.80] sublingually in the form of a spray
+[103.16] spraying it under the tongue avoids that
+[105.96] first pass mechanism and it gets the
+[107.94] medication into the system very quickly
+[110.18] so the bioavailability of the medication
+[113.78] increases dramatically if we administer
+[117.30] it that way
+[118.62] for morphine the bioavailability is
+[121.62] around 30 so we can still administer it
+[124.68] orally but it is oftentimes
+[128.30] intravenously injected resulting in 100
+[132.18] bioavailability
+[135.20] intravenous injections and
+[137.66] intra-arterial injections are the only
+[140.28] types of administration that
+[142.68] consistently achieves 100 percent
+[145.46] bioavailability because nothing can
+[148.50] change the drug from the syringe to the
+[151.38] blood another way that we can get
+[153.66] morphine into the person's system is to
+[157.02] administer a drug that turns into
+[159.98] morphine in the liver codeine is what we
+[163.56] call a pro drug and it does exactly that
+[166.98] it is an inactive drug that has a
+[170.30] bioavailability of 90 percent and the
+[173.70] coding is altered to the active form
+[176.46] which is morphine the first time it
+[179.58] enters one of the liver cells
+[182.46] the liver is a primary site for
+[185.28] metabolism of drugs but it is not the
+[187.50] only site in fact many of the cells of
+[190.38] the git and many cells throughout the
+[192.96] body are also involved in some
+[195.12] metabolism of drugs but the liver has a
+[198.30] full array of the enzymes that are
+[200.64] needed for the drug metabolism and it
+[203.64] receives all of the blood from the git
+[205.92] so we consider it the most important
+[208.62] organ in metabolism of drugs
+[211.92] it's important not to fall into the
+[214.38] habit of thinking that the metabolism of
+[216.78] drugs always makes the drug inactive
+[220.20] like I just doubted in some instances
+[222.78] the first metabolic process in the liver
+[225.78] can make some inactive Pro drugs into
+[229.62] active metabolites it can make active
+[233.04] drugs into more active metabolites it
+[236.94] can make a drug more toxic or it can
+[239.70] make a drug inactive
+[242.34] in each case we are changing the drug
+[245.28] from one molecular form to another so
+[248.94] the main goal of the liver is not to
+[251.40] immediately inactivate the drug but
+[253.68] rather to make it more water soluble and
+[256.68] easier to excrete we can excrete drugs
+[259.86] in a variety of different ways in the
+[262.14] lungs and through our sweat for instance
+[264.42] and we can also excrete in the feces but
+[267.42] the most common way to eliminate drugs
+[270.06] is by the kidneys and in order to
+[272.94] excrete it by that route we need it to
+[275.64] be water soluble
+[277.74] the liver makes the Drug's water soluble
+[280.20] in two stages which are termed phase one
+[282.90] reactions and phase two reactions in
+[286.50] general the phase one reactions involve
+[289.14] cytochrome p450 enzymes the cytochrome
+[293.46] p450 enzymes are a huge super family of
+[297.36] enzymes that induce or unmask a polar
+[301.50] group in other words these reactions
+[304.74] make the molecule more water soluble
+[308.64] besides making the drug more
+[310.62] water-soluble the phase one reaction
+[312.86] also in simplistic terms gives the liver
+[316.80] an additional Target to come back to to
+[320.82] change the molecule even further the
+[323.70] next time that it goes through the liver
+[327.24] in other words the very sight that we
+[330.72] changed the first time is often the
+[334.08] target of other liver enzymes the next
+[337.44] time it goes through the liver
+[340.02] then if the metabolite is still too
+[342.60] lipophilic or in other words too fat
+[344.82] soluble the next time the drug goes
+[347.76] through the liver The Phase 2 reaction
+[349.80] occurs which adds a polar group to the
+[353.16] drug so that it is very water soluble
+[355.86] and we can definitely excrete it by the
+[358.50] kidneys
+[359.70] to picture these reactions let's take
+[361.74] the example of aspirin aspirin is a pro
+[364.68] drug it's taken as acetyl salicylicic
+[367.44] acid in the first pass aspirin is going
+[370.02] to be transformed into salicylicic acid
+[372.66] and that happens mainly in the liver but
+[376.20] it also happens to some extent in the
+[378.66] stomach and the in the intestinal mucosa
+[382.08] of the git and that reaction is termed a
+[385.50] phase one reaction the liver then uses
+[388.56] another enzyme to attach a very polar
+[391.14] molecule to the salicylic acid and in
+[394.14] that case the active metabolite is
+[397.02] changed to a relatively inactive water
+[400.20] soluble substance that can be easily
+[402.54] excreted
+[403.86] and make sure that you reinforce your
+[406.44] knowledge about the metabolism of drugs
+[408.42] by engaging in the quiz for this section
+[411.26] we will see you there and thanks for
+[414.24] joining us
+[417.50] we've just seen that the liver
+[419.76] metabolizes some pro-drugs into active
+[423.06] metabolites and one of the most common
+[425.94] drugs that is a pro drug is aspirin so
+[430.32] right now use your knowledge of
+[432.36] absorption and Metabolism to consider
+[435.42] what would happen in the following
+[437.04] scenario
+[438.42] pushpa has learned that topical
+[440.90] anti-inflammatory agents can help with
+[443.46] arthritis of the fingers she wants to
+[446.40] save money so she mixes aspirin with a
+[449.04] cream and administers it topically will
+[452.64] she get anti-inflammatory effects of the
+[455.70] aspirin in that local area
+[460.32] and you'd be correct if you had said
+[462.84] that she's very unlikely to get direct
+[467.00] anti-inflammatory effects if applied in
+[469.44] that manner drugs are formulated for
+[472.50] specific applications so for instance
+[475.46] intravenous aspirin if aspirin is given
+[478.74] intravenously it is given as lysine
+[482.00] acetylsalicate and not acetyl
+[485.46] salicylicic acid which is the oral form
+[488.88] of aspirin it can be very dangerous to
+[493.14] just assume that a medication made to be
+[496.08] taken orally is safe and effective to be
+[499.08] administered in another way
+[502.02] so if aspirin were to be administered
+[505.26] topically the first problem is that much
+[508.44] of it would not be absorbed
+[510.72] but also remember that aspirin is a pro
+[513.60] drug and as such it needs to be
+[515.94] metabolized into the active form and the
+[518.70] main place for that to occur is in the
+[521.82] liver
+[523.08] so the aspirin that got through the skin
+[525.48] into the interstitial spaces would need
+[528.36] to get into the liver where it would be
+[530.58] metabolized into the active form
+[534.42] let's take one more question to make
+[536.76] sure you understood what happens in the
+[538.80] liver with respect to metabolism
+[541.50] on the first pass through the liver the
+[544.26] enzymes in the liver including the
+[546.96] hundreds of cytochrome p450 enzymes can
+[550.80] make the drug a active B more active C
+[555.72] less active D pharmacologically inert e
+[560.16] more toxic F less toxic G more water
+[565.38] soluble or H all of the above
+[572.00] and you were correct if you had said all
+[575.64] of the above the liver's main job is to
+[578.82] make things more easily excreted so it
+[581.64] makes things more water soluble but in
+[585.30] the process the first step may actually
+[587.58] make the drug more toxic
+[590.34] a good example is the first metabolite
+[592.92] of ethanol the alcohol that we drink
+[595.50] which is acid aldehyde and much more
+[599.16] toxic than ethanol
+[602.34] let's get on to getting a good picture
+[604.56] of the final process of pharmacokinetics
+[607.20] which is the excretion of medications

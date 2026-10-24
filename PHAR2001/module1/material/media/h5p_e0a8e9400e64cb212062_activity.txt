@@ -1,0 +1,27 @@
+Source: https://scu.h5p.com/content/1291774878159418709
+Type: activity text extraction (full data in JSON)
+
+false
+
+Finish ?
+
+Retry ?
+
+The vomiting centre that controls vomiting is located in the stomach
+
+Untitled True/False Question
+
+Pepto-Bismol
+(Bismuth Subsalicylate) is considered an antiemetic
+
+Bismuth subsalicylate has local anti-inflammatory effects
+
+Bismuth subsalicylate decreases stomach acid
+
+Bismuth subsalicylate has some local, direct antimicrobial effects.
+
+Bismuth subsalicylate is not generally sold in Australia and as such, no questions will be in the quiz regarding that remedy, however this is important to know as clients from overseas will be asking where to find it.
+
+Please tick the statement(s) that is/are correct:
+
+Untitled Multiple Choice

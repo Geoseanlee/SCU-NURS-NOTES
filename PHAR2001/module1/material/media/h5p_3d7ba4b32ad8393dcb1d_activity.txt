@@ -1,0 +1,34 @@
+Source: https://scu.h5p.com/content/1291769849126166699
+Type: activity text extraction (full data in JSON)
+
+Hydrogen bonds
+
+Ionic bonding
+
+Van der Waals forces
+
+Covalent bonding
+
+Finish ?
+
+Retry ?
+
+The binding of our drugs to cellular receptors depends on the general shape of the molecule as well as the attractant and repelling molecular forces. Which of the following is the strongest bond in this list?
+
+Untitled Multiple Choice
+
+Affinity
+
+Potency
+
+Selectivity
+
+Which of the following is a measure of the strength of the bonding between a receptor and its ligand (or a drug)?
+
+true
+
+A drug with a higher affinity to the receptor is likely to stay on the receptor for longer, which often results in an increase in the potency, or strength of the medication.
+
+Untitled True/False Question
+
+We are always looking for more selective medications, because they only bind to the specific receptor that they are made for, giving fewer side effects.

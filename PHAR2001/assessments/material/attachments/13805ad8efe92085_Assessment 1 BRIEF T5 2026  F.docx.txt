@@ -1,0 +1,217 @@
+## word/document.xml
+Assessment 
+Brief
+ 
+#
+1
+Assessment Details
+Unit Code Title​
+PHAR2001 Introductory Pharmacology
+Assessment 
+# 
+Title​
+Assessment 1: Quiz
+Assessment Category
+Quiz
+Due
+ 
+D
+ate
+Week 
+#
+2
+, 
+Friday, 
+06 
+November,
+ 
+2026. 
+The quiz 
+becomes
+ available at 06:00 on Friday
+ 06 November
+, 
+NSW time. From that point, you have 24 hours to start it, before access closes at 05:59 on Saturday 
+07 November
+.
+Feedback & Grades Release​
+​
+Week 
+2, Sunday
+, 08 November,
+ 
+11:59
+ 
+pm AEST
+Weight
+2
+0
+%
+Length
+ / Duration
+6
+0 minutes
+Individual / Group
+Individual
+GenAI 
+Use
+ 
+Level
+ 
+Level 3
+: No GenAI Use
+Learning Outcomes
+You will demonstrate the following Unit Learning Outcomes on the successful completion of this task:
+LO 1. Explain the main principles of pharmacokinetics and pharmacodynamics
+LO 2. Describe the mechanism of action, pharmacological effects, therapeutic uses, contraindications, safety issues and side effects of major drug classes and commonly used therapeutic agents
+Assessment Rationale
+It is imperative that all health care workers have a solid understanding of pharmacology, especially the safety issues around specific medications and fatal drug interactions. This assessment attempts to ensure that your understanding of pharmacology is adequate for working safely in a health care environment. 
+Task 
+Description
+Assessment 1 is a 
+Blackboard
+ quiz consisting of multiple choice and short answer questions. 
+Task 
+Instructions
+In this quiz, you are permitted to use your study notes and access the websites discussed in Tutorial 1.
+ You 
+may not
+ access ChatGPT or other AI sources or past exams from PHAR2001 or communicate with any person during the quiz. 
+You may NOT take pictures
+, screenshots,
+ or snips
+ of the questions for any reason. On the day of the quiz, students will:
+Gain access to the portion of the 
+Blackboard
+ site that contains the quiz, agree to all conditions of the quiz
+,
+ including that the student will complete the quiz on their own. 
+H
+ave good internet connection 
+and
+ 
+a backup plan in case of internet failure 
+and 
+a backup plan in case of computer failure
+(
+A
+lternatively, students may take the quiz at any SCU campus in which case the backup plan is not needed)
+ 
+Enter and complete the 
+Blackboard
+ quiz
+ – the quiz must be completed in one sitting
+.
+Questions will be randomised in 
+a couple of 
+ways
+: the order of the questions and the order of the a-e options in the 
+multiple-choice
+ questions will be different for each student. The specific questions you get will also vary, because they’re drawn from a larger pool.
+B
+acktracking 
+is not allowed 
+meaning that students cannot
+ go back to change an answer or review
+ 
+previous 
+questions.
+If your access to the internet fails or you are temporarily cut off for any reason, 
+ENTER THE QUIZ AGAIN, using the same path.
+ If you have problems re-accessing the quiz, contact your UA who will be available by email 0:600 to 22:00. 
+Referencing Requirements
+No referencing
+ is required
+. 
+Assessment 
+Resources
+The best preparation for the quiz will be the activities and videos from Module 1 
+as each of the quiz questions is modelled on the activities from that module
+. Attendance at the Week 2 Tutorial will also be 
+necessary
+ for full marks.  
+Deliverables & Submissions
+The 
+Blackboard
+ quiz will automatically 
+submit
+ 60 minutes after entry into the quiz (in case you forget to submit or if you use the entire 60 minutes dedicated to the quiz). 
+Generative 
+Artificial Intelligence (
+Gen
+AI) Guidelines
+Conditions of
+ 
+U
+se
+ 
+Level 3 - 
+No GenAI Use
+:
+ GenAI cannot be used in any part of the assessment 
+Evidence of 
+GenAI 
+Use
+You may be required to 
+demonstrate / explain / provide evidence
+ 
+of 
+the fact that you did not use 
+GenAI to complete this assessment. It is your responsibility to maintain accurate and detailed records of your GenAI use. 
+For further information
+,
+ 
+see 
+Evidence of GenAI Use Guide
+.
+ 
+This guide provides information regarding the types of evidence that may be requested
+ 
+and provides a template for your evidence collection
+.
+GenAI use 
+A
+cknowledgement
+ 
+Statement
+ 
+The use of GenAI must be acknowledged appropriately. Failure to do so may result in an academic integrity breach, as outlined in the
+ 
+Student Academic and Non-Academic Misconduct Rules, Section 3
+.  
+Marking, Grades & Feedback
+Works submitted by the due date will be evaluated against the grading criteria and standards specified in the assessment rubric. For more information regarding SCU grades and standards, visit 
+Final Grades
+. 
+Grades and feedback will be posted to the 
+Grades & Feedback
+ section on the unit learning site. Please allow up to seven days for marks to be posted.
+Rules relating to Assessment and Examination
+Please refer to 
+How to apply for Special Consideration
+ and 
+Rules Relating to Awards - Rule 3 - Coursework Awards - Student Assessment and Examinations
+ f
+or information regarding:
+Extensions
+Special Consideration
+Late submission 
+Resubmission
+SCU Grades
+Appeals
+Academic Integrity
+If you have any questions regarding the above, please contact the Unit Assessor as soon as possible.
+Academic Integrity Declaration
+At Southern Cross University, academic integrity means behaving with the values of honesty, fairness, trustworthiness, courage, responsibility, and respect in relation to academic work. 
+The Southern Cross University Academic Integrity Framework aims to develop a holistic, systematic, and consistent approach to addressing academic integrity across the entire University. For more information see the 
+SCU Academic Integrity Framework
+.
+NOTE
+: 
+Academic Integrity breaches include
+ unacceptable use of generative artificial intelligence (GenAI) tools, the use of GenAI has not been appropriately acknowledged or is beyond the acceptable limit as defined in the Assessment, poor referencing, not identifying direct quotations correctly, close paraphrasing, plagiarism, recycling, misrepresentation, collusion, cheating, contract cheating, fabricating information.  
+At SCU
+,
+ the use of GenAI tools is acceptable, unless it is beyond the acceptable limit as defined in the Assessment Item by the Unit Assessor.
+.
+The answers in the quiz are either correct or incorrect and as such there is no rubric for this assessment.

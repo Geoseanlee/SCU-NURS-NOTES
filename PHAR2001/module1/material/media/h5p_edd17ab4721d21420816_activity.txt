@@ -1,0 +1,36 @@
+Source: https://scu.h5p.com/content/1291758411785773239
+Type: activity text extraction (full data in JSON)
+
+Bisacodyl
+
+Senna
+
+Castor oil
+
+Sodium picosulfate
+
+Finish ?
+
+Retry ?
+
+Choose the stimulant laxative(s) that is/are effective if taken orally, by suppository, or by enema.
+
+Untitled Multiple Choice
+
+They should only be used when nothing else works or as a bowel preparation prior to surgery or endoscopy
+
+They often result in a strong rebound constipation
+
+When used over a long time, the smooth muscles adapt to the level of stimulation
+
+They can result in electrolyte abnormalities
+
+If used over a long period of time (several years) normal bowel habits can be re-established by increasing fluid and fibre intake
+
+Choose the correct statement(s) about the stimulant laxatives:
+
+true
+
+Enteric coatings are placed on medications that need to be dissolved in the intestines rather than the stomach. One should never chew a medication with an enteric coating.
+
+Untitled True/False Question

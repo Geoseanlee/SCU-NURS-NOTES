@@ -1,0 +1,29 @@
+Source: https://scu.h5p.com/content/1291774122244178399
+Type: activity text extraction (full data in JSON)
+
+Since proton pump inhibitors such as Omeprazole and other ...prazole drugs decrease stomach acid by nearly 100%, they are the first line therapy for people with Barrett's Disease and Peptic Ulcer Disease.
+
+Barrett's disease is a condition where there is oesophageal dysplasia, and it may progress to cancer if there is continued insult involving acid spashing up on the cells.
+
+Peptic ulcer disease can result in a clinical emergency because continued acid can erode into a blood vessel, resulting in bleeding into the stomach.
+
+If a client has been on proton pump inhibitors like omeprazole for 5 or more years, the person should be withdrawn from the medication
+
+Finish ?
+
+Retry ?
+
+Please choose the statement(s) that is/are correct:
+
+Untitled Multiple Choice
+
+Omeprazole is considered a pregnancy category B3 medication. Explain what that means, remembering that all three subsets of pregnancy category B involve this as the starting point: Medicines which have been taken by only a limited number of pregnant women and women of childbearing age, without an increase in the frequency of malformation or other direct or indirect harmful effects on the human foetus having been observed"
+Since there are insufficient data on HUMANS, THE SECOND HALF OF THE DESCRIPTION HAS TO DO WITH WHAT WAS FOUND IN ANIMALS. BRIEFLY EXPLAIN THAT PORTION FOR A B3 medication
+
+Untitled Essay
+
+true
+
+The second portion of the description of a pregnancy category B3 medication involves animal studies. In those studies, there was some harm to the foetus but we do not know if that is applicable to humans.
+
+Untitled True/False Question

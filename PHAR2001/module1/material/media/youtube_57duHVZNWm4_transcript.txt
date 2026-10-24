@@ -1,0 +1,188 @@
+Source: https://www.youtube.com/watch?v=57duHVZNWm4
+Type: captions, not an independently verified transcript
+
+[1.38] hi there and welcome back to an
+[3.60] understanding medications since we're
+[5.94] going to begin our discussions on
+[8.16] medications that work on cellular
+[9.98] receptors in this chapter and it's
+[12.66] really important that we have a good
+[14.88] clear picture of what cellular receptors
+[18.12] are and also have a general idea of the
+[23.16] four different types of cellular
+[24.90] receptors so those are going to be the
+[27.96] aims of this lesson
+[30.18] human cells are made up of phospholipid
+[33.72] bilayer the phospholipid bilayer is
+[37.56] constantly moving a little bit and that
+[40.44] bilayer is held together by various
+[42.84] attractant and repelling properties of
+[46.02] the molecules so there's Van Der Val's
+[50.16] forces which will allow the lipid
+[54.72] soluble tails to attract each other and
+[57.90] then there's hydrogen bonding that's
+[60.24] going to allow the heads to be attracted
+[63.30] to each other on the surface of the
+[65.64] phospholipid bilayer there is different
+[68.04] proteins and these proteins include
+[71.94] structural proteins there's enzymes that
+[75.18] speed up reactions there's channels and
+[78.60] transport carrier molecules and there's
+[82.02] also cellular receptors and most of our
+[86.82] cellular receptors three of the four
+[89.52] different types of cellular receptors
+[92.36] are on the cell surface they're
+[96.26] transmembrane proteins in other words
+[98.40] what they do is they span all the whole
+[101.16] distance of the phospholipid bilayer
+[103.62] from the outside of the cell to the
+[105.96] inside of the cell
+[107.70] and being a receptor it's going to
+[110.34] receive something so what is it going to
+[113.76] receive the thing that the cellular
+[115.92] receptors receive is called The
+[118.70] receptors ligand or sometimes called
+[122.10] ligand
+[124.08] this is a representation of the insulin
+[127.68] receptor the insulin receptor is an
+[130.82] enzyme-linked receptor and it's located
+[133.08] on the outer surface of certain cells
+[137.40] this type of receptor is not on all
+[140.10] cells in the body but rather just the
+[143.40] cells that need that receptor
+[146.82] when the receptor is bound by its ligand
+[150.24] the natural substance for which the
+[152.46] receptor was made in this case insulin
+[154.74] that results in a change in the shape of
+[159.66] the protein it results in a
+[162.18] conformational change
+[164.46] and that ultimately results in a Cascade
+[169.44] of events within the cell
+[172.62] so it's ultimately responsible for
+[175.20] messaging the cell or a protein
+[178.50] associated with the receptor to do
+[181.32] something
+[182.52] in this case it signals an increase in
+[186.06] the amount of glucose transport carrier
+[188.64] molecules being placed on the surface of
+[191.70] the cell so you can see how the pancreas
+[195.30] has used insulin as the message for the
+[199.08] muscle cells to react in a given way and
+[203.16] the g protein linked receptor acts in a
+[206.40] similar way where The Binding of the
+[208.74] natural ligand results in a cellular
+[211.98] response
+[213.96] the ligand-gated Ion channel is a bit
+[217.98] different it's a receptor that undergoes
+[220.98] that conformational change after The
+[223.82] Binding of the natural ligand but that
+[228.00] change just opens up a channel for
+[232.80] positively or negatively charged
+[235.68] particles to go through the cell's
+[238.14] surface
+[239.72] and finally there's the intracellular
+[242.76] receptors the ligands for those have to
+[246.06] be lipid soluble in order to get through
+[249.06] the phospholipid bilayer and when those
+[252.50] ligands bind to their receptor
+[255.90] the entire receptor ligand complex goes
+[260.58] into the nucleus of the cell binds to
+[263.94] the DNA and simply put those ligands are
+[268.86] going to affect the production of
+[271.62] proteins that the cell makes in summary
+[275.46] of this lesson cellular receptors are
+[278.16] proteins that are on the surface of the
+[281.28] cell or they're also inside the cell
+[284.60] intracellular receptors are possible as
+[287.46] well
+[288.36] and those proteins as they're Bound by
+[291.66] the natural ligand they're going to
+[294.48] result they're going to undergo a
+[297.12] conformational change in the protein a
+[300.36] change in the structure of the protein
+[302.10] and that's going to result in a Cascade
+[304.86] of events inside this cell
+[307.56] and therefore the ligand and the
+[310.44] cellular receptors are are way of
+[313.68] communicating between one cell and
+[317.94] another cell and we'll find out how our
+[320.94] medications use those receptors because
+[324.72] most of our medications use cellular
+[327.72] receptors for their therapeutic actions
+[335.84] we've just taken a look at the major
+[338.58] types of cellular receptors and we've
+[341.40] noted that most of our medications bind
+[343.80] to one of those receptors to perform
+[346.02] their therapeutic actions
+[348.72] recall that cellular receptors are the
+[351.54] cell's way of receiving Communications
+[354.12] from other cells or other parts of the
+[357.06] body
+[357.90] when the receptor is bound by the
+[360.66] natural ligand or a drug that mimics the
+[363.90] natural ligand that is the signal for
+[367.32] the cell to do something for instance
+[369.54] The Binding of the insulin receptor on
+[372.66] muscle cells increases the number of
+[375.30] glut4 Transport carrier proteins on the
+[378.96] cell surface
+[380.76] so our cells can regulate the number of
+[384.48] proteins that are embedded in the cell
+[387.18] surface and just like that increase in
+[390.36] number of Transport carrier proteins the
+[393.66] cell has the ability to increase or
+[396.42] decrease the number of the cell
+[398.60] receptors on the cell surface
+[402.66] so think about that this cell has the
+[405.60] ability to increase or decrease the
+[409.14] number of cellular receptors so we can
+[412.98] actually alter the number of messages
+[416.60] that go into the cell can't we
+[420.00] let's take an example we have natural
+[422.34] opioids in the body that decrease the
+[425.04] transmission of pain
+[426.72] our medications called the opioids bind
+[430.68] to those same receptors and they also
+[434.28] decrease the transmission of pain but
+[437.46] when a person takes pharmacological
+[439.62] doses of opioids for about three weeks
+[442.80] or more the cells themselves decide that
+[446.40] there's too many receptors on the cell
+[448.98] surface
+[450.18] so right now hypothesize what will
+[452.94] happen to the perception of pain when
+[455.76] the cells themselves decrease the number
+[459.30] of opioid pain relieving receptors
+[463.80] a the perception of pain will stay the
+[466.98] same B the perception of pain will
+[469.98] increase see the perception of pain will
+[472.92] decrease
+[474.84] and you are correct if you said B the
+[477.30] perception of pain will increase one of
+[480.72] the biggest problems with using
+[482.72] pharmacological doses of opioids is the
+[486.12] fact that the cells themselves recognize
+[489.06] that there is an abundance of opioids in
+[492.54] the system and they respond by taking
+[495.54] some of the receptors the opioid
+[498.54] receptors off the cell surface they pull
+[502.44] those receptors off the cell surface
+[504.72] they degrade them and use the parts for
+[507.60] other things and that decreases the
+[510.42] number of cellular receptors and
+[512.76] increases the perception of pain
+[515.82] and that explains why people who take
+[518.58] opioids consistently for a few weeks
+[521.16] will go back to the practitioner looking
+[523.92] for a stronger opioid or looking for
+[526.74] higher doses
+[528.98] they're actually experiencing more pain
+[532.02] instead of less pain with the same
+[534.42] insults
+[536.70] and this type of compensation doesn't
+[539.16] occur at every receptor but it is
+[541.62] oftentimes the reason for the rebound
+[544.56] effects of some of our medications and
+[547.44] in those situations it's very important
+[549.96] not to take the medication for longer
+[553.14] than recommended

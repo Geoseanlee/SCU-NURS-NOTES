@@ -1,0 +1,46 @@
+Source: https://scu.h5p.com/content/1291773064837656889
+Type: activity text extraction (full data in JSON)
+
+An enteric coated medication
+
+In a suppository in the lower portion of the rectum.
+
+Sublingually
+
+Intravenous administration
+
+In a controlled release formula
+
+Finish ?
+
+Retry ?
+
+Please choose all of the correct answers. If a medication has a very low bioavailability due to the hepatic first pass effect, it may be provided in a method that avoids the hepatic first pass. Which methods should be considered?
+
+Untitled Multiple Choice
+
+Be made into an inactive drug
+
+Be made into an active drug
+
+Be made into a more active drug
+
+Be made into a more toxic metabolite
+
+Be made into a much more hydrophobic drug
+
+Choose all of the correct possibilities. When a drug goes through the liver, it can:
+
+false
+
+The main goal of the liver metabolism of drugs is to inactivate the drug
+
+Untitled True/False Question
+
+The phase 1 reactions involve cytochrome P450 enzymes that make
+the drug more hydrophilic or water loving and gives the liver an additional
+target to come back to in the Phase 2 reaction.
+
+The phase 2 reaction destroys the drug.
+
+Choose the correct answer. The liver metabolises drugs by undergoing phase 1 and phase 2 reactions, including:

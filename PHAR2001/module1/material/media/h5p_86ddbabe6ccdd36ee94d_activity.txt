@@ -1,0 +1,24 @@
+Source: https://scu.h5p.com/content/1291769602768325719
+Type: activity text extraction (full data in JSON)
+
+true
+
+Finish ?
+
+Retry ?
+
+The generic name of a drug is the shortened version of the chemical name. It often has an affix (usually a suffix that comes at the end of the name) that can identify the drug class that the medication belongs to.
+
+Untitled True/False Question
+
+Atenolol
+
+Propranolol
+
+Timolol
+
+Cortisone
+
+Which of the following is NOT a beta blocker that decreases blood pressure?
+
+Untitled Multiple Choice

@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291865540827880159
+Type: activity text extraction (full data in JSON)
+
+Significant abdominal distension
+
+Small volume, mucus-like diarrhoea
+
+Extreme colicky pain
+
+Nausea
+
+Finish ?
+
+Retry ?
+
+Please select the signs that will be quite VALUABLE in deciding if the client has intestinal blockage.
+
+Untitled Multiple Choice
+
+Opioids
+
+Any medication that increases the Parasympathetic Nervous System (PNS)
+
+Medications that increase the Sympathetic Nervous System (SNS)
+
+Causes of constipation include drugs. Which of the following will cause constipation?

@@ -1,0 +1,28 @@
+Source: https://scu.h5p.com/content/1291769830317534059
+Type: activity text extraction (full data in JSON)
+
+When the cellular receptor is bound by the natural ligand, or a drug that mimics the natural ligand, that is the signal for the cell to do something.
+
+The cellular receptors that most of our drugs bind to in order to perform their therapeutic action are involved in communication between other cells or other parts of the body
+
+Cellular receptors can be increased or decreased by the cell, thereby increasing or decreasing the number of messages that to to the cell (provided there are adequate ligands to bind to those receptors).
+
+Although there are slight variations in cellular receptors, they are all quite similar.
+
+Finish ?
+
+Retry ?
+
+Choose the following that is/are correct:
+
+Untitled Multiple Choice
+
+false
+
+While the cell has the ability to increase or decrease the number of receptors on the surface, it never does this in response to drugs.
+
+Untitled True/False Question
+
+true
+
+In Pharmacology, when we are discussing cellular receptors, the ligand is the natural substance for which the substance is made, and it can be a small molecule, ion, or protein.

@@ -1,0 +1,141 @@
+Source: https://www.youtube.com/watch?v=ncHqF2Z2Fgg
+Type: captions, not an independently verified transcript
+
+[0.00] hi there and welcome back to an
+[1.68] understanding medications in this lesson
+[4.26] we'll be aiming to get a general
+[5.58] understanding of the first process of
+[8.48] pharmacokinetics specifically the
+[10.86] absorption of drugs
+[12.90] there's many ways in which we can
+[14.52] administer medications for instance if
+[16.68] we took an oral tablet that tablet's
+[19.02] going to go down into the stomach break
+[21.18] up into millions of little pieces it's
+[23.82] going to wind up going into the liver
+[27.30] it's going to go into the venous system
+[29.88] into the right side of the heart into
+[32.16] the lungs into the left side of the
+[34.02] heart and then finally onto systemic
+[36.48] arterial circulation where it's going to
+[38.64] be able to do its actions now that's a
+[41.40] long way
+[42.72] but if you administered glycerol
+[44.88] trinitrite are sometimes called
+[46.82] nitroglycerin for Angina sublingually or
+[49.98] under the tongue or if you administered
+[52.32] it by transdermal patch or if you
+[54.60] administered another medication by
+[56.94] suppository into the lower portion of
+[59.88] the rectum all of those modes of
+[62.28] administration will go directly into the
+[65.16] venous system circulation then it would
+[68.40] only have to go to the right side of the
+[70.68] heart into the lungs into the left side
+[73.50] of the heart and onto systemic arterial
+[76.62] circulation
+[78.36] and if you injected a medication into
+[80.94] the subcutaneous fat that's going to go
+[84.12] into the interstitial spaces around the
+[87.36] adipose or fat tissue and then it's
+[89.88] going to go into the venous circulation
+[92.22] once again
+[93.78] but think about what happens when you
+[95.64] administer an anesthetic into the lungs
+[98.76] the anesthetic would go directly down to
+[102.12] the alveoli where it would enter into
+[105.42] the capillaries of the lungs the
+[108.78] anesthetic would then just need to go to
+[111.06] the left side of the heart and onto
+[113.10] systemic arterial circulation so that is
+[116.40] one of fastest routes of administration
+[120.84] each of those modes of administration is
+[123.78] going to need to be absorbed into the
+[126.06] blood system in fact the only modes of
+[129.42] administration that don't need to be
+[131.40] absorbed are the intravenous
+[133.80] administration or the intra-arterial
+[136.98] administration because those types of
+[139.74] administration place the medication
+[141.78] directly into the blood
+[145.32] one thing to note about those different
+[148.44] methods of administration is that they
+[151.14] will vary with respect to the amount of
+[154.02] time that they take to fully get into
+[156.66] systemic circulation and therefore their
+[159.90] Peak concentration in the blood or their
+[163.94] concentration Max or C-Max is going to
+[168.24] vary as well for instance the absorption
+[171.06] of orally administered medication is
+[173.70] spread over time and has quite a low
+[176.94] C-Max conversely the same dose of an
+[181.10] intravenously administered medication or
+[184.56] a medication that is administered by
+[186.78] inhalation into the lungs is going to
+[189.54] have a fairly rapid spike in the C-Max
+[194.28] and this is quite important so I'm going
+[196.32] to stop right now so that we can apply
+[198.60] our knowledge of these different points
+[200.52] about absorption with a quick quiz
+[202.92] and then we'll finish up with Part B of
+[205.50] the absorption lesson just after that
+[207.72] quick quiz
+[211.32] we've just explained that there's a big
+[213.60] difference between the concentration Max
+[216.18] or what we call C-Max between a
+[219.36] medication that is orally administered
+[222.12] versus a medication that is
+[224.84] intravenously injected or administered
+[228.30] by inhalation
+[230.16] the absorption of oral medications will
+[233.34] be spread over time much more
+[236.76] so let's think about what that would
+[239.28] mean for instance with side effects and
+[242.28] potential overdose
+[244.68] looking at the graph of the
+[246.72] concentration Max between the different
+[249.60] modes of administration which of these
+[252.72] do you think would have a greater
+[254.52] potential for side effects
+[259.02] and you were correct if you had said
+[261.42] that there was a greater risk of
+[263.58] Overdose and side effects with the types
+[266.64] of administration that allow the
+[268.80] medication to enter the systemic
+[271.14] circulation the fastest
+[274.02] so there's a greater potential for
+[276.12] overdose with the medications that are
+[278.58] intravenously injected or administered
+[281.70] by inhalation
+[284.46] most medications bind to the receptor or
+[288.00] enzyme that they're supposed to bind to
+[290.10] but they also have some effect on other
+[294.24] receptors or enzymes and that's the
+[297.84] reason for many of the side effects of
+[299.88] the medication when the medication is in
+[303.36] high concentration it's much more likely
+[306.96] that the drug is going to bind to and
+[309.78] affect the receptors or enzymes that
+[312.18] it's not supposed to bind to
+[314.94] another thing I want you to note with
+[316.98] these graphs is the speed at which the
+[319.44] drug is metabolized and eliminated from
+[322.26] the system especially in the first
+[324.48] instance when that concentration is the
+[327.30] highest take a look at these graphs and
+[330.00] explain which one you think has the
+[332.52] steepest fall in the drug concentrations
+[335.90] and what you think that means about the
+[339.12] metabolism of drugs
+[345.06] and you were correct if you had said
+[347.10] that the drug that has the greatest
+[349.62] C-Max or concentration Max initially has
+[353.82] the steepest fall in drug concentrations
+[357.38] meaning that they are the ones that are
+[360.36] normally metabolized the fastest in that
+[363.72] first instance
+[365.22] in what we will later know of as the
+[368.40] first Half-Life in this time right here
+[372.84] and right now let's jump back into
+[375.24] picturing the important aspects of
+[377.46] absorption

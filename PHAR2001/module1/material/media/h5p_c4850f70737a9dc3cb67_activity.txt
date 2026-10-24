@@ -1,0 +1,24 @@
+Source: https://scu.h5p.com/content/1291758377005627849
+Type: activity text extraction (full data in JSON)
+
+Osmotic laxatives include lactulose and magnesium citrate
+
+The osmotic laxatives exhibit a LINEAR dose-response curve, meaning the more you take, the greater the effect.
+
+The osmotic laxatives result in more fluid in the GIT, and that fluid comes from the blood (plasma)
+
+Since the osmotic laxatives do not get absorbed and they simply work by direct action, there are no precautions needed when taking them.
+
+Finish ?
+
+Retry ?
+
+Choose the statement or statements about osmotic laxatives that is/are correct:
+
+Untitled Multiple Choice
+
+The standard dose curve often 'peaks' shortly after the therapeutic dose.
+
+Paracetamol is a drug that exhibits a standard dose curve. The therapeutic dose is very close to the maximum effect that can be achieved with that mild analgesic. This means that if the client takes more than the standard dose, they may only experience the toxic effects rather than getting additional relief from pain.
+
+The osmotic diuretics demonstrate a dose response curve, meaning the more you take, the greater the effect. There are few examples of that type of response. Select the correct statement(s) about the standard dose curve:

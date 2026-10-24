@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1292792924413170219
+Type: activity text extraction (full data in JSON)
+
+Even if the properties of the drug favour absorption in the stomach, as they do with aspirin, very little of that medication is actually absorbed in the stomach.
+
+Hydrophilic (water soluble) drugs are the type of drugs that are absorbed the best from the GIT
+
+When a drug is taken with food, it normally decreases the bioavailability (the fraction of the drug that reaches the systemic circulation unchanged) of the drug
+
+An ointment is an oil based topical preparation. If it includes a medication that must be absorbed, that medication needs to be a lipophilic drug
+
+Finish ?
+
+Retry ?
+
+Please choose the statement or statements that is/are correct.
+
+Untitled Multiple Choice
+
+While we can cite many specific examples of drugs that do not meet this rule, oral drugs are normally best taken one hour before or two hours after a meal.
+
+If there is a high motility in the GIT, it will absorb drugs faster because everything is sped up
+
+Water soluble drugs normally need to move into the cells of the GIT through channels, from the area of higher concentration to the area of lower concentration.
+
+Which of the following is/are correct?

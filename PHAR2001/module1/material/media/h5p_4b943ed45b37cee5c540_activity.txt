@@ -1,0 +1,18 @@
+Source: https://scu.h5p.com/content/1291769917353105229
+Type: activity text extraction (full data in JSON)
+
+It can act as an agonist, acting like the natural ligand, and performing the same physiological response as the natural ligand.
+
+It can act as an antagonist, binding to the receptor and just blocking it, competing with the natural ligand and thereby decreasing the messages that are sent to the cell.
+
+On certain receptors, it can act as an inverse agonist, which is simplistically referred to by many authors as an antagonist.
+
+It can act as an inhibitor
+
+Finish ?
+
+Retry ?
+
+Which of the following is/are correct about the binding of a drug to a receptor?
+
+Untitled Multiple Choice

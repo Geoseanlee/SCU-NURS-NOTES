@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291770572411358189
+Type: activity text extraction (full data in JSON)
+
+Omeprazole is enteric coated which makes the drug last longer in the system
+
+Simplistically speaking, Omeprazole effectively stops the energy supply to the hydrogen potassium pump, while Famotidine is just a competitive antagonist, simply competing with Histamine 2, which is needed for the hydrogen-potassium pump to pump.
+
+Omeprazole is an irreversible inhibitor of the Hydrogen potassium ATPase pump, and since that is such an elaborate protein/pump, it takes quite a while for the parietal cells to either degrade the drug in the parietal cell, or to produce more of that enzymatic pump.
+
+Finish ?
+
+Retry ?
+
+Omeprazole and other proton pump inhibitors (the …oprazole drugs) are much more effective at reducing the acid in the stomach than Famotidine and other Histamine 2 receptor blockers (the …tidine drugs). The explanation for this would include which of the following?
+
+Untitled Multiple Choice
+
+It is an enzyme because it catalyses a reaction,
+
+It is a protein that is embedded in the parietal cells of the stomach
+
+It is a protein that acts as a pump, pumping out hydrogen ions into the lumen of the stomach
+
+It is found throughout the body
+
+Which of the following is/are correct about the Hydrogen/Potassium ATPase pump:

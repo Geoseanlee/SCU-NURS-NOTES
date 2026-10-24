@@ -1,0 +1,16 @@
+Source: https://scu.h5p.com/content/1291770523895220389
+Type: activity text extraction (full data in JSON)
+
+Competitive inhibition is a type of reversible enzymatic inhibition in which the inhibitor is competing with the substrate. When the medication is fully metabolised, there should be no further effects
+
+Non-competitive inhibition is a type of reversible enzymatic inhibition that involves the drug binding to the enzyme and changing the shape of the enzyme so that the natural substrate does not bind.
+
+Irreversible enzymatic inhibition destroys the ability of the cell to produce that enzyme
+
+Finish ?
+
+Retry ?
+
+Which of the following is/are true statements about medications that act as enzymatic inhibitors?
+
+Untitled Multiple Choice

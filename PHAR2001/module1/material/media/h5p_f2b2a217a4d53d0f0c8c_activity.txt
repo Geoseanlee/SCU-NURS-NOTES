@@ -1,0 +1,28 @@
+Source: https://scu.h5p.com/content/1291758440753562929
+Type: activity text extraction (full data in JSON)
+
+Vitamin A, important for skin health
+
+Vitamin C, an important antioxidant
+
+Vitamin D, important in bone health
+
+Vitamin E, a valuable antioxidant
+
+Vitamin K, valuable in Coagulation (Koagulation)
+
+Vitamin B, important in Biological processes throughout the Body
+
+Finish ?
+
+Retry ?
+
+The mineral oil laxatives greatly reduce the absorption of the fat soluble vitamins. Which of the following is/are fat soluble vitamin(s)?
+
+Untitled Multiple Choice
+
+true
+
+The main safety concern about mineral oil and detergent laxatives like docusate is that they should never be used together, as that allows some of the mineral oil to be absorbed. Once in the body, there is no method of excretion, and the immune system will form granulomas in an attempt to 'hide' the mineral oil from the rest of the body.
+
+Untitled True/False Question

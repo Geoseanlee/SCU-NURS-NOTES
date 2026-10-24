@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291770592930420649
+Type: activity text extraction (full data in JSON)
+
+Effect on Drug A: The enzyme which is inhibited may be responsible for converting a pro-drug to an active drug, and if that reaction is inhibited, the pro-drug version of Drug A would remain inactive
+
+Effect on Drug B: The enzyme may be responsible for changing an active drug to an inactive drug, and if that reaction is inhibited, the active drug version of Drug B may remain active for longer than expected
+
+Effect on Drug C: The particular enzyme affected is not involved in the metabolism of the drug, and that will result in respiratory distress, coma and death.
+
+Finish ?
+
+Retry ?
+
+If a drug (or for that matter, a food like grapefruit) inadvertently affects one of the Cytochrome P450 enzymes that metabolises other drugs, which of the following may occur?
+
+Untitled Multiple Choice
+
+true
+
+One of the main reasons that an enzymatic inhibitor has side effects is that the enzyme that needs to be affected to exert therapeutic effects may have other roles in the body which we do not want to affect. For instance, NSAIDs and aspirin inhibit the enzyme COX, which gives those medications the ability to reduce inflammation. But COX has protective roles throughout the body, and those are affected as one takes NSAIDs and affecting THOSE result in the side effects.
+
+Untitled True/False Question

@@ -1,0 +1,8 @@
+Source: https://scu.h5p.com/content/1291868973472360399
+Type: activity text extraction (full data in JSON)
+
+Please open the medicinal preparations and abbreviations table document ON THE LINK DIRECTLY ABOVE and perform this drag the words activity using that document.
+
+Untitled Drag the Words
+
+Drag the abbreviations into the correct boxes

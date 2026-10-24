@@ -1,0 +1,18 @@
+Source: https://scu.h5p.com/content/1291869026664515449
+Type: activity text extraction (full data in JSON)
+
+Pregnancy Category A drugs are the safest medication during pregnancy. If taken as directed, they should have no adverse effect on the growing foetus
+
+Pregnancy Category B drugs are a bit safer during pregnancy than Pregnancy Category C drugs and can cause more problems to the growing foetus than Pregnancy Category A drugs
+
+Pregnancy Category D Drugs cause harm to the growing foetus, although that harm does not include teratogenic changes. Teratogens are substances that cause congenital disorders in a developing embryo or foetus.
+
+Pregnancy Category X drugs are teratogenic and should not be given to a pregnant woman or even a woman of child bearing years.
+
+Finish ?
+
+Retry ?
+
+Please choose the statement or statements that is/are correct:
+
+Untitled Multiple Choice

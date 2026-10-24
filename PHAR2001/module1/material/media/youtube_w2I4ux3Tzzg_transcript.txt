@@ -1,0 +1,167 @@
+Source: https://www.youtube.com/watch?v=w2I4ux3Tzzg
+Type: captions, not an independently verified transcript
+
+[2.84] at this time I'd like to further your
+[6.56] understanding of enzymatic Inhibitors
+[9.36] and then I'm going to apply that
+[11.58] information to the specific enzymatic
+[14.64] Inhibitors that we're talking about the
+[16.32] proton pump inhibitors
+[18.42] as I was saying sometimes our
+[20.94] medications do the intended action they
+[24.36] act on for instance an enzyme but that
+[28.02] enzyme is used to do something else that
+[31.56] we don't want to affect
+[34.26] a very common example of that is found
+[37.98] with the non-steroidal anti-inflammatory
+[41.40] drugs or aspirin or the
+[44.48] NSAIDs all of those they actually affect
+[48.90] an enzyme called cyclo oxygenase
+[53.48] cycloxygenase is an enzyme that's
+[55.80] abbreviated as Cox Cox
+[59.22] and it is great because Cox the enzyme
+[64.44] is used in the inflammatory Cascade and
+[67.14] if we can block that enzyme then we're
+[71.04] going to decrease inflammation so great
+[73.74] that's perfect isn't it well it's not so
+[77.10] perfect because of the fact that that
+[80.18] enzyme the Cox enzyme is also used in
+[84.42] other roles it's got
+[86.76] a fair few roles but two major roles are
+[91.14] having to do with protective roles in
+[93.84] both the stomach and also in the kidneys
+[97.26] and that's where the side effects come
+[101.22] the side effects of non-steroidal
+[104.18] anti-inflammatory drugs and also in
+[107.82] Aspirin have to do with the potential of
+[112.98] stomach ulcers because we don't have a
+[115.44] lot of that protection that the Cox
+[117.48] enzyme was giving and also in kidney
+[121.44] damage because once again we don't have
+[124.32] the protection that the Cox enzyme was
+[127.56] giving now those examples are especially
+[130.68] prevalent in people who take the Cox
+[135.24] inhibitors or in other words aspirin or
+[137.52] non-steroid anti-inflammatory drugs when
+[140.10] they take those for a long period of
+[142.14] time
+[143.46] and once again as I've said before it's
+[146.82] not an issue for
+[149.22] Omeprazole and the proton pump
+[151.62] inhibitors because the enzyme that we're
+[153.96] talking about is almost specific to the
+[157.20] parietal cells so we don't have to worry
+[159.48] about that but there is another issue
+[162.24] with enzymes that's relevant to the
+[165.72] proton pump inhibitors
+[168.12] we mentioned that in some cases
+[170.96] medications may actually have a
+[173.46] molecular structure that can bind to for
+[176.88] instance another enzyme or another
+[179.64] receptor I think we've talked about it
+[181.62] with respect to another receptor but now
+[184.08] we're talking about it with respect to
+[186.42] binding to another enzyme an enzyme that
+[190.08] it's not supposed to bind to in other
+[193.26] words there are medications that have
+[196.02] crossover effects they may have a little
+[199.56] bit of a binding to another enzyme and
+[203.46] some not all of the proton pump
+[205.98] inhibitors but some of the proton pump
+[208.32] inhibitors have that crossover effect
+[212.58] Omeprazole can have a slight binding to
+[215.82] some of the liver enzymes
+[218.70] remember that the liver enzymes are made
+[222.24] to metabolize drugs and when we read
+[225.24] about
+[226.08] Omeprazole in a drug manual the manual
+[229.74] is going to say that the Omeprazole
+[233.42] inhibits
+[234.96] c y p 2 c 1 9 and cyp
+[242.12] 2 C 8. so both of those are inhibited by
+[248.04] Omeprazole what does that mean
+[251.52] well when you hear about a medication
+[253.98] that affects the liver enzymes
+[255.84] abbreviated as cyp something something
+[259.14] something at least three more letters
+[261.36] and numbers after the cyp basically just
+[265.14] means that you need to be careful about
+[267.62] combining that medication with other
+[270.96] medications
+[272.64] that's really easy you don't have to
+[274.68] memorize the exact enzymes that every
+[277.80] drug affects you simply look at your
+[280.56] drug monograph drug manual or the
+[283.02] reference manual that you're using and
+[285.54] you check which specific drugs are going
+[288.54] to be affected
+[290.22] but it's important to note that the
+[292.86] effects can be very variable
+[295.08] in some instances there might be hardly
+[297.90] any effect in other instances
+[300.78] Omeprazole may actually increase the
+[303.42] effects of another drug and in other
+[307.08] instances for instance Omeprazole may
+[309.78] actually decrease the effects of another
+[312.60] drug
+[313.86] once again that'll always be in your
+[316.80] drug manuals so you don't have to
+[319.28] memorize that type of information
+[323.16] this kind of effect is very common in
+[326.70] many medications and even in a lot of
+[329.70] different foods so a lot of different
+[332.16] foods can affect liver enzymes that
+[335.04] metabolize drugs for instance grapefruit
+[338.04] juice is one of the biggest concerns
+[341.64] it's a very strong inhibitor of
+[344.84] cytochrome
+[346.46] p450 cyp3a4
+[351.48] and that particular enzyme is involved
+[355.20] in metabolizing over 50 percent of the
+[358.74] medications that we have on the market
+[360.48] today
+[361.98] the effects of grapefruit juice can be
+[364.38] so substantial that even a small amounts
+[368.40] a small 200 mil glass of grapefruit
+[372.78] juice or one fruit could have
+[376.58] significant effects and actually results
+[379.14] in drug toxicity and furthermore the
+[383.34] effect doesn't necessarily mean that
+[385.50] it's going to decrease the action or
+[387.66] increase the action sometimes that
+[389.70] effect is different for different drugs
+[396.18] we just said that by inhibiting the same
+[399.42] enzyme in the liver the effect can be
+[402.60] different for different drugs for
+[404.52] instance grapefruit juice inhibits
+[407.96] cyp3a4 and makes some drugs less active
+[411.60] and Other Drugs more active how can it
+[414.84] affect two different medications so
+[417.42] differently
+[418.56] well the enzyme may change drug a from a
+[421.62] pro drug to an active drug when
+[424.74] grapefruit juice inhibits the enzyme in
+[427.20] that case the pro drug would remain
+[429.96] inactive
+[431.96] conversely the enzyme may change drug B
+[435.36] from a highly active drug to an inactive
+[439.08] drug inhibition of the enzyme in that
+[442.20] case will allow more highly active drug
+[445.68] to remain in the system for longer
+[448.98] the other thing to remember about drugs
+[451.50] and enzymes is that some drugs are
+[453.84] inducers of certain liver enzymes and
+[457.38] when a drug is an inducer of a liver
+[460.68] enzyme it basically goes over to the
+[463.20] liver cells and instructs the cell to up
+[465.96] regulate the production of an enzyme
+[470.46] remember we make our proteins with the
+[473.88] DNA in the nucleus of the cell
+[477.42] well a drug that acts as an inducer of
+[481.20] an enzyme is basically instructing the
+[483.96] cell to increase the production of that
+[486.96] enzyme but once again as we apply that
+[490.26] to our medications your drug manuals
+[493.02] will have all of the various reactions
+[495.18] that are possible and it's not something
+[497.40] that you really need to memorize at all

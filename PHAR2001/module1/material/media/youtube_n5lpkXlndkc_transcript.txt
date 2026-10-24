@@ -1,0 +1,158 @@
+Source: https://www.youtube.com/watch?v=n5lpkXlndkc
+Type: captions, not an independently verified transcript
+
+[0.96] hi there and welcome back we're
+[3.42] continuing our discussions of
+[5.06] pharmacokinetics which includes the
+[7.62] absorption distribution metabolism and
+[9.66] excretion of drugs and right now we'll
+[12.36] be talking about the distribution of
+[14.40] drugs
+[15.42] we finished our last video as the orally
+[18.24] consumed medication was going down to
+[21.36] the microvilli of the small intestine
+[24.54] and being absorbed in the microvilli and
+[27.60] from there it's going to go into the
+[29.58] hepatic portal venous system
+[32.40] we'll discuss more that when we talk
+[34.62] about metabolism but it's important to
+[37.14] note that right now orally consumed
+[40.86] medications will go through what we call
+[43.50] the hepatic first pass mechanism or in
+[46.56] other words go through the liver before
+[49.44] it's distributed to other tissues or any
+[53.10] other part of the body
+[55.50] oftentimes before the drug even gets to
+[58.98] the liver it acts as a protein carrier
+[62.82] molecule many of our drugs are carried
+[64.92] by proteins such as albumin or the
+[67.02] globulins especially if the drug is
+[69.72] highly lipophilic or in other words fat
+[72.60] soluble
+[73.92] each drug will have a different Affinity
+[76.98] to that protein carrier molecule and as
+[80.64] such each drug will have a certain
+[83.00] percentage that is normally bound to
+[85.98] proteins
+[87.54] and importantly it's only the Unbound
+[91.26] portion of the drug that can be
+[93.30] metabolized and it's only the Unbound
+[96.36] portion of the drug that can exert its
+[99.36] effect
+[100.56] and as you hear that you may be thinking
+[102.48] well if 80 percent is bound to the
+[104.76] proteins then the 80 percent is going to
+[107.22] be ineffective right because as you just
+[110.70] said the Unbound portion of the drug is
+[113.46] the only portion that can be metabolized
+[116.34] or exert its effect but you have to
+[118.98] remember that this binding is going to
+[121.56] establish what's called a chemical
+[123.72] equilibrium
+[125.88] so for instance if the drug is in the
+[128.28] liver and 80 is bound to the proteins
+[130.92] and 20 is free the 20 this free is going
+[134.34] to go into the hepatocytes to be
+[136.74] metabolized but what does that do to the
+[140.52] percentage that is bound in the blood
+[143.22] well that raises the percentage doesn't
+[146.40] it but that chemical equilibrium must be
+[149.64] re-established at that point so some of
+[152.70] the drug is going to disassociate from
+[155.70] the protein carriers right then
+[158.28] and in the end all of the medication
+[161.16] that's reversibly bound to the proteins
+[163.38] will eventually disassociate from that
+[165.84] protein carrier and be available to
+[168.30] perform its actions or be metabolized a
+[171.48] highly bound drug however may take
+[174.66] longer for that to happen
+[177.84] the other important concept about
+[180.30] distribution is the way in which the
+[182.88] drug is distributed among the four major
+[185.82] body compartments the blood the fats the
+[190.08] extracellular fluid and the
+[191.94] intracellular fluid
+[193.80] and as a drug enters a compartment for
+[197.04] instance the blood the Unbound drug
+[199.80] begins to distribute into other body
+[204.24] compartments and once again establishing
+[206.88] an equilibrium between those body
+[209.46] compartments until the drug reaches
+[211.92] equilibrium throughout the body
+[214.44] in the quiz on this lesson we're going
+[217.14] to take a couple clinical scenarios that
+[219.48] are going to reinforce these Concepts
+[221.76] we'll see you there
+[227.88] we were just talking about the fact that
+[229.86] many of our medications bind to protein
+[233.10] carrier molecules in order to get
+[235.62] distributed around the body and we're
+[238.50] saying that only the Unbound portion of
+[241.86] the drug is going to exert its effect
+[245.48] albumin and globulins are the proteins
+[248.52] that are most frequently used to carry
+[250.92] those drugs and which protein carries a
+[255.24] particular drug depends on the
+[257.40] properties of the drug itself so for
+[259.98] instance one drug that is highly acidic
+[262.80] may be carried by albumin and another
+[266.40] drug may be carried by the globulins but
+[269.58] it's important to realize that we don't
+[272.28] have a limitless capacity to carry drugs
+[275.22] on proteins The Binding spots on our
+[277.92] proteins can be completely saturated
+[280.94] meaning that despite the fact that a
+[284.10] drug is normally for instance 80 percent
+[286.14] bound to proteins there may be certain
+[289.02] instances in which there's not enough
+[291.66] free proteins to carry that drug
+[295.56] using that information let's take a
+[298.44] clinical scenario Mrs Ling is stabilized
+[302.04] on a medication let's call that
+[303.84] medication a that is highly bound to
+[306.90] albumin she is then prescribed an
+[309.84] additional new medication let's call
+[312.06] that medication B that is also highly
+[315.96] bound to albumin
+[317.94] but it's got a much stronger Affinity to
+[321.66] albumin what do you suspect would happen
+[325.50] one there would be no change in the
+[328.26] effective drug a
+[330.36] or two drug B the one that binds more
+[334.80] strongly to albumin may knock a lot of
+[337.56] drug a off the albumin leaving more of
+[341.46] the Unbound drug a to possibly exert
+[345.66] toxic effects
+[348.78] and you were correct if you said two
+[351.48] drug B may knock a lot of drug a off the
+[355.86] albumin binding sites leaving more of
+[359.46] drug a free and if there's more of drug
+[363.00] a free then there's a greater potential
+[366.18] of adverse and toxic effects of that
+[369.24] drug
+[370.20] while the potential for this type of
+[372.18] reaction to occur is really
+[374.72] overestimated in Pharmacology books it's
+[378.48] one of the reasons that two medications
+[380.76] are oftentimes contraindicated together
+[385.26] it can also contribute to adverse
+[387.96] reactions in people who are deficient in
+[390.54] proteins for instance in liver disease
+[392.76] where the person isn't making adequate
+[395.04] proteins and in some types of kidney
+[397.20] disease where the person is losing their
+[399.96] proteins
+[401.16] and to be clear most of the problems
+[403.92] associated with drug toxicity in people
+[406.38] with liver disease comes from the fact
+[408.90] that the liver metabolizes most drugs
+[411.90] and in liver disease the liver is simply
+[415.50] not doing its job very well but the low
+[418.68] protein levels still seem to play some
+[421.56] role in the toxicity of drugs in liver
+[424.98] failure with that we're going to move
+[427.62] into the next process of
+[429.32] pharmacokinetics and get a much better
+[431.52] picture of the role of the liver in the
+[433.86] metabolism of drugs

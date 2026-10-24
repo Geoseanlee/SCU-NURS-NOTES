@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291757666099846459
+Type: activity text extraction (full data in JSON)
+
+Drink more water and eat more fibre rich foods
+
+Osmotic laxatives such as lactulose
+
+Stimulant laxatives such as Senna, Bisacodal, or Sodium picosulfate
+
+Finish ?
+
+Retry ?
+
+Which of the following is the FIRST LINE treatment for constipation?
+
+Untitled Multiple Choice
+
+true
+
+The term first line treatment is the one accepted as the best treatment. If it doesn’t cure the disease or give significant relief, or it causes severe side effects for the individual client, other treatment may be added or used instead. Other terms can be used including induction therapy, primary therapy, and primary treatment.
+
+Untitled True/False Question

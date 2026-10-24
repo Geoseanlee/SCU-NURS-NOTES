@@ -1,0 +1,248 @@
+Source: https://www.youtube.com/watch?v=QTRj5_KZ1NQ
+Type: captions, not an independently verified transcript
+
+[0.84] hi there and welcome back to an
+[2.52] understanding medications we've just
+[4.92] explained the four types of cellular
+[6.90] receptors that our medications can bind
+[9.24] to and in this lesson we're going to
+[11.64] understand a lot more about those
+[13.14] receptors and by investigating things
+[16.50] like receptor binding Affinity
+[18.80] selectivity and potency
+[21.72] we're going to start out this lesson by
+[23.76] understanding the medications how they
+[27.12] bind to The receptors we very
+[29.76] simplistically think that it's a
+[31.50] molecular shape and if this molecular
+[33.36] shape meets this molecular shape then
+[36.06] that's fine it's bound
+[37.62] but it really does have a lot to do with
+[40.38] the molecular forces as well so recall
+[44.58] how the phospholipid bilayer is held
+[47.16] together by Van Der waals forces the uh
+[50.46] the tails are held together by Van Der
+[52.50] waals forces the heads are held together
+[54.30] by hydrogen bonds well The Binding of
+[58.74] the ligand to the receptor are going to
+[62.28] use those forces as well and they're
+[64.14] going to use other things like ionic
+[67.44] bonding ionic bonding is is a fairly
+[69.96] strong it's a lot stronger than those
+[71.82] other two forces I've just discussed I
+[74.58] like to use the analogy of our modern
+[77.70] electronic devices which have some
+[80.28] snap-in features you know when the
+[82.62] accessory comes into close proximity to
+[85.62] the receptor the magnetic forces guide
+[88.38] the accessory into place and they snap
+[91.02] together now in applying that analogy to
+[94.44] our medications the molecular properties
+[97.32] of the drug have various attractant
+[100.92] forces to the molecular properties of
+[103.80] the receptor the drug is therefore
+[106.50] attracted to the receptor and just like
+[109.86] The Binding of the accessory to the
+[112.44] electronic device most of our binding of
+[116.04] drugs to The receptors is not permanent
+[120.42] there can be a lot of differences though
+[123.18] in the strength of the binding and that
+[126.06] is termed Affinity the drugs Affinity to
+[129.72] the receptor so sometimes a medication
+[132.54] is said to have a high Affinity or a low
+[135.96] Affinity to a receptor and using that
+[139.10] electronic device analogy let's say that
+[143.04] for instance there are usually five
+[145.02] magnets that are holding unit in place
+[147.30] and we've lost three of those magnets
+[149.88] well it's still going to have the same
+[152.28] shape isn't it and it's still going to
+[154.02] have a little bit of a binding but it
+[156.18] can snap off a lot easier
+[158.70] so in applying that to our medications
+[161.52] if the medication has a low affinity for
+[164.82] a particular receptor the molecular
+[167.16] binding holding it into place is not as
+[169.74] strong and the receptor and Drug just
+[173.88] kind of pop off and then conversely if
+[176.94] it's got a higher Affinity it's going to
+[179.52] result in being bound to that receptor a
+[183.12] lot longer having a lot more difficulty
+[185.82] being pulled apart and later we'll see
+[189.12] how Affinity is going to contribute to
+[192.60] potency and potency it is is described
+[195.84] as the measure of the drugs activity in
+[200.10] terms of the amount of the drug that is
+[202.68] needed to produce a certain effect so if
+[205.80] two drugs do exactly the same thing and
+[208.62] one only needs three milligrams the
+[211.20] other one needs 30 milligrams obviously
+[214.08] the one that has the three milligram
+[217.08] dose is going to be having the stronger
+[220.56] potency and it may have a lot to do with
+[223.68] The Binding of the medication to its
+[227.28] receptor
+[228.24] another concept that we should overview
+[230.58] right now has to do with selectivity
+[234.00] selectivity has to do with how selective
+[237.48] a medication is for a certain receptor
+[242.10] and I'll use the common example for this
+[244.20] of the adrenergic drugs in other words
+[246.36] the medications that mimic adrenaline or
+[250.38] sometimes called epinephrine
+[253.26] recall that we use adrenaline in the
+[256.98] fight or flight response when we're
+[259.62] running away from something that's about
+[261.78] to do us harm The receptors for
+[264.48] adrenaline are all the way through the
+[266.16] body but I'm just going to use two
+[268.62] receptors in this simple example we have
+[271.94] adrenergic Alpha One receptors on the
+[275.28] peripheral blood vessels the blood
+[276.78] vessels to the skin the blood vessels to
+[278.94] the extremities and The Binding of
+[281.64] adrenaline to those receptors will
+[283.80] constrict those blood vessels and in
+[286.68] turn that may very well increase the
+[289.38] blood pressure we also have the beta 2
+[292.38] receptors on the bronchi and they will
+[295.02] be acted on by adrenaline itself as well
+[298.38] so if adrenaline would hit those beta 2
+[302.22] receptors dilating the bronchi and
+[305.22] allowing more air to go into the lungs
+[308.22] so that the person would have plenty of
+[310.02] air when they're running away in a fight
+[312.36] or flight response the adrenaline will
+[314.88] find both the Alpha One and the beta 2
+[319.50] receptor we can simplistically represent
+[322.74] that with this diagram the adrenaline
+[325.74] fits both the Alpha One receptor and the
+[329.34] beta 2 receptor and it has a strong
+[332.58] molecular bond to both of those
+[335.40] receptors
+[337.02] but suppose we just wanted to get the
+[340.14] therapeutic effects of adrenaline for a
+[342.84] person with asthma and all we wanted to
+[345.72] do was open up the bronchi
+[348.24] if we developed a selective beta-2
+[352.22] adrenergic medication we could do that
+[355.80] without constricting the blood vessels
+[357.84] so we could do that without the major
+[360.54] side effects
+[362.16] that can be simplistically represented
+[364.74] by these diagrams where the beta 2
+[367.74] medication has a strong binding to the
+[370.92] beta 2 receptor but the very weak
+[374.58] binding in other parts of the adrenergic
+[377.22] receptor
+[378.72] we also have drugs that will bind to
+[382.56] another receptor receptor that doesn't
+[384.90] seem to be related to the original
+[386.64] receptor at all
+[388.68] so for instance the early antihistamines
+[391.56] bound to and blocked the histamine one
+[395.82] receptor that was what they were
+[398.16] supposed to do but they bound to another
+[401.40] receptor the acetylcholine receptor
+[403.80] blocked that receptor and a lot of these
+[406.80] side effects of that medication were
+[409.44] going to be found because of that
+[411.72] binding to the acetylcholine receptor
+[414.96] so you'll find that our medications will
+[417.54] be trying to get more and more selective
+[420.42] as time goes on
+[422.52] in summary of this lesson Affinity has
+[425.52] to do with how well the drug binds to
+[428.70] the receptor selectivity has to do with
+[432.06] the degree to which the drug acts on a
+[435.78] given receptor relative to how well it
+[439.44] binds to other receptors and potency has
+[443.46] to do with a measure of the drug
+[445.08] activity expressed in terms of the
+[447.66] amount that is required to produce and
+[451.38] effect
+[454.44] let's try to gain an understanding of
+[456.90] the terms Affinity selectivity and
+[459.90] potency by applying our knowledge to the
+[463.08] opioid medications
+[465.06] recall that we were saying that opioid
+[467.22] analgesics work by binding to the opioid
+[470.82] receptors mainly in the spinal cord at
+[474.06] this level here
+[475.68] at that point there's what we can
+[478.80] simplistically think of as a gate the
+[482.34] pain is being transmitted from the
+[484.32] extremities and we have a gate there
+[486.84] that can decrease the number of impulses
+[490.14] allowed to go to the brain
+[492.78] so the opioid binding right here will
+[496.80] decrease the perception of pain at the
+[499.14] level of the brain
+[500.76] there are a number of subsets of opioid
+[503.46] receptors in the body but the main one
+[505.74] that is involved in analgesic effects
+[508.74] right here is the MU receptor
+[511.98] one of our opioids morphine binds to
+[515.76] these mu receptors and that decreases
+[519.36] the messages to the brain and the
+[521.58] perception of pain decreases
+[525.12] another one of our opioid analgesics
+[527.88] called fentanyl also binds to the MU
+[531.72] receptors right here but fentanyl is 100
+[535.86] times more potent than morphine in other
+[540.60] words the dose of fentanyl that would be
+[543.66] needed to get the same pain relief as
+[546.60] morphine is just 1 100th the amount and
+[550.98] using what we just learned in the last
+[552.78] lesson develop a hypothesis about why
+[555.90] fentanyl would be so much more potent
+[558.90] than morphine
+[562.38] and while there could be a number of
+[564.60] reasons why a medication is more potent
+[567.12] than a similar one that acts by the same
+[569.40] mechanism one of the main reasons that
+[571.98] fentanyl is so much more potent than
+[574.20] morphine is that the Affinity to the MU
+[577.32] receptor is much stronger
+[580.38] in other words when fentanyl binds to
+[583.26] that same receptor it is much more
+[585.66] difficult to get it off that receptor
+[588.44] and this strong Affinity to the receptor
+[591.78] ends up with the drug simplistically
+[594.00] speaking sending many more messages to
+[596.88] the cell to decrease the transmission of
+[599.64] pain impulses the Affinity to the
+[603.24] receptor can affect the potency of the
+[606.96] medication
+[608.16] let's take another quick question to
+[610.50] apply our knowledge of selectivity
+[613.62] the MU receptor has two major subsets
+[617.30] meaning that The receptors differ just a
+[621.18] little bit from each other
+[623.04] the mu1 receptor is responsible for the
+[626.64] analgesic or pain relieving effect and
+[629.76] the mu2 receptor is responsible for
+[633.18] respiratory depression constipation and
+[636.84] the euphoric effect that makes the
+[638.70] medication addictive
+[640.68] so which one of the following do you
+[642.60] think would be correct a drug Discovery
+[646.08] scientists would be looking to develop
+[647.94] opioids that are selective for the MU 1
+[651.06] receptor
+[652.86] B drug Discovery scientists would
+[655.80] develop a very potent opioid if the drug
+[659.10] they discovered had a strong Affinity to
+[662.04] the MU 1 receptor
+[664.50] or C both of the above are correct
+[670.86] and you were correct if you had said c
+[673.68] both of the above are correct we're
+[676.62] always looking for new medications that
+[679.32] have fewer side effects and one of the
+[682.32] ways that can happen is if we develop
+[685.08] more selective medications some of the
+[688.68] most valuable medications bind only to
+[691.92] one receptor that gives the most
+[694.56] therapeutic effect without binding to
+[697.74] other receptors which yields the side
+[700.68] effects

@@ -1,0 +1,592 @@
+## word/document.xml
+Assessment 
+Brief
+ 
+#
+3
+Assessment Details
+Unit Code Title​
+PHAR2001 Introductory Pharmacology
+Assessment 
+# 
+Title​
+Assessment 3: Case Study
+Assessment Category
+Case study
+Due
+ 
+D
+ate
+Week 
+#
+6
+, 
+Wednesday 
+2 December
+ at 11
+:59
+ 
+pm 
+NSW
+Feedback & Grades Release​
+​
+Week #
+8
+ 
+Monday
+ 
+14 December
+ at
+ 11:59
+ 
+pm 
+NSW
+Weight
+5
+0
+%
+Length / Duration
+The 
+suggested 
+number of words
+ (
+not a word limit)
+ for the individual questions within the case study is as indicated at the end of each individual question. Do not exceed 2x (twice) the suggested number of words for any individual question. 
+Individual / Group
+Individual
+GenAI 
+Use
+ 
+Level
+ 
+Level 2
+: Purpose-Specific GenAI Use
+Learning Outcomes
+This 
+assessment evaluates your achievement of the following Unit Learning Outcomes:
+ULO 1: 
+Explain the main principles of pharmacokinetics and pharmacodynamics
+ULO 2. Describe 
+the mechanism of action, pharmacological effects, therapeutic uses, contraindications, safety issues and side effects of major drug classes and commonly used therapeutic agents.
+ULO 3: Discuss drug toxicity and interactions between drugs using specific examples of drugs and considering individual variability of drug response
+ULO 4.  Investigate and evaluate medications in case-based contexts and accurately communicate the findings in a timely manner.
+Assessment Rationale
+The case study helps you develop the SKILL associated with knowing where to look to find accurate information about medications and using those resources to provide accurate and clear information about administration of medications.
+The 
+case study will u
+ltimately form a solid foundation in pharmacology that will help you to:
+Ensure safe monitoring of a client’s medication 
+Increase confidence in performing drug administration 
+Provide accurate patient education 
+Communicate professionally about medications to colleagues
+Task 
+Description
+This
+ case study 
+involves: 
+A case study set in a multi-disciplinary clinic that 
+address
+es
+ ULO’s 
+1, 
+2
+, 3 and
+ 4 and 
+is 
+worth a total of 
+50% of your grade in the unit
+. 
+Each question within the 
+case study 
+has its own individual weighting
+ and suggested word count
+, which 
+are
+ found directly after the question.  
+Task 
+Instructions
+Students will download the 
+Assessment 3 template
+ referred to as 
+Assessment 
+3
+: 
+Case study
+. 
+There will 
+be
+ a
+ five-week evolution of the case study that correlates with the module order on the Blackboard site, specifically Modules 2-6.
+You should study the material in each Module before addressing the separate parts of the case study. 
+ 
+The modules w
+ill not 
+give you the exact answers to the case questions, but they will give you the background knowledge you need
+,
+ to understand the pharmacology concepts involved. Once you have that foundation, you’ll be able to research and answer the case questions more effectively
+ 
+Research each individual question using the strategies 
+and resources 
+that you developed in Tutorial 1.
+Referencing Requirements
+For
+ 
+most of the case study 
+questions, you will be asked to provide the resource that you found most beneficial in 
+completing your answer to the individual questions. You may choose to reference it in APA 7
+th
+ 
+(r
+efer to the 
+SCU Library Guides
+ for detailed guidance
+) 
+or simply copy and paste the URL into the reference box. 
+(Your choice 
+does not
+ affect your grade.) 
+Please note:
+Answers obtained from Artificial Intelligence
+ sources like 
+ChatGPT
+ 
+or the artificial intelligence-based Google 
+or other search engine 
+searches
+ 
+will be awarded no (0) credit. 
+All cited information must be directly supported by the referenced sources. If a citation does not appear in the source provided, the answer earns no credit.
+No more than two references should be cited per question. 
+You should NOT reference the modules or workshops.
+ While these are valuable resources and may even provide the answers in many cases, they do not address the rationale for the assessment, which involves developing the skill of finding accurate information in sources that will be available to you once you leave University. If you find the answer in the workshop for instance, you must continue your research until you find that accurate information in another resource. This process will guide you in reaching our objectives.    
+Assessment 
+Resources
+Week 1 tutorial discusses the most useful and reliable resources for accurate pharmacology information  
+The information in the unit content folder on the Blackboard site will allow you to understand the material you are researching
+The discussion board in Blackboard and the workshops will give you hints on the answers to the questions. 
+Deliverables & Submissions
+The case study
+ should be submitted using the 
+Turnitin
+ 
+submission point
+ titled “Assessment 
+3
+: 
+Case study
+” in the 
+Assessments 
+section on the 
+PHAR2001 
+Blackboard
+ site. You 
+should
+ label your submission with your surname and initials and 
+Case study
+, e.g. 
+SmithJ_
+Case
+ Study
+.doc
+There are no restrictions on the font or spacing used
+ within the Assessment 3 template
+, although the 
+final
+ document must be in a format acceptable to Turnitin (i.e. no hand-written answers, but Microsoft Word® (.doc/.docx), OpenOffice Text (.
+odt
+), WordPerfect® (.
+wpd
+), PostScript (.
+ps
+), HTML and others are acceptable).
+Generative 
+Artificial Intelligence (
+Gen
+AI) Guidelines
+Conditions of
+ 
+U
+se
+ 
+Level 2
+ -
+ 
+Purpose-Specific 
+GenAI 
+Use
+Permitted Uses
+ (Level 2)
+Initial Searches
+: 
+General searches using search engines (e.g. Google), which may incorporate AI-assisted features, 
+are
+ permitted for preliminary information gathering. 
+However, AI-generated summaries or search outputs 
+must not be cited as sources
+. Students are required to locate, read, and critically engage with the original scholarly literature, and only those original sources may be cited in assessments.
+Formatting, spelling and grammar:
+ Grammarly is permitted for language improvement.
+Evidence of 
+GenAI 
+Use
+You may be required to 
+demonstrate / explain / provide evidence 
+of how you have used GenAI to complete this assessment. It is your responsibility to maintain accurate and detailed records of your GenAI use. 
+For further information
+,
+ 
+see 
+Evidence of GenAI Use Guide
+.
+ 
+This guide provides information regarding the types of evidence that may be requested
+ 
+and provides a template for your evidence collection
+.
+GenAI use 
+A
+cknowledgement
+ 
+Statement
+ 
+The use of GenAI must be acknowledged appropriately. Failure to do so may result in an academic integrity breach, as outlined in the
+ 
+Student Academic and Non-Academic Misconduct Rules, Section 3
+.  
+For guidance on proper referencing and citation of GenAI-generated content, please consult the SCU Library Guide on Referencing:
+ 
+SCU Library Guide Referencing
+.
+Marking, Grades & Feedback
+Works submitted by the due date will be evaluated against the grading criteria and standards specified in the assessment rubric. For more information regarding SCU grades and standards, visit 
+Final Grades
+. 
+Grades and feedback will be posted to the 
+Grades & Feedback
+ section on the unit learning site. 
+Please allow up to twelve days for marks to be released, as all late submissions must be received before grades and feedback can be published.
+Rules relating to Assessment and Examination
+Please refer to 
+How to apply for Special Consideration
+ and 
+Rules Relating to Awards - Rule 3 - Coursework Awards - Student Assessment and Examinations
+ f
+or information regarding:
+Extensions
+Special Consideration
+Late submission 
+Resubmission
+SCU Grades
+Appeals
+Academic Integrity
+If you have any questions regarding the above, please contact the Unit Assessor as soon as possible.
+Academic Integrity Declaration
+At Southern Cross University, academic integrity means behaving with the values of honesty, fairness, trustworthiness, courage, responsibility, and respect in relation to academic work. 
+The Southern Cross University Academic Integrity Framework aims to develop a holistic, systematic, and consistent approach to addressing academic integrity across the entire University. For more information see the 
+SCU Academic Integrity Framework
+.
+NOTE
+: 
+Academic Integrity breaches include
+ unacceptable use of generative artificial intelligence (GenAI) tools, the use of GenAI has not been appropriately acknowledged or is beyond the acceptable limit as defined in the Assessment, poor referencing, not identifying direct quotations correctly, close paraphrasing, plagiarism, recycling, misrepresentation, collusion, cheating, contract cheating, fabricating information.  
+At SCU
+,
+ the use of GenAI tools is acceptable, unless it is beyond the acceptable limit as defined in the Assessment Item by the Unit Assessor.
+Assessment Rubric
+Rubric for 
+Assessment 
+3
+Marking Criteria and % allocation
+High Distinction +
+100%
+High Distinction
+(85–99%)
+Distinction
+(75–84%)
+Credit
+(65
+–74%)
+Pass
+(50–64%)
+Marginal Fail
+(35-49%)
+Fail
+(1-34%)
+Not Addressed
+(0%)
+Criterion 1 (Case study 
+part A
+)
+Evidence of understanding the questions, and answering them in your own words, correctly, concisely and with consideration of safety issues. (ULO 1,
+ 
+2, 
+3, 
+4)
+-
+20%
+Achieves all the criteria for a High Distinction to an exemplary standard, without any errors
+.
+ 
+ 
+Safety issues are correctly and comprehensively addressed.
+Deep understanding of the case stud
+y
+ with no incomplete or incorrect answers. 
+Valid reference provided when requested.
+Safety issues are correctly addressed. Well-developed understanding of the case stud
+y
+. Some 
+detail
+ missing or incorrect
+. 
+Valid reference provided when requested.
+Moderate understanding of the case stud
+y
+. Some details missing or safety issues not fully addressed. 
+Valid reference provided when requested.
+  
+Basic understanding of most of the questions,
+ and/or
+ 
+some incomplete answers
+ or
+ wrong answers, but the safety issues are 
+fairly well
+ addressed. 
+Valid reference provided when requested.
+Does not meet the requirements for a Pass, due to recommendations that are not safe, answers that do not address the question, 
+and/or 
+incoherent answers
+.
+ 
+Does not meet the requirements for a pass due to major omissions (
+i.e.  references
+)
+, mistakes, or incoherence.
+No assessment submitted
+, use of artificial intelligence, breach of any academic integrity issues or no references provided when requested. 
+ 
+Criterion 2 (Case study 
+part B
+)
+Evidence of understanding the questions, and answering them in your own words, correctly, concisely and with consideration of safety issues. 
+(ULO 1,
+ 
+2, 
+3, 
+4)
+-
+20%
+Achieves all the criteria for a High Distinction to an exemplary standard, without any errors
+.
+ 
+ 
+Safety issues are correctly and comprehensively addressed.
+Deep understanding of the case stud
+y
+ with no incomplete or incorrect answers. 
+Valid reference provided when requested.
+Safety issues are correctly addressed. Well-developed understanding of the case stud
+y
+. Some 
+detail
+ missing or incorrect
+. 
+Valid reference provided when requested.
+Moderate understanding of the case stud
+y
+. Some details missing or safety issues not fully addressed. 
+Valid reference provided when requested.
+Basic understanding of most of the questions,
+ and/or
+ 
+some incomplete answers
+ or
+ wrong answers, but the safety issues are 
+fairly well
+ addressed.
+ 
+Valid reference provided when requested.
+Does not meet the requirements for a Pass, due to recommendations that are not safe, answers that do not address the question,
+ and/or
+ incoherent answers
+.
+ 
+Does not meet the requirements for a pass due to major omissions (
+i.e.  references
+)
+, mistakes, or incoherence.
+No assessment submitted
+, use of artificial intelligence, breach of any academic integrity issues or no references provided when requested. 
+ 
+Criterion 
+3
+ (Case study 
+part C
+)
+Evidence of understanding the questions, and answering them in your own words, correctly, concisely and with consideration of safety issues. 
+(ULO 1,
+ 
+2, 
+3, 
+4)
+-
+20%
+Achieves all the criteria for a High Distinction to an exemplary standard, without any errors
+.
+ 
+ 
+Safety issues are correctly and comprehensively addressed.
+Deep understanding of the case stud
+y
+ with no incomplete or incorrect answers.
+ 
+Valid reference provided when requested.
+ 
+Safety issues are correctly addressed. Well-developed understanding of the case stud
+y
+. Some 
+detail
+ missing or incorrect
+. 
+Valid reference provided when requested.
+Moderate understanding of the case stud
+y
+. Some details missing or safety issues not fully addressed.
+ 
+Valid reference provided when requested.
+   
+Basic understanding of most of the questions,
+ and/or
+ 
+some incomplete answers
+ or
+ wrong answers, but the safety issues are 
+fairly well
+ addressed.
+ 
+Valid reference provided when requested.
+Does not meet the requirements for a Pass, due to recommendations that are not safe, answers that do not address the question, 
+and/or 
+incoherent answers
+.
+ 
+Does not meet the requirements for a pass due to major omissions (
+i.e.  references
+)
+, mistakes, or incoherence.
+No assessment submitted
+, use of artificial intelligence, breach of any academic integrity issues or no references provided when requested. 
+ 
+Criterion 
+4
+ (Case study 
+part D
+)
+Evidence of understanding the questions, and answering them in your own words, correctly, concisely and with consideration of safety issues. 
+(ULO 1,
+ 
+2, 
+3, 
+4)
+-
+20%
+Achieves all the criteria for a High Distinction to an exemplary standard, without any errors
+.
+ 
+ 
+Safety issues are correctly and comprehensively addressed.
+Deep understanding of the case stud
+y
+ with no incomplete or incorrect answers. 
+Valid reference provided when requested.
+ 
+Safety issues are correctly addressed. Well-developed understanding of the case stud
+y
+. Some 
+detail
+ missing or incorrect
+. 
+Valid reference provided when requested.
+Moderate understanding of the case stud
+y
+. Some details missing or safety issues not fully addressed. 
+Valid reference provided when requested.
+  
+Basic understanding of most of the questions,
+ and/or
+ 
+some incomplete answers
+ or
+ wrong answers, but the safety issues are 
+fairly well
+ addressed.
+ 
+Valid reference provided when requested.
+Does not meet the requirements for a Pass, due to recommendations that are not safe, answers that do not address the question,
+ and/or
+ incoherent answers
+.
+ 
+Does not meet the requirements for a pass due to major omissions (
+i.e.  references
+)
+, mistakes, or incoherence.
+No assessment submitted
+, use of artificial intelligence, breach of any academic integrity issues or no references provided when requested. 
+ 
+Criterion 
+5
+ (Case study 
+part E
+)
+Evidence of understanding the questions, and answering them in your own words, correctly, concisely and with consideration of safety issues. (ULO 2, 4)
+ 20%F
+Achieves all the criteria for a High Distinction to an exemplary standard, without any errors
+.
+ 
+ 
+Safety issues are correctly and comprehensively addressed.
+Deep understanding of the case stud
+y
+ with no incomplete or incorrect answers.
+ 
+Valid reference provided when requested.
+ 
+Safety issues are correctly addressed. Well-developed understanding of the case stud
+y
+. Some 
+detail
+ missing or incorrect
+. 
+Valid reference provided when requested.
+Moderate understanding of the case stud
+y
+. Some details missing or safety issues not fully addressed.
+ 
+Valid reference provided when requested.
+ 
+   
+Basic understanding of most of the questions,
+ and/or
+ 
+some incomplete answers
+ or
+ wrong answers, but the safety issues are 
+fairly well
+ addressed.
+ 
+Valid reference provided when requested.
+Does not meet the requirements for a Pass, due to recommendations that are not safe, answers that do not address the question,
+ and/or
+ incoherent answers
+.
+ 
+Does not meet the requirements for a pass due to major omissions (
+i.e.  references
+)
+, mistakes, or incoherence.
+No assessment submitted
+, use of artificial intelligence, breach of any academic integrity issues or no references provided when requested. 
+ 
+End of Assessment 3 Brief

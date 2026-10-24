@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291770448427771159
+Type: activity text extraction (full data in JSON)
+
+Enteric coatings are placed on the medications mostly if they are irritating to the stomach or they need to dissolve in the small intestine so that they are protected from the stomach acids.
+
+Enteric coated medications must never be chewed, broken in half, or crushed.
+
+Enteric coatings are placed on the medication to make their effects last longer.
+
+Finish ?
+
+Retry ?
+
+Which of the following statements is/are true about enteric coated drugs?
+
+Untitled Multiple Choice
+
+false
+
+The Cytochrome P450 enzymes that help metabolise drugs are found only in the liver
+
+Untitled True/False Question
+
+true
+
+'Bioavailability' is the fraction of the administered dose that gets into systemic circulation unchanged. Intravenous administration has 100% bioavailability, while other modes of administration are variable. If the medication has a very low bioavailability by other means, it may need to be intravenously administered.

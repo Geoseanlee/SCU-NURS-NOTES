@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291771319140906259
+Type: activity text extraction (full data in JSON)
+
+Different modes of administration are absorbed at different rates, and that is important because it has implications on the number of side effects that will be likely and the speed at which the drug is metabolised. This excercise makes sure that you understand the approximate speed with which each method of administration is absorbed.
+
+Untitled Drag the Words
+
+Cmax or concentration max is the maximum (or peak) serum concentration that a drug achieves
+
+A mode of administration that achieves a very high c-max or concentration max is going to result in the drug being metabolised faster in the initial stage of metabolism.
+
+There is a greater potential for overdose, side effects and complications with the mode of administration that gets the medication into the system the fastest.
+
+When a drug is in high concentration, it is less likely to bind to receptors or enzymes that it is not supposed to bind to.
+
+Finish ?
+
+Retry ?
+
+Choose the statement(s) that is/are correct.
+
+Untitled Multiple Choice

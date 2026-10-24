@@ -1,0 +1,16 @@
+Source: https://scu.h5p.com/content/1291775171294684789
+Type: activity text extraction (full data in JSON)
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words
+
+true
+
+Finish ?
+
+Retry ?
+
+At 2:30 in this video lesson, we took a clinical scenario that was very valuable in cementing in the knowledge gained from the last two lessons. I engaged in that clinical scenario and found it useful.
+
+Untitled True/False Question

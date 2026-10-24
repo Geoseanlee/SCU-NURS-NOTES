@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291757540894701669
+Type: activity text extraction (full data in JSON)
+
+The occasional bout of heartburn (or Gastroesophageal Reflux)
+
+Gastroesophageal Reflux Disease (GORD or GERD)
+
+Peptic Ulcer Disease
+
+Finish ?
+
+Retry ?
+
+Antacids are INDICATED for which of the following (tick all appropriate boxes)
+
+Untitled Multiple Choice
+
+Drugs that can decrease the tone of the lower oesophageal sphincter including benzodiazepines, alcohol, and opioids
+
+Binge eating or central obesity, as that pushes the contents of the stomach towards the lower oesophageal sphincter.
+
+Genetic predisposition (those with a weaker lower oesophageal sphincter)
+
+(All of the options can lead to gastroesophageal reflux disease)
+
+All of the following can cause gastroesophageal reflux EXCEPT:

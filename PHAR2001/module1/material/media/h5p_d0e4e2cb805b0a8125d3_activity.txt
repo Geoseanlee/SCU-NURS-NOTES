@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291773889894821299
+Type: activity text extraction (full data in JSON)
+
+Histamine 2 receptor antagonists work on a specific cell called the parietal cell that is located in gastric pits of the lining of the stomach.
+
+Histamine 2 receptor antagonists affect the parietal cell directly, without having to be absorbed, because the medication is exposed to those cells when it is in the stomach.
+
+The parietal cells have a trans-membrane protein carrier called a hydrogen potassium ATPase pump that secrete the H+ (sometimes called protons; sometimes called ‘acid’) into the gastric pits and on to the stomach, but need three things to bind to the cell at the same time in order for that to occur, Histamine 2, Acetylcholine (from the parasympathetic rest and digest system) and gastrin (Gastrin is a hormone that is released when there are peptides in the stomach.).
+
+The Histamine 2 receptor blockers like Famotidine and other ….tidine drugs are competitive antagonists, so they compete with the Histamine 2 that is in the area of the parietal cell. There is still some Histamine 2 binding in the parietal cell and still some acid being secreted, so it will never be 100% effective,
+
+Finish ?
+
+Retry ?
+
+Please choose the correct statement(s) about the members of the drug class called the Histamine 2 receptor antagonists (blockers).
+
+Untitled Multiple Choice
+
+false
+
+A histamine 2 blocker can be called an ‘antihistamine’.
+
+Untitled True/False Question
+
+If you had a runny nose, and you could not get to the pharmacy to buy an antihistamine, you could take Histamine 2 receptor blocker like famotidine to get relief from the runny nose

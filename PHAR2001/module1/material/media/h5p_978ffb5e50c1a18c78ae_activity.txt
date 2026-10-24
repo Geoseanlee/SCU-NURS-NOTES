@@ -1,0 +1,18 @@
+Source: https://scu.h5p.com/content/1291769578548345439
+Type: activity text extraction (full data in JSON)
+
+Loperamide is an opioid
+
+On average, only 1/3rd of 1% of Loperamide gets absorbed
+
+Loperamide acts on the opioid receptors in the GIT
+
+Being an opioid, Loperamide is useful in decreasing pain
+
+Finish ?
+
+Retry ?
+
+Which of the following is/are correct?
+
+Untitled Multiple Choice
