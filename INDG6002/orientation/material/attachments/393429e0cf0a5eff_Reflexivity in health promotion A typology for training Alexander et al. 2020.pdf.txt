@@ -1,0 +1,627 @@
+912407
+research-article2020
+                       HPPXXX10.1177/1524839920912407Health Promotion PracticeAlexander et al. / Reflexivity In Health Promotion
+
+
+
+
+                                                                                                                                   Emerging Models and Frameworks for Practice
+
+
+                                                                                                                                   Reflexivity in Health Promotion: A Typology for
+                                                                                                                                   Training
+                                                                                                                                                                                                            Stephanie A. Alexander, PhD1,*
+                                                                                                                                                                                                                   Catherine M. Jones, PhD2,*
+                                                                                                                                                                                                            Marie-Claude Tremblay, PhD3,*
+                                                                                                                                                                                                                        Nicole Beaudet, MSc4
+                                                                                                                                                                                                                    Morten Hulvej Rod, PhD5
+                                                                                                                                                                                                                     Michael T. Wright, PhD6
+
+
+
+
+                                                      Reflexivity has emerged as a key concept in the field
+                                                      of health promotion (HP). Yet it remains unclear how
+                                                                                                                                                                                  >>
+                                                                                                                                                                                   Introduction
+                                                      diverse forms of reflexivity are specifically relevant to                                                                   Reflexivity in Health Promotion
+                                                      HP concerns, and how these “reflexivities” are inter-                                                                          Over the past decade, reflexivity has emerged as a key
+                                                      connected. We argue that frameworks are needed to                                                                           concept for the field of health promotion (HP) as evi-
+                                                      support more systematic integration of reflexivity in                                                                       denced by a growing body of literature on reflexivity in
+                                                      HP training and practice. In this article, we propose a
+                                                      typology of reflexivity in HP to facilitate the under-
+                                                                                                                                                                                   1
+                                                      standing of reflexivity in professional training.                                                                             Collège d’études mondiales, Paris, France
+                                                                                                                                                                                   2
+                                                      Drawing from key theories and models of reflexivity,                                                                          London School of Economics and Political Science, London, UK
+                                                                                                                                                                                   3
+                                                                                                                                                                                    Laval University, Quebec, Canada
+                                                      this typology proposes three reflexive positions (ideal-                                                                     4
+                                                                                                                                                                                    Montreal Health and Social Services Agency, Montreal, Canada
+                                                      types) with specific purposes for HP: reflexivity in, on,                                                                    5
+                                                                                                                                                                                    Steno Diabetes Center, Copenhagen, Denmark
+                                                      and underlying action. This article illustrates our                                                                          6
+                                                                                                                                                                                    Catholic University of Applied Sciences Berlin, Berlin, Germany
+                                                      typology’s ideal-types with vignettes collected from
+                                                                                                                                                                                   *Alexander, Jones, and Tremblay share joint first coauthorship
+                                                      HP actors working with reflexivity in North America
+                                                                                                                                                                                   of this article. These authors contributed equally to this paper.
+                                                      and Europe. We suggest that our typology constitutes
+                                                      a conceptual device to organize and discuss a variety
+                                                      of experiences of engaging with reflexivity for HP. We                                                                      Authors’ Note: Stephanie A. Alexander is now at Fondation
+                                                      propose the typology may support integrating reflexiv-                                                                      d’entreprise MGEN pour la santé publique, Paris, France. The
+                                                      ity as a key feature in training a future cadre of health                                                                   authors would like to acknowledge Louise Potvin and Katherine
+                                                                                                                                                                                  Frohlich for their feedback on an early version of this article in 2017.
+                                                      promoters and as a means for building a responsible                                                                         We would like to thank all the participants of the IUHPE conference
+                                                      HP practice.                                                                                                                workshop on reflexivity in health promotion in Thailand in 2013 for
+                                                                                                                                                                                  their active participation in small groups where we introduced the
+                                                      Keywords:                                                                     reflexivity; health promotion; ideal-types;   first iteration of this work. Finally, we would also like to acknowledge
+                                                                                                                                    reflexive practice; training                  the work of Selma Chipenda Dansokho for her detailed edit of the
+                                                                                                                                                                                  manuscript. M-CT is funded by a Research Scholar award (Junior 1)
+                                                                                                                                                                                  from the Fonds de recherche du Québec-Santé (no. 268417). SA
+                                                                                                                                                                                  acknowledges funding from AXA Research France and a SSHRC
+                                                                                                                                                                                  post-doctoral fellowship. CMJ was supported by a Vanier Canada
+                                                                                                                                                                                  Graduate Scholarship from the Canadian Institutes of Health
+                                                                                                                                                                                  Research from 2013-2016 (no. CGV127503). Address correspondence
+                                                      Health Promotion Practice                                                                                                   to Marie-Claude Tremblay, Assistant Professor, Department of
+                                                      July 2020 Vol. 21, No. (4) 499­–509                                                                                         Family and Emergency Medicine & Office of Education and
+                                                      DOI: 10.1177/1524839920912407     https://doi.org/
+
+
+
+
+                                                                                                                                                                                  Professional Development, Faculty of Medicine, Laval University,
+                                                      Article reuse guidelines: sagepub.com/journals-permissions                                                                  1050, av. de la Médecine, 2881-F, Lévis, Quebec, G1V 0A6, Canada;
+                                                      © 2020 The Author(s)                                                                                                        e-mail: marie-claude.tremblay@fmed.ulaval.ca.
+
+
+
+                                                                                                                                                                                                                                                     499
+the field (Bisset et al., 2017; Boutilier & Mason, 2017;          the challenges they face personally and professionally in
+Fleming, 2007; Issitt, 2003; Johnson & MacDougall, 2007;          tackling health inequities” (p. 175). Kickbusch (2007) has
+Potvin & McQueen, 2007; Tremblay et al., 2014; Tretheway          also suggested that engaging with reflexivity in health
+et al., 2015). Reflexivity has been examined and hailed           research and action may be critical, especially in a world
+as a means of developing alternative modes of thinking            in which there are increasing “options, choices and insecu-
+about HP and of engaging in HP research and practice              rity” (p. 152) regarding health and in which traditional
+with the aim of addressing a broad range of issues that           “knowledge no longer means certitude” (p. 153). The inclu-
+have been deemed central to the field by the Ottawa               sion of reflexivity in HP thus has potential to improve con-
+Charter, such as social inequities, social justice, power         temporary HP research and action (i.e., anti-oppressive
+dynamics, globalized health concerns, and the advance-            health practices) and could be a means to highlight power
+ment of context-driven and settings-based interventions           relationships within HP interventions (Fleming, 2007;
+(Caplan, 1993; Eakin et al., 1996; Kickbusch, 2007;               Kippax & Kinder, 2002; Labonte, 1994; Tremblay et al.,
+Shareck et al., 2013; Tretheway et al., 2015). Given the          2014), thereby fostering the type of change to which HP was
+explicit call from within the field of HP to examine these        originally committed (Eakin et al., 1996; Issitt, 2003).
+issues as well as the assumptions and politics underlying
+HP to develop new perspectives for action (Kickbusch,             Why We Need a Framework for Reflexivity in HP
+2007), reflexivity appears increasingly relevant for HP           Training
+(Tretheway et al., 2015). However, despite its growing
+popularity and promise, it remains unclear how reflexiv-              Despite broad recognition that reflexivity is important
+ity can be conceptualized in relationship to HP concerns,         for the field of HP, how to develop and foster frameworks
+and how it can become integrated into HP training.                for integrating and engaging different forms of reflexivity
+   Drawing on major works on reflexivity (Boud et al.,            as part of HP training remains largely unexplored (Mann
+1985; Bourdieu & Wacquant, 1992; Boutilier & Mason,               et al., 2009; Tremblay et al., 2014). For instance, HP actors
+2017; Mezirow, 1990; Schön, 1991), we developed a                 do not have a common vocabulary or conceptual appara-
+shared understanding to agree on a broad definition of            tus specific to the field that can be used to think and talk
+reflexivity as                                                    about their reflexive endeavors as integral to their work.
+                                                                  As such, discussions and instances of engaging in reflex-
+      an intentional intellectual activity in which individu-     ivity within the field of HP are somewhat dispersed and
+      als explore or examine a situation, an issue, or object     draw on quite disparate conceptualizations of reflection
+      on the basis of their past experiences, to develop new      and reflexivity. In addition, frameworks of reflexivity pro-
+      understandings that will ultimately influence their         posed in the field are still nascent and create confusion
+      actions or in which they critically analyze the field of    by considering reflexivity as a means to achieve health
+      action as a whole. (Tremblay et al., 2014, p. 539)          equity in HP action rather than an end in itself (Guichard
+                                                                  et al., 2019; Masuda et al., 2014; Tremblay et al., 2014).
+     In this article, we employ action as an inclusive term       This dispersion also results in difficulty introducing and
+for the range of activities carried out by HP actors, including   integrating reflexivity into HP training.
+research, intervention, evaluation, practice, or policymak-           While some recent attempts have been made to con-
+ing. Since reflexivity is defined both according to its links     cretely link HP core competencies to reflexivity (Wigginton
+to practice and to broader critical examinations of the field,    et al., 2019), we argue that new approaches and tools are
+it holds promise for guiding our thinking to better adapt to      needed to support a more systematic integration and
+complex and contextually situated health issues and unex-         coherent discussion of the role and uses of reflexivity in
+pected situations of HP practice that cannot be anticipated       HP training and practice. Rather than advocating for one
+in formal training (Kickbusch, 2007). HP actors face increas-     model of reflexivity or making hard distinctions between
+ingly complex health challenges, resulting from numerous          the different “reflexivities”, we think that these different
+contemporary concerns, including the globalization of             forms of reflexivity can be placed within a continuum of
+health problems and their determinants (Labonte et al.,           reflexivity for HP. In this article, we propose a typology-
+2011), unanticipated and undesirable consequences of              based tool to assist the understanding of reflexivity in HP
+interventions (Allen-Scott et al., 2014) and the continuous       training. Borrowing from key theories and models of
+modification of social practices by the very knowledge they       reflexivity, this framework articulates coherently three
+produce (Potvin & McQueen, 2007). Already in the early            different reflexive positions and their purposes for HP
+2000s, Issitt (2003) argued that health promoters ought to        training and practice, while emphasizing their inherent
+draw on reflexivity “to evaluate the possibilities and limita-    connectedness. To position this framework concretely
+tions of their own values and actions in relation to the          within HP practice, we propose that reflexivity should be
+‘macro’ political context in which they are operating, and        discussed in relationship to foundational documents of
+
+
+500    HEALTH PROMOTION PRACTICE / July 2020
+                                                           Table 1
+                                        Typology: Three Ideal-Types of Reflexivity in HP
+
+Types                                   Definitions                                                  Questions
+
+Reflexivity in      The actor(s) examine(s) experiences and                 - What am I learning about this practice/
+ actiona             situations in their own action(s), and                   phenomenon/population right now, and how
+                     make(s) adjustments while in the midst of                might this learning affect or shape the next steps
+                     “doing” the action. This entails an effort to            of the action being undertaken?
+                     create meaning or make sense of the action             - How can I/we integrate this new knowledge and
+                     being conducted. Being reflexive in action               adjust the action to better suit/adapt to an
+                     allows actors to mobilize knowledge                      evolving situation?
+                     emerging during action.
+Reflexivity on      The actor(s) examine(s) action(s) after                 - What could I/we have done differently?
+ actiona             experiences and situations have taken                    ○ In hindsight, how well was the health
+                     place. This entails reflection on how the                    promotion action suited to the needs and
+                     action was designed and implemented, and                     context of the situation/population in terms of
+                     on the methods and strategies used to carry                  strategy, design, and implementation?
+                     out the action. Being reflexive on action                ○ Did the health promotion action permit
+                     allows for actors to produce knowledge                       achieving the expected results?
+                     emerging from action and for future action.              ○ Were there unexpected effects?
+                                                                              ○ With the experience and knowledge gained,
+                                                                                  what would I/we do differently to better take
+                                                                                  the situation, the population and their history,
+                                                                                  perspectives, needs, and experiences into
+                                                                                  account in the design and implementation?
+Reflexivity         The actor(s) critically question(s) the                 - What values, beliefs, and assumptions underlie
+ underlying          premises of the field of action including                my/our action, and more generally, the work done
+ actiona             the power dynamics, the political and                    in the field of HP in this setting/context?
+                     cultural values, and any other underlying              - What power structures might this kind of
+                     assumptions. Being reflexive about what is               practice/action be creating, supporting, or
+                     underlying action may be part of a larger                modifying?
+                     systemic change process that creates                   - What forms of knowledge does this practice/
+                     awareness about the field of action at large             action draw on and give validity to, and inversely,
+                     and encourages alternative perspectives for              what forms of knowledge might it be invalidating
+                     action and for evaluation.                               or marginalizing?
+a
+ “Action” is an inclusive term for the range of activities carried out by health promotion actors including research, intervention, evalu-
+ation, practice, or policy.
+
+
+the field, such as the Ottawa Charter, in order to facilitate          Concretely, we call these reflexivities “ideal-types,” which
+the integration of reflexivity in HP training and profes-              represent syntheses of multidisciplinary perspectives on
+sional education. Furthermore, to facilitate its use, we               reflexivity (see Table 1). We consider the ideal-types as
+have developed a set of question as prompts for each of                mileposts in the landscape of reflexivity where HP actors
+the three reflexive positions to create a starting point for           may consider situating their work, and as conceptual tools
+integrating reflexivity in HP practice.                                that can be used to discuss and compare experiences of
+                                                                       reflexivity in different HP contexts. As such, the ideal-
+                                                                       types are not intended to correspond to strict categories of
+> Ideal-Types Of Reflexivity In                                        empirical realities, but when applied to experiences they
+    Health Promotion
+                                                                       can elicit reflection and discussion on their main charac-
+   With the aforementioned definition as our starting                  teristics, and evoke consideration about the fuzziness (or
+point, our integrated typology for reflexive experiences in            fluidity) between them. The ideal-types are organized
+HP differentiates three broad reflexive exercises in                   according to an actor’s position, proximity, and perspec-
+which HP actors’ experiences can be positioned.                        tive in terms of her or his relationship to HP action.
+
+
+                                                                       Alexander et al. / REFLEXIVITY IN HEALTH PROMOTION             501
+    The first ideal-type, reflexivity in action, relates to the   the power dynamics that are implicit in a field of
+reflexive process during the action being undertaken,             action, or highlighting the assumptions that underlie a
+wherein practitioners and researchers engage in reflec-           field of research, or examining various influences that
+tion while in the process of “doing” the action and adjust        shape the objects of interest to these fields (i.e., health).
+their practices accordingly. Reflexivity in action, as            Bolam and Chamberlain (2003) (who call this “dark
+similarly outlined by Schön (1991) for educational prac-          reflexivity”) suggest it involves “interrogating practice
+tice, occurs when the practitioner “reflects on the phe-          at a deeper level” (p. 217) including the analysis of
+nomenon before him, and on the prior understandings               practice for its assumptions, questioning the interests
+. . . which serves to generate both a new understanding           being served and the knowledge drawn on, and exam-
+of the phenomenon and a change in the situation” (p. 68).         ining how practices shape knowledge as well as the
+With this in mind, reflexivity in action linked to profes-        discipline. This necessarily involves the “considera-
+sional practice, can occur from various vantage points            tion of the power, politics and ethics underlying prac-
+within HP action (practice and research); but it is always        tice” (p. 217). Guiding questions for this ideal-type
+linked to the adjustment of practices that are taking             could include the following: (a) What values, beliefs,
+place at a given moment. Guiding question prompts for             and assumptions underlie my/our action, and more
+this ideal-type include the following: (a) What am I              generally, the work done in the field of HP in this set-
+learning about this practice/phenomenon/population                ting/context? (b) What power structures might this kind
+right now, and how might this learning affect or shape            of practice/action be creating, supporting, or modify-
+the next steps of the action being undertaken? (b) How            ing? (c) What forms of knowledge does this practice/
+can I/we integrate this new knowledge and adjust the              action draw on and give validity to, and inversely, what
+action to better suit/adapt to an evolving situation?             forms of knowledge might it be invalidating or margin-
+    The second ideal-type, reflexivity on action, is a form       alizing? This kind of questioning may also help health
+of reflexivity that entails stepping back and questioning         promoters analyze possible consequences, both posi-
+one’s own (or a group’s) concrete actions once completed.         tive and negative, of disrupting the current course of
+At this level, reflexivity occurs after a particular action       HP practice.
+has been carried out, and when there is some temporal
+distance between the actor(s) and the action. This reflex-
+ivity distinguishes itself by having the pragmatic or
+                                                                  > Does the typology resonate with
+                                                                     health promoters?
+mechanistic elements of the action as its focus. It empha-
+sizes a critical reflection about the design and implemen-             We sought to find out if the typology developed res-
+tation of an action, and on the methods and strategies            onates with health promoters. In 2016, the authors iden-
+applied for carrying out the action. Reflexivity on action        tified and invited three health promoters (NB, MHR, and
+lies at the border between the first and the third ideal-         MW) who had experience using reflexivity in their work
+types. Overall, this kind of “post-action” reflexivity is         to contribute examples from their research/practice. We
+focused on the technical improvement of practices. In             asked them to use a narrative style to briefly describe a
+the words of Teekman (2000), this kind of reflexivity             specific experience in which they engaged with reflexiv-
+focuses “on learning, on the development of practice              ity in the context of their work (we call these vignettes).
+knowing/knowledge” (p. 1127). A first broad question              To facilitate the process, we provided them with the
+for this ideal-type might include the following: (a) What         typology and a question-based template relating to the
+could I/we have done differently? Other subquestions              use of reflexivity in HP (see Supplemental Appendix 1
+would include (b) In hindsight, how well was the HP               available online). Our goal was to see if the typology was
+action suited to the needs and context of the situation/          relevant and useful for organizing and discussing health
+population in terms of strategy, design and implementa-           promoters’ experiences of reflexivity (see Table 2).
+tion? (c) Did the HP action permit achieving the expected             The three vignettes (see Table 3) offer different illus-
+results? (d) Were there any unexpected effects? (e) With          trations of how the conceptual categories (i.e., ideal-
+the experience and knowledge gained, what would I/we              types) of the typology can be used to interpret and
+do differently to better take the situation, the population       describe the experiences of reflexivity.
+and their history, perspectives, needs, and experiences               In the first vignette (NB), the professional realized
+into account in the design and implementation?                    that her daily workload, as well as the general orienta-
+    The third ideal-type, reflexivity underlying action,          tion of the services provided by her organization, pre-
+has a distinctly broader scope, and entails a critical            vented her from accomplishing her full mandate. She
+questioning of the premises of the action and the field           reflected on her work situation, which differed both
+of action as a whole. This reflexivity involves questioning       from her expectations and from policy requirements, in
+
+
+502   HEALTH PROMOTION PRACTICE / July 2020
+                                                       Table 2
+         Vignettes of Experiences With Reflexivity From Three Health Promotion Practitioners and Researchers
+
+1 (NB)        Before doing a master’s degree in community health, I worked as a nurse in a local health organization.
+                Even though the organization’s mandate included health promotion, it was particularly difficult for
+                professionals to integrate health promotion into their practice, given that the daily schedule was
+                overloaded with individual appointments. Reflecting back on this situation, I realized that we were
+                working in an environment where the organizational culture was mostly focused on providing clinical
+                care, and that the supply of health services were more reactive, defined by demand, without necessarily
+                anticipating the population’s needs. I also realized that professionals had little understanding of the
+                importance of acting on the social determinants of health.
+              After becoming a professional in a regional public health department, I continued to reflect on the
+                conditions that would support the integration of health promotion into the practices of my former
+                colleagues in local health organizations. The triggering event that allowed me to think about a concrete
+                solution for this problem was a meeting with the executive director of a community primary care center,
+                who wondered whether there was a real possibility to support health promotion practice in his
+                organization. I realized then that challenges for integrating health promotion into the health system
+                were more organizational, requiring the implementation of a different structure of training that would,
+                apart from enhancing the health professionals’ competencies, also modify organizational conditions of
+                practice.
+              I started reading about practice change processes, professional development, adult education/learning,
+                and reflexivity. Through my reading, it became clear to me that to achieve this shift in practice, we
+                would need to create a space for collective reflection allowing professionals to question their practices
+                and their organizational environment, to better understand health promotion and how to implement
+                health promotion practice. Prompted by this, I developed a professional development program, the
+                Health Promotion Laboratory, targeting public health professionals from local health and social services
+                centers. This professional development project aims to support multidisciplinary teams of local centers
+                in planning new health promotion interventions, building on a collaborative learning, participatory and
+                reflective approach. Throughout the Health Promotion Laboratory processes, teams are encouraged to
+                revisit their individual and preventive care practices from a health promotion perspective and a social
+                determinants of health angle. For instance, a team from the education sector, whose members have long
+                focused on the individual management of school dropout, has now collectively developed (with
+                community partners) an intervention to foster student retention at school.
+2 (MHR)       As part of my PhD research I conducted ethnographic fieldwork with health promoters in the City of
+                Copenhagen (see, e.g., Rod, 2015). Among other things, I followed the implementation of a program that
+                sought to involve parents of teenagers in preventing (or at least postponing) the onset of alcohol use.
+                One of the aims of the fieldwork was to tease out the moral and ethical dimensions of alcohol
+                prevention and, at several occasions, I engaged in discussions with health promoters in order to
+                stimulate reflexivity about these issues. During these discussions I presented a framework for reflexivity
+                concerning the ideas and assumptions underlying professional practices. The basic idea was that
+                specific health promotion policies and interventions are bound to answer the question “How should
+                one live?” in particular ways that are rarely made transparent and explicit. Inspired by Lakoff and
+                Collier (2004), I asked health promoters to consider three dimensions of this question: (i) The “how”:
+                i.e. reflexivity concerning the specific techniques that are used to promote health and induce change in
+                people’s lives. (ii) The “should”: i.e. teasing out implicit norms and values. And (iii) The “one”: i.e.
+                addressing the implicit assumptions about the target group. The discussions showed that the health
+                promoters did not always agree about basic underlying ideas and premises of their work. Thus, the
+                value of the framework (and perhaps of reflexivity more generally) was not to enable consistent
+                interpretations and clear conclusions, but rather to highlight inherent ambiguities in health promotion
+                practice. E.g., the alcohol prevention program promoted the idea that parents should adopt a restrictive
+                stance towards the alcohol use of all children below the age of 16 and should refrain from entering into
+
+                                                                                                              (continued)
+
+
+
+
+                                                               Alexander et al. / REFLEXIVITY IN HEALTH PROMOTION     503
+                                                Table 2 (continued)
+              negotiations on this issue. In contrast, some health promoters had adopted a more open and flexible
+                stance towards the alcohol use of their own children, because they felt that it was more important to
+                nurture trust and to take stock of the individual child’s maturity level. At a more general level, this
+                example highlights a potential contradiction between the generalized advice and knowledge claims that
+                are made in health promotion programs and the situated nature of personal relations with which such
+                programs interfere.
+3 (MW)        A team of researchers developed an approach to promote reflexive practice in health promotion and
+                prevention in Germany called Participatory Quality Development (PQD) [PQD Handbook http://www.
+                pq-hiv.de/en]. At the core of PQD is the critical reflection on the power dynamics in developing and
+                implementing interventions, specifically advocating for the participation of community members and
+                non-professional actors. We conduct various activities, such as workshops, to promote a culture of
+                reflexivity among communities of practice.
+              In one workshop, a social worker described a drop-in neighborhood center for mothers with young
+                children located in a poorer district in a large German city. The center’s purpose was to strengthen the
+                bond between new mothers and their children, and thus prevent later involvement of child protection
+                or family services. This included addressing several well-being and health related topics. Very few
+                mothers were using the center, so the staff began to reflect on why. They decided to work with a
+                university to conduct a qualitative study of the mothers to understand their needs. The study revealed
+                several issues, particularly the need to be relieved periodically of childcare responsibilities. The social
+                worker described how she and her colleagues struggled with this issue, as their mandate from the local
+                authority was to promote the mother-child bonding.
+              In the workshop, we critically examined the assumptions behind the center, particularly the focus on
+                bonding, implying that the mothers were deficient in this area. A service was proposed without first
+                finding out what the mothers needed; they were objects of an intervention and not partners in
+                promoting health. The problem and the solution were formulated based on expert knowledge, excluding
+                lived experience. During the discussion, the social worker became irritated, saying that her organization
+                was not certified to provide childcare, and that they would need more staff and possibly different
+                facilities. She then suggested that they could potentially justify the additional service if, during
+                childcare, the mothers would agree to participate in childrearing training. The other workshop
+                participants—who were predominantly women, many of whom also mothers—questioned the reasoning
+                of the social worker. They argued that the need to be relieved of childcare responsibilities is common
+                among mothers. Whereas, middle class mothers can use well-resourced networks of other parents;
+                mothers in poorer neighborhoods tend to be in networks whose members are overburdened with their
+                own lives. Also, middle class mothers are not seen categorically as having deficits, unlike the mothers
+                in the district under question. Instead of working with the mothers to problem-solve about childcare
+                issues to give them more free time, the social worker assumed that she needed to provide another
+                service, reinforcing the client role of the mothers. The reflexive dialogue at the workshop resulted in the
+                participants becoming aware of how the logic of service provision can objectify “target groups,”
+                preventing them from being seen as competent partners and real-life experts in the development of
+                services.
+
+
+
+order to identify what prevented her from carrying out         her previous experiences to identify and develop a
+all the functions attached to her position. We identified      concrete solution for this problem (again, reflexivity on
+this as reflexivity on action. She did not question or cri-    action). Throughout this process, she was drawn to
+tique the mandate and purpose of her job (which would          investigate the fundamental reasons why integrating HP
+have been reflexivity underlying action), rather, she tried    into the health system was difficult, and concluded that
+to understand why she could not act as expected by her         the reasons were structural and that the problem had to
+professional system. Taking on an administrative posi-         be formulated differently. She questioned the structures
+tion later in her career, and still juggling with the para-    and the practice conditions of the current system, result-
+dox of not being able to carry out the functions related       ing in a proposition to modify these by creating a collec-
+to her position, she used the knowledge she gained from        tive space for health professionals to reflect on and
+
+
+504   HEALTH PROMOTION PRACTICE / July 2020
+                                                         Table 3
+                                      Illustrations of Ideal-Types in the Vignettes
+
+Vignettes                                         Ideals-Types Identified in Each Vignette
+
+Vignette 1        Reflexivity on action
+ (NB)             The professional used reflexivity to investigate how the general orientation of the services provided
+                    by her organization prevented her from accomplishing her full mandate. She later built on her
+                    learning and experience to identify and develop a concrete solution to deal with this problem.
+                  Reflexivity underlying action
+                  The professional also used reflexivity to question the structures and the practice conditions of the
+                    current system, resulting in a proposition to modify them.
+Vignette 2        Reflexivity underlying action
+ (MHR)            Reflexivity was mainly used by this researcher to critically question the premise of alcohol
+                    prevention practices in the context of a specific health promotion program, “teasing out the moral
+                    and ethical dimensions of alcohol prevention” more broadly. By questioning the political and
+                    cultural values/assumptions that “underlie” this health promotion program, the researcher
+                    highlighted inherent ambiguities within health promotion knowledge and practices, and its
+                    contradictions with the situated experiences of those for whom the programs are created.
+Vignette 3        Reflexivity in action
+ (MW)             In a workshop with practitioners and a researcher, engaging reflexivity allowed participants to
+                    recognize that a maternal drop-in center located in a low-income neighborhood was not reaching
+                    its target population (mothers).
+                  Reflexivity on action
+                  Reflexivity was used to explore the relevance and the rationale of the service provided, with respect
+                    to the center’s mission (improving mother–child bonding early to reduce subsequent recourse to
+                    child protection and family services).
+                  Reflexivity underlying action
+                  Reflexivity also allowed actors to challenge the assumption that the mothers were inadequately
+                    bonding with their children. It uncovered how service provision logic can objectify target groups,
+                    as well as some contradictory assumptions about mothers’ needs and the center’s vision.
+
+
+
+improve their practices, and experiment with new ones         consistent interpretations or conclusions about the
+(reflexivity underlying action).                              action, but rather to highlight inherent ambiguities in
+   The second vignette (MHR) centrally illustrates the        HP practice and its contradictions with the situated
+ideal-type of reflexivity underlying action, given that the   experiences of those for whom these programs are cre-
+main aim of this researcher’s project was to critically       ated. The author of this vignette also challenged health
+question the premise of alcohol prevention, and the           promoters working within the alcohol prevention pro-
+implementation of an HP program on which he was con-          gram. He introduced his critique into the project through
+ducting his ethnographic research. He describes the aim       discussions with health promoters with an intention to
+of his work as “teasing out the moral and ethical dimen-      stimulate, or at least encourage, their own processes of
+sions of alcohol prevention.” Identifying, or exposing,       reflexivity on action and reflexivity underlying action,
+the moral and ethical dimensions of a HP program              and as such, the project interweaves both ideal-types in
+involves precisely the questioning of the political and       its reflexive process.
+cultural values or assumptions that “underlie” HP work,           The third vignette (MW) presents an account of
+the kind of questioning that defines for us reflexivity       reflexivity from the perspective of a researcher using
+underlying action. This reflexivity underlying action,        Participatory Quality Development workshops to pro-
+engaged in this case by the researcher himself, is part of    mote reflexive practice in HP. During one workshop, a
+larger systemic change creating awareness about the           social worker voiced concern that few mothers were
+field of action at large and encouraging alternative per-     coming to the drop-in center located in a low-income
+spectives. As the author of this vignette highlights, the     neighborhood, whose mission was to strengthen the bond
+goal of his work was not to streamline thinking or enable     between mothers and their children. This reflexivity in
+
+
+
+                                                               Alexander et al. / REFLEXIVITY IN HEALTH PROMOTION   505
+action within her team led to the development of a qual-        action from a complex, unexpected situation of practice
+itative research project on mothers’ needs. The study           and to integrate this learning into future action. In these
+found that mothers needed occasional time off from              cases, improvement is considered in relationship to
+child care (rather than child-rearing training), but the        already formulated goals and problem. For instance, we
+social worker found that this need was contrary to the          see reflexivity on action in the first vignette, wherein the
+center’s mission. Thus, reflexivity on action was engaged       HP professional confronted a problematic situation by
+through group discussions (i.e., questioning the center’s       first identifying its cause, by then exploring potential
+mission of improving mother–child bonding to reduce             avenues of action and by framing an initial solution that
+subsequent recourse to child protection and family ser-         fit within the limits of her professional system. As such,
+vices) and was further deepened through reflexivity             this kind of reflexivity focuses post hoc on the use of
+underlying action at a broader level of questioning social      action strategies, but without necessarily challenging the
+inequalities for mothers (i.e., challenging the assump-         aim of the action or its underlying premises. In contrast,
+tion that some mothers were inadequate in bonding with          engaging in reflexivity underlying action allows HP
+their children). In this vignette, the discussions between      researchers and practitioners to question the wider HP
+the social worker and other workshop participants               assumptions about health, the premises on which the
+regarding the mission of the center and the needs of the        problem has been defined, as well as the moral and
+mothers displays the dynamic fluidity between all three         ethical implications of HP actions and practice. For
+types of reflexivity, thus demonstrating the complex            instance, we see reflexivity underlying action mostly in
+interactions between them. The practitioners were con-          the second and third vignettes, with examples of
+fronted with their assumptions as professionals about           researchers and practitioners questioning the emphasis
+the logic of service provision and their assumptions as         on individual choices, the norms and values promoted
+middle-class women about motherhood, child care,                by HP interventions, or the implicit beliefs of HP actors.
+stress, and time management. The reflexive dialogue             Reflexivity underlying action should necessarily take
+during the workshop resulted in the participants becom-         into consideration the perspectives of various popula-
+ing aware of how the logic of service provision can objec-      tion as well as the assumptions that health promoters
+tify “target groups,” disenfranchising the mothers from         themselves make as part of their programs in order to
+being partners in developing services that would value          critically address the power imbalance and potential
+their knowledge, experience, and needs.                         bias underlying the promotion and definition of health
+                                                                and healthy behaviors of others that is absent of contex-
+                                                                tualization. Although the relevance of engaging in vari-
+> Discussion                                                    ous forms of reflexivity is a priori acknowledged within
+    The typology can be used to organize, describe, and         HP, engaging in reflexive critique of the field is rare. As
+discuss HP actors’ experiences with reflexivity, which          Tretheway et al. (2015) argue, while HP practitioners
+may be particularly useful for HP training. Instilling con-     “consider critical values and principles to be intrinsic
+tinuous learning and development of skills, such as             to their work, they are often not made explicit or realized
+reflexivity, in training is viewed as crucial to prepare        in practice” (p. 216). However, fostering this kind of
+responsible health professionals (Mann et al., 2009). The       critical stance in future generations of HP practitioners
+vignettes highlighted two important ways in which the           is essential for a moral and responsible evolution of the
+typology can be used in training, and these are discussed       field.
+below.                                                              Second, the three ideal-types are relevant abstractions
+   First, the vignettes illustrate that the three ideal-types   to accommodate contemplation of the numerous kinds
+are relevant descriptors of a continuum of positions HP         of action in which students in HP will eventually engage
+actors can take in relation to what they do and how they        as practitioners. Positioning an experience within the
+can learn from these different positions. Reflexivity in        typology requires the identification and definition of
+action describes an immediacy of reflection, signaling          what HP action involves. This is important because
+feedback to instantly readjust a problematic professional       action itself is at the core of any HP work. HP initiates,
+situation during an action. This kind of reflexivity            supports, and sustains social change processes and
+allows for solving problems at hand, without question-          interventions (programs and policies) at various levels
+ing the causes of the problem, how it has been conceived        with several strategies that have been outlined in the
+or its implications. Reflexivity on action describes the        Ottawa Charter (World Health Organization, 1986). The
+HP actor’s engagement with more complex questions               charter emphasizes fundamental principles and values
+about the problem and its solution once the action is           for the field of HP (i.e., equity, social justice, empower-
+completed. This allows actors to develop new models of          ment, participation) as well as five main strategies for
+
+
+506   HEALTH PROMOTION PRACTICE / July 2020
+Figure 1   Continuum of Reflexivity in Health Promotion (HP)
+
+
+HP: (a) building healthy public policy, (b) creating sup-      how to facilitate the understanding and acquisition of
+portive environments, (c) strengthening community              this skill in the pedagogical literature for HP are scarce.
+actions, (d) developing personal skills, and (e) reorient-     Reflexivity is a complex concept for students and early
+ing health services. Our three ideal-types of reflexivity      career professionals in HP, and the particularities of the
+address different levels of the Ottawa Charter action          concept also complicate the development of reflexive
+strategies and may be used to facilitate their integration     skills in students. For instance, there are a multitude of
+and application within HP practice. For instance, while        equivocal concepts of reflexivity coexisting in the
+reflexivity in action refers to adjustments made in the        health sciences all having different purposes, and mak-
+midst of performing an action (e.g., adapting a health         ing a coherent understanding challenging (Fleming,
+promoter’s discourse to stakeholders’ literacy), reflexiv-     2007). Indeed, the breadth of reflexivity’s purpose can
+ity on action could be related to examining the action in      be a barrier in training since there is often ambiguity of
+regards to its alignment with/relevance for one of the         the educator’s goals with regard to the use of reflexivity
+five strategies of HP action (e.g., fostering the develop-     (Chaffey et al., 2012). Although learning about reflexiv-
+ment of stakeholders’ literacy skills). Reflexivity under-     ity can be an empowering experience for HP practition-
+lying action, for its part, could be likened to engaging       ers, its consequences are challenging for them because
+with fundamental HP values and moral commitments               it can lead to a raised awareness of tensions in their
+regarding the action (e.g., questioning the systems and        practice and ambivalence toward the organizational
+dynamics that have contributed to the stakeholders’ lev-       structures and institutional rules in which they are
+els of literacy and how HP practice partakes in or coun-       bound (Jacobs, 2008).
+ters this). By superimposing our typology on this seminal         Acknowledging that reflexivity has been neglected as
+document for HP, we aim to encourage a coherent and            a key competency in HP training, Wigginton et al. (2019)
+integrated understanding of reflexivity across different       outline a course they developed concretely linking HP
+kinds of HP action (Figure 1).                                 core competencies to different forms of reflexivity—
+   While reflexivity is recognized as an important learn-      “reflection on” and “reflecting about” practice. Along
+ing objective for HP training (Boutilier & Mason, 2017;        similar lines of thinking, our typology clarifies three
+Caplan, 1993; Eakin et al., 1996; Kickbusch, 2007;             types of reflexivity with different purposes and processes
+Tretheway et al., 2015), guidelines and frameworks as to       within HP practice, which we believe can be useful for
+
+
+
+                                                               Alexander et al. / REFLEXIVITY IN HEALTH PROMOTION     507
+better integrating reflexivity into HP courses. Furthermore,     itself and the goals of HP (underlying). We think that the
+being reflexive involves stepping back from experience,          typology can be a device to bridge conversations about
+which trainees have little experience with at such an early      reflexivity across different training curricula, communi-
+stage of their career. While our typology does not substi-       ties of practice, and traditions in the field of HP.
+tute experience that students will eventually gain, it might
+help in circumscribing particular level of objects (strate-      ORCID iDs
+gies, values, and principles) of reflexivity within the field.   Stephanie A. Alexander       https://orcid.org/0000-0003-0445-0116
+   It is for these reasons that we consider the typology         Marie-Claude Tremblay        https://orcid.org/0000-0002-4965-2515
+as useful for HP training because it offers three meaning-
+ful categories to help trainees understand and integrate         SUPPLEMENTAL MATERIAL
+reflexivity as a key competency to develop in HP research        Supplemental material for this article is available online at https://
+                                                                 journals.sagepub.com/home/hpp/.
+and practice. We think the typology can be useful to
+organize discussions about reflexivity in various settings       References
+and locations, not prescriptively or as a guide, but as a
+shared language to reflect on experiences. Specifically,         Allen-Scott, L. K., Hatfield, J. M., & McIntyre, L. (2014). A scoping
+                                                                 review of unintended harm associated with public health interven-
+the typology may be useful in graduate and postgraduate          tions: Towards a typology and an understanding of underlying fac-
+public health and HP training that aims to foster reflex-        tors. International Journal of Public Health, 59(1), 3-14. https://doi.
+ive practices among trainees when thinking about their           org/10.1007/s00038-013-0526-6
+experiences in internships or research projects. Within          Bisset, S., Tremblay, M. C., Wright, M. T., Poland, B., & Frohlich, K.
+all HP research and practice, but perhaps particularly           L. (2017). Can reflexivity be learned? An experience with tobacco
+when integrating a reflexive stance into one’s work, it is       control practitioners in Canada. Health Promotion International,
+also critical to consider the historical, political, and         32(1), 167-176. https://doi.org/10.1093/heapro/dav080
+social contexts of the population being addressed and to         Bolam, B., & Chamberlain, K. (2003). Professionalization and
+understand how their specific perspectives might affect          reflexivity in critical health psychology practice. Journal of Health
+and shape the HP practice itself. This form of stepping          Psychology, 8(2), 215-218. https://doi.org/10.1177/135910530300
+                                                                 8002661
+back can be encouraged by some of the question prompts
+                                                                 Boud, D., Keogh, R., & Walker, D. (1985). Reflection: Turning expe-
+integrated into the three ideal-types.
+                                                                 rience into learning. Kogan Page.
+                                                                 Bourdieu, P., & Wacquant, L. J. D. (1992). An invitation to reflexive
+> Conclusion                                                     sociology. University of Chicago Press.
+
+    Despite the growing recognition of reflexivity’s sig-        Boutilier, M., & Mason, R. (2017). The reflexive practitioner in
+                                                                 health promotion: From reflection to reflexivity. In I. Rootman, A.
+nificance for HP research and practice, frameworks to            Pederson, K. L. Frohlich, & S. Dupéré (Eds.), Health promotion in
+support the integration of this concept into training for        Canada. New perspectives on theory, practice, policy, and research
+the field of HP are lacking. We synthesized existing             (4th ed., pp. 328-342). Canadian Scholars.
+theories and frameworks of reflexivity into a typology           Caplan, R. (1993). The importance of social theory for health promo-
+for HP, acknowledging HP as “a field of action” within           tion: From description to reflexivity. Health Promotion International,
+public health (McQueen, 2001), in which various kinds            8(2), 147-157. https://doi.org/10.1093/heapro/8.2.147
+of actors (researchers, professionals, policymakers, citi-       Chaffey, L. J., de Leeuw, E. J., & Finnigan, G. A. (2012). Facilitating
+zens, and communities) engage with complementary                 students’ reflective practice in a medical course: Literature review.
+and contested values in, on, and underlying their work           Education for Health, 25(3), 198-203. https://doi.org/10.4103/1357-
+at many levels and in different contexts (Potvin & Jones,        6283.109787
+2011). This organizing framework has the potential to            Eakin, J., Robertson, A., Poland, B., Coburn, D., & Edwards, R.
+                                                                 (1996). Towards a critical social science perspective on health pro-
+be a useful tool for training in HP that brings an over-
+                                                                 motion research. Health Promotion International, 11(2), 157-165.
+arching structure under which the multiple existing              https://doi.org/10.1093/heapro/11.2.157
+theories, models, and classifications of reflexivity from
+                                                                 Fleming, P. (2007). Reflection a neglected art in health promotion.
+other fields and disciplines can be included in a syner-         Health Education Research, 22(5), 658-664. https://doi.org/10.1093/
+gistic way for HP students, trainees, and professionals          her/cyl129
+to learn about reflexivity. We envision the typology as a        Guichard, A., Tardieu, É., Nour, K., Lafontaine, G., & Ridde, V.
+companion to the Ottawa Charter for training in contem-          (2019). Adapting a health equity tool to meet professional needs
+porary HP because learning about HP action strategies            (Québec, Canada). Health Promotion International, 34(6), e71-e83.
+should be inseparable from learning about reflexivity to         https://doi.org/10.1093/heapro/day047
+question one’s own actions to achieve HP goals within            Issitt, M. (2003). Reflecting on reflective practice for professional
+a system (in and on) as well as to question the system           education and development in health promotion. Health Education
+
+
+
+
+508   HEALTH PROMOTION PRACTICE / July 2020
+Journal, 62(2), 173-188. https://doi.org/10.1177/00178969030            Mezirow, J. (1990). Fostering critical reflection in adulthood: A
+6200210                                                                 guide to transformative and emancipatory learning. Jossey-Bass.
+Jacobs, G. C. (2008). The development of critical being? Reflection     Potvin, L., & Jones, C. M. (2011). Twenty-five years after the Ottawa
+and reflexivity in an action learning programme for health promo-       Charter: The critical role of health promotion for public health.
+tion practitioners in the Netherlands. Action Learning: Research        Canadian Journal of Public Health, 102, 244-248. https://doi.
+and Practice, 5(3), 221-235. https://doi.org/10.1080/147673             org/10.1007/BF03404041
+30802461306                                                             Potvin, L., & McQueen, D. V. (2007). Modernity, public health, and
+Johnson, A., & MacDougall, C. (2007). Reflective practice. In H.        health promotion. In D. V. McQueen, I. Kickbusch, L. Potvin, J. M.
+Keleher, C. NacDougall, & B. Murphy (Eds.), Understanding health        Pelikan, L. Balbo, & T. Abel (Eds.), Health and modernity. The role
+promotion (pp. 244-251). Oxford University Press.                       of theory in health promotion (pp. 12-20). Springer. https://doi.
+Kickbusch, I. (2007). Health governance: The health society. In D.      org/10.1007/978-0-387-37759-9_3
+V. McQueen, I. Kickbusch, L. Potvin, J. M. Pelikan, L. Balbo, & T.      Schön, D. A. (1991). The reflective practitioner: How health profes-
+Abel (Eds.), Health and modernity. The role of theory in health         sionals think in action. Ashgate.
+promotion (pp. 144-161). Springer.
+                                                                        Shareck, M., Frohlich, K. L., & Poland, B. (2013). Reducing social
+Kippax, S., & Kinder, P. (2002). Reflexive practice: The relationship   inequities in health through settings-related interventions: A con-
+between social research and health promotion in HIV prevention. Sex     ceptual framework. Global Health Promotion, 20(2), 39-52. https://
+Education, 2(2), 91-104. https://doi.org/10.1080/14681810220144855      doi.org/10.1177/1757975913486686
+Labonte, R. (1994). Health promotion and empowerment:                   Teekman, B. (2000). Exploring reflective thinking in nursing prac-
+Reflections on professional practice. Health Education Quarterly,       tice. Journal of Advanced Nursing, 31(5), 1125-1135. https://doi.
+21(2), 253-268. https://doi.org/10.1177/109019819402100209              org/10.1046/j.1365-2648.2000.01424.x
+Labonte, R., Mohindra, K., & Schrecker, T. (2011). The growing          Tremblay, M.-C., Richard, L., Brousselle, A., & Beaudet, N. (2014).
+impact of globalization for health and public health practice.          Learning reflexively from a health promotion professional develop-
+Annual Review of Public Health, 32, 263-283. https://doi.               ment program in Canada. Health Promotion International, 29(3),
+org/10.1146/annurev-publhealth-031210-101225                            538-548. https://doi.org/10.1093/heapro/dat062
+Lakoff, A., & Collier, S. J. (2004). Ethics and the anthropology of     Tretheway, R., Taylor, J., O’Hara, L., & Percival, N. (2015). A miss-
+modern reason. Anthropological Theory, 4(4), 419-434.                   ing ethical competency? A review of critical reflection in health
+Mann, K., Gordon, J., & MacLeod, A. (2009). Reflection and reflec-      promotion. Health Promotion Journal of Australia, 26(3), 216-221.
+tive practice in health professions education: A systematic review.     https://doi.org/10.1071/HE15047
+Advances in Health Sciences Education, 14(4), 595-621. https://         Wigginton, B., Fjeldsoe, B., Mutch, A., & Lawler, S. (2019). Creating
+doi.org/10.1007/s10459-007-9090-2                                       reflexive health promotion practitioners: Our process of integrating
+Masuda, J., Zupancic, T., Crighton, E., Muhajarine, N., & Phipps, E.    reflexivity in the development of a health promotion course.
+(2014). Equity-focused knowledge translation: A framework for           Pedagogy in Health Promotion, 5(1), 75-78. https://doi.org/10.1177
+“reasonable action” on health inequities. 59(3), 457-464. https://doi   /2373379918766379
+.org/10.1007/s00038-013-0520-z                                          World Health Organization. (1986, November 21). The Ottawa
+McQueen, D. V. (2001). Strengthening the evidence base for health       Charter for Health Promotion. Switzerland. First International
+promotion. Health Promotion International, 16(3), 261-268. https://     Conference on Health Promotion, Ottawa, Canada. http://www.who.
+doi.org/10.1093/heapro/16.3.261                                         int/healthpromotion/conferences/previous/ottawa/en/index.html
+
+
+
+
+                                                                        Alexander et al. / REFLEXIVITY IN HEALTH PROMOTION               509
+

@@ -1,0 +1,150 @@
+{
+  "source": "https://scu.h5p.com/content/1291554006645034749",
+  "assetBase": "h5p_9b32180071788759c35f_assets/",
+  "contents": [
+    {
+      "title": "Gnibi Respectful Terminolgoy and Language",
+      "library": "H5P.Accordion 1.0",
+      "params": {
+        "panels": [
+          {
+            "content": {
+              "params": {
+                "text": "<p>It can be offensive when literature refers to Aboriginal peoples or communities with a lower case ‘a’. Always capitalise the ‘A’ in Aboriginal peoples, as too with the ‘I’ in Indigenous Australian peoples. Through capitalising we alter these adjectives to pronouns, signifying that we are members of a particular and known group/s. By adding the ‘s’ to ‘people’ you are acknowledging the diversity that continues to exist amongst Indigenous communities. It’s important to note that the use of ‘Aboriginals’ is not accepted and is also not grammatically correct. Adopting appropriate language in your academic writing is respectful and will help to create an inclusive and accepted academic standard.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "cd34c24c-7091-4e94-a4b5-b760d6f3518c",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "If in doubt....always capitalise"
+          },
+          {
+            "content": {
+              "params": {
+                "text": "<p>At Gnibi our written standard is to accept these terms of reference for academic writing:</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "e2a276fc-d46e-4aa0-b5cb-d4dd099e3c68",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "Terms of reference"
+          },
+          {
+            "content": {
+              "params": {
+                "text": "<p>Aboriginal peoples is a collective term which recognises the diversity that exists across the many and varied nations represented in the Australian landscape.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "bb8c0fc6-8740-41dc-869b-20f33e9cf7df",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "Aboriginal peoples"
+          },
+          {
+            "content": {
+              "params": {
+                "text": "<p>Indigenous peoples is a collective name used for the original peoples of mainland Australia, its islands and the Torres Strait.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "764d0c32-6e38-49c6-a26b-35023bde44d3",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "Indigenous Australian peoples"
+          },
+          {
+            "content": {
+              "params": {
+                "text": "<p>Torres Strait Islander peoples is a collective term which recognises the diversity that exists across the five major islands, inlets and smaller islands of the land and sea of the Torres Strait.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "d870da9d-6ba1-4617-9712-c9ba29c0b858",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "Torres Strait Islander peoples"
+          },
+          {
+            "content": {
+              "params": {
+                "text": "<p>First Peoples’ and ‘First Australians’ are collective names for the original people of Australia and their descendants, and are used to emphasise that Indigenous peoples lived on this continent prior to European invasion and subsequent colonisation.</p>\n\n<p>These are by no means the only terms of reference, however for academic writing the above terms are most suitable.</p>\n\n<p>At Gnibi our standard accepts that many other terms of reference may also be acceptable in some or all of our communities, and in communication and expressions in the broader arena. Included below are some examples:</p>\n\n<p><strong>Mob: </strong>This is a term that is increasingly being used by Aboriginal communities as a generic term to help locate Aboriginal or Torres Strait Islander individuals within the larger extended family and community network.</p>\n\n<p><strong>Clan:</strong> This is a local descent group, larger than a family but based on family links through a common ancestry. A ‘clan’ is a subset of a nation.</p>\n\n<p><strong>Nation</strong>: This refers to a culturally distinct group of people associated with a particular, culturally defined area of land or country. Each nation has boundaries that cannot be changed and which existed before European invasion. Language and cultural ways are tied to that nation and its country.</p>\n\n<p><strong>Tribe:</strong> This has negative connotations for many Indigenous peoples. Definitions in dictionaries are inappropriate. The more appropriate words to use are ‘nation’ or ‘clan’ or ‘family groups’ –&nbsp;&nbsp; but don’t forget to ask Indigenous Australians from the particular group you are writing about what they prefer.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "3205e12b-9c98-4346-a9df-1f0af6cde552",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "First Peoples/First Australians"
+          },
+          {
+            "content": {
+              "params": {
+                "text": "<p>This is knowing where each person is from, where each person belongs, thus linking Aboriginal and Torres Strait Islander peoples to who they are. Indigenous Australians live according to their law, or set of principles, which outline their relationships and social interactions and obligations with other Indigenous people or groups. Please note that kinship has a different meaning in anthropology.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "abc81a02-dd42-4685-8d9c-776c2a90cef9",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "Kinship"
+          },
+          {
+            "content": {
+              "params": {
+                "text": "<p>This is an Aboriginal or Torres Strait Islander person or group of Indigenous people directly descended from the original inhabitants of a culturally defined area of land, sea, or country. Traditional Owner(s) have a cultural association with country, which derives from traditions, observances, customs, beliefs or history of the original inhabitants of the area.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "4757017c-591d-41f1-9858-701d4023aa6d",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "Traditional Owner(s)"
+          },
+          {
+            "content": {
+              "params": {
+                "text": "<p>This is a term used to describe a culturally defined area of land or sea associated with a particular, culturally distinct group of people or nation.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "c71b573c-e16a-48ea-9076-dc5065418f6d",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "Country"
+          }
+        ],
+        "hTag": "h2"
+      }
+    }
+  ]
+}

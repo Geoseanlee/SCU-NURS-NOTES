@@ -1,0 +1,361 @@
+{
+  "source": "https://scu.h5p.com/content/1291582425861715679",
+  "assetBase": "h5p_8141472e800136cc3438_assets/",
+  "contents": [
+    {
+      "title": "indg6002_m5_white-privilege-outrage",
+      "library": "H5P.CoursePresentation 1.27",
+      "params": {
+        "presentation": {
+          "slides": [
+            {
+              "elements": [
+                {
+                  "x": 3.4256351698544103,
+                  "y": 6.766662907409495,
+                  "width": 92.49214958606908,
+                  "height": 24.81109732716815,
+                  "action": {
+                    "library": "H5P.AdvancedText 1.1",
+                    "params": {
+                      "text": "<h2 style=\"text-align: center;\"><span style=\"font-size:1.25em;\">White privilege outrage</span></h2>\n\n<p style=\"text-align: center;\"><span style=\"font-size:1em;\"><span><span><span><span><a href=\"https://www.abc.net.au/mediawatch/episodes/white-privilege-outrage/9972296\" target=\"_blank\">https://www.abc.net.au/mediawatch/episodes/white-privilege-outrage/9972296</a></span></span></span></span></span></p>\n"
+                    },
+                    "subContentId": "33557d35-2be1-4e2d-b248-b1199c866a19",
+                    "metadata": {
+                      "contentType": "Text",
+                      "license": "U",
+                      "title": "Untitled Text"
+                    }
+                  },
+                  "alwaysDisplayComments": false,
+                  "backgroundOpacity": 0,
+                  "displayAsButton": false,
+                  "buttonSize": "big",
+                  "goToSlideType": "specified",
+                  "invisible": false,
+                  "solution": ""
+                },
+                {
+                  "x": 4.453325720810733,
+                  "y": 36.31442426976429,
+                  "width": 91.04196403083071,
+                  "height": 52.40036088868839,
+                  "action": {
+                    "library": "H5P.ExportableTextArea 1.3",
+                    "params": {
+                      "index": 0,
+                      "exportNotSupported": "Export not supported on your device",
+                      "exportComments": false,
+                      "label": "<p style=\"text-align:left;\">After watching this clip, write a brief reflection (max 100 words) on how you think this style of media reporting may impact on Indigenous Peoples watching it, and what this skewed and ‘othering’ style of journalism may do to peoples’ ability to access health services.</p>\n"
+                    },
+                    "subContentId": "24a9d7ad-0452-498b-b456-e2dfd4db4bc2",
+                    "metadata": {
+                      "contentType": "Exportable Text Area",
+                      "license": "U",
+                      "title": "Untitled Exportable Text Area"
+                    }
+                  },
+                  "alwaysDisplayComments": false,
+                  "backgroundOpacity": 0,
+                  "displayAsButton": false,
+                  "buttonSize": "big",
+                  "goToSlideType": "specified",
+                  "invisible": false,
+                  "solution": ""
+                }
+              ],
+              "slideBackgroundSelector": {}
+            },
+            {
+              "elements": [
+                {
+                  "x": 4.110762203825293,
+                  "y": 1.8044434419758657,
+                  "width": 91.61290322580645,
+                  "height": 78.9444005864441,
+                  "action": {
+                    "library": "H5P.ExportableTextArea 1.3",
+                    "params": {
+                      "exportNotSupported": "Export not supported on your device",
+                      "exportComments": false,
+                      "index": 0,
+                      "label": "<p>Also, after watching this video:</p>\n\n<ul>\n\t<li>Try to think of media reports or discourses that you have seen that are further examples of ‘problematising’ of Indigenous Peoples. You will not need to search far in mainstream media to find numerous examples of this.</li>\n\t<li>Consider what may be the motivation behind the negative focus of these reports. How for example has mainstream media reported institutionally driven deaths of Indigenous Australians in the health and justice systems?</li>\n</ul>\n\n<p>Input your response below.</p>\n"
+                    },
+                    "subContentId": "aff766e5-05fa-4f13-ba59-38ee48367cec",
+                    "metadata": {
+                      "contentType": "Exportable Text Area",
+                      "license": "U",
+                      "title": "Untitled Exportable Text Area"
+                    }
+                  },
+                  "alwaysDisplayComments": false,
+                  "backgroundOpacity": 0,
+                  "displayAsButton": false,
+                  "buttonSize": "big",
+                  "goToSlideType": "specified",
+                  "invisible": false,
+                  "solution": ""
+                },
+                {
+                  "x": 3.9965743648301455,
+                  "y": 80.29773316792601,
+                  "width": 91.4987153868113,
+                  "height": 18.79627833540092,
+                  "action": {
+                    "library": "H5P.AdvancedText 1.1",
+                    "params": {
+                      "text": "<ul>\n\t<li>There have been a number of recent deaths of Indigenous People as a direct result of racism within  health services. See if you can find a media report of one of these preventable deaths recently within mainstream media, and bring it along to your tutorial this week.</li>\n</ul>\n"
+                    },
+                    "subContentId": "cbd27cab-9a52-45de-8870-c29304bf25c7",
+                    "metadata": {
+                      "contentType": "Text",
+                      "license": "U",
+                      "title": "Untitled Text"
+                    }
+                  },
+                  "alwaysDisplayComments": false,
+                  "backgroundOpacity": 0,
+                  "displayAsButton": false,
+                  "buttonSize": "big",
+                  "goToSlideType": "specified",
+                  "invisible": false,
+                  "solution": ""
+                }
+              ],
+              "slideBackgroundSelector": {}
+            },
+            {
+              "elements": [
+                {
+                  "x": 3.4256351698544103,
+                  "y": 4.511108604939664,
+                  "width": 92.49214958606908,
+                  "height": 11.277771512349158,
+                  "action": {
+                    "library": "H5P.AdvancedText 1.1",
+                    "params": {
+                      "text": "<h2 style=\"text-align: center;\"><span style=\"font-size:1.25em;\">Working with Aboriginal Clients</span></h2>\n"
+                    },
+                    "metadata": {
+                      "contentType": "Text",
+                      "license": "U",
+                      "title": "Untitled Text"
+                    },
+                    "subContentId": "8c66d4a5-4e70-4fd6-a217-fc189355bada"
+                  },
+                  "alwaysDisplayComments": false,
+                  "backgroundOpacity": 0,
+                  "displayAsButton": false,
+                  "buttonSize": "big",
+                  "goToSlideType": "specified",
+                  "invisible": false,
+                  "solution": ""
+                },
+                {
+                  "x": 25.12132457893234,
+                  "y": 38.34442314198714,
+                  "width": 50,
+                  "height": 55.5553125,
+                  "action": {
+                    "library": "H5P.Video 1.6",
+                    "params": {
+                      "visuals": {
+                        "fit": true,
+                        "controls": true
+                      },
+                      "playback": {
+                        "autoplay": false,
+                        "loop": false
+                      },
+                      "l10n": {
+                        "name": "Video",
+                        "loading": "Video player loading...",
+                        "noPlayers": "Found no video players that supports the given video format.",
+                        "noSources": "Video is missing sources.",
+                        "aborted": "Media playback has been aborted.",
+                        "networkFailure": "Network failure.",
+                        "cannotDecode": "Unable to decode media.",
+                        "formatNotSupported": "Video format not supported.",
+                        "mediaEncrypted": "Media encrypted.",
+                        "unknownError": "Unknown error.",
+                        "invalidYtId": "Invalid YouTube ID.",
+                        "unknownYtId": "Unable to find video with the given YouTube ID.",
+                        "restrictedYt": "The owner of this video does not allow it to be embedded."
+                      },
+                      "sources": [
+                        {
+                          "path": "https://www.youtube.com/watch?v=dO4Lui6JvDM&amp;t=17s",
+                          "mime": "video/YouTube",
+                          "copyright": {
+                            "license": "U"
+                          }
+                        }
+                      ]
+                    },
+                    "subContentId": "c526c02f-634d-429b-bc4b-5c7dbaadf5d6",
+                    "metadata": {
+                      "contentType": "Video",
+                      "license": "U",
+                      "title": "Working with Aboriginal Clients"
+                    }
+                  },
+                  "alwaysDisplayComments": false,
+                  "backgroundOpacity": 0,
+                  "displayAsButton": false,
+                  "buttonSize": "big",
+                  "goToSlideType": "specified",
+                  "invisible": false,
+                  "solution": ""
+                },
+                {
+                  "x": 2.2837567799029403,
+                  "y": 15.788880117288823,
+                  "width": 93.94427633457036,
+                  "height": 20.299988722228484,
+                  "action": {
+                    "library": "H5P.AdvancedText 1.1",
+                    "params": {
+                      "text": "<p>Now watch this YouTube On Working with Aboriginal Clients, where Aboriginal Health Worker, Phyllis Winmar provides some guidelines for health and  social work professionals when working with her people. Phyllis reinforces and applies much of your learning so far in this unit and provides some practical tips that can help you as you reflect on decolonising your practice.</p>\n"
+                    },
+                    "subContentId": "37283599-adc8-4718-972d-3e6971654bea",
+                    "metadata": {
+                      "contentType": "Text",
+                      "license": "U",
+                      "title": "Untitled Text"
+                    }
+                  },
+                  "alwaysDisplayComments": false,
+                  "backgroundOpacity": 0,
+                  "displayAsButton": false,
+                  "buttonSize": "big",
+                  "goToSlideType": "specified",
+                  "invisible": false,
+                  "solution": ""
+                }
+              ],
+              "slideBackgroundSelector": {}
+            },
+            {
+              "elements": [
+                {
+                  "x": 6.851270339708821,
+                  "y": 9.022217209879328,
+                  "width": 87.9246360262632,
+                  "height": 78.9444005864441,
+                  "action": {
+                    "library": "H5P.ExportableTextArea 1.3",
+                    "params": {
+                      "exportNotSupported": "Export not supported on your device",
+                      "exportComments": false,
+                      "index": 0,
+                      "label": "<p>Can you list the key strategies that  Phyllis Winmar recommends?</p>\n"
+                    },
+                    "subContentId": "d113783c-b8b9-4f96-bc89-33839925bd2f",
+                    "metadata": {
+                      "contentType": "Exportable Text Area",
+                      "license": "U",
+                      "title": "Untitled Exportable Text Area"
+                    }
+                  },
+                  "alwaysDisplayComments": false,
+                  "backgroundOpacity": 0,
+                  "displayAsButton": false,
+                  "buttonSize": "big",
+                  "goToSlideType": "specified",
+                  "invisible": false,
+                  "solution": ""
+                }
+              ],
+              "slideBackgroundSelector": {}
+            }
+          ],
+          "keywordListEnabled": true,
+          "globalBackgroundSelector": {
+            "imageGlobalBackground": {
+              "path": "images/imageGlobalBackground-62282d5ff333c.jpg",
+              "mime": "image/jpeg",
+              "copyright": {
+                "license": "U"
+              },
+              "width": 1150,
+              "height": 300
+            }
+          },
+          "keywordListAlwaysShow": false,
+          "keywordListAutoHide": false,
+          "keywordListOpacity": 90
+        },
+        "override": {
+          "activeSurface": false,
+          "hideSummarySlide": false,
+          "summarySlideSolutionButton": false,
+          "summarySlideRetryButton": true,
+          "enablePrintButton": false,
+          "social": {
+            "showFacebookShare": false,
+            "facebookShare": {
+              "url": "@currentpageurl",
+              "quote": "I scored @score out of @maxScore on a task at @currentpageurl."
+            },
+            "showTwitterShare": false,
+            "twitterShare": {
+              "statement": "I scored @score out of @maxScore on a task at @currentpageurl.",
+              "url": "@currentpageurl",
+              "hashtags": "h5p, course"
+            },
+            "showGoogleShare": false,
+            "googleShareUrl": "@currentpageurl"
+          },
+          "showSolutionButton": "off"
+        },
+        "l10n": {
+          "slide": "Slide",
+          "score": "Score",
+          "yourScore": "Your Score",
+          "maxScore": "Max Score",
+          "total": "Total",
+          "totalScore": "Total Score",
+          "showSolutions": "Show solutions",
+          "retry": "Retry",
+          "exportAnswers": "Export text",
+          "hideKeywords": "Hide sidebar navigation menu",
+          "showKeywords": "Show sidebar navigation menu",
+          "fullscreen": "Fullscreen",
+          "exitFullscreen": "Exit fullscreen",
+          "prevSlide": "Previous slide",
+          "nextSlide": "Next slide",
+          "currentSlide": "Current slide",
+          "lastSlide": "Last slide",
+          "solutionModeTitle": "Exit solution mode",
+          "solutionModeText": "Solution Mode",
+          "summaryMultipleTaskText": "Multiple tasks",
+          "scoreMessage": "You achieved:",
+          "shareFacebook": "Share on Facebook",
+          "shareTwitter": "Share on Twitter",
+          "shareGoogle": "Share on Google+",
+          "summary": "Summary",
+          "solutionsButtonTitle": "Show comments",
+          "printTitle": "Print",
+          "printIngress": "How would you like to print this presentation?",
+          "printAllSlides": "Print all slides",
+          "printCurrentSlide": "Print current slide",
+          "noTitle": "No title",
+          "accessibilitySlideNavigationExplanation": "Use left and right arrow to change slide in that direction whenever canvas is selected.",
+          "accessibilityCanvasLabel": "Presentation canvas. Use left and right arrow to move between slides.",
+          "containsNotCompleted": "@slideName contains not completed interaction",
+          "containsCompleted": "@slideName contains completed interaction",
+          "slideCount": "Slide @index of @total",
+          "containsOnlyCorrect": "@slideName only has correct answers",
+          "containsIncorrectAnswers": "@slideName has incorrect answers",
+          "shareResult": "Share Result",
+          "accessibilityTotalScore": "You got @score of @maxScore points in total",
+          "accessibilityEnteredFullscreen": "Entered fullscreen",
+          "accessibilityExitedFullscreen": "Exited fullscreen",
+          "confirmDialogHeader": "Submit your answers",
+          "confirmDialogText": "This will submit your results, do you want to continue?",
+          "confirmDialogConfirmText": "Submit and see results"
+        }
+      }
+    }
+  ]
+}

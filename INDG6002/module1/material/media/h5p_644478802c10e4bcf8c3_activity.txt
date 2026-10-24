@@ -1,0 +1,34 @@
+Source: https://scu.h5p.com/content/1291511458747714919
+Type: activity text extraction (full data in JSON)
+
+Social well-being
+
+Emotional well-being
+
+Spiritual well-being
+
+Physical well-being
+
+All of the above
+
+Finish ?
+
+Retry ?
+
+According to Kirsty, an Aboriginal parent, how do her people describe mental health?
+
+Question 1
+
+Relationship with Grandparents
+
+Strong sense of identity
+
+Connection with Aunties
+
+Education and housing
+
+Learning about their culture
+
+For Aboriginal children to grow up strong what is not required?
+
+Question 2

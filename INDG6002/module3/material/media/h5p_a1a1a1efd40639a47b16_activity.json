@@ -1,0 +1,30 @@
+{
+  "source": "https://scu.h5p.com/content/1291541836106763999",
+  "assetBase": "h5p_a1a1a1efd40639a47b16_assets/",
+  "contents": [
+    {
+      "title": "indg6002_m3_references",
+      "library": "H5P.Accordion 1.0",
+      "params": {
+        "panels": [
+          {
+            "content": {
+              "params": {
+                "text": "<p>Carson, B., Dunbar, T., Chenhall, R., &amp; Baille, R. (2007). <em>Social determinants of Indigenous health</em>. Crows Nest: Allen &amp; Unwin.</p>\n\n<p>Braveman, P., &amp; Gottlieb, L. (2014). The Social Determinants of Health: It's Time to Consider the Causes of the Causes. <em>Public Health Reports</em>, <em>129</em>(1_suppl2), 19-31. doi:10.1177/00333549141291s206</p>\n\n<p>Dahlgren, G., &amp; Whitehead M. (1991). <em>Policies and strategies to promote social equity in health</em>. Stockholm, Sweden: Institute for Futures Studies.</p>\n\n<p>Lowitja Institute. (2014). <em>Cultural Determinants roundtable: Background Paper</em>. The Lowitja Institute: Melbourne.</p>\n\n<p>Rix, E., Barclay, L., &amp; Wilson, S. (2014). Can a white nurse get it?&nbsp; ‘Reflexive practice’ and the non-Indigenous clinician/researcher working with Aboriginal people. <em>Journal of Rural and Remote Health</em>, <em>4</em>: 2679. Retrieved from <a href=\"http://www.rrh.org.au\" target=\"_blank\">http://www.rrh.org.au</a></p>\n\n<p>Verbunt, E., Luke, J., Paradies, Y., Bamblett, M., Salamone, C., Jones, A., &amp; Kelaher, M. (2021). Cultural determinants of health for Aboriginal and Torres Strait Islander people – a narrative overview of reviews. <em>International Journal for Equity in Health</em>, <em>20</em>(1), 181. doi:10.1186/s12939-021-01514-2</p>\n\n<p>Warin, M., Kowal, E., &amp; Meloni, M. (2020). Indigenous Knowledge in a Postgenomic Landscape: The Politics of Epigenetic Hope and Reparation in Australia.<em> Science, Technology, &amp; Human Values</em>, <em>45</em>(1), 87-111. doi:10.1177/0162243919831077</p>\n\n<p>World Health Organization. (2021). <em>Social determinants of health</em>. Retrieved 21/12/21 from: <a href=\"https://www.who.int/news-room/fact-sheets/detail/commercial-determinants-of-health\" target=\"_blank\">https://www.who.int/news-room/fact-sheets/detail/commercial-determinants-of-health</a></p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "2f29edc1-70d4-4144-8eb9-a19a1e56c5ea",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "References"
+          }
+        ],
+        "hTag": "h2"
+      }
+    }
+  ]
+}

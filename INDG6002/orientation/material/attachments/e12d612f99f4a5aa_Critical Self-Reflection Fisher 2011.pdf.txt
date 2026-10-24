@@ -1,0 +1,551 @@
+      Kath Fisher                                                                November 2011
+ Kath.fisher@scu.edu.au
+
+
+              Critical self-reflection: What is it and how do you do it?
+
+
+ Learning the skills of critical thinking and critical reflection is essential for the development of
+ critical citizens in any society. These are not straightforward skills and do not come naturally
+ to the majority of people. The school system is not designed to develop skills of critical,
+ independent thinking in its students, and our socialization in learning to become
+ (unquestioning) members of society rarely fosters a critical attitude. For most adults, it is not
+ until they undertake some form of tertiary education or travel to other cultures that they
+ become aware of perspectives other than those offered by their family, schooling, religion,
+ workforce experiences and the media. In this paper I define reflection, examine the distinctive
+ features of critical reflection, locating it theoretically and outlining the differences between
+ critical thinking and critical reflection; distinguish between values, beliefs and assumptions;
+ and outline some strategies and techniques for improving skills in critical reflection. I also
+ discuss how critical reflection is central to reflective practice, especially for students engaging
+ in partnerships in community contexts.
+
+                                              Dewey argued that reflective individuals have
+             What is reflection?
+                                              certain characteristics: open-mindedness, a
+   The root of the word ‘reflection’ is the
+                                              willingness to accept intellectual responsibility for
+   Latin reflectere. Flectere means ‘to
+   bend’, so re-flectere increases the
+                                              one’s own views, wholeheartedness (i.e. a
+   inflection—‘to bend back’, or to bend      willingness to face fears and uncertainties) and
+   again or double-take. The meaning of       enthusiasm. Literature on reflection, developed
+   the word has come to be interpreted as     from Dewey’s ideas, focuses primarily either on
+   an introspective ‘bending in’, i.e. a      adult learning (Boud, et al., 1985; Brookfield, 1995;
+   reviewing of our own inner processes of    Mezirow, 1990), or is concerned with reflection in
+   thinking and feeling (Bleakley, 1999).     relation to practices and actions, especially
+                                              professional practice in fields such as teaching
+   John Dewey is considered a key             (Hatton & Smith, 1995; Yost, et al., 2000), nursing
+   originator of thinking about reflection    (Burns & Bulman, 2000) and social work (Fook,
+   (Dewey, 1933). He thought of it as a
+                                              1996), drawing on the pioneering work of Donald
+   ‘special form of problem solving,
+   thinking to resolve an issue which
+                                              Schön (1983, 1987). Schön’s work emphasises the
+   involved active chaining, a careful        concept of ‘reflection-in-action’, where the
+   ordering of ideas linking each with its    reflective    practitioner     evaluates     intuitive
+   predecessors’ (Hatton & Smith, 1995, p.    understandings intrinsic to experience as a guide
+   33).                                       to action. This ‘on-the-spot’ processing is
+                                              somewhat        different     from     retrospective
+                                              contemplation, which characterizes most reflection
+                                              on learning.
+
+                                    Literature on service learning
+There is also a developing body of literature dealing with reflection on the service-learning
+experience, which may be useful for you to refer to as you move into reflecting on your learning
+(for example, see Ash & Clayton, 2004; Bringle & Hatcher, 1999; Correia & Bleicher, 2008; Eyler,
+2002; Felten, et al., 2006; Iles, 2007; Power, 2010).
+
+
+                                                                                                        1
+  Kath Fisher                 Types and levels of reflection
+
+
+Writers in the education tradition have identified different types and levels of reflection. For
+instance, Van Manen (1977), following Habermas (1972), distinguished three types, involving a
+progression through three distinct stages of reflection: technical, practical and critical, each of
+which is associated with particular assumptions about knowledge.
+
+ Technical reflection is concerned with       Similarly, Goodman (1984) distinguishes three
+ efficiency and effectiveness of means to     levels of reflection available to the reflective
+ achieve certain ends, i.e. the effective     practitioner.
+ application of skills and knowledge.
+ Knowledge is used to control the             The first level (the technical or evaluative) is
+ environment, and such knowledge is           limited to technocratic issues of efficiency,
+ viewed as objective and value-free.          effectiveness and accountability, e.g. the
+                                              practitioner might ask ‘have I achieved my goals in
+ Practical reflection allows for              the best way possible?’
+ examination of goals and the
+ assumptions on which they are based          In the second level (the practical or sense-making),
+ and recognizes that meanings are             the practitioner would assess the implications and
+ negotiated through language and              consequences of your actions and beliefs as well as
+ communication. Knowledge is viewed           the underlying rationale for your practice, e.g. the
+ as socially constructed and individuals      practitioner might ask ‘what are the implications
+ seek to develop a sense of shared            of my actions?’ or ‘what sense can I make of my
+ values and norms within their particular     experience?’
+ contexts.
+                                              The third level (the critical) is where issues of
+ Critical reflection adds moral and           justice and emancipation enter deliberations over
+ ethical criteria such as equity and          the value of professional goals and practice and
+ justice, locating analysis of personal       the practitioner makes links between the setting of
+ action within wider historical, political    everyday practice and broader social structure and
+ and social contexts. Knowledge is            forces e.g. the practitioner might ask ‘how do my
+ viewed as being constructed by               actions reflect my values and beliefs and how do
+ particular interests and maintained          they reflect relationships of power?’
+ through relationships of power.
+                                                 Critical reflection is not ‘negative criticism’
+
+                                                ‘Critical’ in this context is aligned with the notion
+                                                of ‘critique’ in the sense of undertaking a
+                                                particular form of analysis that attempts to bring
+                                                to light taken-for-granted assumptions and
+                                                demonstrate how these reinforce power
+                                                relationships, such as those between different
+                                                classes in society or between mainstream and
+                                                marginalized groups. This is distinct from the
+                                                more everyday sense of the word critical as
+                                                meaning ‘negative’ or ‘destructive’.
+
+
+                                                                                                        2
+  Kath Fisher Critical thinking, critical reflection, critical action
+
+
+Critical thinking and critical reflection are    Barnett (1997) goes further and argues that
+terms often used interchangeably, which          there are three skills that are required for
+can be confusing for students if not             integration into what he calls a ‘critical being’:
+clearly defined. I make the distinction as       critical thinking, critical self-reflection and critical
+follows (Fisher 2003):                           action: Each of these is associated with a
+                                                 different domain: critical thinking is associated
+Critical thinking and critical analysis          with knowledge, critical self-reflection is
+involve processes of abstract reasoning,         associated with self and critical action is
+detecting the assumptions underlying             associated with world.
+another’s position or text and identifying
+how such assumptions serve particular              “The full potential of critical being will only be
+interests (Bowell & Kemp, 2001;                    achieved, therefore, through the integration of
+Brookfield, 1987; Brown, 1998; Chaffee,            its expression in the three domains of
+2003; Paul, 1993).                                 knowledge, self and world, and in being lived
+                                                   out at the highest levels of critique in each
+Critical reflection, on the other hand, is a       domain. Through such integration of the critical
+process attached to looking at one’s own           spirit, critical but creative persons will result,
+positioning, requiring a level of self-            capable of living effectively in the world “
+awareness, and is generally more difficult                                        (Barnett, 1997, p. 8).
+because of the unquestioning acceptance
+of many unconsciously-held beliefs and
+assumptions, particularly those that are
+                                                              Barnett’s critical being
+supported by our social institutions and
+structures. Given the personal nature of
+critical reflection, I will make this explicit             Skill                      Domain
+by referring to this process as critical
+self-reflection. It is important to note             Critical thinking               Knowledge
+that a capacity for critical self-reflection
+enhances capacities for critical thinking           Critical reflection                  Self
+and analysis (Mezirow, 1990).
+                                                      Critical action                  World
+
+
+What distinguishes critical reflection?
+The conceptual basis for critical reflection originated in critical theory (Bronner & Kellner,
+1989; Geuss, 1981; Habermas, 1972), a theory of society that has as its goal a just and
+democratic society that will come about through the emancipation of its citizenry. Such a
+process entails ‘reasoned confrontation of the dominant, science-influenced rationality which
+privileges means over ends, facts over values, and which perpetuates arid intellectualism at
+the expense of people’s feelings’ (Reynolds, 1998, p. 187). Such a ‘reasoned confrontation’
+permits the lifting of ‘the veils of illusion’ that keep people oppressed through demonstrating
+the extent to which their own beliefs, practices and values operate against their own
+interests—this is the primary purpose of critical reflection according to critical theorists. The
+questioning of assumptions, the ‘taken-for-granteds’ (Reynolds, 1998), particularly those that
+reflect relationships of power within social and political contexts, is the key difference
+between critical reflection and other forms of reflection.
+                                                                                                            3
+Kath Fisher            What distinguishes critical reflection?
+
+
+Educators        have       identified      the
+‘emancipatory’ intention behind acts of            “Critical reflection involves a critique of the
+critical self-reflection as crucial to             presuppositions on which our beliefs have
+                                                   been built … [Such critique involves]
+distinguishing it from other forms.
+                                                   challenging our established and habitual
+Emancipation comes from forces which limit         patterns of expectation, the meaning
+our options and exercise control over our          perspectives with which we have made
+lives, but have been taken for granted as          sense out of our encounters with the world,
+being beyond human control. It requires            others, and ourselves” (Mezirow, 1990, pp.
+gaining an in-depth understanding of our           1,12).
+own historical situation. It means becoming
+critically aware of how and why the
+assumptions we make have limited the way
+we see ourselves and our relationships,           The main features that distinguish a
+changing these assumptions in a liberating        capacity for critical self-reflection, as
+fashion, towards a more discriminating and        distinct from other types of reflection,
+integrating experience and acting on the          include being able (and willing) to:
+new understandings. Mezirow (1990) calls          • uncover, examine and question one’s
+this ‘perspective transformation’.                    own assumptions, values and beliefs,
+         Transformative       learning     thus       particularly those that are cultural and
+requires critical self-reflection, which              historic in one’s own perspective or
+essentially        involves         questioning       account       of      events      (Dewey’s
+assumptions underlying our beliefs,                   ‘wholeheartedness’ and ‘responsibility’);
+reassessing these assumptions, exploring          • consider       other      perspectives    or
+alternative perspectives and acting on the            alternative ways of viewing the world,
+new meaning perspectives thus generated.              i.e. being able to identify what
+As individuals, we ‘breathe in’ an ideology           perspectives are missing from one’s own
+or meaning perspective of the particular              account of events (Dewey’s ‘open-
+social group that provides the immediate              mindedness’);
+context of our socialization (e.g. being a        • identify how one’s own views have a
+white middle class Australian woman). Each            particular bias that privileges one view
+person also has individual characteristics            over another (Dewey’s ‘responsibility’);
+which don’t fit with the dominant social          • perceive           contradictions       and
+perspective and what can happen is a                  inconsistencies in one’s own story or
+‘constant negotiating and conflictual                 account of events; and
+process between individual and social             • imagine other possibilities, i.e. a capacity
+group’ (Kennedy, 1990, p. 100). This                  to envision alternative ways of thinking,
+negotiation process is not conscious. The             feeling or acting (Fisher, 2003).
+social structure appears to be a given, but
+as people experience other perspectives or
+sense contradictions they will wonder about
+and question the received givens. This can
+be the first step towards a critically
+reflective attitude. This often happens the
+first time we realize that what our parents
+told us may not necessarily be true!
+
+                                                                                                     4
+  Kath Fisher                Values, beliefs and assumptions
+
+
+Before we look at some strategies and                Values reflect what we think is good, right,
+activities that assist the process of becoming       desirable, worthwhile and reflect how we
+critically self-reflective, it may be useful to be   believe the world should be. They provide
+clear about the distinction between values,          the foundation upon which we make
+beliefs and assumptions, as the meaning of           personal and professional judgments and
+these terms is often not clearly understood.         choices—in effect they are principles that
+These are not easy concepts to define and            we live by and help define who we are.
+they operate in interdependent ways. The             While many of our values have a strong
+boundaries between these definitions can be          moral and ethical foundation, much of what
+fuzzy, so there are often overlaps and               we value is not concerned with our sense of
+ambiguities. I have developed these                  morality or ethics. Some writers find it
+definitions to help my own understanding—            useful to distinguish between non-moral or
+you may find you have different                      instrumental values, such as the desire for
+understandings and meanings that suit you            job security, friendship, health, wisdom,
+better. To illustrate, I will offer general          peace, and moral values which have an
+examples related to reflecting on civic learning     ethical base, such as integrity, honesty,
+in partnerships with community organizations.        respect, caring, justice, civic virtue, and
+         As a student learning within a              openness (Ursery, 2002). Some values refer
+community context, you will be drawing,              to how we think we should act (e.g. be
+whether consciously or unconsciously, on             courageous, altruistic, spontaneous) while
+values about what is important to you about          other values refer to what we wish to
+having this type of experience, about the type       accomplish or obtain in life (e.g. a lot of
+of organisation you are in partnership with          money, fame, a family, world peace). We
+and the values espoused by that organisation.        may find that our fundamental moral values
+Such values may have been forged as you              change little in our lives. On the other hand,
+grew up and reflect your own formative               some of our values may change as a result
+experiences. They may have been influenced           of significant experiences that change our
+by your first experiences with visiting other        way of seeing the world. The key question
+cultures or working or studying with people          to ask in determining what values you may
+from different backgrounds. You may find that        hold is: what is important to me? Of course,
+the values expressed throughout your                 our behaviours may not always be
+experience with the organisation or your             consistent with our professed values.
+reading for this course may also influence you
+or give you pause to reflect, especially if they
+challenge your own. I would suggest that
+consciously identifying these values is an           Examples of values that may influence the
+important step towards becoming a more               way you approach your service-learning
+aware and effective citizen, a critical being        experience include:
+engaged in the world.                                •respect for authority
+         I encourage you to start thinking about     •respect for the autonomy of the individual
+your values in preparation for your community        •social justice
+experience. One of the most rewarding                •an ethic of care for people worse off than
+experiences we can have as learners is to be           ourselves
+challenged by people and organizations that          •civic virtue (i.e. being a good citizen)
+express values different from our own.
+
+                                                                                                      5
+ Kath Fisher               Values, beliefs and assumptions
+
+
+Beliefs are positions we hold that represent      Examples of beliefs about community
+how we think the world operates, what we          organizations, for instance, might be:
+think is ‘true’. They reflect the way we think
+the world is (rather than the way it should        •all community organizations are poor
+be). Beliefs are often based in our                •community organizations are a drain on the
+socialization and generally only come up for        taxpayer
+question when there is that conflict between       •people who work in community
+what the dominant or prevailing societal view       organizations are selfless
+might be and our own experience. Beliefs are       •what we learn at university is no use to
+often strongly connected to values, both            community organizations
+moral and non-moral. They are more likely to       •community organizations can benefit from
+change when they are demonstrated to be             what we learn at university
+false through convincing information and/or
+experience, particularly if we have those         Note that the language suggests ‘this is how
+qualities     of     open-mindedness      and     things are’, rather than ‘this is how I would
+wholeheartedness.        Beliefs    are   also    like things to be’, although each of the above
+underpinned by assumptions. The key               statements reflects a value position, e.g.
+question to ask in determining what beliefs       social justice, authority, control etc.
+you may hold is: what do I think is true?
+
+
+Assumptions are presuppositions that we take for granted that are the basis for how we act in
+the world—they can be about people we know, about cultures, about the way human beings
+behave, about the nature of reality, about knowledge. They are the unstated, taken-for-granted
+ideas that we carry around with us unconsciously. They are usually based on our values and
+beliefs about the world. Thus, while we hold a value or belief, we make assumptions that our
+unexamined values and beliefs are true and valid. Thus:
+                   unexamined values + unexamined beliefs → assumptions
+
+We act on the basis of assumptions all the time—without assumptions we would not be able to
+function effectively in the world. However, processes of critical self-reflection can help reveal
+what assumptions we might be making, what we might be taking for granted that is not based
+on verifiable information. People are generally more easily able to name their values than the
+assumptions underlying their beliefs. It is also quite difficult to identify the extent to which
+assumptions are cultural and historic, as they appear to have the appearance of ‘this is just how
+the world is’. Questioning our assumptions can often mean disorientation, discomfort, a ‘lost
+innocence’. The key question to ask in determining what assumptions you may hold is: what do
+I take for granted?
+
+
+Some assumptions (unexamined values and beliefs) that might underlie the examples given
+above include:
+ •poverty means not having enough money
+ •individuals should be responsible for their own behaviour
+ •altruism is better than selfishness
+ •real learning comes from experience
+ •educated people know more than people who haven’t been to university
+                                                                                                    6
+ Kath Fisher          Strategies to assist critical self-reflection
+
+
+Many people can find this process of questioning assumptions confronting and uncomfortable,
+as well as difficult to do. It can feel like one’s very foundations are being undermined, which in
+a way they are. This discomfort is generally a sign that a ‘meaning perspective’ is being
+challenged and is ready for change. It is a sign that real learning is happening. I would strongly
+suggest that it is worthwhile persevering to experience the satisfaction of greater self-
+awareness through such perspective transformation. This final section outlines different
+strategies that you might find useful to assist your process of critical self-reflection.
+
+
+                 Critical friends                             Critically reflective questions
+Learning how to develop skills of critical self-      Learning the skills of asking questions that
+reflection is not an easy process—it is built on      elicit critically reflective responses is an
+questioning and enquiry. However, it is a             important part of the development of
+process that is made even more difficult if it is     critical friend partnerships. The following
+done without support—in many ways                     are examples of the types of questions
+reflection, while an inner process, is assisted       you could ask as a critical friend in relation
+through interaction with others, particularly         to civic learning experiences:
+those with different perspectives from our
+own. One effective strategy is the formation          1) What influenced you to choose your
+of ‘critical friend’ relationships between               community project?
+people who are willing and able to give and           2) What aspects of your background
+receive constructive feedback, especially                experience and knowledge might have
+questioning unaware assumptions. Effective               been relevant in this choice?
+relationships are most likely to be formed            3) What values underpin your approach
+between people with different belief and                 to your community project?
+value systems as well as different                    4) What beliefs do you think you might
+backgrounds as it is generally easier to                 be taking into your community
+identify assumptions held by another that                setting?
+differ from our own. Skills of giving feedback        5) What underlying assumptions do you
+sensitively and asking open questions are also           think you might be making, i.e. what
+important in assisting critical reflection.              could you be taking for granted about
+                                                         the community context?
+                                                      6) What biases have become apparent to
+                                                         you through your experience in the
+                                                         project?
+                                                      7) What other perspectives might you be
+                                                         ignoring in the way you approach your
+                                                         project?
+                                                      8) What contradictions and paradoxes do
+                                                         you notice in the way you approach
+                                                         your project?
+                                                      9) Think of another student you know
+                                                         who has different values—how does
+                                                         their approach differ from yours?
+
+
+
+                                                                                                       7
+ Kath Fisher          Strategies to assist critical self-reflection
+
+
+         Steps in reflective practice                          Reflective journals
+The following series of steps and                Learning through reflection is ultimately an
+associated questions form part of a useful       individual process. People can give advice
+staged process for developing the skills of      and hints and tips, but it is really only
+reflecting critically on your project            possible to learn by having a go. A particular
+(adapted from Gibbs, 1988). It works best        method or strategy that works for one
+when you can identify a ‘critical incident’      person may be a hindrance to another—the
+where you might have felt uncomfortable          reflective journal is one strategy that many
+or confused or when conflict arose:              people find helpful. It may be an adjunct to
+1. Description: what happened?                   a critical friend relationship or replace it.
+2. Personal experience: what was I               Here is one practical exemplar of how a
+     thinking and feeling?                       reflective nursing practitioner uses a
+3. Evaluation: what was good and bad             reflective diary (Johns in Palmer, et al., 1994,
+     about the experience?                       p. 123):
+4. Analysis: what sense can I make from           1. Use an A4 notebook and split each page
+     this experience?                             2. Write up diary of events on left hand
+5. Confrontation: what values, beliefs                side. Use right hand side for further
+     and assumptions did I carry into this            reflections/analysis notes (such as steps
+     experience? Where did they come                  outlined above).
+     from? How do they differ from the            3. Write up experiences same day if
+     values, beliefs and assumptions of               possible.
+     others involved in the experience?           4. Use actual dialogue wherever possible
+     How do they connect to wider social              to capture the situation.
+     and political forces? What are the           5. Make a habit of writing at least one
+     ethical implications of my actions?              experience per day.
+6. Reconstruction: what could I have              6. Balance problematic experiences with
+     done differently? What will I do                 satisfying experiences.
+     differently next time?                       7. Challenge yourself at least once a day
+                                                      about something that you normally do
+In steps 1-3 the practitioner is engaging in          without thought/take for granted; ask
+Level 1 technical (evaluative) reflection. By         yourself ‘why did I do that?’ ( make the
+step 4 they have moved to Level 2                     ‘normal’ problematic).
+practical (sense-making or analytical)            8. Always endeavor to be open and honest
+reflection; and by the time they have                 with yourself—find the authentic ‘you’
+reached steps 5 and 6 they are engaged in             to do the writing.
+Level 3, a genuine critical self-reflection on
+their practice. People new to reflective
+practice usually keep their reflections
+fairly descriptive – the goal is to deepen
+reflection by moving through the three
+levels. It takes time and practice,
+particularly with the help of a critical
+friend and regular journal writing (see
+below). Ultimately it is well worth the
+effort and essential to becoming a more
+effective critical citizen.
+                                                                                                    8
+ Kath Fisher          Strategies to assist critical self-reflection
+
+
+
+                                Preparatory reflective activity
+This reflective exercise is a useful way to start the process of critical self-reflection:
+Take some time to sit quietly with yourself and either write or talk into a tape recorder—if
+appropriate, involve your critical friend in the process. Think about your childhood and the
+person you are now. Think about yourself in your own personal, social and historical context.
+Answer the following questions, recording your impressions freely, without editing your
+thoughts and feelings:
+      •     What were you like as a child, physically, mentally, emotionally and spiritually?
+      •     Where did you live and what was it like?
+      •     Who were the important people in your life?
+      •     Why were these people important to you?
+      •     What other influences were important in your childhood, such as other people,
+          places and events?
+      •     What were some of the ‘rules for living’ you learned from these people, places and
+          events?
+
+Make some connections now to your professional work or primary activity:
+    •     What influenced you to do the work you are doing now?
+    •     Who were some of the important people in your life that helped shape the worker
+       you have become?
+    •     What is important to you in the way you do your work?
+    • What, if any, childhood ‘rules for living’ have been transferred into your professional
+       life?
+                                                                    (adapted from Taylor, 1999)
+           Concluding remarks
+
+ In this paper, I have attempted to clarify
+ and demystify the complex concept of
+ critical self-reflection through exploring its
+ different dimensions and offering strategies
+ that may assist you in developing this
+ important skill. While reflection is a
+ particular form of thinking, it is important
+ for you to distinguish critical reflection from
+ critical thinking/analysis and to be clear
+ what is being asked of you in your
+ assessment.
+
+ Critically reflective capacities take time and
+ support to develop, and while this paper
+ offers some guidance, there is no substitute
+ for practice and engagement with others in
+ the reflective process.
+
+
+                                                                                                  9
+  Kath Fisher                            References
+
+
+
+Ash, S., & Clayton, P. (2004). The articulated learning: an approach to guided reflection and
+          assessment. Innovative Higher Education, 29(2), 137-154.
+Barnett, R. (1997). Higher Education: a Critical Business. Buckingham: The Society for Research
+          into Higher Education & Open University Press.
+Bleakley, A. (1999). From reflective practice to holistic reflexivity. Studies in Higher Education,
+          24(3), 315-330.
+Boud, D., Keogh, R., & Walker, D. (Eds.). (1985). Reflection: Turning Experience into Learning.
+          London: Kogan Page.
+Bowell, T., & Kemp, G. (2001). Critical thinking : a concise guide. London: Routledge.
+Bringle, R., & Hatcher, J. (1999). Reflection in service-learning: making meaning from experience.
+          Educational Horizons, Summer, 179-185.
+Bronner, S. E., & Kellner, D. M. (1989). Critical Theory and Society: a Reader. New York:
+          Routledge.
+Brookfield, S. (1987). Developing Critical Thinkers: Challenging Adults to Explore Alternative
+          Ways of Thinking and Acting. San Francisco: Jossey Bass.
+Brookfield, S. (1995). Becoming a Critically Reflective Teacher. San Francisco: Jossey Bass.
+Brown, K. (1998). Education, culture, and critical thinking. Aldershot: Ashgate.
+Burns, S., & Bulman, C. (Eds.). (2000). Reflective Practice in Nursing: the Growth of the Reflective
+          Practitioner. Oxford: Blackwell Science.
+Chaffee, J. (2003). Thinking Critically (7th ed.). Boston: Houghton Mifflin.
+Correia, M., & Bleicher, R. (2008). Making Connections to Teach Reflection. Michigan Journal of
+          Community Service Learning, 14(2), 41-49.
+Dewey, J. (1933). How We Think: a Restatement of the Relation of Reflective Thinking to the
+          Educative Process. Lexington: D.C. Heath.
+Eyler, J. (2002). Reflection: Linking service and learning - Linking students and communities.
+          Journal of Social Issues, 58(3), 517-534.
+Felten, P., Gilchrist, L., & Darby, A. (2006). Emotion and learning: feeling our way toward a new
+          theory of reflection in service-learning. Michigan Journal of Community Service Learning,
+          12(2), 38-46.
+Fisher, K. (2003). Demystifying critical reflection: defining criteria for assessment. Higher
+          Education Research and Development, 22(3), 318-335.
+Fook, J. (Ed.). (1996). The Reflective Researcher. Sydney: Allen & Unwin.
+Geuss, R. (1981). The Idea of a Critical Theory: Habermas and the Frankfurt School. New York:
+          Cambridge University Press.
+Gibbs, G. (1988). Learning by doing: a guide to teaching and learning methods. Oxford: Further
+          Education Unit, Oxford Polytechnic.
+Goodman, J. (1984). Reflection and teacher education: a case study and theoretical analysis.
+          Interchange, 15(3), 9-26.
+Habermas, J. (1972). Knowledge and Human Interests (J. Shapiro, Trans.). London: Heinemann.
+Hatton, N., & Smith, D. (1995). Reflection in teacher education: towards definition and
+          implementation. Teaching and Teacher Education, 11(1), 35-49.
+Iles, J. (2007). Serving, learning and reflective practice at Roehampton University, London. In L.
+          McIlrath & I. M. Labhrainn (Eds.), Higher Education and Civic Engagement: International
+          Perspectives (pp. 143-154). Aldershot: Ashgate.. San Francisco: Jossey-Bass.
+Kitchener, K. S., & King, P. M. (1990). The reflective judgment model: transforming asumptions
+                                                                                                   10
+          about knowing. In J. Mezirow (Ed.), Fostering Critical Reflection in Adulthood: A Guide to
+          Transformative and Emancipatory Learning (pp. 159-176). San Francisco: Jossey-Bass.
+Mezirow, J. (Ed.). (1990). Fostering Critical Reflection in Adulthood: A Guide to Transformative
+ Kath Fisher                              References
+
+
+Kennedy, W. B. (1990). Integrating Personal and Social Ideologies. In J. Mezirow (Ed.), Fostering
+       Critical Reflection in Adulthood: a Guide to Transformative and Emancipatory Learning.
+       San Francisco: Jossey-Bass.
+Kitchener, K. S., & King, P. M. (1990). The reflective judgment model: transforming asumptions
+       about knowing. In J. Mezirow (Ed.), Fostering Critical Reflection in Adulthood: A Guide to
+       Transformative and Emancipatory Learning (pp. 159-176). San Francisco: Jossey-Bass.
+Mezirow, J. (Ed.). (1990). Fostering Critical Reflection in Adulthood: A Guide to Transformative
+       and Emancipatory Learning. San Francisco: Jossey-Bass.
+Palmer, A., Burns, S., & Bulman, C. (Eds.). (1994). Reflective Practice in Nursing: the Growth of
+       the Reflective Practitioner. Oxford: Blackwell Science.
+Paul, R. (1993). Critical Thinking : What Every Person Needs to Survive in a Rapidly Changing
+       World. Santa Rosa, California: Foundation for Critical Thinking.
+Power, A. (2010). Community engagement as authentic learning with reflection. Issues in
+       Educational Research, 20(1), 57-62.
+Reynolds, M. (1998). Reflection and critical reflection in management learning. Management
+       Learning, 29(2), 183-200.
+Schön, D. (1983). The Reflective Practitioner. London: Temple Smith.
+Schön, D. (1987). Educating the Reflective Practitioner. San Francisco: Jossey Bass.
+Ursery, D. (2002). Exploring values, rules and principles. Retrieved 23 April 2004, 2004, from
+       http://www.stedwards.edu/ursery/values.htm
+Van Manen, M. (1977). Linking ways of knowing with ways of being practical. Curriculum
+       Inquiry(6), 205-228.
+Yost, D. S., Sentner, S. M., & Forlenza-Bailey, A. F. (2000). An examination of the construct of
+       critical reflection: implications for teacher education programming in the 21st century.
+       Journal of Teacher Education, 51(1), 39-49.
+
+
+
+
+                                                                                              11
+

@@ -1,0 +1,450 @@
+CSIRO PUBLISHING
+Australian Journal of Primary Health, 2016, 22, 377–382
+                                                                                                                               Forum
+http://dx.doi.org/10.1071/PY16051
+
+
+     ‘Yarn with me’: applying clinical yarning to improve
+     clinician–patient communication in Aboriginal health care
+
+     Ivan Lin A,C, Charmaine Green A and Dawn Bessarab B
+     A
+       Western Australian Centre for Rural Health, The University of Western Australia, PO Box 109,
+       Geraldton, WA 6531, Australia.
+     B
+      Centre for Aboriginal Medical and Dental Health, The University of Western Australia,
+      35 Stirling Highway, Crawley, WA 6009, Australia.
+     C
+       Corresponding author. Email: ivan.lin@uwa.edu.au
+
+
+
+      Abstract. Although successful communication is at the heart of the clinical consultation, communication between
+      Aboriginal patients and practitioners such as doctors, nurses and allied health professionals, continues to be problematic and
+      is arguably the biggest barrier to the delivery of successful health care to Aboriginal people. This paper presents an
+      overarching framework for practitioners to help them reorientate their communication with Aboriginal patients using
+      ‘clinical yarning’. Clinical yarning is a patient-centred approach that marries Aboriginal cultural communication preferences
+      with biomedical understandings of health and disease. Clinical yarning consists of three interrelated areas: the social yarn, in
+      which the practitioner aims to ﬁnd common ground and develop the interpersonal relationship; the diagnostic yarn, in which
+      the practitioner facilitates the patient’s health story while interpreting it through a biomedical or scientiﬁc lens; and the
+      management yarn, that employs stories and metaphors as tools for patients to help them understand a health issue so a
+      collaborative management approach can be adopted. There is cultural and research evidence that supports this approach.
+      Clinical yarning has the potential to improve outcomes for patients and practitioners.
+
+      Additional keywords: communication barriers, culture, doctor–patient communication, education, Indigenous, patient-
+      centred care.
+
+      Received 3 May 2016, accepted 20 August 2016, published online 26 September 2016
+
+
+
+Background                                                              and suspicion by Aboriginal people of health practitioners and
+Although interpersonal communication between practitioners,             what they say (Shahid et al. 2009).
+such as doctors, nurses and allied health professionals, and                Numerous recommendations for communication in
+patients is the foundation upon which quality patient care is built,    Aboriginal health care exist (e.g. Aboriginal and Torres Strait
+it is arguably the biggest barrier for Aboriginal people when           Islander Cultural Capability Team 2014) however a simple
+they seek health care (Cass et al. 2002; Shahid et al. 2009).           overarching framework to guide practitioners is lacking. Here, we
+Communication barriers between practitioners and Aboriginal             present a patient-centred framework for communication between
+patients include language issues, an absence of communication,          practitioners and Aboriginal patients. We argue that reframing
+and the use of medical jargon (Box 1). These issues undermine           communication in the consultation as a ‘clinical yarn’ has the
+constructive practitioner–patient relationships and result in           potential for better outcomes for Aboriginal patients and
+Aboriginal patients feeling alienated, being non-compliant with         practitioners. We discuss the cultural origins of clinical yarning,
+treatments and disengaging from health care. Evidence                   describe the framework and its three interrelated elements
+demonstrates that Aboriginal patients want to be informed about         (social, diagnostic and management), provide examples of
+health and disease, however information is frequently lacking,          clinical yarning and highlight potential obstacles to its use. The
+inadequate, or presented in ways that are incongruent with              framework was based on the collective experiences of authors as
+Aboriginal peoples’ beliefs and life experiences (Anderson et al.       practitioners, educators and researchers in Aboriginal health
+2008). Communication issues are further heightened when                 care, and evolved after a number of yarns between the authors
+Aboriginal people feel alienated by unfamiliar health care              about patient–practitioner communication. In particular clinical
+settings, their families are not involved in communication              yarning is informed by the cultural knowledge and experiences
+processes, and when there are prejudicial attitudes of healthcare       of authors C. Green and D. Bessarab as Aboriginal people and
+staff (Shahid et al. 2009; Artuso et al. 2013). Furthermore,            community members, and their personal and family experiences
+a history of negative health care experiences results in mistrust       of health care.
+
+Journal compilation Ó La Trobe University 2016 Open Access                                                 www.publish.csiro.au/journals/py
+378      Australian Journal of Primary Health                                                                                   I. Lin et al.
+
+
+
+                                                                       Clinical yarning
+   What is known about the topic?                                      Clinical yarning is used in clinical consultations with patients to
+   *
+       Improving communication between Aboriginal                      build rapport and trust. It is a conversational, relaxed, open-ended
+       patients and practitioners is a priority. Numerous              style of communication that privileges storying as a vehicle to
+       recommendations exist however there is no overarching           understand a patient’s health issue within the context of their
+       framework to guide practitioners’ communication in              life, and as a way to communicate health information. It marries
+       clinical consultations with Aboriginal patients.                a cultural base – a consultation style that is culturally congruent
+                                                                       with Aboriginal ways of communicating – to traditional
+   What does this paper add?                                           biomedical knowledge. Clinical yarning has three interrelated
+   *
+       Clinical yarning is a simple, person-centred framework          areas: the social yarn, diagnostic yarn and management yarn
+       for practitioners to reorient their communication with          (Bessarab and Ng’andu 2010; Fig. 1).
+       Aboriginal patients. It consists of social, diagnostic and
+       management elements. Cultural and research evidence             Social yarn
+       suggests it can improve outcomes.                               A clinical yarn consultation typically begins with the social yarn,
+                                                                       although this can occur at any stage during the interaction. For
+                                                                       Aboriginal people the social yarn is an important precursor to
+                                                                       other conversation and functions to establish connection and
+                                                                       relatedness (Bessarab and Ng’andu 2010). For practitioners the
+Yarning as an approach to communication                                social yarn is about ﬁnding common ground and might include
+For Aboriginal people ‘yarning’ is a culturally appropriate way to     sports, family, the weather, seasonal factors (e.g. relating to bush
+connect, exchange information and share stories between two or         foods) or how Aboriginal people relate to local country. For
+more people socially or more formally (Bessarab and Ng’andu            example, coastal communities may place high cultural value on
+2010). Yarning is a way to talk about things that are important.       the ocean and so ﬁshing may be a topic for a social yarn. The
+Information is embedded within the story or yarn being told,           patient’s age and gender may also provide some conversation
+with the onus on the listener or receiver of the yarn to hear and      cues. Social yarning is easier for practitioners with effective
+make meaning of the information being imparted. It is a                interpersonal skills who are able to connect with someone
+conversational and informal way of sharing news or imparting           about their cultural or personal interests. It is a means for a
+information.                                                           practitioner to ﬁnd out more about the local Aboriginal culture
+    Recently there has been an emergence of yarning-based              from their patient and demonstrates that they are interested in the
+approaches to communication as a culturally appropriate method         person.
+in Aboriginal health research and in counselling and other                 Culturally aware practitioners with knowledge of local
+therapies.                                                             Aboriginal culture may ﬁnd it easier to develop a conceptual
+    Bessarab and Ng’andu (2010) ﬁrst described ‘research               ‘map’ of what is relevant to Aboriginal people in the region in
+yarning’ as a method in Indigenous health research. Research           which they are working, or have pre-existing awareness of
+yarning is used to elicit qualitative information from Aboriginal      the patient’s kinship relationships within the community.
+participants in a relaxed conversational style (Bessarab and           Establishing connection to a place (country) or to family
+Ng’andu 2010), in which the relationship is paramount, and that        members of their patients may assist practitioners to initiate
+‘prioritises Indigenous ways of communicating, in that it is           the social yarn. It may be useful for clinicians to share
+culturally prescribed, cooperative, and respectful’ (Walker et al.     information about themselves or their experiences (Box 2).
+2014, p. 1216). In research yarning ‘a topic is introduced in a        Practitioners must also be aware of non-verbal communication
+deliberately open manner, and the yarning participants can then        including their body language (Shahid et al. 2009), for example
+take that topic and respond as they see ﬁt, rather than feeling that   by adopting an open posture that is attentive and non-
+they are being interviewed or formally questioned’ (Fletcher et al.    confrontational.
+2011, p. 93). Yarning approaches have been used in health care,            Although the primary purpose of the social yarn is to establish
+largely for therapy or counselling and psychosocial support of         trust and a relationship with the patient, the social yarn also
+Aboriginal clients (Towney 2005; Vicary and Bishop 2005;               allows the practitioner to understand a health issue within the
+Bacon 2013).                                                           context of the patient’s life story. Importantly the social yarn sets
+    Lin et al. (2014) reported that Aboriginal patients prefer         the tone for the consultation by being patient-led, valuing the
+yarning styles of communication, involving a two-way dialogue          patient as expert and making it clear that the practitioner is
+and careful listening, shared treatment decision-making,               interested in the person as a whole and values their story and life
+clinicians taking an interest in the patient as a whole, having        knowledge. Power is thereby shared between practitioner and
+sufﬁcient time, and sharing information of a non-clinical nature.      patient.
+Additionally, evidence suggests that yarning approaches result
+in a more critical and accurate portrayal of Aboriginal people’s       Diagnostic yarn
+perspectives than a closed style of questioning (Tidemann              To determine a diagnosis, practitioners traditionally elicit
+et al. 1996). Therefore if practitioners can incorporate               information from the patient through a structured series of
+yarning into their communication there is the potential to             questions, a style that could be construed as confrontational and
+improve care.                                                          impolite by Aboriginal people (Trudgen 2000; Cass et al. 2002).
+Clinical yarning in Aboriginal health care                                                                  Australian Journal of Primary Health   379
+
+
+
+
+                        Box 1. Barriers to interpersonal communication between health practitioners and Aboriginal patients
+
+   *
+       Practitioner-centred communication style (e.g. question and answer; Cass et al. 2002)
+   *
+       Medical jargon use (Artuso et al. 2013; Lin et al. 2014)
+   *
+       Incongruities between Aboriginal and Western or biomedical perspectives of health (Artuso et al. 2013)
+   *
+       Lack or absence of communication (Anderson et al. 2008; Lin et al. 2014)
+   *
+       Information not evidence-based or not plausible based on the patient’s previous experience (Lin et al. 2014)
+   *
+       Mistrust of health care services (Shahid et al. 2009)
+   *
+       Language issues or lack of use of interpreters (Cass et al. 2002)
+   *
+       Perceived racism (Artuso et al. 2013)
+
+
+
+
+                                                                Social yarn
+                                                                   Show an interest in
+                                                                   patient (holistic)
+                                                                   Develop relationship
+                                                                   Find common ground or
+                                                                   connection
+                                                                   Have two-way
+                                                                   exchange – sharing of
+                                                                   life experiences
+
+
+
+
+                                                                      Keys to clinical
+                                                                         yarning
+                                                                       Culturally secure
+                          Management yarn                               Patient-centred
+                             Provide direct, ‘straight-                 Active listening              Diagnostic yarn
+                             up’ health information                                                      Hear patient’s ‘health
+                                                                        Build a trusting
+                             Use stories and metaphors                                                    story’
+                             to explain health                           relationship
+                                                                                                         Use open-ended style
+                             condition and build                                                         Allow silences
+                             motivation                                                                  Interpret story through
+                             Develop shared or agreed                                                    biomedical lens
+                             plan for care
+
+
+
+
+                                                          Fig. 1. Key elements of clinical yarning.
+
+
+
+In contrast during a diagnostic yarn the health practitioner                     and disease and directing the yarn towards the information needed
+directs conversation towards a descriptive telling of the patient’s              to understand and diagnose a patient’s condition.
+story in relation to their health. A diagnostic yarn is open-
+ended, ﬂowing and story-based, like a comfortable conversation.
+Techniques include open-ended questioning and non-                               Management yarn
+judgemental listening. Allowing conversational silences is                       Patient participation in health care increases when patients are
+recommended and allows the patient time to think and consider                    more knowledgeable about their health condition (Hill 2011).
+their story (Trudgen 2000; Shahid et al. 2009; Box 2). Although                  A collaborative management yarn involves the practitioner
+patient-led, the diagnostic yarn is a two-way dialogue. It can be                getting to know what the patient understands about their health
+thought of as a balancing act, where the practitioner allows the                 concern and an honest discussion with the patient, and their family
+yarn and patient’s health story to unfold while simultaneously                   if they are present, about their condition, followed by an agreed
+interpreting the conversation through a biomedical lens of health                upon management plan. Areas related to health that the patient
+380      Australian Journal of Primary Health                                                                                                              I. Lin et al.
+
+
+
+
+                                                   Box 2. Examples of yarning in the clinical consultation
+
+   A. Social yarn (example from practice)
+        Clinician: Come in Mrs L. Now, I was reading in your notes that you moved down here from Clearwater Bay. Seems everyone I speak to from there
+                   just loves it up there.
+          Mrs L: Yes! I love it at home. I miss it living down here.
+       Clinician: They say the ﬁshing is pretty good up there?
+           Mrs L: Yes, ﬁshing and squidding off the jetty. We take the grannies squidding, they love it. We all go back whenever anyone comes back for
+                   a visit, big mob of us meet up there. We were just up there 2 weeks ago. All my brothers and sisters and the grannies together.
+       Clinician: I’ve never been up there. We’ve been meaning to go up for a visit for years. My kids would love that.
+           Mrs L: It’s great for the kids, you should go! I miss it, can’t wait for the next trip. In fact I think all my problems started after I left there 4 or
+                   5 years ago.
+       Clinician: Oh, can you tell me about that? [Moves onto clinical yarn]
+
+   B. Clinical yarn (example from a student education program)
+      During a cross-cultural communication workshop facilitated by author C. Green, a medical student was interviewing Mr F about his health. Mr F was an
+        Aboriginal elder and participated in the program as a ‘community teacher’, he had multiple long-term health conditions (diabetes, cardiovascular
+        disease, previous cerebrovascular accident).
+      Initially the student adopted a biomedical interviewing style and asked Mr F ‘Do you drink alcohol?’ To which Mr F replied, ‘No, not much. No, just
+        a few with my mate.’
+      Facilitated by C. Green, this was introduced to the student as an entry point for a yarn. The student began a clinical yarn exploring further with Mr F the
+        social context when he saw his friend, ‘Tell us a bit more about when you have a drink with your mate.’
+      Mr F yarned about how he would visit his friend, sit down in his back garden and socialise, which was an important way for him to de-stress. Here they
+        would have a few drinks. As the clinical yarn evolved Mr F disclosed how when he sat with his friend they would each drink a bottle of wine or more as
+        they caught up. The clinical yarn, which was in the context of managing his long-term health conditions, gave Mr F the option to disclose more
+        information without fear of being judged. After this disclosure Mr F reﬂected on how the amount he was drinking was not good for his health. This led
+        on to a management yarn about the effects of alcohol on his diabetes.
+
+   C. Management yarn
+      i. Example from Trudgen (2000), p. 133
+         So I told him about scabies. Drawing pictures as I went, I showed him the life cycle of the parasite. I started with what he already knew. ‘How do
+            turtles lay their eggs?’ I asked.
+         ‘In a hole the turtle has made in the sand, a big mob all at one time.’
+         ‘And how does a bird lay its eggs?’
+         ‘One a day until there’s a handful or two.’
+         I then told him that one scabies female has lots and lots of eggs, which it lays in a hole it burrows under a person’s skin, two or three each day. It takes
+            the young scabies a few days to hatch and come out of the burrows – maybe 3 to 5 days. I explained that the ‘medicine’ cream was a poison to these
+            scabies, but it might not kill off all the eggs that are down the burrows in the skin.
+         As soon as I had said this, the old man responded. ‘I can see it now. I have to wait for the eggs to hatch before I put the next lot of cream on.’
+
+      ii. Example from clinical practice (explanation of a heart attack) (T. Dowling, pers. comm., 29 December 2015)
+          The heart has three major blood supplies. The main blood supply down the front of the heart is like the freeway; in the hospital we call it the LAD
+            [left anterior descending coronary artery].
+          The cars driving along the freeway are like the blood ﬂowing to your heart.
+          Imagine 5 o’clock on the freeway: the lanes are congested but the cars are moving slowly. No one is broken down. Everyone gets home but there are
+            delays and frustration. This is like the blood ﬂow in your heart when you have chest pain or angina. The blood ﬂow slows but there is no damage to
+            the heart muscle.
+          Now imagine 1 o’clock in the afternoon and a semitrailer drops its load across all lanes of the freeway. The freeway is blocked. It doesn’t matter who’s
+            on the freeway, no cars are going anywhere. This is what happens when you have a clot that is blocking the blood vessels to your heart. The blood is
+            not going to get through. This is what we call a heart attack and results in muscle damage.
+
+   D. Closing a yarn (example from practice)
+      Doctor: Thanks for coming in today Mrs D. It was good to talk about what you can do to look after your diabetes. Better get the kids onto their
+              skateboards!
+      Mrs D: Yeah, I didn’t think about taking the kids downtown on their skateboards and going for a walk. I’ll come along to the exercise program in here
+              you were talking about as well when the kids are at school.
+      Doctor: That sounds great. Can you come again in 2 weeks so we can talk about how you’re going then?
+      Mrs D: Yeah that would be good.
+
+
+
+does not understand or where there are misperceptions are                                Stories and metaphors are an important method used to
+clariﬁed, medical information is translated into clear, meaningful                    explain health information in a way that relates to the patient’s life
+terms and free of jargon.                                                             experience (see Box 2). Diagrams, sketches, anatomical models
+Clinical yarning in Aboriginal health care                                                          Australian Journal of Primary Health             381
+
+
+
+of the body, printed information or culturally appropriate audio-         new patient-centred communication skills but reduce once they
+visual resources can be used to reinforce verbal information.             are proﬁcient (Kurtz 2002). Gaining proﬁciency in clinical
+The management yarn is individual and patient-led and so                  yarning may require training that includes knowledge and a
+practitioners must be ﬂexible and have the ability to adapt their         theoretical rationale, skills practice, and reﬂection and feedback
+communication style according to the patient’s knowledge, health          processes (Dwamena et al. 2012), similar to techniques we have
+literacy, language, life experiences and preferred learning style.        used previously in student education (see Box 2). A yarning style
+The management yarn encourages patient understanding and                  of consultation takes less time once a relationship has developed
+ownership by using a motivational style that considers the                (e.g. following a social yarn) or when the practitioner and patient
+patient’s life context, goals and values (Rubak et al. 2005). Health      are familiar to each other. Hence clinical yarning is facilitated
+information is presented in a manner that is sensitive to a patient’s     more readily when there is continuity of care.
+needs, but is also honest, clear and to the point (Lin et al. 2014). In       Knowing when a clinical yarn has gone ‘off track’ and having
+general lecturing to the patient is to be avoided, however                the conﬁdence to bring it back on track, especially when a yarn
+practitioners must employ their judgement if they feel the patient        that seems tangential may lead circuitously to important health
+prefers a direct, ‘no-nonsense’ explanation. A good outcome of            information, are important skills. Practitioners need to recognise
+a management yarn is an agreed upon plan that is meaningful to            when a yarn is off-track and intervene and close a yarn sensitively.
+practitioner and patient.                                                 Closing a yarn and a consultation is more validating for patients
+                                                                          when the practitioner shows interest in them as a person,
+Clinical yarning and patient-centred communication                        reemphasises parts of their story that are important to their health,
+                                                                          including their management plan, and making it clear that
+Like other patient-centred communication frameworks (Kurtz
+                                                                          continuing the yarn and a relationship with them is important
+2002) clinical yarning emphasises a strong therapeutic alliance
+                                                                          (Kurtz 2002; Box 2).
+between practitioner and patient, it takes a holistic perspective,
+                                                                              Working with Aboriginal interpreters or liaison ofﬁcers can
+and aims to understand a health condition from the patient’s
+                                                                          help to overcome language and cultural barriers between
+worldview. A unique aspect of clinical yarning is the emphasis on
+                                                                          practitioners and Aboriginal patients (Cass et al. 2002). Ensuring
+the social yarn as a means to establish a relationship, build trust,
+                                                                          practitioners and interpreters are familiar and comfortable with
+and to begin to understand a patient’s story. The social yarn
+                                                                          clinical yarning is integral to the process. This may involve the
+demonstrates to the patient that the practitioner is interested in
+                                                                          interpreter and practitioner working together to help the patient
+them and assists both to know and understand where the other is
+                                                                          understand what is being said and enable them to ask questions of
+coming from.
+                                                                          the practitioner through the interpreter. In situations where an
+    Clinical yarning and other patient-centred communication
+                                                                          interpreter or a liaison ofﬁcer is not available, yarning with family
+frameworks encourage exploration of a patient’s problem via
+                                                                          members who could be present if the patient gives consent may
+their narrative or story (Silverman et al. 2005). Attentive listening
+                                                                          also be helpful. We also recommend that the practitioner conﬁrm
+by practitioners to the patient’s story improves the quality of care
+                                                                          with the patient that they understand what is being said, especially
+by encouraging empathy, engendering greater emotional
+                                                                          if they suspect that the communication is not going so well.
+engagement and allowing a more thorough understanding of
+                                                                          Acknowledging one’s own personal language limitations to the
+illness within the patient’s context (Greenhalgh 1999). In clinical
+                                                                          patient and giving the patient permission, via a clinical yarning
+yarning, stories and metaphors are also used by practitioners as a
+                                                                          approach, to say when they do not understand what is being said
+tool to explain health information. This approach aligns with
+                                                                          may also empower the patient to be involved in their health
+Aboriginal cultural traditions in which storying is the way in
+                                                                          consultation.
+which information is exchanged (Nakata 2010).
+    Metaphors can be used to explain health information in a way
+that is meaningful and the patient is more likely to recall details,      Summary
+for example when health information is likened to something               Communication between Aboriginal patients and health
+within someone’s life experience (Box 2). This is consistent with         practitioners can be improved by reframing clinical consultations
+evidence that stories and metaphors can be successfully used to           as a clinical yarn. Clinical yarning has social, diagnostic and
+improve health knowledge and behaviours in a variety of                   management elements. This approach has the potential to
+situations, including chronic diseases, hypertension, and chronic         improve relationships and outcomes for Aboriginal patients and
+pain (Hunter et al. 2007; Houston et al. 2011; Gallagher et al.           practitioners.
+2013). It is theorised that metaphors improve understanding
+because they elicit an emotional response, thus activating areas of       Conﬂicts of interest
+the cerebral cortex also associated with memory, learning and
+                                                                          The authors declare that they have no conﬂicts of interest.
+imaginative functions (Gallagher et al. 2013).
+                                                                          Acknowledgements
+Challenges to clinical yarning
+                                                                          We gratefully acknowledge Ted Dowling and Lyn Dimer for sharing their
+Time constraints during medical consultations are a potential             examples of management yarning. We acknowledge Michael Alpers, Sandy
+barrier to clinical yarning and must be balanced against the quality      Thompson, Peter O’Sullivan and Donna Mak for constructive feedback in
+of the information that is not elicited using a traditional               earlier drafts of the manuscript. I. Lin was supported by an Australian National
+consultation style. Evidence suggests that the consultation time          Health and Medical Research Council Translating Research into Practice
+requirements are initially higher when practitioners are learning         Fellowship (APP1035152).
+382       Australian Journal of Primary Health                                                                                                     I. Lin et al.
+
+
+
+References                                                                           (2011) Culturally appropriate storytelling to improve blood pressure: a
+                                                                                     randomized trial. Annals of Internal Medicine 154, 77–84. doi:10.7326/
+Aboriginal and Torres Strait Islander Cultural Capability Team (2014)
+                                                                                     0003-4819-154-2-201101180-00004
+    Aboriginal and Torres Strait Islander patient care guidelines. (Queensland
+                                                                                 Hunter E, Travers H, Gibson J, Campion J (2007) Bridging the triple divide:
+    Health: Brisbane)
+                                                                                     performance and innovative multimedia in the service of behavioural
+Anderson K, Devitt J, Cunningham J, Preece C, Cass A (2008) ‘All they said
+                                                                                     health change in remote Indigenous settings. Australasian Psychiatry 15,
+    was my kidneys were dead’: Indigenous Australian patients’
+                                                                                     S44–S48. doi:10.1080/10398560701701197
+    understanding of their chronic kidney disease. The Medical Journal
+                                                                                 Kurtz SM (2002) Doctor–patient communication: principles and practices.
+    of Australia 189, 499–503.
+                                                                                     The Canadian Journal of Neurological Sciences 29, S23–S29.
+Artuso S, Cargo M, Brown A, Daniel M (2013) Factors inﬂuencing health
+                                                                                     doi:10.1017/S0317167100001906
+    care utilisation among Aboriginal cardiac patients in central Australia:
+                                                                                 Lin I, O’Sullivan P, Cofﬁn J, Mak D, Toussaint S, Straker L (2014) ‘I can sit
+    a qualitative study. BMC Health Services Research 13, 83. doi:10.1186/
+                                                                                     and talk to her’: Aboriginal people, chronic low back pain and healthcare
+    1472-6963-13-83
+                                                                                     practitioner communication. Australian Family Physician 43, 320–324.
+Bacon V (2013) Yarning and listening: yarning and learning through stories.
+                                                                                 Nakata M (2010) The cultural interface of Islander and scientiﬁc knowledge.
+    In ‘Our Voices, Aboriginal and Torres Strait Islander Social Work’. (Eds B
+                                                                                     The Australian Journal of Indigenous Education 39, 53–57.
+    Bennet, S Green, S Gilbert, D Bessarab) pp. 136–165. (Palgrave
+                                                                                 Rubak S, Sandbæk A, Lauritzen T, Christensen B (2005) Motivational
+    Macmillan: Melbourne)
+                                                                                     interviewing: a systematic review and meta-analysis. The British Journal
+Bessarab D, Ng’andu B (2010) Yarning about yarning as a legitimate method
+                                                                                     of General Practice 55, 305–312.
+    in indigenous research. International Journal of Critical Indigenous
+                                                                                 Shahid S, Finn LD, Thompson SC (2009) Barriers to participation of
+    Studies 3, 37–50.
+                                                                                     Aboriginal people in cancer care: communication in the hospital setting.
+Cass A, Lowell A, Christie M, Snelling PL, Flack M, Marrnganyin B, Brown I
+                                                                                     The Medical Journal of Australia 190, 574–579.
+    (2002) Sharing the true stories: improving communication between
+                                                                                 Silverman J, Kurtz SM, Draper J (2005) ‘Skills for Communicating with
+    Aboriginal patients and healthcare workers. The Medical Journal of
+                                                                                     Patients.’ (Radcliffe: Oxford, UK)
+    Australia 176, 466–470.
+                                                                                 Tidemann SC, Bohme J, Burnett R, Camphoo J, Cook H, Daniels L, Dixon B,
+Dwamena F, Holmes-Rovner M, Gaulden CM, Jorgenson S, Sadigh G,
+                                                                                     Dixon F, Fernando D, Heffernan K, Huddleston B, Huddleston V, Law M,
+    Sikorskii A, Lewin S, Smith RC, Coffey J, Olomu A (2012) Interventions
+                                                                                     Lee M, Marika K, Mayanini B, Maxted G, Mununggur M,
+    for providers to promote a patient-centred approach in clinical
+                                                                                     Muthamuluwuy L, Tidemann K, Yikaniwuy S (1996) Aboriginal patient
+    consultations. Cochrane Database of Systematic Reviews 12, CD003267.
+                                                                                     survey tools and processes: survey of Aboriginal people’s stay in hospital.
+Fletcher G, Fredericks B, Adams K, Finlay S, Andy S, Briggs L, Hall R (2011)
+                                                                                     Batchelor College, Batchelor, NT, Australia.
+    Having a yarn about smoking: using action research to develop a ‘no
+                                                                                 Towney LM (2005) The power of healing in the yarns: working with
+    smoking’ policy within an Aboriginal health organisation. Health Policy
+                                                                                     Aboriginal men. International Journal of Narrative Therapy &
+    103, 92–97. doi:10.1016/j.healthpol.2011.06.014
+                                                                                     Community Work 2005, 39–43.
+Gallagher L, McAuley J, Moseley GL (2013) A randomized-controlled trial of
+                                                                                 Trudgen R (2000) ‘Why Warriors Lie Down and Die.’ (Aboriginal Resource
+    using a book of metaphors to reconceptualize pain and decrease
+                                                                                     and Development Services Inc.: Adelaide)
+    catastrophizing in people with chronic pain. The Clinical Journal of Pain
+                                                                                 Vicary D, Bishop B (2005) Western psychotherapeutic practice: engaging
+    29, 20–25. doi:10.1097/AJP.0b013e3182465cf7
+                                                                                     Aboriginal people in culturally appropriate and respectful ways.
+Greenhalgh T (1999) Narrative based medicine in an evidence-based world.
+                                                                                     Australian Psychologist 40, 8–19. doi:10.1080/00050060512331317210
+    British Medical Journal 318, 323–325. doi:10.1136/bmj.318.7179.323
+                                                                                 Walker M, Fredericks B, Mills K, Anderson D (2014) ‘Yarning’ as a method
+Hill S (Ed.) (2011) ‘The Knowledgeable Patient: Communication and
+                                                                                     for community-based health research with Indigenous women: the
+    Participation in Heath. A Cochrane Handbook.’ (Wiley-Blackwell & The
+                                                                                     Indigenous women’s wellness research program. Health Care for Women
+    Cochrane Collaboration: Chichester, UK)
+                                                                                     International 35, 1216–1226. doi:10.1080/07399332.2013.815754
+Houston TK, Allison JJ, Sussman M, Horn W, Holt CL, Trobaugh J, Salas M,
+    Pisu M, Cuffee YL, Larkin D, Person SD, Barton B, Kiefe CI, Hullett S
+
+
+
+
+                                                              www.publish.csiro.au/journals/py
+Reproduced with permission of the copyright owner. Further reproduction prohibited without
+permission.
+

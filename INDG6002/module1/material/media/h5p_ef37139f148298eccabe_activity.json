@@ -1,0 +1,30 @@
+{
+  "source": "https://scu.h5p.com/content/1291511383686375009",
+  "assetBase": "h5p_ef37139f148298eccabe_assets/",
+  "contents": [
+    {
+      "title": "indg6002_m1_references",
+      "library": "H5P.Accordion 1.0",
+      "params": {
+        "panels": [
+          {
+            "content": {
+              "params": {
+                "text": "<p>Bessarab D, Ng’andu B. (2010). Yarning about yarning as a legitimate method in Indigenous research. <em>International Journal of Critical Indigenous Studies</em>,&nbsp; 3(1): 37-50.</p>\n\n<p>Fleming, T., Creedy, D. K., &amp; West, R. (2020). The influence of yarning circles: A cultural safety professional development program for midwives. <em>Women and Birth</em>, <em>33</em>(2), 175-185. doi:https://doi.org/10.1016/j.wombi.2019.03.016</p>\n\n<p>Gee, G., Dudgeon, P., Schultz, C., Hart, A., &amp; Kelly, K. (2014) Aboriginal and Torres Strait Islander social and emotional wellbeing,&nbsp; in Dudgeon, P., Milroy, H., &amp; Walker, R. (Eds.). <em>Working Together: Aboriginal and Torres Strait Islander Mental Health and Wellbeing Principles and Practice</em> (2nd ed.). Canberra: Commonwealth of Australia.</p>\n\n<p>National Aboriginal Health Strategy Working Party. (1989). <em>National Aboriginal Health Strategy</em>. Canberra.</p>\n\n<p>Social Health Reference Group. (2004) In: <em>National Strategic Framework for Aboriginal and Torres Straits Islander People’s Mental Health and Social and Emotional Well Being 2004-09</em>. National Aboriginal and Torres Straits Islander Health Council and National Mental Health Working Group. Canberra: Department of Health and Ageing.</p>\n\n<p>Swan, P., &amp; Raphael, B. (1995). <em>Ways Forward: National Aboriginal and Torres Strait Islander Mental Health Policy National Consultancy Report</em>. Retrieved from Canberra: <a href=\"http://library.bsl.org.au/jspui/bitstream/123456789/353/1/Ways%20forward_vol.1%20%26%202%20_1995.pdf\" target=\"_blank\">http://library.bsl.org.au/jspui/bitstream/123456789/353/1/Ways%20forward_vol.1%20%26%202%20_1995.pdf</a></p>\n\n<p>Terare, M., &amp; Rawsthorne, M. (2019). Country Is Yarning to Me: Worldview, Health and Well-Being Amongst Australian First Nations People. <em>The British Journal Of Social Work</em>, <em>50</em>(3). doi:10.1093/bjsw/bcz072</p>\n\n<p>Ungunmerr, M. R. (2020). <em>About Dadirri: Miriam Rose Foundation</em>. Retrieved from <a href=\"https://www.miriamrosefoundation.org.au/about-dadirri\" target=\"_blank\">https://www.miriamrosefoundation.org.au/about-dadirri</a></p>\n\n<p>World Health Organization. (1978). <em>Declaration of Alma-Ata on Primary Health Care</em>. Paper presented at the International Conference on Primary Health Care, Alma-Ata, USSR.</p>\n\n<p>World Health Organization (WHO). (n.d.). <em>Constitution</em>, retrieved from: <a href=\"https://www.who.int/about/governance/constitution\" target=\"_blank\">https://www.who.int/about/governance/constitution</a></p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "2f29edc1-70d4-4144-8eb9-a19a1e56c5ea",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "References"
+          }
+        ],
+        "hTag": "h2"
+      }
+    }
+  ]
+}

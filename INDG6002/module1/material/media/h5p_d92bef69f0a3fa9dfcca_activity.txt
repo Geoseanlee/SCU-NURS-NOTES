@@ -1,0 +1,42 @@
+Source: https://scu.h5p.com/content/1291511466493947719
+Type: activity text extraction (full data in JSON)
+
+false
+
+Finish ?
+
+Retry ?
+
+SEWB emerged following the WHO’s Ottawa Charter for Health Promotion in 1986.
+
+Question 1
+
+SEWB recognises Aboriginal cultural weaknesses.
+
+Question 2
+
+true
+
+SEWB is based on a collectivist concept of family, as opposed to the western individualistic concept of family.
+
+Question 3
+
+The groundwork for SEWB began in 1989 with the National Aboriginal Health Strategy.
+
+Question 4
+
+Language and Lore are key aspects of culture in the SEWB framework.
+
+Question 5
+
+The term SEWB did not exist before the emergence of this framework in Australia.
+
+Question 6
+
+SEWB encompasses mental, physical, cultural and spiritual health.
+
+Question 7
+
+Concepts of SEWB are diverse and vary across the 250 Indigenous Nations that comprise Indigenous Australia.
+
+Question 8

@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291533129164290609
+Type: activity text extraction (full data in JSON)
+
+false
+
+Finish ?
+
+Retry ?
+
+Kevin Rudd was the second Prime Minister to apologise for past racist policies of Australian governments aimed at Indigenous Australians.
+
+Question 1
+
+true
+
+PM Rudd apologised for: ‘the hurt, the pain and the suffering that we the parliament have caused you by the laws that previous parliaments have enacted’.
+
+Question 2
+
+The single word that Shelley Reys (Reconcilliation Australia), used to describe the atmosphere on that day was ‘uniting’.
+
+Question 3

@@ -1,0 +1,1810 @@
+Cultural safety in health care for Indigenous Australians: monitoring
+framework
+Web report | Last updated: 07 Jul 2023 | Topic: First Nations people
+
+
+About
+The Cultural safety in health care for Indigenous Australians: monitoring framework brings together available data to assess progress in
+achieving cultural safety in the health system for Indigenous Australians. The framework includes measures on culturally respectful
+health care services; Indigenous patient experiences of health care; and access to health care services. The data are presented at the
+national, state and regional levels.
+Cat. no: IHW 222
+   Monitoring framework
+   Data
+  Findings from this report:
+    From 2013 to 2021, the number of Indigenous Australian medical practitioners increased from 247 to 604
+
+    From 2001 to 2021, enrolments by Indigenous Australian students in health-related courses rose from 931 to 4,227
+
+    In 2021–22, 50% of Indigenous patients waited 50 days to be admitted for elective surgery (39 days for non-Indigenous)
+
+    In 2019–21, Indigenous Australians left against medical advice for 4.0% of admitted-patient hospitalisations
+
+© Australian Institute of Health and Welfare 2025
+Summary
+Summary and key findings
+Improving cultural safety for Aboriginal and Torres Strait Islander health care users can improve access to, and the quality of health
+care. This means a health system that respects Indigenous cultural values, strengths and differences, and also addresses racism and
+inequity.
+The Cultural safety in health care for Indigenous Australians: monitoring framework aims to measure progress in achieving cultural safety
+in the Australian health system. For this purpose, cultural safety is defined with reference to the experiences of Indigenous health care
+users, of the care they are given, their ability to access services and to raise concerns.
+The cultural safety monitoring framework covers three modules:
+
+  Module 1: Cultural respectful health care services
+  How health care services are provided
+
+
+
+  Module 2: Patient experience of health care
+  Indigenous patients’ experience of health care
+
+
+
+  Module 3: Access to health care services
+  Selected measures regarding access to health care
+
+
+Data are reported from a wide range of available national and state and territory level sources to provide a picture of cultural safety,
+though there are significant data gaps. Sources include both national administrative data collections and surveys of Indigenous health
+care users.
+For the 2023 release, 26 measures out of 48 were updated. New data for the other 22 measures were not available. This was due to
+discontinued surveys or data items, revisions to survey questions or frequency of data collection. Further detail about measures that
+could not be updated is available in the relevant modules and in the Technical notes.
+
+Module 1: Culturally respectful health care services
+ New data were available to update 5 out of 12 measures reported in Module 1 in the 2023 release.
+
+Cultural respect is achieved when the health system is a safe environment for Indigenous Australians, and where cultural differences
+are respected. This module reports on how health care is provided, and whether cultural respect is reflected in structures, policies and
+programs.
+Between 2013 and 2021:
+   the number of Indigenous medical practitioners registered in Australia increased from 247 to 604 (from 31 to 69 per 100,000)
+   the number of Indigenous nurses and midwives registered in Australia increased from 2,833 to 6,160 (324 to 701 per 100,000).
+Among Indigenous-specific primary health care organisations and maternal/child health services:
+   46% of full-time equivalent (FTE) health staff in 2021–22 were Indigenous (2,305 FTE) – this proportion varied by type of health staff,
+   with higher proportions for Aboriginal Health Practitioners/Aboriginal Health Workers (960 FTE, 99.5%) and other health workers
+   (1,114 FTE, 52%) and lower proportions for GPs (42 FTE, 6.1%) and nurses and midwives (189 FTE, 15%)
+   40% provided interpreter services, while around one third offered culturally appropriate services such as bush tucker, bush
+   medicine and traditional healing in 2017–18.
+
+Module 2: Patient experience of health care
+ New data were available to update 9 out of 23 measures reported in Module 2 in the 2023 release.
+The experiences of Aboriginal and Torres Strait Islander health care users, including having their cultural identity respected, is critical
+for assessing cultural safety. Aspects of cultural safety include good communication, respectful treatment, empowerment in decision
+making and the inclusion of family members.
+   In 2018–19, 91% of Indigenous Australians aged 15 and over in non-remote areas reported that doctors always/often showed
+   respect for what was said.
+   In 2018–19, of the 243,663 Indigenous Australians who did not access health services when they needed to, 32% indicated this was
+   due to cultural reasons, such as language problems, discrimination and cultural appropriateness.
+   The Australian Reconciliation Barometer showed that the proportion of Indigenous Australians reporting racial discrimination by
+   doctors, nurses and/or medical staff in the last 12 months has increased since 2014 (11% in 2014 to 20% in 2022).
+The differences in rates of Indigenous and non-Indigenous hospital patients who choose to leave prior to commencing or completing
+treatment are frequently used as indirect measures of cultural safety. Indigenous Australians left against medical advice for 4.0%
+(26,985) of admitted-patient hospitalisations from 2019–20 to 2020–21. This was over 5 times the proportion of non-Indigenous
+Australians (3.8% and 0.7%, age-standardised, respectively).
+
+Module 3: Access to health care services
+ New data were available to update 12 out of 13 measures reported in Module 3 in the 2023 release.
+
+Aboriginal and Torres Strait Islander people do not always have the same level of access to health services as non-Indigenous
+Australians. Disparities in use of health services may indicate problems with access to health services, such as:
+   availability and distance travelled, especially in remote and very remote areas
+   affordability
+   cultural appropriateness
+   previous experiences of racism in health care environments for themselves, family or community members.
+Selected measures of access to health care services for Indigenous and non-Indigenous Australians are used to monitor disparities in
+access.
+   Mammogram participation rates for Indigenous Australian women increased between 2010–2011 and 2018–2019. Rates decreased
+   in 2019–2020, during the COVID-19 pandemic.
+   In 2020–21, the rate of potentially preventable hospitalisations for Indigenous Australians was almost 3 times the rate for non-
+   Indigenous Australians (66 compared with 23 per 1,000, based on age-standardised rates).
+   In 2021–22, the median waiting time for emergency department presentations was similar for Indigenous Australians than for
+   other Australians (19 and 20 minutes, respectively).
+   Indigenous Australians waited longer to be admitted for elective surgery in 2021–22 than non-Indigenous Australians – 50% of
+   Indigenous patients were admitted for elective surgery within 50 days, compared with 39 days for non-Indigenous patients.
+   In 2021, of 6,749 registered cases of rheumatic heart disease, 78% were Indigenous Australians compared with 22% non-
+   Indigenous Australians.
+   In 2021, the avoidable mortality rate for Indigenous Australians was 208 per 100,000. The age-standardised rate for Indigenous
+   Australians was over 3 times that for non-Indigenous Australians (296 and 91 per 100,000 respectively).
+
+Data gaps
+Monitoring cultural safety and cultural respect in the health system, and the impact it has on access to appropriate health care, are
+limited by a lack of national and state level data. This is particularly the case in relation to reporting on the policies and practices of
+mainstream health services, such as primary health care services and hospitals.
+There are limited data on the experiences of Indigenous health care users. Most jurisdictions undertake surveys about patients’
+experiences in public hospitals, but there is not a lot of available data on Indigenous patient experience. A high proportion of
+Indigenous Australians use mainstream health services, so further data developments in this area are required to allow for more
+comprehensive reporting across the health sector.
+Additionally, the ABS Indigenous health and social surveys, for example, the National Aboriginal and Torres Strait Islander Health
+Survey (NATSIHS) 2018–19 and the National Aboriginal and Torres Strait Islander Social Survey (NATSISS) 2014–15, are national surveys
+to collect cultural safety information/ patient experience. Both surveys contain questions relevant to patient experience and cultural
+safety. However, the infrequent data collection (around 5–6 years or more) do not allow for the timely update of data for the
+monitoring framework.
+The current monitoring framework focuses on the experience on the patient in the health care system. However, the experience of
+health care professionals and the cultural safety for Indigenous Australians in the health workforce are important aspects of a system
+free from racism.
+This report brings together data from a wide range of sources. All the data presented in this monitoring framework are available in
+Excel format under Data. The Excel tables also include all relevant footnotes, technical details and individual data sources.
+
+Impacts of COVID-19 on data
+Since the beginning of the COVID-19 pandemic, protecting the health, safety and wellbeing of Indigenous Australians has been a key
+national priority. However, there has been ongoing recognition that the changes to the health system and the restrictions and
+lockdowns necessary to prevent the spread of COVID-19 may have affected the need for, and use of, a broad range of health services
+by Indigenous Australians. This update presents data, where available, spanning the COVID-19 pandemic in Australia.
+Specific impacts on the data are discussed in relation to relevant measures however, the full impact of COVID-19 may become
+apparent in the data for other measures in future years.
+Impacts of COVID-19 on data used in this report are also explored in the AIHW reports:
+   Impacts of COVID-19 on data – Tracking progress against the Implementation Plan goals for the Aboriginal and Torres Strait Islander
+   Health Plan 2013–2023
+   Impacts of COVID-19 on Medicare Benefits Scheme and Pharmaceutical Benefits Scheme: quarterly data
+   The first year of COVID-19 in Australia: direct and indirect health effects
+   Antenatal care during COVID–19, 2020
+   Cancer screening and COVID-19 in Australia: What was the impact of COVID-19 in Australia?
+   Australia's hospitals at a glance: Impact of COVID–19 on hospital care
+   Emergency department care activity
+   Admitted patient activity.
+For data and information that relate to COVID-19, please see the AIHW’s COVID-19 resources.
+
+
+Summary and key findings
+Resource
+Cultural safety in health care for Indigenous Australians: monitoring framework
+PDF 176kB
+
+
+© Australian Institute of Health and Welfare 2025
+Monitoring framework
+The Cultural safety in health care for Indigenous Australians: monitoring framework is structured around three modules: Module 1 –
+Culturally respectful health care services; Module 2 – Patient experience of health care; and Module 3 – Access to health care services.
+Each of the three modules contains a number of domains, focus areas and measures, with the following structure:
+
+ Module → domain → focus area → measure
+
+The three modules look at different dimensions of cultural safety – how health care is provided, experienced and accessed. The
+domains are topics within the modules; focus areas look at specific issues in the domains; and measures describe the data presented
+in the focus areas.
+The modules and their domains are set out below.
+Module 1: Culturally respectful health care services
+  Organisational approach and commitment
+  Communication and cultural services
+  Workforce development and training
+  Consumer engagement and stakeholder collaboration
+Module 2: Patient experience of health care
+  Communication
+  Treated respectfully
+  Unfair treatment and cultural barriers
+  Empowerment
+  Family inclusion
+  Leave events
+Module 3: Access to health care services
+   Preventive health services
+   Primary health care
+   Hospital services
+   Specialist services
+   Overall health system
+
+Origin and policy context
+The concept of cultural safety has been around for some time, with the notion originally defined and applied in the cultural context of
+New Zealand. It originated there in response to the harmful effects of colonisation and the ongoing legacy of colonisation on the
+health and healthcare of Maori people – in particular in mainstream health care services.
+
+ A commonly accepted definition of cultural safety from the Nursing Council of New Zealand (2005:7) is the ‘effective nursing
+ practice of a person or family from another culture, and is determined by that person or family. Unsafe cultural practice comprises
+ any action which diminishes, demeans or disempowers the cultural identity and wellbeing of an individual.’
+
+A distinctive feature of this definition of cultural safety is its emphasis on the provision of culturally safe health care services as defined
+by the end users of those services, notably, the Maori people of Aotearoa New Zealand, not by the [non-Maori] providers of care.
+The National Collaboration Centre for Indigenous Health in Canada (2013) notes that culturally safe health care systems and
+environments are established by a continuum of building blocks:
+
+ Cultural awareness ⟹ Cultural sensitivity ⟹ Cultural competency ⟹ Cultural safety
+
+The Centre states that cultural safety ‘…requires practitioners to be aware of their own cultural values, beliefs, attitudes and outlooks
+that consciously or unconsciously affect their behaviours. Certain behaviours can intentionally or unintentionally cause clients to feel
+accepted and safe, or rejected and unsafe. Additionally cultural safety is a systemic outcome that requires organizations to review and
+reflect on their own policies, procedures, and practices in order to remove barriers to appropriate care.’
+In Australia, there has been increasing recognition that improving cultural safety for Aboriginal and Torres Strait Islander health care
+users can improve access to, and the quality of health care. This means a health system where Indigenous cultural values, strengths
+and differences are respected; and racism and inequity are addressed.
+There are difficulties in both defining and measuring generalised concepts such as cultural respect and cultural safety. They include
+lack of conceptual clarity and agreement on terms, the qualitative nature of the concepts, and the diversity of Indigenous Australians
+and their perceptions. The Australian literature uses various definitions of cultural safety, and related concepts such as cultural respect
+and cultural competency, and what these mean in relation to the provision of health care.
+The National Aboriginal and Torres Strait Islander Health Plan 2021–2031 (DoH 2021:52) states:
+
+ Cultural safety is about how care is provided, rather than what care is provided. It requires practitioners to deliver safe, accessible
+ and responsive health care that is free of racism by:
+     recognising and responding to the power imbalance between practitioner and patient
+     reflecting on their knowledge, skills, attitudes, practising behaviours, and conscious and unconscious biases.
+
+For the purpose of developing a monitoring framework, cultural safety is defined with reference to the experience of the Indigenous
+health care consumer, of the care they are given, their ability to access services and to raise concerns. Some of the essential features
+of cultural safety include an understanding of one’s culture; an acknowledgment of difference, and a requirement that caregivers are
+actively mindful and respectful of this difference; and the ability to recognise, address and prevent racism. The presence or absence of
+cultural safety is determined by the experience of the recipient of care and is not defined by the caregiver (AHMAC 2016).
+Two important aspects of culturally safe health care across the literature are, how it is provided and how it is experienced, and these
+form the basis for the monitoring framework (see AHMAC 2016; CATSINAM 2014; AIDA 2021; DHHS 2016; NACCHO 2011; DoH 2015).
+
+ How health care is provided
+     behaviour, attitude and culture of providers: respects and understands Indigenous culture and people
+     defined with reference to the provision of care, including governance structures, policies and practices
+     providers' ability to recognise, address and prevent racism at the individual and organisational levels.
+ How health care is experienced by Indigenous people
+     feeling safe, connected to culture and cultural identity is respected
+     can only be defined by those who receive health care.
+
+The importance of cultural respect and cultural safety is outlined in Australian government documents, such as:
+   Cultural Respect Framework 2016–2026 for Aboriginal and Torres Strait Islander Health - external site opens in new window
+   National Aboriginal and Torres Strait Islander Health Plan 2021–2031 - external site opens in new window.
+   National Aboriginal and Torres Strait Islander Health Workforce Strategic Framework and Implementation Plan 2021-2031 - external site
+   opens in new window
+The health plan was developed in genuine partnership with Aboriginal and Torres Strait Islander people and reflects their key
+priorities. It recognises the influence of social factors and the strengths of culture as protective factors for physical, social and
+emotional wellbeing.
+The Australian Commission on Safety and Quality in Healthcare (ACSQHC) also included six Aboriginal and Torres Strait Islander
+specific actions in the    National Safety and Quality Health Service Standards - external site opens in new window to improve care for
+Aboriginal and Torres Strait Islander people in mainstream health services.
+Increasing representation of Aboriginal and Torres Strait Islander people in the health workforce is a key pathway to improving cultural
+safety in health care. This is the focus of both the Department of Health and Aged Care’s National Aboriginal and Torres Strait Islander
+Health Workforce Strategic Framework and Implementation Plan 2021-2031 and the Australian Health Practitioner Regulation Agency’s
+(Ahpra) National Scheme's Aboriginal and Torres Strait Islander Health and Cultural Safety Strategy 2020–2025 - external site opens in new
+window.
+Development of a monitoring framework
+The Cultural safety in health care for Indigenous Australians: monitoring framework aims to measure progress in achieving cultural safety
+in the Australian health system by bringing together data related to cultural safety. Specifically, to measure progress in achieving
+cultural safety in the health system under the Implementation Plan for the National Aboriginal and Torres Strait Islander Health Plan 2013–
+2023. The framework can also assist in measuring progress in achieving cultural safety under the Cultural Respect Framework which
+commits the Commonwealth Government, and states and territories, to embed cultural respect principles into their health systems;
+from developing policy and legislation, to how organisations are run, through to the planning and delivery of services.
+The release of the 2020–2031 National Agreement on Closing the Gap - external site opens in new window necessitated revisions to the
+National Aboriginal and Torres Strait Islander Health Plan 2013–2023 - external site opens in new window, in order for the Health Plan to
+be aligned with the objectives and timeframes of the National Agreement. Following the release of the National Aboriginal and Torres
+Strait Islander Health Plan 2021–2031 - external site opens in new window the Implementation Plan will be revised and a new
+accountability framework will be created.
+In consultation with key stakeholders, including the former National Aboriginal and Torres Strait Islander Health Standing Committee
+and the Implementation Plan Advisory Group, this monitoring framework was developed through a review of relevant policy
+documents, academic literature, and potential national and state level data sources.
+The framework has 3 reporting modules which each include a range of measures focussing on culturally respectful health care
+services, patient experience of health care among Indigenous Australians, and access to health care as an indirect measure of cultural
+safety.
+
+   Module 1: Culturally respectful                  Module 2: Patient experience of
+       health care services                                   health care
+
+
+  includes measures about how health care          includes measures about Indigenous
+  is delivered and whether systems and             Australians' experiences of health care
+  providers are aware of and responsive to         including communication, interpersonal
+  Indigenous Australians' cultural needs           treatment and empowerment, and is not
+  and experiences                                  defined by the caregiver
+
+  largely based on the Cultural Respect            based on a literature review and research
+  Framework for Aboriginal and Torres Strait       on different aspects of Indigenous
+  Islander Health                                  Australians' views on cultural safety
+
+
+
+
+  Module 3: Access to health care
+             services
+
+
+
+  includes broad measures of access to
+  health care services to monitor
+  disparities in access
+
+  relates to different levels of the health
+  system–preventive health services;
+  primary health care; hospital and
+  specialist services
+Reporting against the framework
+This monitoring framework brings together available national and state and territory level data to provide a picture of cultural safety in
+the health system. The scope of national and state and territory level data currently available are limited and further development is
+required to enable more comprehensive reporting. For more detail see information about data gaps in Module 1: Culturally respectful
+health care services, Module 2: Patient experience of health care, and Module 3: Access to health care services.
+Monitoring cultural safety and cultural respect in the health system, and the impact it has on access to appropriate health care, is
+limited by a lack of national and state level data. This is particularly the case in relation to reporting on the policies and practices of
+mainstream health services, such as primary health care services.
+There are also limited data on the experiences of Indigenous health care users. Most jurisdictions undertake patient experience
+surveys in public hospitals, but there is little data on Indigenous Australians for reporting. A high proportion of Indigenous Australians
+use mainstream health services, so further data developments in this area are required to allow for more comprehensive reporting
+across the health sector.
+As data developments occur and more comprehensive data become available, the cultural safety monitoring framework will be
+expanded and updated.
+
+Relevant data developments
+Data development for cultural safety measures is ongoing. There are also research and developments in measurement of areas
+related to cultural safety, such as wellbeing and quality of life.
+One such project is What Matters 2 Adults study, which aims to develop a new instrument to measure and value wellbeing dimensions
+that are important to Indigenous Australians (Howard et al. 2020). In 2021, the authors published findings from the qualitative
+component of the study, which involved 359 Aboriginal and Torres Strait Islander adults from around Australia. A thematic analysis
+identified 5 foundations of wellbeing: belonging and connection, holistic health, purpose and control, dignity and respect, and basic
+needs. These findings will inform the development of a new wellbeing measure (Garvey et al. 2021). This project is still underway.
+Another example is the Mayi Kuwayu study - external site opens in new window, a national longitudinal survey of Indigenous
+Australians aged 16 years and above. It began in 2018 and could provide relevant data on cultural safety in the future. This survey,
+which was created by and for Indigenous people, focusses on the importance of culture and how it affects wellbeing, and includes a
+module on discrimination and racism in health care. Initial results from the study and the validity of the instrument used to measure
+discrimination in health care experienced by Indigenous Australians are discussed in Thurber and others (2021). There have been a
+number of publications released by the Mayi Kuwayu team. Links to these publications appear in the relevant domains within the
+monitoring framework.
+Indigenous patients’ experiences of health care could be reported through Patient Reported Experience Measures (PREMs) and Patient
+Reported Outcome Measures (PROMs) surveys. The collection of patient-reported data through standardised PREMs and PROMs for
+Indigenous health care users’ needs to consider the cultural adaptability of these tools and development work is underway to address
+this at hospital and primary health care service level.
+The National Aboriginal and Torres Strait Islander Health Workforce Strategic Framework and Implementation Plan 2021-2031 includes the
+development of mechanisms to ensure that cultural safety training translates into improved experiences and outcomes for Aboriginal
+and Torres Strait Islander workers. The plan recognises that participation of Aboriginal and Torres Strait Islander peoples in the health
+workforce will promote culturally safe care and improve health outcomes for Aboriginal and Torres Strait Islander patients.
+
+
+References
+
+AHMAC (Australian Health Ministers’ Advisory Council) 2016. Cultural Respect Framework 2016–26 for Aboriginal and Torres Strait
+Islander Health: a national approach to building a culturally respectful health system - external site opens in new window. Canberra:
+AHMAC.
+AIDA (Australian Indigenous Doctors’ Association) 2021. Position Paper: Cultural Safety - external site opens in new window. Canberra:
+AIDA.
+CATSINaM (Congress of Aboriginal and Torres Strait Islander Nurses and Midwives) 2014. Towards a shared understanding of terms
+and concepts: Strengthening nursing and midwifery care of Aboriginal and Torres Strait Islander peoples - external site opens in new
+window. Canberra: CATSINaM.
+DoH (Department of Health) 2015. Implementation Plan for the National Aboriginal and Torres Strait Islander Health Plan 2013–2023 -
+external site opens in new window. Canberra: DoH.
+DoH 2021. National Aboriginal and Torres Strait Islander Health Plan 2021–2031 - external site opens in new window. Canberra: DoH.
+DHHS (Department of Health and Human Services) 2016. Improving cultural responsiveness of Victorian hospitals: Final Report. -
+external site opens in new window Victoria: DHHS.
+Garvey G, Anderson K, Gall A, Butler TL, Cunningham J, Whop LJ, Dickson M, Ratcliffe J, Cass A, Tong A, Arley B and Howard K 2021.
+What Matters 2 Adults (WM2Adults): Understanding the Foundations of Aboriginal and Torres Strait Islander Wellbeing18:6193. doi:
+10.3390/ijerph18126193.
+Howard K, Anderson A, Cunningham J, Cass A, Ratcliffe J, Whop LJ et al 2020. What Matters 2 Adults: a study protocol to develop a new
+preference-based wellbeing measure with Aboriginal and Torres Strait Islander adults (WM2Adults). BMC Public Health 20: 1739.
+doi:10.1186/s12889-020-09821-z.
+NACCHO (National Aboriginal Community Controlled Health Organisation) 2011.      Creating the NACCHO Cultural Safety Training
+Standards and Assessment Process: A background paper - external site opens in new window. Canberra: NACCHO.
+National Collaborating Centre for Indigenous Health 2013. Towards Cultural Safety for Métis: An Introduction for Heath Care Providers
+- external site opens in new window. Canada: University of Northern British Columbia.
+Nursing Council of New Zealand 2005. Guidelines for cultural safety, the treaty of Waitangi, and Maori health in nursing and midwifery
+education and practice - external site opens in new window. Wellington: Nursing Council of New Zealand.
+Thurber KA, Walker J, Batterham PJ, Gee GC, Chapman J, Priest N et al. 2021. Developing and validating measures of self-reported
+everyday and healthcare discrimination for Aboriginal and Torres Strait Islander adults. International Journal of Equity in Health 10: 14.
+doi:10.1186/s12939-020-01351-9.
+
+© Australian Institute of Health and Welfare 2025
+Module 1: Culturally respectful health care services
+Structures, policies and processes across the health system all play a role in delivering culturally respectful health care. The provision
+of culturally safe health care for Aboriginal and Torres Strait Islander people reflects the extent to which health care systems and
+providers are aware of and responsive to Indigenous Australians’ cultural needs and experiences. Cultural safety cannot be improved
+in isolation from the provision of health care.
+
+What data are available?
+ New data were available to update 5 out of 12 measures reported in Module 1 for the 2023 release. The other 7 measures could
+ not be updated due to discontinued data items in the Online Services Report (OSR). For more information see Data gaps and
+ limitations, Data sources and data gaps and Technical notes.
+
+The main information source of data for this module is the Online Services Report (OSR). OSR data is collected from organisations
+funded by the Australian Government to deliver primary health care services to Aboriginal and Torres Strait Islander people under the
+Indigenous Australians Health Program. The OSR includes organisations providing comprehensive primary care services and
+organisations providing maternal and child health programs and services. Mainstream services are not included in the OSR data.
+The numbers and proportions of Indigenous Australians in the health workforce can also be obtained from the National Health
+Workforce Data Set and the ABS Census of Population and Housing (the census). Data from the National Health Workforce Data Set
+are presented in domain 1.3 (below). Health labour force data from the census are presented in Measure 3.12 - external site opens in
+new window of the Aboriginal and Torres Strait Islander Health Performance Framework. The data from the census differ from the
+National Health Workforce Data Set due to differences in methodology.
+In addition, national data are also reported on Indigenous Australians enrolled in health-related training courses and those registered
+across the health system, including general practitioners (GP), nurses and some specialist doctors. The Indigenous workforce is
+integral to ensuring that the health system addresses the health needs of Indigenous Australians in a culturally safe and sensitive way.
+For further information on the data sources used in this module, see Module 1 – Data sources and data gaps.
+
+ Key findings
+ Among the Indigenous-specific primary health care organisations and maternal/child health services reporting to the OSR:
+     Of the total 2,305 FTE employed in the services in 2021–22, 46% were Indigenous. This proportion varied by type of health staff:
+         Aboriginal Health Practitioners/ Aboriginal Health Workers (960 FTE, 99.5%)
+         other health workers including sexual health workers, traditional healers and trainees (1,114 FTE, 52%)
+         general practitioners (42 FTE, 6.1%)
+         nurses and midwives (189 FTE, 15%).
+     Of the total 217 services, 40% provided interpreter services, while around one third offered culturally appropriate services such
+     as bush tucker, bush medicine and traditional healing in 2017–18.
+ National health workforce data show that in Australia from 2013 to 2021, the number of Indigenous:
+     medical practitioners registered increased from 247 to 604
+     nurses and midwives registered increased from 2,833 to 6,160.
+ Higher education statistics from the Department of Education show that from 2001 to 2021, the rate of enrolment in health-related
+ courses for Indigenous Australian students increased from 27 per 10,000 (931 students) to 71 per 10,000 (4,227 students).
+
+See Module 1 data tables for all data presented in this module.
+
+Data gaps and limitations
+Following a review of the OSR and nKPI collections in 2018, the collection of specific OSR data items on cultural safety were paused
+(AIHW 2020). Data collected in 2017–18 reporting period are the latest data available on cultural safety from Indigenous specific
+primary health care services.
+Data on cultural safety in mainstream health services, such as general practitioners, and public hospitals continue to be critical data
+gaps. Data on these services are required to provide a more comprehensive assessment of cultural safety across the Australian health
+system.
+
+References
+AIHW (Australian Institute of Health and Welfare) 2020. Review of the two national Indigenous specific primary health care datasets: The
+Online Services Report and the national Key Performance Indicators. Cat. no. IHW 225. Canberra: AIHW. Accessed 20 June 2023.
+
+Module 1 domains
+1.1 Organisational approach and commitment
+
+An organisational approach and commitment to providing culturally respectful and safe health care at the highest level is necessary
+but not sufficient to ensure care is culturally safe. Aboriginal and Torres Strait Islander leadership at the board or executive level can
+be an indicator that services are culturally aware and respectful. Data on these measures are provided from organisations funded to
+deliver comprehensive primary health care and/or maternal and child health services to Indigenous Australians. Data on Indigenous
+leadership at the board/executive level are available for 2021–22, while the latest available data on organisational approach and
+commitment are for the 2017–18 collection period.
+
+Organisational commitment to culturally respectful and safe healthcare
+The data items below are no longer collected. The most recent collection period for these data was 2017–18. For a complete list of
+what data were available for the 2023 update, see Technical notes.
+This figure is a set of interactive graphs showing the proportion of Indigenous primary health care organisations and maternal/child
+health services that had a formal organisational commitment to achieving culturally safe healthcare, and the proportion of Indigenous
+primary health care services that had a mechanism for obtaining advice on cultural matters in 2017–18. Both measures are
+disaggregated by remoteness, state and territory, ACCHOs or non-ACCHOs, and over time. See data tables for Module 1 – tables 1.1.1a
+and 1.1.1b.
+Aboriginal and Torres Strait Islander leadership at Board/ Executive level
+The figure is a set of interactive graphs showing the proportion of Indigenous primary health care organisations and maternal/child
+health services that had an Indigenous board in 2021–22, disaggregated by remoteness, state and territory, ACCHOs or non-ACCHOs,
+and over time. See data tables for Module 1 – Table 1.1.2.
+
+
+
+
+1.2 Communication and cultural services
+
+Health service environments that value Aboriginal and Torres Strait Islander culture by displaying Indigenous artwork and providing
+culturally appropriate resources, communications and other services can help to make Indigenous people feel culturally safe.
+There are some data on communication and cultural services from organisations funded to provide comprehensive primary health
+care and maternal and/or child health services to Indigenous Australians. The latest data available from the OSR collection on
+communication and cultural services are for the 2017–18 collection period.
+
+Culturally appropriate communication resources
+The data items below are no longer collected. The most recent collection period for these data was 2017–18. For a complete list of
+what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous primary health care organisations and maternal/child
+health services that provided interpreter services in 2017–18, disaggregated by remoteness, state and territory, ACCHOs or non-
+ACCHOs, and over time. See data tables for Module 1 – Table 1.2.1
+
+
+
+
+Offers culturally appropriate services
+The data items below are no longer collected. The most recent collection period for these data was 2017–18. For a complete list of
+what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous primary health care organisations and maternal/child
+health services that provided culturally appropriate services (bush medicine, bush tucker or traditional healing) in 2017–18,
+disaggregated by remoteness, state and territory, ACCHOs or non-ACCHOs, and over time. See data tables for Module 1 – Table 1.2.2.
+1.3 Workforce development and training
+
+Aboriginal and Torres Strait Islander employees in the health workforce can increase the cultural safety of Indigenous patients because
+they understand the needs and priorities of Indigenous patients. National data are available on Indigenous enrolments in health-
+related courses and Indigenous participation in the health workforce for 2021 . Data on the health workforce and on cultural safety
+training among non-Indigenous staff are also available from organisations funded to provide comprehensive primary health care
+and/or maternal and child health services to Indigenous Australians with the latest data available from the OSR collection are for the
+2017–18 collection period.
+
+Aboriginal and Torres Strait Islander participation in the workforce
+The figure is a set of interactive graphs showing the Australian health workforce by Indigenous status, remoteness, state and territory
+in 2021 and over time. It then shows the proportion of full time equivalent staff at Indigenous primary health care organisations and
+maternal/child health services that are Indigenous, by profession, remoteness, state and territory, ACCHOs or non-ACCHOs in 2021–
+22, and over time. See data tables for Module 1 – Tables 1.3.1a and 1.3.1b.
+The Mayi Kuwayu team published a paper further describing trends in the Indigenous health workforce using ABS Census data from
+2006, 2011 and 2016. The team found that while the number of Indigenous Health Workers had increased over this time (1,009 in 2006
+to 1,347 in 2016), the rates showed a slight decrease (221 per 100,000 population in 2006 to 207 per 100,000 in 2016) (Wright et al.
+2019). AIHW analysis of Census data also showed a slight decrease in the rate of Aboriginal and Torres Strait Islander Health Workers
+from 35 per 10,000 in 2006 to 30 per 10,000 in 2016. This increased to 32 per 10,000 in 2021 (AIHW forthcoming). See Measure 3.12 -
+external site opens in new window of the Aboriginal and Torres Strait Islander Health Performance Framework for more information.
+The rates published by the AIHW differ from those published by Mayi Kuwayu due to differences in methodology.
+
+Aboriginal and Torres Strait Islander workforce development
+The figure is a set of interactive graphs showing the rates of health-related student enrolments, commencing students and
+completions in higher education in 2021, by Indigenous status, age group and over time, as well as the success rate of students by
+Indigenous status and state and territory. It then shows the rates of health-related vocational education and training course
+enrolments and completions in 2021, by Indigenous status, state and territory, remoteness and over time. See data tables for Module
+1 – Tables 1.3.2a, 1.3.2b, 1.3.2c and 1.3.2d.
+Cultural safety and responsiveness training for staff
+The data items below are no longer collected. The most recent collection period for these data was 2017–18. For a complete list of
+what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous primary health care organisations and maternal/child
+health services that offered cultural orientation for non-Indigenous staff in 2017–18, disaggregated by remoteness, state and territory,
+ACCHOs or non-ACCHOs, and over time (from 2012–13). See data tables for Module 1 – Table 1.3.3.
+
+
+
+
+References
+AIHW (Australian Institute of Health and Welfare) forthcoming. Measure 3.12: Aboriginal and Torres Strait Islander people in the health
+workforce - external site opens in new window. Aboriginal and Torres Strait Islander Health Performance Framework website.
+Department of Health and Aged Care 2022. Health Workforce Data [TableBuilder]. DHAC website. Accessed 10 February 2023.
+NCVER (National Centre for Vocational Education Research) 2022. VOCSTATS [TableBuilder]. NCVER website. Accessed 10 February
+2023.
+Wright A, Briscoe K and Lovett R 2019. A national profile of Aboriginal and Torres Strait Islander Health Workers, 2006-2016. Australian
+and New Zealand Journal of Public Health. 43(1):24–26. doi:10.1111/1753-6405.12864.
+1.4 Consumer engagement and stakeholder collaboration
+
+Client and community feedback is important for health services to ensure that their policies and programs are meeting the needs of
+Aboriginal and Torres Strait Islander communities. Collaboration with Indigenous organisations is also important for ensuring services
+are culturally respectful. Data on these measures are provided from organisations funded to provide comprehensive primary health
+care and/or maternal and child health services to Indigenous Australians. The latest data available from the OSR collection on
+consumer engagement and stakeholder collaboration are from 2017–18.
+
+Client and community feedback mechanisms
+The data items below are no longer collected. The most recent collection period for these data was 2017–18. For a complete list of
+what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous primary health care organisations and maternal/child
+health services that had formal cultural safety policies in 2017–18, disaggregated by remoteness, state and territory, ACCHOs or non-
+ACCHOs, and over time (from 2012–13). See data tables for Module 1 – Table 1.4.2.
+
+
+
+
+Consultation with Aboriginal and Torres Strait Islander communities
+The data items below are no longer collected. The most recent collection period for these data was 2017–18. For a complete list of
+what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous primary health care services that had formal cultural
+safety policies in 2017–18, disaggregated by remoteness, state and territory, ACCHOs or non-ACCHOs, and over time (from 2012–13).
+See data tables for Module 1 – Table 1.4.2.
+
+
+
+
+Data sources and data gaps
+
+   The following sources were included for this module:
+   Online Services Report (OSR) – for data on Indigenous-specific primary health care organisations and maternal/child health services
+   funded through the Indigenous Australians’ Health Program
+   Higher Education Statistics - external site opens in new window and National Vocational Education and Training - external site
+   opens in new window data – for data on enrolments in health-related courses
+   National Health Workforce Dataset - external site opens in new window – for information on the characteristics of the health
+   workforce.
+
+                           Table M1: Culturally respectful health care services – measures and data sources
+ Domains and measures                                                                             NHWD         HES/VET        OSR
+ 1.1. Organisational approach and commitment
+     Organisational commitment to culturally respectful and safe healthcare                                                       ✓
+
+     Aboriginal and Torres Strait Islander leadership at Board/Executive level                                                    ✓
+
+ 1.2. Communication and cultural services
+     Culturally appropriate communication resources (brochures, interpreters)                                                     ✓
+
+     Offers culturally appropriate services                                                                                       ✓
+
+ 1.3. Workforce development and training
+     Aboriginal and Torres Strait Islander participation in the workforce                                ✓                        ✓
+
+     Aboriginal and Torres Strait Islander workforce development                                                    ✓
+
+     Cultural safety and responsiveness training for staff                                                                        ✓
+
+ 1.4 Consumer engagement and stakeholder collaboration
+     Client and community feedback mechanism                                                                                      ✓
+
+     Consultation with Aboriginal and Torres Strait Islander communities                                                          ✓
+
+Note: OSR – Online Services Report, HES – Higher Education Statistics, VET – Vocational Education and Training statistics, NHWD
+National Health Workforce Dataset, NHMD – National Hospital Morbidity Database.
+
+Notes
+Most of the available data for this module comes from the Australian Institute of Health and Welfare (AIHW) Online Services Report
+(OSR) data collection and relates to Indigenous-specific primary health care and maternal and child health services. These services
+include Aboriginal Community Controlled Health Organisations (ACCHO), government and non-government organisations funded
+under the Indigenous Australians’ Health Program (IAHP).
+For 2019–20, 2020–21 and 2021–22, reporting to the OSR collection was made voluntary in acknowledgement of the additional
+pressures on organisations because of COVID-19, therefore, data should be interpreted with caution. For more information see Impact
+of COVID-19.
+
+                                     Table M2: Number of organisations reporting to OSR collection
+ Collection          Number of primary care                    Number of organisations funded for maternal and child health
+ year                organisations                             services only
+ 2017–18             198                                       19
+ 2018–19             210                                       22
+ 2019–20             196                                       19
+ 2020–21             191                                       20
+ 2021–22             211                                       19
+
+The OSR has a module-based structure, with individual items that are a mix of counts of activities/services provided (such as number
+of clients seen), workforce information, questions with tick box answers, and some text responses. The OSR collection includes data on
+staffing levels, client numbers, client contacts, episodes of care and services provided.
+Contextual information about each organisation is also collected. The OSR data presented in this monitoring framework are drawn
+from the:
+   community engagement, control and cultural safety module, which consists of mostly tick box answers about activities undertaken
+   by organisations to deliver culturally safe services to Indigenous clients
+   corporate services/infrastructure module, workforce submodule, which consists mostly of counts of FTE staff by Indigenous status
+   and various role/function categories.
+See Supplementary material: Cultural safety-related questions from the OSR data collection for more information.
+OSR data presented in the monitoring framework are also disaggregated by type of organisation – that is, by whether it is an ACCHO or
+other organisation receiving funding under the IAHP.
+The OSR collection is being redeveloped and as a result some items have not had updated data since the 2017–18 reporting period.
+For more information about OSR see:
+   Aboriginal and Torres Strait Islander-specific primary health care: results from the OSR and nKPI collections – Interpreting OSR data
+   Online Services Report data collection.
+The National Health Workforce Dataset provides national data on the Indigenous status of the health workforce for a wide range of
+professions, including GPs, nurses, and medical specialists. The Higher Education and Vocational Education and Training data provide
+information on the Indigenous status of student enrolments and completions for health-related courses, such as:
+   nursing
+   medical studies
+   pharmacy
+   dentistry
+   some allied health, for example, rehabilitation therapies and optical science
+   other health, which includes Aboriginal and Torres Strait Islander health workers.
+These data are important for monitoring programs that aim to build an Indigenous health workforce to help improve the cultural
+safety of health services.
+
+Data gaps
+There are major data gaps for reporting on culturally respectful services. The data that are available were mostly collected from
+Indigenous-specific primary health care services through the Online Services Report (OSR). However, many of these data items are no
+longer collected, following a review of the OSR in 2018. Therefore, the most recent available data for many of these data items is for
+the 2017–18 data collection period.
+There is little relevant data from mainstream services, such as primary health care and hospitals, across all levels of geography, from
+national to regional. A high proportion of Indigenous Australians use mainstream services, including in regional and remote areas.
+There are also gaps in workforce data below state and territory levels of geography, such as at the Primary Health Network (PHN) level.
+The Australian Commission on Safety and Quality in Health Care (ACSQHC) has included six Aboriginal and Torres Strait Islander
+specific actions - external site opens in new window in the National Safety and Quality Health Service Standards - external site opens in
+new window. The aims of the Standards are to protect the public from harm and to improve the quality of health service provision.
+However, data from the ACSQHC is not available to use for reporting in the monitoring framework.
+The current monitoring framework focuses on the experience of the patient in the health care system. However, the experience of
+health care professionals and the cultural safety for Indigenous Australians in the health workforce are important aspects of a system
+free from racism.
+
+© Australian Institute of Health and Welfare 2025
+Module 2: Patient experience of health care
+Cultural safety is defined with reference to the experience of Aboriginal and Torres Strait Islander people who access and use health
+care services, including their treatment by health care professionals and their feelings of cultural safety. It also includes some indirect
+measures of cultural safety where clients take their own leave from hospitals. These measures suggest that there are situations where
+Indigenous patients do not find the hospital environment to be culturally safe.
+
+What data are available?
+ New data were available to update 9 out of 23 measures reported in Module 2 for the 2023 release. The other 14 measures could
+ not be updated due to discontinued surveys and data items, or frequency of data collection. This information has been provided
+ throughout this module. Additional information is available in Data sources and data gaps and Technical notes.
+
+The data sources include the ABS national Aboriginal and Torres Strait Islander health and social surveys, surveys of public hospital
+patients in New South Wales and Queensland and Reconciliation Australia’s Australian Reconciliation Barometer survey. There are also
+data from the national hospital data collections on indirect measures of cultural safety.
+For further information on the data sources used in this module, see Module 2 – Data sources and data gaps.
+
+ Key findings
+ The National Aboriginal and Torres Strait Islander Health Survey shows that in 2018–19:
+     88% of Indigenous Australians aged 15 and over in non-remote areas reported that doctors always/often explained things in a
+     way that could be understood.
+     91% of Indigenous Australians aged 15 and over in non-remote areas reported that doctors always/often showed respect for
+     what was said.
+     32% of Indigenous Australians who did not access health services when they needed to, indicated this was due to cultural
+     reasons, such as language problems, discrimination and cultural appropriateness.
+     The Australian Reconciliation Barometer showed that the proportion of Indigenous Australians reporting racial discrimination
+     by doctors, nurses and/or medical staff in the last 12 months has increased since 2014 (11% in 2014 to 20% in 2022).
+ The differences in rates of Indigenous and non-Indigenous hospital patients who choose to leave prior to commencing or
+ completing treatment are frequently used as indirect measures of cultural safety.
+     Indigenous Australians left against medical advice for 4.0% (26,985) of admitted-patient hospitalisations from 2019–20 to 2020–
+     21. Age-standardised, this was over 5 times the proportion of non-Indigenous Australians (3.8% and 0.7%, respectively).
+     In 2021–22, Indigenous Australians left at own risk or did not wait in 75,267 emergency department attendances. Age-
+     standardised, this was 1.4 times the proportion of incomplete emergency attendances for non-Indigenous Australians (10.6%
+     and 7.6%, respectively).
+
+See Module 2 data tables for all data presented in this module.
+
+Data gaps and limitations
+Data from Indigenous health care users about the health care that they receive are limited. Data from surveys of hospital patients in all
+states and territories are required, as well as additional national data on patient satisfaction with different types of health care
+services. However, data from these surveys are not always available by Indigenous status and may not include questions that relate to
+cultural safety for Indigenous Australians.
+
+Module 2 domains:
+2.1 Communication
+
+The quality of communication between health care providers and Aboriginal and Torres Strait Islander patients, including an
+awareness and interest in Indigenous culture, is important for ensuring patients feel culturally safe. Respectful communication makes
+it more likely that Indigenous Australians will access health care, and that the care they receive will be more effective. The data
+reported on Indigenous patient experiences of communication with health care providers come from national surveys, and public
+hospital patient surveys in some states.
+
+Interaction with health professionals
+The data items below are from the NATSIHS, the NATSISS and the NSW Admitted Patient Survey. The ABS collects data for the NATSIHS
+every 5–6 years and the most recent available data is for the 2018–19 collection period. The NATSISS has been discontinued; the most
+recent collection period for these data was 2014–15. Some data items collected through NSW Admitted Patient Survey have been
+discontinued at different times; the most recent available data has been used in this report. For a complete list of what data were
+available for the 2023 update, see Technical notes.
+
+
+The figure is a set of interactive graphs showing the proportion of Indigenous people who thought doctors listened carefully to them,
+by age group, sex, remoteness, state and territory and over time. It then shows the proportion of hospital patients in New South Wales
+who had the opportunity to talk to a doctor or nurse when needed, by Indigenous status over time. Finally, it shows the proportion of
+Indigenous hospital patients in New South Wales who received support or the offer of support from an Aboriginal Health Worker. See
+data tables for Module 2 – Tables 2.1.1a, 2.1.1b, 2.1.1c and 2.1.1d.
+Results from the NSW 2019 Adult Admitted Patient Survey (AAPS) showed that the majority of Aboriginal and Torres Strait Islander
+patients said health professionals ‘always’ explained things in an understandable way (73%), although this result was lower than for
+non-Indigenous patients (81%) (BHI 2021).
+The NSW 2019 AAPS also described aspects of care that were most strongly associated with Aboriginal and Torres Strait Islander
+people reporting that the overall care they received in hospital was ‘very good’. These factors included that their care was ‘very well’
+organised and that they were treated fairly based their Aboriginality or other reasons (BHI 2021).
+Results from the NSW 2019 Maternity Care Survey showed that 79% of Aboriginal and Torres Strait Islander women who had the
+support of an Aboriginal Health Worker rated their overall care during labour and birth as ‘very good’, significantly higher than those
+who were not supported by an Aboriginal Health Worker, 58%, after adjusting for age (BHI 2021).
+
+Information provided in a way that could be understood
+The data items below are sourced from the NATSIHS and the Qld Maternity Outpatient Clinic Patient Experience survey. The ABS
+collects data for the NATSIHS every 5–6 years and the most recent available data is for the 2018–19 collection period. The Qld
+Maternity Outpatient Clinic Patient Experience Survey has been discontinued. The most recent collection period for these data was
+2017. For a complete list of what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous people who felt that doctors explained things in a way
+that could be understood, by sex, age group, state and territory and service type. It also shows Indigenous maternity patients in
+Queensland that had their maternity clinic offer culturally appropriate resources, in 2015 and 2017. See data tables for Module 2 –
+Tables 2.1.2a and 2.1.2b.
+
+
+
+
+Quality of relationship
+The figure is a set of interactive graphs showing perceptions of the overall quality of the relationship with doctors, nurses and/or
+medical staff among an Indigenous sample and a total sample of Australians. See data tables for Module 2 – Table 2.1.3.
+References
+ABS (Australian Bureau of Statistics) 2016. National Aboriginal and Torres Strait Islander Social Survey - external site opens in new
+window. [TableBuilder]. Retrieved 9 November, 2020.
+ABS 2019. National Aboriginal and Torres Strait Islander Health Survey 2018–19 - external site opens in new window. [TableBuilder].
+Retrieved 9 November, 2020.
+AIHW & NIAA (Australian Institute of Health and Welfare & National Indigenous Australians Agency 2020. Aboriginal and Torres Strait
+Islander Health Performance Framework (HPF) report 2017 [archived]. - external site opens in new window Canberra: AIHW.
+BHI (Bureau of Health Information) 2021. The Insights Series-Aboriginal people’s experiences of hospital care - external site opens in
+new window. July 2021. Sydney (NSW): BHI.
+BHI 2022. Adult admitted patient survey - external site opens in new window. Sydney (NSW): BHI. Retrieved 4 March, 2023.
+Queensland Government 2017. 2015 Maternity Outpatient Clinic Patient Experience Statewide Report - external site opens in new
+window. Queensland: Queensland Health.
+Queensland Government 2019. 2017 Maternity Outpatient Clinic Patient Experience Survey Report - external site opens in new
+window. Queensland: Queensland Health.
+Reconciliation Australia 2015. 2014 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2017.     2016 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2019.     2018 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2020.     2020 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2022. 2022 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+
+2.2 Treated respectfully
+Aboriginal and Torres Strait Islander peoples are more likely to feel culturally safe when they are treated with understanding, respect
+and empathy by health care providers. This leads to more trust and confidence in the health care they receive. The data reported on
+Indigenous patient experiences of interpersonal treatment come from national surveys, and public hospital patient surveys in some
+states.
+
+Respect
+The data items below are sourced from the NATSIHS and the NATSISS. The ABS collects data for the NATSIHS every 5–6 years and the
+most recent available data is for the 2018–19 collection period. The NATSISS has been discontinued; the most recent collection period
+for these data was 2014–15. For a complete list of what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous people who felt doctors showed respect for what they
+said, by age group, sex, remoteness, state and territory and over time. See data tables for Module 2 – Tables 2.2.1a and 2.2.1b.
+Results from the 2014–15 NATSISS and 2018–19 NATSIHS showed that the proportion of Indigenous Australians reporting that doctors
+always/often showed respect for what was said increased for all states and territories (ABS 2016, 2019). However, data from the
+Australian Reconciliation Barometer showed that trust in doctors, nurses and/or medical staff remained steady from 2014 to 2022
+(Reconciliation Australia 2015, 2017, 2019, 2020, 2022).
+NSW 2019 Adult Admitted Patient Survey showed that around 78% of Aboriginal and Torres Strait Islander patients said they were
+treated with respect and dignity. However, this was substantially lower than the percentage of non-Indigenous patients who reported
+this in answer to the same questions (86%) (BHI 2021).
+Trust and confidence
+The data items below are sourced from the NATSISS and the Australian Reconciliation Barometer (ARB). The NATSISS has been
+discontinued and the most recent available data is for the 2014–15 collection period. The ARB collects data every 2 years and the most
+recent data is for the 2022 collection period. For a complete list of what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous people who felt that hospitals can be trusted, by age
+group, sex, remoteness, state and territory and over time. It also shows perceptions of the overall level of trust with doctors, nurses
+and/or medical staff among an Indigenous sample and a total sample of Australians. See data tables for Module 2 – Tables 2.2.2a and
+2.2.2b.
+
+
+
+
+Staff were polite and welcoming
+The figure is a set of interactive graphs showing the proportion of hospital patients in New South Wales who felt that health care staff
+were polite and welcoming on their arrival, by Indigenous status and over time. See data tables for Module 2 – Table 2.2.3.
+Respect for cultural or religious beliefs
+The data items below are sourced from the NSW Admitted Patient Survey and the Qld Maternity Outpatient Clinic Patient Experience
+Survey. Some data items collected through NSW Admitted Patient Survey have been discontinued at different times. The most recent
+available data has been used in this report. The Qld Maternity Outpatient Clinic Patient Experience Survey has been discontinued. For
+a complete list of what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of hospital patients in New South Wales who self that their cultural or
+religious beliefs were always respected by hospital staff, and whether hospital food was suitable for dietary needs, by Indigenous
+status and over time. It also shows the proportion of Indigenous maternity patients in Queensland whose midwife/doctor checked if
+they wanted cultural practices included in the birthing plan over time. See data tables for Module 2 – Tables 2.2.4a, 2.2.4b and 2.2.4c.
+References
+ABS (Australian Bureau of Statistics) 2016. National Aboriginal and Torres Strait Islander Social Survey - external site opens in new
+window. [TableBuilder]. Retrieved 11 November, 2020.
+ABS 2019. National Aboriginal and Torres Strait Islander Health Survey 2018–19 - external site opens in new window. [TableBuilder].
+Retrieved 11 November, 2020.
+AIHW & NIAA (Australian Institute of Health and Welfare & National Indigenous Australians Agency) 2020. Aboriginal and Torres Strait
+Islander Health Performance Framework (HPF) report 2017 [archived]. - external site opens in new window Canberra: AIHW.
+BHI (Bureau of Health Information) 2021. The Insights Series-Aboriginal people’s experiences of hospital care - external site opens in
+new window. July 2021. Sydney (NSW): BHI.
+BHI 2022. Adult admitted patient survey - external site opens in new window. Sydney (NSW): BHI. Retrieved 23 February 2023.
+Queensland Government 2017. 2015 Maternity Outpatient Clinic Patient Experience Statewide Report - external site opens in new
+window. Queensland: Queensland Health.
+Queensland Government 2019. 2017 Maternity Outpatient Clinic Patient Experience Survey Report - external site opens in new
+window. Queensland: Queensland Health.
+Reconciliation Australia 2015. 2014 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2017.     2016 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2019.     2018 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2020.     2020 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2022. 2022 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+
+2.3 Unfair treatment and cultural barriers
+
+Where Aboriginal and Torres Strait Islander peoples are treated badly, unfairly or unequally because of their race, culture or language
+they may be less likely to access health care, or to feel comfortable and culturally safe when receiving care. The data reported on
+Indigenous patient experiences of interpersonal treatment come from national surveys.
+Analysis using data from the Mayi Kuwayu longitudinal study described the effects of discrimination towards Aboriginal and Torres
+Strait Islander people, across demographic characteristics, and how discrimination related to health and social and emotional
+wellbeing outcomes (Thurber at al. 2021).
+
+Unfair treatment and discrimination
+The data items below are sourced from the AATSIHS and the Australian Reconciliation Barometer (ARB). The AATSIHS has been
+discontinued and the most recent available data is for the 2012–13 collection period. The ARB collects data every 2 years and the most
+recent data is for the 2022 collection period. For a complete list of what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous people who were treated unfairly by healthcare staff at
+hospitals/doctors’ surgeries, by sex, and remoteness. It also shows whether a person or their family has been racially discriminated
+against by doctors, nurses and/or medical staff among an Indigenous sample and a total sample of Australians. See data tables for
+Module 2 – Tables 2.3.1a and 2.3.1b.
+Results from the NSW 2019 Adult Admitted Patient Survey showed that most Aboriginal and Torres Strait Islander patients reported
+they were not treated unfairly (89%). However, this was lower than the percentage of non-Indigenous patients (95%) (BHI 2021). The
+Australian Reconciliation Barometer showed that the proportion of Indigenous Australians reporting racial discrimination by doctors,
+nurses and/or medical staff in the last 12 months has increased since 2014 (11% in 2014 to 20% in 2022) (Reconciliation Australia 2015,
+2022).
+
+Avoided health care due to poor treatment
+The data items below are sourced from the AATSIHS. The AATSIHS was discontinued after the 2012–13 collection period. For a
+complete list of what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous people who avoided seeking healthcare because they
+had been treated unfairly, by age group, sex, state and territory and remoteness. See data tables for Module 2 – Tables 2.3.2.
+Did not access health care due to cultural reasons
+The data items below are sourced from the NATSIHS. The ABS collects data for the NATSIHS every 5–6 years and the most recent
+available data is for the 2018–19 collection period. For a complete list of what data were available for the 2023 update, see Technical
+notes.
+The figure is a set of interactive graphs showing the proportion of Indigenous people who did not access health care due to cultural
+reasons, by age group, sex, state and territory and remoteness. See data tables for Module 2 – Tables 2.3.3.
+
+
+
+
+References
+AIHW & NIAA (Australian Institute of Health and Welfare & National Indigenous Australians Agency) 2020a. Aboriginal and Torres Strait
+Islander Health Performance Framework (HPF) report 2017 [archived]. - external site opens in new window Canberra: AIHW.
+AIHW & NIAA 2020b. Aboriginal and Torres Strait Islander Health Performance Framework - external site opens in new window.
+Canberra: AIHW.
+BHI (Bureau of Health Information) 2021. The Insights Series-Aboriginal people’s experiences of hospital care - external site opens in
+new window. July 2021. Sydney (NSW): BHI.
+Reconciliation Australia 2015. 2014 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2017.     2016 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2019.     2018 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2020.     2020 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Reconciliation Australia 2022. 2022 Australian Reconciliation Barometer - external site opens in new window. Polity Research &
+Consulting.
+Thurber KA, Colonna E, Jones R, Gee GC, Priest N, Cohen R, Williams DR, Thandrayen J, Calma T, Lovett R, et al. 2021. ‘Prevalence of
+Everyday Discrimination and Relation with Wellbeing among Aboriginal and Torres Strait Islander Adults in Australia’. International
+Journal of Environmental Research and Public Health. 18(12):6577. doi:10.3390/ijerph18126577.
+
+2.4 Empowerment
+
+Empowerment is related to the extent to which people feel included in decisions about their health care, and that they have some
+control over the care that they receive. Being provided with information about the rights of health care consumers also empowers
+patients. The data reported on empowerment come from New South Wales public hospital patient experience surveys.
+
+Involved in health care decisions
+The figure is a set of interactive graphs showing the proportion of hospital patients in New South Wales who were involved in decisions
+about their care or treatment, by Indigenous status over time. See data tables for Module 2 – Table 2.4.1.
+
+                                             Visualisation not available for printing
+Results from the NSW 2019 Maternity Care Survey showed that 73% of Aboriginal and Torres Strait Islander women said their
+decisions about how they wanted to feed their baby were ‘always’ respected by health professionals. In contrast, when asked the same
+question, 82% of non-Indigenous women gave this response (BHI 2021).
+
+Provided with information about patient rights
+The data item below is sourced from the NSW Admitted Patient Survey and is no longer collected. The most recent available data is for
+the 2014 collection period. For a complete list of what data were available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of hospital patients in New South Wales received information about
+their rights as a patient, by Indigenous status. See data tables for Module 2 – Table 2.4.2.
+
+                                             Visualisation not available for printing
+References
+BHI (Bureau of Health Information) 2016. Patient Perspectives: Hospital care for Aboriginal people - external site opens in new window.
+10 August 2016. Sydney: BHI.
+BHI 2021. The Insights Series-Aboriginal people’s experiences of hospital care - external site opens in new window. July 2021. Sydney
+(NSW): BHI.
+BHI 2022. Healthcare Observer - external site opens in new window. Sydney (NSW): BHI. Retrieved 4 March, 2022.
+
+2.5 Family inclusion
+
+Aboriginal and Torres Strait Islander patients are more likely to feel culturally safe when family members, or other people important to
+them, are included in the health care process and decisions about their care. This can help improve the quality of health care and
+ensure that it is more effective. The data reported on family inclusion come from New South Wales public hospital patient experience
+surveys.
+
+Inclusion
+The data items below are sourced from the NSW Admitted Patient Survey. Some data items collected through NSW Admitted Patient
+Survey have been discontinued. The most recent available data has been used in this report. For a complete list of what data were
+available for the 2023 update, see Technical notes.
+The figure is a set of interactive graphs showing the proportion of hospital patients in New South Wales by whether the right amount
+of information was given to their family and whether their family got an opportunity to talk to a doctor, by Indigenous status. See data
+tables for Module 2 – Tables 2.5.1 and 2.5.2.
+
+
+
+
+Results from the NSW 2019 Adult Admitted Patient Survey showed Aboriginal and Torres Strait Islander patients in rural hospitals were
+significantly more positive when asked how much information about their condition or treatment was given to their family or someone
+close to them (78% in rural hospitals said the ‘right amount’, compared with 69% in urban hospitals) (BHI 2021).
+
+References
+BHI (Bureau of Health Information) 2016. Patient Perspectives: Hospital care for Aboriginal people - external site opens in new window.
+10 August 2016. Sydney: BHI.
+BHI 2021. The Insights Series-Aboriginal people’s experiences of hospital care - external site opens in new window. July 2021. Sydney
+(NSW): BHI.
+BHI 2022. Adult admitted patient survey - external site opens in new window. Sydney (NSW): BHI. Retrieved 23 February 2023.
+
+2.6 Leave events
+
+Leave events refer to situations where hospital patients choose to leave prior to commencing or completing their treatment. Patient
+experiences of health care services affect health-related behaviours and health outcomes. Leave event patients are more likely to re-
+present to emergency departments and have higher mortality rates (Shaw 2016). There have been a limited number of studies on
+Aboriginal and Torres Strait Islander peoples’ reasons for leave events from hospital. However, common factors include
+institutionalised racism; a lack of cultural safety; a distrust of the health system; miscommunication; family and social obligations;
+isolation and loneliness; a lack of understanding of the treatment they were receiving and the feeling that the treatment had finished;
+and communication and language barriers between staff and the patient (Shaw 2016). For more information see Measure 3.09:
+Discharge against medical advice - external site opens in new window on the Aboriginal and Torres Strait Islander Health Performance
+Framework.
+This domain includes two leave events measures: incomplete emergency attendances and discharge from hospital against medical
+advice. Leave events are more likely for Indigenous Australians – which may be due to feeling culturally unsafe – and this is therefore
+viewed as an indirect measure of cultural safety, or the extent to which hospitals are responsive to Indigenous Australian patients’
+needs.
+The data reported for these two measures come from hospitals administrative data.
+
+Admitted patient leave events
+The figure is a set of interactive graphs showing the proportion of hospitalisations where patients left against medical advice/were
+discharged at their own risk, by Indigenous status and age, sex, diagnosis, state and territory, remoteness and over time. See data
+tables for Module 2 – Tables 2.6.1a, 2.6.1b.
+
+
+
+
+Emergency department leave events
+The figure is a set of interactive graphs showing the proportion of emergency department presentations where patients left at their
+own risk or did not wait, by Indigenous status, remoteness and over time. See data tables for Module 2 – Table 2.6.2.
+References
+Shaw C 2016. An evidence-based approach to reducing discharge against medical advice amongst Aboriginal and Torres Strait Islander
+patients - external site opens in new window. Deakin, ACT: AHHA.
+
+Data sources and data gaps
+
+The data sources with relevant data items on patient experiences and with data available on Indigenous Australians were:
+   ABS National Aboriginal and Torres Strait Islander Health Survey, 2018–19 - external site opens in new window
+   ABS National Aboriginal and Torres Strait Islander Social Survey, 2014–15 - external site opens in new window
+   ABS Australian Aboriginal and Torres Strait Islander Health Survey, 2012–13 - external site opens in new window
+   Australian Reconciliation Barometer, 2014 - external site opens in new window, 2016 - external site opens in new window, 2018 -
+   external site opens in new window, 2020 - external site opens in new window, 2022 - external site opens in new window
+   National Hospitals Data Collection
+      National Hospital Morbidity Database, 2019–20, 2020–21
+      National Non-Admitted Patients Emergency Department Care Database, 2019–20, 2020–21, 2021–22
+   New South Wales Adult Admitted Patient Survey - external site opens in new window, 2014, 2018, 2019, 2020, 2021
+   Queensland Maternity Outpatient Clinic Patient Experience Survey, 2015 - external site opens in new window, 2017 - external site
+   opens in new window.
+
+                                    Patient experience of health care – measures and data sources
+                                                 AATSIHS/                             Australian
+                                                                    NHMD                                        NSW        Qld
+  Domains and measures                           NATSIHS                              Reconciliation
+                                                                    /NNAPEDCD                                   AAPS       MOCES
+                                                 /NATSISS                             Barometer
+  2.1 Communication
+  Interaction with health professionals                ✓
+
+  Information provided in a way that could be
+                                                       ✓                                                                      ✓
+  understood
+  Quality of relationship                                                                       ✓
+
+  2.2 Treated respectfully
+  Respect                                              ✓
+
+  Trust and confidence                                 ✓                                        ✓
+
+  Staff were polite and welcoming                                                                                 ✓
+  Respect for cultural or religious beliefs                                                                            ✓           ✓
+
+  2.3 Unfair treatment and cultural
+  barriers
+  Unfair treatment and discrimination                     ✓                                         ✓
+
+  Avoided health care due to poor treatment               ✓
+
+  Did not access health care due to cultural
+                                                          ✓
+  reasons
+  2.4 Empowerment
+  Involved in health care decisions                                                                                    ✓
+
+  Provided with information about patient
+                                                                                                                       ✓
+  rights
+  2.5 Family inclusion
+  Inclusion                                                                                                            ✓
+
+  2.6 Leave events
+  Admitted patient leave events                                              ✓
+
+  Emergency department leave events                                          ✓
+
+Note: AATSHIS – Australian Aboriginal and Torres Strait Islander Health Survey; NATSIHS – National Aboriginal and Torres Strait
+Islander Health Survey; NATSISS – National Aboriginal and Torres Strait Islander Social Survey; NHMD – National Hospital Morbidity
+Database; NNAPEDCD – National Non-admitted Emergency Department Care Database; NSW Adult Admitted Patient Survey (AAPS);
+Queensland Maternity Outpatient Clinic Experience Survey (MOCES).
+
+Notes
+The ABS national survey data sources were:
+   Australian Aboriginal and Torres Strait Islander Health Survey (AATSIHS) in 2012–13
+   National Aboriginal and Torres Strait Islander Health Survey (NATSIHS) in 2018–19
+   National Aboriginal and Torres Strait Islander Social Survey (NATSISS) in 2014–15.
+These surveys include data that relate to the domains of communication, respectful treatment and unfair treatment. The national ABS
+Patient Experience Survey (PES), which includes data related to communication and respectful treatment by general practitioners, is
+not available by Indigenous status. More information on ABS social and health surveys of Indigenous Australians is found in the Data
+sources and quality page - external site opens in new window of the Aboriginal and Torres Strait Islander Health Performance
+Framework.
+Most jurisdictions undertake surveys about patients’ experiences in public hospitals, but there is not a lot of publicly released data on
+Indigenous patients and their experiences.
+The NSW Bureau of Health Information (BHI) collects and publishes data about the experiences of people admitted to NSW public
+hospitals. Data are reported for New South Wales from the Adult Admitted Patient Survey, a survey of patients who have recently been
+admitted to a NSW public hospital.
+
+               Number of Aboriginal and/or Torres Strait Islander respondents to the NSW Adult Admitted Patient Survey
+  Year              Aboriginal and/or Torres Strait Islander respondents
+  2014              2,682
+  2018              443
+  2019              3,454
+  2020              364
+  2021             551
+
+Note: Aboriginal and/or Torres Strait Islander respondents oversampled in 2014 and 2019 surveys.
+This report used data from the 2014, 2018, 2019, 2020 and 2021 surveys downloaded from the BHI’s interactive data portal - external
+site opens in new window (previously hosted on the BHI Healthcare Observer). The NSW BHI also released a detailed report in 2021,
+Aboriginal people’s experiences of hospital care - external site opens in new window, focussing on Aboriginal and Torres Strait Islander
+patient experiences using data from various BHI surveys in 2019. Some highlights from Aboriginal people’s experiences of hospital
+care report are presented in this report.
+The Queensland Maternity Outpatient Clinic Patient Experience Survey includes Aboriginal and Torres Strait Islander specific
+questions. Data on Aboriginal and Torres Strait Islander women are available from the 2015 (350 women) and 2017 (390 women)
+surveys. For more information see the 2017 Maternity Outpatient Clinic Patient Experience Survey Report - external site opens in new
+window. This survey has been discontinued.
+Patient Reported Experience Measures (PREMs) and Patient Reported Outcome Measures (PROMs) surveys could provide another
+opportunity to collect data on Indigenous patients’ experiences of health care. The collection of patient reported data through
+standardised PREMs and PROMs for Indigenous health care users needs to consider cultural adaptability of these tools and
+development work is underway to address this at hospital and primary health care service levels for accountability and continued
+quality improvement.
+Reconciliation Australia’s Australian Reconciliation Barometer (ARB) was developed as a tool to measure the progress of reconciliation
+between Indigenous and non-Indigenous Australians. The first study was completed in 2008, with biennial reports since then. The
+results of surveys prior to 2014 are no longer included in the ARB, so that applicable tracking results are more directly comparable. For
+the 2014, 2016, 2018, 2020 and 2022 surveys, the Indigenous community sample ranged between 495 and 532, and the general
+community sample between 1,100 and 2,522. The general sample also includes Australians who are Indigenous or have Aboriginal
+and/or Torres Strait Islander heritage. Both the general and Indigenous samples are weighted to be representative in terms of age
+group, gender and location (state and territory populations), as per ABS 2016 Census data. Data from the 2020 report - external site
+opens in new window covers the period to July 2020 and therefore some responses to the survey questions may be in reference to
+approximately the first six months of the COVID-19 pandemic in Australia.
+The two final measures in this module for leave events used data from the national hospitals and national emergency care data
+collections. See the Data sources and data gaps section in Module 3 for more information on hospital data collections.
+
+Data gaps
+Major data gaps in this module are the lack of hospital patient experience data from most jurisdictions, as well as data on patients of
+non-hospital health care services such as primary health care and specialist services. Regular, national data collections of Indigenous
+patient experiences are needed to enable monitoring of the impact of government initiatives and measuring of progress in achieving
+cultural safety. Such data collections should allow for reporting across small areas and in different health sectors.
+
+© Australian Institute of Health and Welfare 2025
+Module 3: Access to health care services
+Overall, Aboriginal and Torres Strait Islander people experience poorer health than non-Indigenous Australians, but they do not always
+have the same level of access to health services. This module includes some selected measures of access to health care services that
+cover the different levels of the health system. The measures compare use of various services for Indigenous and non-Indigenous
+Australians as a way of broadly monitoring disparities in access. Disparities in access and use of health services may indicate problems
+with the cultural safety of services, but there may be many other factors, such as remoteness, affordability, previous experiences of
+racism in health care environments for themselves, family or community members and fear of how they will be treated.
+For example, potentially preventable hospitalisations (hospitalisations for conditions that can be effectively treated in a non-hospital
+setting) can serve as a proxy measure of access to timely, effective and appropriate primary and community-based care. Systematic
+differences in hospitalisation rates for Indigenous Australians and non-Indigenous Australians can indicate gaps in the provision of
+population health interventions, primary care services, and continuing care support. The rate of potentially preventable
+hospitalisations is affected by the interaction of a broad range of factors; however, culturally safe primary health care could help better
+detect and manage health risk factors and conditions and thereby reduce rates of potentially preventable hospitalisations.
+
+What data are available?
+ New data were available to update 12 out of 13 measures reported in Module 3 for the 2023 release. One measure could not be
+ updated as the Voluntary Indigenous Identifier (VII) was not updated. For more information, see 3.4 Specialist services and
+ Technical notes.
+
+The measures in this module are based on national administrative data collections covering immunisation, the Medicare Benefits
+Schedule (MBS), hospitals, mortality, perinatal and elective surgery waiting times.
+For further information on the data sources used in this module, see Module 3 – Data sources and data gaps.
+
+ Key findings
+ Selected measures of access to health care services for Indigenous and non-Indigenous Australians are used to monitor disparities
+ in access as they may indicate problems with the cultural safety of services, though many other factors can also impact on access
+ to and use of services (for example, remoteness, affordability, previous experiences of racism, presence of co-morbidities).
+     Mammogram participation rates for Indigenous Australian women increased between 2010–2011 and 2018–2019. Rates
+     decreased in 2019–2020, during the COVID-19 pandemic.
+     In 2020–21, the rate of potentially preventable hospitalisations for Indigenous Australians was almost 3 times the rate for non-
+     Indigenous Australians (66 compared with 23 per 1,000, based on age-standardised rates).
+     In 2021–22, the median waiting time for emergency department presentations was similar for Indigenous Australians than for
+     other Australians (19 and 20 minutes, respectively).
+     Indigenous Australians waited longer to be admitted for elective surgery in 2021–22 than non-Indigenous Australians – 50% of
+     Indigenous patients were admitted for elective surgery within 50 days, compared with 39 days for non-Indigenous patients.
+     In 2021, of 6,749 registered cases of rheumatic heart disease, 78% were Indigenous Australians compared with 22% non-
+     Indigenous Australians.
+     In 2021, the avoidable mortality rate for Indigenous Australians was 208 per 100,000. The Indigenous age-standardised rate was
+     over 3 times that for non-Indigenous Australians (296 and 91 per 100,000 respectively).
+
+See Module 3 data tables for all data presented in this module.
+
+Data gaps and limitations
+Disparities in access may be due to a range of factors other than a lack of cultural safety. The data provide overall measures of access,
+but do not include information on all the factors that can impact on access, such as affordability, previous experiences of racism, the
+presence of co-morbidities or patient choice.
+
+Module 3 domains:
+3.1 Preventive health services
+Preventive health services, such as immunisation, can protect children and adults from harmful infectious diseases and prevent the
+spread of diseases amongst the community. Health screening services, such as breast screening, can help detect serious conditions
+and reduce mortality.
+The data reported for these two measures come from the Australian Immunisation Register and BreastScreen Australia.
+
+Rates of immunisation
+The figure is a set of interactive graphs showing the proportion of children that were fully immunised at age 1 year, 2 years and 5
+years, by Indigenous status, state and territory, Primary Health Network and over time. See data tables for Module 3 – Tables 3.1.1a,
+3.1.1b and 3.1.1c.
+
+
+
+
+Participation rates for breast screening
+The figure is a set of interactive graphs showing BreastScreen participation by Indigenous status, age group and over time. See data
+tables for Module 3 – Tables 3.1.2a and 3.1.2b.
+References
+AIHW (Australian Institute of Health and Welfare) 2022. BreastScreen Australia monitoring report 2022. Cat. no. CAN 150. Canberra:
+AIHW. Viewed 18 May 2023.
+
+3.2 Primary health care
+
+Primary health care services can help to keep people well and out of hospital by supporting them to manage their health issues in the
+community and at home, potentially avoiding health issues from becoming more serious. These services can reduce the need for
+specialist services and visits to emergency departments.
+This domain has data on:
+   Indigenous health checks: MBS items 715 and 228 (face-to-face), 92004 and 92011 (video-conference, available from March 2020),
+   and 92016 and 92023 (teleconference, available from March 2020 to July 2021)
+   antenatal care
+   potentially preventable hospitalisations.
+
+Indigenous health checks
+The figure is a set of interactive graphs showing the proportion of Indigenous Australians who had an Indigenous-specific health
+assessment face-to-face (MBS items 715 and 228), video-conference (92004 and 92011, available from March 2020) and teleconference
+(92016 and 92023, available from March 2020 to July 2021), by age group, sex, remoteness, state and territory, Primary Health Network
+and over time. See data tables for Module 3 – Tables 3.2.1a, 3.2.1b, 3.2.1c and 3.2.1d.
+Access to antenatal care
+The figure is a set of interactive graphs showing the proportion of women who gave birth who attended 5 or more antenatal visits by
+Indigenous status, remoteness, state and territory and over time. See data tables for Module 3 – Tables 3.2.2a and 3.2.2b.
+Potentially preventable hospitalisations
+Potentially preventable hospitalisations are hospitalisations for conditions that can be effectively treated in a non-hospital system.
+These hospitalisations serve as a proxy measure for access to timely, effective and appropriate primary and community-based care.
+For more information, see Measure 3.07: Selected potentially preventable hospital admissions - external site opens in new window on
+the Aboriginal and Torres Strait Islander Health Performance Framework.
+The figure is a set of interactive graphs showing the rate of potentially preventable hospitalisations (disaggregated by hospitalisations
+for acute conditions, chronic conditions, vaccine preventable conditions and total potentially preventable hospitalisations), by
+Indigenous status, age group, sex, state and territory, remoteness and over time. It also shows the rate of potentially preventable
+hospitalisations by condition type. See data tables for Module 3 – Tables 3.2.3a, 3.2.3b, 3.2.3c and 3.2.3d.
+References
+AIHW (Australian Institution of Health and Welfare) 2022. Australia’s mothers and babies. Cat. No. PER 101. Canberra: AIHW. Accessed
+18 May 2023.
+AIHW 2023. Eye health measures for Aboriginal and Torres Strait Islander people 2022. Cat. No. IHW 271. Canberra: AIHW. Accessed 18
+May 2023.
+Productivity Commission 2023. Socioeconomic outcome area 2: Aboriginal and Torres Strait Islander children are born healthy and
+strong - external site opens in new window. Closing the Gap Information Repository website. Canberra: Productivity Commission.
+Accessed 25 May 2023.
+
+3.3 Hospital services
+
+There are various measures that can be used to assess access to hospital services. Emergency department waiting times are one
+indicator of the accessibility of hospital services as they reflect how long patients have to wait for urgent medical attention, or to
+receive care as an admitted hospital patient. Access to medical procedures while in hospital are another indicator as studies have
+shown that while Aboriginal and Torres Strait Islander people are more likely to be hospitalised than other Australians, they are less
+likely to receive certain medical or surgical procedures. The data on waiting times for elective surgery also show that Indigenous
+Australians often wait longer to receive surgery.
+Waiting times for almost all elective procedures became shorter between 2020–21 and 2021–22. However, as part of the early
+response to COVID-19, restrictions were placed on elective surgery in 2019–20, which led to longer waiting times for most intended
+procedures in 2020–21 (AIHW 2023).
+
+Access to hospital procedures
+The figure is a set of interactive graphs showing the proportion of hospitalisations with a procedure report, by Indigenous status, age,
+sex, remoteness, state and territory, principal diagnosis and over time. See data tables for Module 3 – Tables 3.3.1a, 3.3.1b and 3.3.1c.
+Waiting times for elective surgery
+The figure is a set of interactive graphs showing admissions for elective surgery, days waited at the 50th percentile, days waited at the
+90th percentile and per cent who waited greater than 365 days, by Indigenous status and state and territory. See data tables for
+Module 3 – Tables 3.3.2a and 3.3.2b.
+
+
+
+
+Emergency department waiting times
+The figure is a set of interactive graphs showing the median waiting time (minutes) and per cent seen on time for emergency
+department presentations by Indigenous status, triage category and state and territory. See data tables for Module 3 – Tables 3.3.3a
+and 3.3.3b.
+
+
+
+
+References
+AIHW (Australian Institute of Health and Welfare) 2022a. Elective surgery. MyHospitals. Canberra: AIHW. Viewed 7 February 2023.
+AIHW 2022b. Emergency department care. MyHospitals. Canberra: AIHW. Viewed 7 February 2023.
+
+3.4 Specialist services
+The Australian health system provides specialist treatment services to help people with a range of health concerns. Data are reported
+on specialist services claimed through the Medical Benefits Schedule (MBS), and on treatment of kidney failure, rheumatic heart
+disease and cataract surgery.
+The MBS data presented here was derived using the Voluntary Indigenous Identifier (VII). Current VII data were not available in time for
+this report and therefore these measures have not been updated. For more information about the VII, see Voluntary Indigenous
+Identifier (VII) Framework - external site opens in new window on the Department of Health and Aged Care website.
+
+MBS specialist services
+This measure is calculated using VII data, which has not been updated. For a complete list of what data were available for the 2023
+update, see Technical notes.
+The figure is a set of interactive graphs showing the rate of MBS specialist services claimed, by Indigenous status, age group, service
+type and over time. See data tables for Module 3 – Tables 3.4.1a, 3.4.1b and 3.4.1c.
+
+
+
+
+Treatment of kidney failure
+The figure is a set of interactive graphs showing the treatment of kidney failure (either dialysis or transplant) by Indigenous status. See
+data tables for Module 3 – Table 3.4.2.
+
+
+
+
+Rheumatic heart disease
+The figure is a set of interactive graphs showing various indicators relating to Rheumatic heart disease, including registered cases, and
+proportion receiving prescribed penicillin doses, by Indigenous status. All data is only for Queensland, Western Australia, South
+Australia and Northern Territory. See data tables for Module 3 – Tables 3.4.3a, 3.4.3b.
+For more information on rheumatic heart disease, see AIHW reports Acute rheumatic fever and rheumatic heart disease in Australia
+2017–2021 and Better Cardiac Care measures for Aboriginal and Torres Strait Islander people: seventh national report 2022 (data
+update).
+
+Cataract surgery
+The figure is a set of interactive graphs showing hospitalisation rates for cataract surgery over time, by age (for Indigenous Australians
+only) or Indigenous status. Rates are presented per 1,000,000. See data tables for Module 3 – Tables 3.4.4a, 3.4.4b.
+References
+AIHW (Australian Institute of Health and Welfare) 2023. Acute rheumatic fever and rheumatic heart disease in Australia 2017-2021. Cat.
+no. CVD 99. Canberra: AIHW. Viewed 16 March 2023.
+
+3.5 Overall health system
+
+Avoidable mortality refers to deaths from conditions that are considered avoidable, given timely and effective health care, including
+disease prevention and population health initiatives. Avoidable mortality is one measure of the quality, effectiveness and accessibility
+of the health system. It should be noted, however, that deaths from most conditions are also influenced by factors other than access
+to health system services, including the underlying prevalence of conditions in the community, environmental and social factors, and
+health risk factors.
+
+Avoidable deaths
+The figure is a set of interactive graphs showing potentially avoidable deaths by Indigenous status and age, sex, state and territory,
+cause of death and over time. All data is only for New South Wales, Queensland, Western Australia, South Australia and the Northern
+Territory. See data tables for Module 3 – Tables 3.5.1a, 3.5.1b, 3.5.1c and 3.5.1d.
+For more information, see Measure 1.24: Avoidable and preventable deaths - external site opens in new window on the Aboriginal and
+Torres Strait Islander Health Performance Framework.
+
+Data sources and data gaps
+
+The main data sources for the access to services measures were national data collections, mainly administrative data:
+   Australian and New Zealand Dialysis and Transplant Registry - external site opens in new window
+   Australian Immunisation Register - external site opens in new window
+   BreastScreen Australia data - external site opens in new window
+   Medicare Benefits Schedule data
+   National Hospitals Data Collection
+      National Elective Surgery Waiting Times Data Collection
+      National Hospital Morbidity Database
+      National Non‑admitted Patient Emergency Department Care Database
+   National Mortality Database
+   National Perinatal Data Collection
+   National Rheumatic Heart Disease data collection.
+There were data available for reporting on all measures in this module as they were based on existing national indicators or data
+collections.
+
+                                       Access to health care services: measures and data sources
+  Domains and measures                              Data sources
+  3.1 Preventive health services
+  Rates of immunisation                             Australian Immunisation Register
+  Participation rates for breast screening          BreastScreen Australia data
+  3.2 Primary health care
+  Indigenous health checks                          Medicare Benefits Schedule data
+  Access to antenatal care                          National Perinatal Data Collection
+  Potentially preventable hospitalisations          National Hospital Morbidity Database
+  3.3 Hospital services
+  Access to hospital procedures                     National Hospital Morbidity Database
+  Waiting times for elective surgery                National Elective Surgery Waiting Times Database
+  Emergency department waiting times                National Non-Admitted Patient Emergency Department Care Database
+  3.4 Specialist services
+  Specialist services claimed                       Medicare Benefits Schedule data
+  Treatment of kidney failure                       Australian and New Zealand Dialysis and Transplant Registry
+  Rheumatic heart disease                           Rheumatic Heart Disease data collection
+  Cataract surgery                                  National Hospital Morbidity Database
+  3.5 Overall health system
+  Avoidable mortality                               National Mortality Database
+
+Notes
+The National Hospitals Data Collection includes the major national hospitals databases held by the AIHW. This report includes data
+from the following hospital data collections:
+   The National Hospital Morbidity Database (NHMD), a compilation of episode-level records from admitted patient morbidity data
+   collection systems in Australian public and private hospitals.
+   The National Non-admitted Patient Emergency Department Care Database (NNAPEDCD), a compilation of episode-level records
+   (including waiting times for care) for non-admitted patients registered for care in emergency departments in selected public
+   hospitals.
+   The National Elective Surgery Waiting Times Data Collection (NESWTDC), which holds episode-level information on patients added
+   to or removed from elective surgery waiting lists managed by public hospitals.
+For more information about these hospitals collections and the data quality statements see National Hospitals Data Collection and
+MyHospitals ‘About the Data'.
+See the Aboriginal and Torres Strait Islander Health Performance Framework ‘Data sources and quality’ page for more information on
+AIHW data collections - external site opens in new window and other data collections - external site opens in new window presented in
+this module.
+
+© Australian Institute of Health and Welfare 2025
+Technical notes
+Data availability
+The monitoring framework relies on the availability of source data. At the time of the 2023 release, updated data were available for 26
+measures and unavailable for 22 measures, including 14 for which data are no longer collected.
+
+                                               Module 1: Culturally respectful health care services
+                                                                                                          Latest
+                                                                                              Data
+  Domain               Focus area                  Measure                         Table                  available     Comments
+                                                                                              source
+                                                                                                          data
+                                                                                                                        Data item no
+                       i) Organisational
+  1.1 -                                            Proportion of                                                        longer
+                       commitment to                                                          Online
+  Organisational                                   organisations with a formal                                          collected in
+                       culturally                                                  1.1.1a     Services    2017-18
+  approach and                                     commitment to culturally                                             the Online
+                       respectful and                                                         Report
+  commitment                                       safe health care                                                     Services
+                       safe healthcare
+                                                                                                                        Report
+                                                                                                                        Data item no
+                       i) Organisational
+  1.1 -                                            Proportion of                                                        longer
+                       commitment to                                                          Online
+  Organisational                                   organisations with                                                   collected in
+                       culturally                                                  1.1.1b     Services    2017-18
+  approach and                                     mechanisms for obtaining                                             the Online
+                       respectful and                                                         Report
+  commitment                                       advice on cultural matters                                           Services
+                       safe healthcare
+                                                                                                                        Report
+                       ii) Aboriginal and
+  1.1 -                Torres Strait               Proportion of
+                                                                                              Online
+  Organisational       Islander                    organisations with board
+                                                                                   1.1.2      Services    2021-22       Updated
+  approach and         leadership at               members who were
+                                                                                              Report
+  commitment           Board/Executive             Indigenous
+                       level
+                                                                                                                        Data item no
+  1.2 -                i) Culturally                                                                                    longer
+                                                   Proportion of                              Online
+  Communication        appropriate                                                                                      collected in
+                                                   organisations providing         1.2.1      Services    2017-18
+  and cultural         communication                                                                                    the Online
+                                                   interpreter services                       Report
+  services             resources                                                                                        Services
+                                                                                                                        Report
+                                                                                                                        Data item no
+  1.2 -                                            Proportion of organisation                                           longer
+                       ii) Offers culturally                                                  Online
+  Communication                                    providing cultural services                                          collected in
+                       appropriate                                                 1.2.2      Services    2017-18
+  and cultural                                     (bush medicine, bush                                                 the Online
+                       services                                                               Report
+  services                                         tucker, traditional healing)                                         Services
+                                                                                                                        Report
+                       i) Aboriginal and
+                                                                                              National
+  1.3 - Workforce      Torres Strait
+                                                   Health professionals by                    Health
+  development and      Islander                                                    1.3.1a                 2021          Updated
+                                                   profession type                            Workforce
+  training             participation in
+                                                                                              Dataset
+                       the workforce
+                  i) Aboriginal and        Proportion of full-time
+1.3 - Workforce   Torres Strait            employees who are                              Online
+                                                                              1.3.1b,
+development and   Islander                 Indigenous in Indigenous                       Services         2021-22      Updated
+                                                                              1.3.1c
+training          participation in         primary health care                            Report
+                  the workforce            organisations
+                  ii) Aboriginal and       Rates of higher education
+1.3 - Workforce   Torres Strait            student enrolments and                         Higher
+                                                                              1.3.2a,
+development and   Islander                 completions in health-                         Education        2021         Updated
+                                                                              1.3.2b
+training          workforce                related courses and                            Statistics
+                  development              success rates
+                                                                                          NCVER
+                  ii) Aboriginal and                                                      National
+                                           Vocational education and
+1.3 - Workforce   Torres Strait                                                           Vocational
+                                           training health-related            1.3.2c,
+development and   Islander                                                                Education        2021         Updated
+                                           course                             1.3.2d
+training          workforce                                                               and Training
+                                           enrolment/completions
+                  development                                                             Provider
+                                                                                          Collection
+                                                                                                                        Data item no
+                  iii) Cultural safety     Proportion of                                                                longer
+1.3 - Workforce                                                                           Online
+                  and                      organisations that provide                                                   collected in
+development and                                                               1.3.3       Services         2017-18
+                  responsiveness           cultural orientation for                                                     the Online
+training                                                                                  Report
+                  training for staff       non-Indigenous staff                                                         Services
+                                                                                                                        Report
+                                                                                                                        Data item no
+1.4 - Consumer    i) Client and            Proportion of                                                                longer
+                                                                                          Online
+engagement and    community                organisations that had                                                       collected in
+                                                                              1.4.1       Services         2017-18
+stakeholder       feedback                 client and community                                                         the Online
+                                                                                          Report
+collaboration     mechanisms               feedback mechanisms                                                          Services
+                                                                                                                        Report
+                                           Proportion of                                                                Data item no
+                  ii) Consultation
+1.4 - Consumer                             organisations that had                                                       longer
+                  with Aboriginal                                                         Online
+engagement and                             cultural safety policies                                                     collected in
+                  and Torres Strait                                           1.4.2       Services         2017-18
+stakeholder                                developed in consultation                                                    the Online
+                  Islander                                                                Report
+collaboration                              with communities /                                                           Services
+                  communities
+                                           Indigenous staff                                                             Report
+
+                                          Module 2: Patient experience of health care
+                                                                                                       Latest
+Domain            Focus area             Measure                    Table       Data source            available     Comments
+                                                                                                       data
+                                                                                                                     NATSISS has
+                                                                                                       2014-15       been
+                  i) Interaction                                                NATSISS                              discontinued
+2.1 -                                    How often doctors          2.1.1a,                            (NATSISS)
+                  with health
+Communication                            listened (carefully)       2.1.1b      NATSIHS                2018-19       NATSIHS is run
+                  professionals
+                                                                                                       (NATSIHS)     approximately
+                                                                                                                     every 5-6 years
+                                                                                                                     Data item was
+                  i) Interaction                                                NSW Adult
+2.1 -                                    Opportunity to talk                                                         not collected in
+                  with health                                       2.1.1c      Admitted Patient       2020
+Communication                            to a doctor or nurse                                                        the 2021
+                  professionals                                                 Survey
+                                                                                                                     collection period
+                                        Hospital patient
+                                        experience, received                                              Data item was
+                    i) Interaction                                        NSW Adult
+2.1 -                                   support or offer of                                               not collected in
+                    with health                                 2.1.1d    Admitted Patient    2020
+Communication                           support from an                                                   the 2021
+                    professionals                                         Survey
+                                        Aboriginal Health                                                 collection period
+                                        Worker
+                    ii) Information     How often doctor(s)
+                                                                                                          No updated
+2.1 -               provided in a       explained things in a
+                                                                2.1.2a    NATSIHS             2018-19     data available
+Communication       way that could      way that could be
+                                                                                                          for 2023 release
+                    be understood       understood
+                    ii) Information     Maternity clinic                  Qld Maternity
+2.1 -               provided in a       offered culturally                Outpatient Clinic               Survey has been
+                                                                2.1.2b                        2017
+Communication       way that could      appropriate                       Experience                      discontinued
+                    be understood       resources                         Survey
+                                        Overall quality of
+                                                                          Australian
+2.1 -               iii) Quality of     relationship with
+                                                                2.1.3     Reconciliation      2022        Updated
+Communication       relationship        doctors, nurses and
+                                                                          Barometer
+                                        other medical staff
+                                                                                                          NATSISS has
+                                                                                              2014-15     been
+                                        How often doctors                 NATSISS                         discontinued
+2.2 - Treated                                                   2.2.1a,                       (NATSISS)
+                    i) Respect          showed respect for
+respectfully                                                    2.2.1b    NATSIHS             2018-19     NATSIHS is run
+                                        what was said
+                                                                                              (NATSIHS)   approximately
+                                                                                                          every 5-6 years
+2.2 - Treated       ii) Trust and                                                                         Survey has been
+                                        Trust in hospitals      2.2.2a    NATSISS             2014-15
+respectfully        confidence                                                                            discontinued
+                                        Overall levels of
+                                                                          Australian
+2.2 - Treated       ii) Trust and       trust with doctors,
+                                                                2.2.2b    Reconciliation      2022        Updated
+respectfully        confidence          nurses and medical
+                                                                          Barometer
+                                        staff
+                    iii) Staff were     Health care staff                 NSW Adult
+2.2 - Treated
+                    polite and          were polite and         2.2.3     Admitted Patient    2021        Updated
+respectfully
+                    courteous           welcoming at arrival              Survey
+                    iv) Respect for     Cultural or religious             NSW Adult
+2.2 - Treated
+                    cultural or         beliefs were            2.2.4a    Admitted Patient    2021        Updated
+respectfully
+                    religious beliefs   respected                         Survey
+                                        Midwife/doctor                    Qld Maternity
+                    iv) Respect for
+2.2 - Treated                           checked if wanted                 Outpatient Clinic               Survey has been
+                    cultural or                                 2.2.4b                        2017
+respectfully                            cultural practices in             Experience                      discontinued
+                    religious beliefs
+                                        birthing plan                     Survey
+                                                                                                          Data item was
+                    iv) Respect for     Special dietary                   NSW Adult
+2.2 - Treated                                                                                             not collected in
+                    cultural or         needs/suitability of    2.2.4c    Admitted Patient    2020
+respectfully                                                                                              the 2021
+                    religious beliefs   food                              Survey
+                                                                                                          collection period
+2.3 - Unfair        i) Unfair
+                                        Treated unfairly by                                               Survey has been
+treatment and       treatment and                               2.3.1a    AATSIHS             2012-13
+                                        healthcare staff                                                  discontinued
+cultural barriers   discrimination
+                                                 Patient or family
+  2.3 - Unfair            i) Unfair              racially                            Australian
+  treatment and           treatment and          discriminated by          2.3.1b    Reconciliation     2022        Updated
+  cultural barriers       discrimination         doctors, nurses or                  Barometer
+                                                 medical staff
+                          ii) Avoided
+  2.3 - Unfair                                   Avoid seeking health
+                          health care due                                                                           Survey has been
+  treatment and                                  care for being            2.3.2     AATSIHS            2012-13
+                          to poor                                                                                   discontinued
+  cultural barriers                              treated unfairly
+                          treatment
+                          iii) Did not           Did not access
+  2.3 - Unfair                                                                                                      NATSIHS is run
+                          access health          health services
+  treatment and                                                            2.3.3     NATSIHS            2018-19     approximately
+                          care due to            when needed due to
+  cultural barriers                                                                                                 every 5-6 years
+                          cultural reasons       cultural reasons
+                          i) Involved in         Involved in decisions               NSW Adult
+  2.4 -
+                          health care            about care or             2.4.1     Admitted Patient   2021        Updated
+  Empowerment
+                          decisions              treatment                           Survey
+                          ii) Provided with                                                                         Data item no
+                                                 Received                            NSW Adult
+  2.4 -                   information                                                                               longer collected
+                                                 information about         2.4.2     Admitted Patient   2014
+  Empowerment             about patient                                                                             through this
+                                                 rights as a patient                 Survey
+                          rights                                                                                    survey
+                          i) Family                                                                                 Data item no
+                                                 Family had an                       NSW Adult
+  2.5 - Family            members were                                                                              longer collected
+                                                 opportunity to talk       2.5.1     Admitted Patient   2014
+  inclusion               informed and                                                                              through this
+                                                 to a doctor                         Survey
+                          included                                                                                  survey
+                          i) Family
+                                                 Right amount of                     NSW Adult
+  2.5 - Family            members were
+                                                 information given to      2.5.2     Admitted Patient   2021        Updated
+  inclusion               informed and
+                                                 family                              Survey
+                          included
+                                                 Hospitalisations
+                                                 where patients left                 National
+                          i) Admitted                                      2.6.1a
+  2.6 – Leave                                    against medical                     Hospital
+                          patient leave                                                                 2020-21     Updated
+  events                                         advice/were               2.6.1b    Morbidity
+                          events
+                                                 discharged at own                   Database
+                                                 risk
+                                                 Public hospital                     National Non-
+                          ii) Emergency          emergency                           admitted Patient   2020–21
+  2.6 - Leave
+                          department             department patients       2.6.2     Emergency          and 2021–   Updated
+  events
+                          leave events           who left at their own               Department         22
+                                                 risk or did not wait                Care Database
+
+Note: AATSIHS – Australian Aboriginal and Torres Strait Islander Health Survey; NATSIHS – National Aboriginal and Torres Strait
+Islander Health Survey; NATSISS – National Aboriginal and Torres Strait Islander Social Survey.
+
+                                                     Module 3: Access to health care services
+                                                                                                        Latest
+  Domain              Focus area              Measure                    Table      Data source         available   Comments
+                                                                                                        data
+  3.1 -                                                                             Australian
+                                              Proportion of              3.1.1a,
+  Preventive          i) Rates of                                                   Childhood
+                                              children fully             3.1.1b,                        2021        Updated
+  health              immunisation                                                  Immunisation
+                                              immunised                  3.1.1c
+  services                                                                          Register
+3.1 -
+                ii) Participation
+Preventive                          BreastScreen            3.1.2a,   BreastScreen
+                rates for breast                                                           2019-2020   Updated
+health                              participation rates     3.1.2b    Australia
+                screening
+services
+                                    Proportion of
+                                                            3.2.1a,
+3.2 -                               Indigenous
+                i) Indigenous                               3.2.1b,   Medicare Benefits
+Primary                             Australians who had                                    2020–21     Updated
+                health checks                               3.2.1c,   Schedule data
+health care                         an MBS Indigenous
+                                                            3.2.1d
+                                    health assessment
+                                    Proportion of women
+3.2 -
+                ii) Access to       who gave birth who      3.2.2a,   National Perinatal
+Primary                                                                                    2020        Updated
+                antenatal care      attended five or more   3.2.2b    Data Collection
+health care
+                                    antenatal visits
+                                                            3.2.3a,
+3.2 -           iii) Potentially    Rates of potentially              National Hospital
+                                                            3.2.3b,
+Primary         preventable         preventable                       Morbidity            2020-21     Updated
+                                                            3.2.3c,
+health care     hospitalisations    hospitalisations                  Database
+                                                            3.2.3d
+3.3 -           i) Access to        Proportion of           3.3.1a,   National Hospital
+Hospital        hospital            hospitalisations with   3.3.1b,   Morbidity            2020-21     Updated
+services        procedures          a procedure reported    3.3.1c    Database
+                                    Waiting times for                 National Elective
+3.3 -           ii) Waiting times
+                                    admissions from         3.3.2a,   Surgery Waiting
+Hospital        for elective                                                               2021-22     Updated
+                                    waiting lists for       3.3.2b    Times Data
+services        surgery
+                                    elective surgery                  Collection
+                                    Proportion of                     National Non-
+3.3 -           iii) Emergency      emergency                         admitted
+                                                            3.3.3a,
+Hospital        department          presentations seen                Emergency            2021-22     Updated
+                                                            3.3.3b
+services        waiting times       on time, by triage                Department Care
+                                    category                          Database
+                                                                                                       This measure is
+3.4 -                                                       3.4.1a,                                    calculated using
+                i) MBS specialist   MBS specialist                    Medicare Benefits
+Specialist                                                  3.4.1b,                        2017-18     VII data, which
+                services            services claimed                  Schedule data
+services                                                    3.4.1c                                     has not been
+                                                                                                       updated
+                                                                      Australian and
+3.4 -                                                                 New Zealand
+                ii) Treatment of    Total patients with
+Specialist                                                  3.4.2     Dialysis and         2021        Updated
+                kidney failure      kidney failure
+services                                                              Transplant
+                                                                      Registry
+                                    Incidence and                     National
+3.4 -
+                iii) Rheumatic      treatment of            3.4.3a,   Rheumatic Heart
+Specialist                                                                                 2017-2021   Updated
+                heart disease       rheumatic heart         3.4.3b    Disease data
+services
+                                    disease                           collection
+3.4 -                               Rates of                          National Hospital
+                iv) Cataract                                3.4.4a,
+Specialist                          hospitalisation for               Morbidity            2020-21     Updated
+                surgery                                     3.4.4b
+services                            cataract surgery                  Database
+                                                            3.5.1a,
+3.5 - Overall
+                i) Avoidable                                3.5.1b,   National Mortality
+health                              Avoidable mortality                                    2021        Updated
+                deaths                                      3.5.1c,   Database
+system
+                                                            3.5.1d
+Note: VII – Voluntary Indigenous identifier.
+
+Supplementary material
+Cultural safety-related questions from the OSR data collection
+    Supplementary material (PDF 1.6MB)
+
+
+© Australian Institute of Health and Welfare 2025
+Data
+Data tables: Module 1 - Culturally respectful services
+Data
+XLSX 149kB
+
+
+Data tables: Module 2 - Patient experience of health care
+Data
+XLSX 171kB
+
+
+Data tables: Module 3 - Access to health care services
+Data
+XLSX 299kB
+
+
+© Australian Institute of Health and Welfare 2025
+Archived content
+2022 Cultural safety in health care for Indigenous Australians: monitoring framework
+Resource
+PDF 3.5MB
+
+
+2022 Data tables: Module 1 - Culturally respectful services
+Data
+XLSX 153kB
+
+
+2022 Data tables: Module 2 - Patient experience of health care
+Data
+XLSX 163kB
+
+
+2022 Data tables: Module 3 - Access to health care services
+Data
+XLSX 278kB
+
+
+2021 Cultural safety in health care for Indigenous Australians: monitoring framework
+Resource
+PDF 3.1MB
+
+
+2021 Data tables: Module 1 - Cultural respectful services
+Data
+XLSX 152kB
+
+
+2021 Data tables: Module 2 - Patient experience of health care
+Data
+XLSX 179kB
+
+
+2021 Data tables: Module 3 - Access to health care services
+Data
+XLSX 263kB
+
+
+2019 Cultural safety in health care for Indigenous Australians: monitoring framework
+Resource
+PDF 2MB
+
+
+2019 Data tables: Module 1 - Culturally respectful services
+Data
+XLSX 133kB
+
+
+© Australian Institute of Health and Welfare 2025
+

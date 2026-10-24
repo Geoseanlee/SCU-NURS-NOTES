@@ -1,0 +1,16 @@
+Source: https://scu.h5p.com/content/1291545184088018309
+Type: activity text extraction (full data in JSON)
+
+Biles, B., & Biles, J. (Eds.) (2020). Aboriginal and Torres Strait Islander Peoples' Health and Wellbeing. Docklands, Vic: Oxford University Press.
+Curtis, E., Jones, R., Tipene-Leach, D., Walker, C., Loring, B., Paine, S.-J., & Reid, P. (2019). Why cultural safety rather than cultural competency is required to achieve health equity: a literature review and recommended definition. International Journal for Equity in Health, 18(1), 174. doi:10.1186/s12939-019-1082-3
+Durey, A., Thompson, S. C., & Wood, M. (2012). Time to bring down the twin towers in poor Aboriginal hospital care: Addressing institutional racism and misunderstandings in communication. Internal Medicine Journal, 42(1), 17–22. DOI: 10.1111/j.1445-5994.2011.02628.x
+Gatwiri, K., Rotumah, D., & Rix, E. (2021). BlackLivesMatter in Healthcare: Racism and Implications for Health Inequity among Aboriginal and Torres Strait Islander Peoples in Australia. International Journal of Environmental Research and Public Health, 18(9), 4399. Retrieved from https://www.mdpi.com/1660-4601/18/9/439
+Lokugamage , A. U., Rix, E. F., Fleming, T., Khetan, T., Meredith, A., & Hastie, C. R. (2021). Translating Cultural Safety to the UK. BMJ Journal of Medical Ethics, 1-8. doi:0.1136/medethics-2020-107017
+Nursing Council of New Zealand. (1992). Kawa Whakaruruhau: Guidelines for Nursing and Midwifery Education; Nursing Council of New Zealand: Wellington, New Zealand.
+Rix, E., Moran, C., Kapeen, R., & Wilson, S. (2016). Building cultural bridges and two-way understanding: working with Australian Aboriginal people within mainstream renal services. Renal Society of Australasia Journal, 12(12-17). https://www.renalsociety.org/public/6/files/documents/RSAJ/2016%2003/03%20rix.pdf
+Tascon, S., & Gatwiri, K. (2020). Towards Cultural Humility: Theorising Cultural Competence as Institutionalised Whiteness. Soc. Work Policy Stud., 3, 1–16.
+Taylor, K., & Thompson Guerin, P. (2019). Health care and Indigenous Australians: Cultural safety in practice (3rd edn). South Yarra: Palgrave Macmillan, pp. 27-28.
+
+Untitled Text
+
+References

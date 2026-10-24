@@ -1,0 +1,15 @@
+Source: https://scu.h5p.com/content/1291541836106763999
+Type: activity text extraction (full data in JSON)
+
+Carson, B., Dunbar, T., Chenhall, R., & Baille, R. (2007). Social determinants of Indigenous health. Crows Nest: Allen & Unwin.
+Braveman, P., & Gottlieb, L. (2014). The Social Determinants of Health: It's Time to Consider the Causes of the Causes. Public Health Reports, 129(1_suppl2), 19-31. doi:10.1177/00333549141291s206
+Dahlgren, G., & Whitehead M. (1991). Policies and strategies to promote social equity in health. Stockholm, Sweden: Institute for Futures Studies.
+Lowitja Institute. (2014). Cultural Determinants roundtable: Background Paper. The Lowitja Institute: Melbourne.
+Rix, E., Barclay, L., & Wilson, S. (2014). Can a white nurse get it?  ‘Reflexive practice’ and the non-Indigenous clinician/researcher working with Aboriginal people. Journal of Rural and Remote Health, 4: 2679. Retrieved from http://www.rrh.org.au
+Verbunt, E., Luke, J., Paradies, Y., Bamblett, M., Salamone, C., Jones, A., & Kelaher, M. (2021). Cultural determinants of health for Aboriginal and Torres Strait Islander people – a narrative overview of reviews. International Journal for Equity in Health, 20(1), 181. doi:10.1186/s12939-021-01514-2
+Warin, M., Kowal, E., & Meloni, M. (2020). Indigenous Knowledge in a Postgenomic Landscape: The Politics of Epigenetic Hope and Reparation in Australia. Science, Technology, & Human Values, 45(1), 87-111. doi:10.1177/0162243919831077
+World Health Organization. (2021). Social determinants of health. Retrieved 21/12/21 from: https://www.who.int/news-room/fact-sheets/detail/commercial-determinants-of-health
+
+Untitled Text
+
+References

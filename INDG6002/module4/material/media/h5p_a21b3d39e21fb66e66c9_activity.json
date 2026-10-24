@@ -1,0 +1,30 @@
+{
+  "source": "https://scu.h5p.com/content/1291545184088018309",
+  "assetBase": "h5p_a21b3d39e21fb66e66c9_assets/",
+  "contents": [
+    {
+      "title": "indg6002_m4_references",
+      "library": "H5P.Accordion 1.0",
+      "params": {
+        "panels": [
+          {
+            "content": {
+              "params": {
+                "text": "<p>Biles, B., &amp; Biles, J. (Eds.) (2020). <em>Aboriginal and Torres Strait Islander Peoples' Health and Wellbeing</em>. Docklands, Vic: Oxford University Press.</p>\n\n<p>Curtis, E., Jones, R., Tipene-Leach, D., Walker, C., Loring, B., Paine, S.-J., &amp; Reid, P. (2019). Why cultural safety rather than cultural competency is required to achieve health equity: a literature review and recommended definition. <em>International Journal for Equity in Health</em>, <em>18</em>(1), 174. doi:10.1186/s12939-019-1082-3</p>\n\n<p>Durey, A., Thompson, S. C., &amp; Wood, M. (2012). Time to bring down the twin towers in poor Aboriginal hospital care: Addressing institutional racism and misunderstandings in communication. <em>Internal Medicine Journal</em>, <em>42</em>(1), 17–22. DOI: 10.1111/j.1445-5994.2011.02628.x</p>\n\n<p>Gatwiri, K., Rotumah, D., &amp; Rix, E. (2021). BlackLivesMatter in Healthcare: Racism and Implications for Health Inequity among Aboriginal and Torres Strait Islander Peoples in Australia. <em>International Journal of Environmental Research and Public Health</em>, <em>18</em>(9), 4399. Retrieved from <a href=\"https://www.mdpi.com/1660-4601/18/9/439\" target=\"_blank\">https://www.mdpi.com/1660-4601/18/9/439</a></p>\n\n<p>Lokugamage , A. U., Rix, E. F., Fleming, T., Khetan, T., Meredith, A., &amp; Hastie, C. R. (2021). Translating Cultural Safety to the UK. <em>BMJ Journal of Medical Ethics</em>, 1-8. doi:0.1136/medethics-2020-107017</p>\n\n<p>Nursing Council of New Zealand. (1992). <em>Kawa Whakaruruhau: Guidelines for Nursing and Midwifery Education</em>; Nursing Council of New Zealand: Wellington, New Zealand.</p>\n\n<p>Rix, E., Moran, C., Kapeen, R., &amp; Wilson, S. (2016). Building cultural bridges and two-way understanding: working with Australian Aboriginal people within mainstream renal services. <em>Renal Society of Australasia Journal</em>, <em>12</em>(12-17). <a href=\"https://www.renalsociety.org/public/6/files/documents/RSAJ/2016%2003/03%20rix.pdf\" target=\"_blank\">https://www.renalsociety.org/public/6/files/documents/RSAJ/2016%2003/03%20rix.pdf</a></p>\n\n<p>Tascon, S., &amp; Gatwiri, K. (2020). Towards Cultural Humility: Theorising Cultural Competence as Institutionalised Whiteness. <em>Soc. Work Policy Stud.</em>, <em>3</em>, 1–16.</p>\n\n<p>Taylor, K., &amp; Thompson Guerin, P. (2019). <em>Health care and Indigenous Australians: Cultural safety in practice </em>(3rd edn). South Yarra: Palgrave Macmillan, pp. 27-28.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "2f29edc1-70d4-4144-8eb9-a19a1e56c5ea",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "References"
+          }
+        ],
+        "hTag": "h2"
+      }
+    }
+  ]
+}

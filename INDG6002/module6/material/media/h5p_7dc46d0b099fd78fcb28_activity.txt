@@ -1,0 +1,14 @@
+Source: https://scu.h5p.com/content/1291583087996968729
+Type: activity text extraction (full data in JSON)
+
+National Aboriginal Community Controlled Health Organisation. (1992-2022). Our Story. Retrieved on 25/1/2022 from https://www.naccho.org.au/our-story
+Schultz, R., Abbott, T., Yamaguchi, J., & Cairney, S. (2018). Indigenous land management as primary health care: qualitative analysis from the Interplay research project in remote Australia. BMC Health Services Research, 18(1), 960. doi:10.1186/s12913-018-3764-8
+Taylor, K., & Thompson Guerin, P. (2019). Health care and Indigenous Australians: cultural safety in practice (3rd ed.). South Yarra: Palgrave Macmillan.
+World Health Organization. (1978). Declaration of Alma-Ata on Primary Health Care. Paper presented at the International Conference on Primary Health Care, Alma-Ata, USSR.
+World Health Organization. (2013). What you need to know about Health in All Policies. Retrieved 25/1/2022 from: https://www.who.int/social_determinants/publications/health-policies-manual/key-messages-en.pdf
+World Health Organization. (2017). Health Promotion. Retrieved from http://www.who.int/healthpromotion/conferences/previous/ottawa/en/
+World Health Organization. (n.d).  Primary Health Care. Retrieved 19/1/2022 from: https://www.who.int/health-topics/primary-health-care#tab=tab_1
+
+Untitled Text
+
+References

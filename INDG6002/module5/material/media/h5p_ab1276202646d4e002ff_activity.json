@@ -1,0 +1,30 @@
+{
+  "source": "https://scu.h5p.com/content/1291582409248723599",
+  "assetBase": "h5p_ab1276202646d4e002ff_assets/",
+  "contents": [
+    {
+      "title": "indg6002_m5_references",
+      "library": "H5P.Accordion 1.0",
+      "params": {
+        "panels": [
+          {
+            "content": {
+              "params": {
+                "text": "<p>Green, S., &amp; Bennett, B. (2018). Wayanha: A Decolonised Social Work. <em>Australian Social Work</em>, <em>71</em>(3), 261-264. doi:10.1080/0312407X.2018.1469654</p>\n\n<p>McCallum, Meadows, M., Waller, L., Dunne Breen, M.,&nbsp; &amp; Reid, H. (2012). <em>The Media &amp; Indigenous Policy: How news media and mediatization practice impact on Indigenous policy</em>. University of Canberra.</p>\n\n<p>McCausland, R. (2004). Special Treatment - the Representation of Aboriginal and Torres Strait Islander People in the Media. <em>Journal of Indigenous Policy</em>, 4, 85-98.&nbsp; <a href=\"http://www.austlii.edu.au/au/journals/JlIndigP/2004/16.html\" target=\"_blank\">http://www.austlii.edu.au/au/journals/JlIndigP/2004/16.html</a></p>\n\n<p>Sherwood, J. (2009). Who is not coping with colonization? Laying out the map for decolonization. <em>Australasian Psychiatry</em>,<em> 17</em>(s1) :S24-S7.</p>\n\n<p>Stoneham, M.J., Goodman, J., &amp; Daube, M. (2014). The Portrayal of Indigenous Health in Selected Australian Media. <em>The International Indigenous Policy Journal</em>, <em>5</em>(1) . <a href=\"https://ir.lib.uwo.ca/iipj/vol5/iss1/5\" target=\"_blank\">https://ir.lib.uwo.ca/iipj/vol5/iss1/5</a> DOI: 10.18584/iipj.2014.5.1.5</p>\n\n<p>Sweet, M. (Producer). (2009). Is the media part of the Aboriginal health problem, and part of the solution? <em>Inside story: Current affair and culture</em>. <a href=\"http://inside.org.au/part-of-theaboriginal-health-problem/\" target=\"_blank\">http://inside.org.au/part-of-theaboriginal-health-problem/</a></p>\n\n<p>Walter, M., &amp; Baltra-Ulloa, J. (2019). Australian social work is white. In B. Bennett, &amp; Green, S (Ed.), <em>Our Voices: Aboriginal social work </em>(2nd ed.). South Yarra: Red Globe Press.</p>\n\n<p>Yellow Bird, M. (2008). 'Postscript - terms of endearment: A brief dictionary for decolonizing social work with Indigenous peoples'. In M. Gray, Coates, J, &amp; Yellow Bird, M., (Eds.), <em>Indigenous Social Work around the World </em>(pp. 275-292). Burlington VT: Ashgate.</p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "2f29edc1-70d4-4144-8eb9-a19a1e56c5ea",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "References"
+          }
+        ],
+        "hTag": "h2"
+      }
+    }
+  ]
+}

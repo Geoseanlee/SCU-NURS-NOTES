@@ -1,0 +1,30 @@
+{
+  "source": "https://scu.h5p.com/content/1291583087996968729",
+  "assetBase": "h5p_7dc46d0b099fd78fcb28_assets/",
+  "contents": [
+    {
+      "title": "indg6002_m6_references",
+      "library": "H5P.Accordion 1.0",
+      "params": {
+        "panels": [
+          {
+            "content": {
+              "params": {
+                "text": "<p>National Aboriginal Community Controlled Health Organisation. (1992-2022). <em>Our Story</em>. Retrieved on 25/1/2022 from <a href=\"https://www.naccho.org.au/our-story\" target=\"_blank\">https://www.naccho.org.au/our-story</a></p>\n\n<p>Schultz, R., Abbott, T., Yamaguchi, J., &amp; Cairney, S. (2018). Indigenous land management as primary health care: qualitative analysis from the Interplay research project in remote Australia. <em>BMC Health Services Research</em>, <em>18</em>(1), 960. doi:10.1186/s12913-018-3764-8</p>\n\n<p>Taylor, K., &amp; Thompson Guerin, P. (2019). <em>Health care and Indigenous Australians: cultural safety in practice</em> (3rd ed.). South Yarra: Palgrave Macmillan.</p>\n\n<p>World Health Organization. (1978). <em>Declaration of Alma-Ata on Primary Health Care</em>. Paper presented at the International Conference on Primary Health Care, Alma-Ata, USSR.</p>\n\n<p>World Health Organization. (2013). <em>What you need to know about Health in All Policies</em>. Retrieved 25/1/2022 from: <a href=\"https://www.who.int/social_determinants/publications/health-policies-manual/key-messages-en.pdf\" target=\"_blank\">https://www.who.int/social_determinants/publications/health-policies-manual/key-messages-en.pdf</a></p>\n\n<p>World Health Organization. (2017). <em>Health Promotion</em>. Retrieved from <a href=\"http://www.who.int/healthpromotion/conferences/previous/ottawa/en/\" target=\"_blank\">http://www.who.int/healthpromotion/conferences/previous/ottawa/en/</a></p>\n\n<p>World Health Organization. (n.d).&nbsp; <em>Primary Health Care</em>. Retrieved 19/1/2022 from: <a href=\"https://www.who.int/health-topics/primary-health-care#tab=tab_1\" target=\"_blank\">https://www.who.int/health-topics/primary-health-care#tab=tab_1</a></p>\n"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "subContentId": "2f29edc1-70d4-4144-8eb9-a19a1e56c5ea",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Untitled Text"
+              }
+            },
+            "title": "References"
+          }
+        ],
+        "hTag": "h2"
+      }
+    }
+  ]
+}

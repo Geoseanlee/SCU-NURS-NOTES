@@ -1,0 +1,137 @@
+{
+  "source": "https://scu.h5p.com/content/1291552187118073249",
+  "assetBase": "h5p_95117328293069cd140b_assets/",
+  "contents": [
+    {
+      "title": "indg6002_m4_cultural-safety-principles",
+      "library": "H5P.ImageHotspots 1.11",
+      "params": {
+        "hotspots": [
+          {
+            "position": {
+              "x": 50.13333129882812,
+              "y": 16.861825619103772
+            },
+            "alwaysFullscreen": false,
+            "content": [
+              {
+                "params": {
+                  "text": "<p>The need for health practitioners to <strong>reflect on their practice </strong>is a critical aspect of culturally safety practice. Because most practitioners are members of the dominant cultural groups, reflection is critical on how this might impact on people who are members of minority ethnic groups.</p>\n"
+                },
+                "library": "H5P.Text 1.1",
+                "metadata": {
+                  "contentType": "Text",
+                  "license": "U",
+                  "title": "Untitled Text"
+                },
+                "subContentId": "a57dfbd8-d163-472e-b7e7-44df9354e7c3"
+              }
+            ],
+            "header": "Reflect"
+          },
+          {
+            "position": {
+              "x": 40.36001553365465,
+              "y": 36.14177710371864
+            },
+            "alwaysFullscreen": false,
+            "content": [
+              {
+                "params": {
+                  "text": "<p><strong>Talk, ask, engage in dialogue with your client.</strong> Well this may seem to be stating the obvious, however, there are countless examples of encounters where Indigenous patients are spoken about, around and on behalf of, but often not talked to or with. A culturally safe approach will require true and respectful engagement with people to understand their unique needs, beliefs, understandings and preferred ways of doing things. When there is a perceived barrier to conversation, clients may remain unengaged and unempowered. Talking, asking and engaging with Indigenous clients is not always easy, given historical and contemporary negative experiences impacting Indigenous Peoples’ ability to engage with and trust non-Indigenous professionals.</p>\n"
+                },
+                "library": "H5P.Text 1.1",
+                "metadata": {
+                  "contentType": "Text",
+                  "license": "U",
+                  "title": "Untitled Text"
+                },
+                "subContentId": "fe3b9b5e-c4a0-4c7e-b963-7007f1dc80ba"
+              }
+            ],
+            "header": "Engage"
+          },
+          {
+            "position": {
+              "x": 60.040023405657806,
+              "y": 40.44272908689808
+            },
+            "alwaysFullscreen": false,
+            "content": [
+              {
+                "params": {
+                  "text": "<p><strong>Seek to minimise the power differentials between yourself and clients.</strong> Western health care has traditionally been hierarchical in nature, although this is slowly changing. Health professionals occupy positions of power over all their clients with their expert knowledge of what may have brought their patients under their care. Being members of the dominant culture further exacerbates the potential for power imbalances. Consider what may shift these power imbalances in your own practice setting. Think about the way clients are sometimes referred to as ‘non-compliant’, ‘absconders’ and ‘frequent flyers’. These kinds of labels position the professional as the one in power, with clients reduced to simple labels.</p>\n"
+                },
+                "library": "H5P.Text 1.1",
+                "metadata": {
+                  "contentType": "Text",
+                  "license": "U",
+                  "title": "Untitled Text"
+                },
+                "subContentId": "396d2059-2d66-40c1-b6b2-9d995ee5f798"
+              }
+            ],
+            "header": "Power balancing"
+          },
+          {
+            "position": {
+              "x": 41.32001591765481,
+              "y": 62.31355340725473
+            },
+            "alwaysFullscreen": false,
+            "content": [
+              {
+                "params": {
+                  "text": "<p><strong>Undertake a process of decolonisation.</strong> This is a somewhat controversial aspect of the New Zealand model that came in for some criticism in the press. It is this element, however, that separates cultural safety from all other approaches, acknowledging the key role of a colonising history in contemporary health outcomes for Indigenous Peoples.</p>\n"
+                },
+                "library": "H5P.Text 1.1",
+                "metadata": {
+                  "contentType": "Text",
+                  "license": "U",
+                  "title": "Untitled Text"
+                },
+                "subContentId": "7f4e6676-58b7-409f-86ed-e3480487f027"
+              }
+            ],
+            "header": "Decolonisation"
+          },
+          {
+            "position": {
+              "x": 59.440023165657706,
+              "y": 65.59579598940014
+            },
+            "alwaysFullscreen": false,
+            "content": [
+              {
+                "params": {
+                  "text": "<p><strong>Ensure you do not diminish, demean, or disempower others through your actions.</strong> Sometimes it is easier to identify culturally unsafe practice rather than it is to identify culturally safe approaches. Both, however, require a level of self-awareness and willingness to critique practice and systems. Actions can include subtleties of body language, and how you say things and what you say, as well as more overt behaviours.</p>\n"
+                },
+                "library": "H5P.Text 1.1",
+                "metadata": {
+                  "contentType": "Text",
+                  "license": "U",
+                  "title": "Untitled Text"
+                },
+                "subContentId": "6e9dbe63-87d1-4537-aa24-ab99671c1739"
+              }
+            ],
+            "header": "Cultural Respect"
+          }
+        ],
+        "closeButtonLabel": "Close",
+        "image": {
+          "path": "images/image-61fa0bf4c603d.png",
+          "mime": "image/png",
+          "copyright": {
+            "license": "U"
+          },
+          "width": 960,
+          "height": 571
+        },
+        "globalIconType": "icon",
+        "globalIcon": "info",
+        "globalColor": "#981d99"
+      }
+    }
+  ]
+}

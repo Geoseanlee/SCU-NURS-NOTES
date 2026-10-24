@@ -1,0 +1,619 @@
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/notesSlides/notesSlide27.xml
+27
+
+## ppt/notesSlides/notesSlide28.xml
+28
+
+## ppt/notesSlides/notesSlide29.xml
+29
+
+## ppt/notesSlides/notesSlide30.xml
+30
+
+## ppt/notesSlides/notesSlide31.xml
+31
+
+## ppt/notesSlides/notesSlide32.xml
+32
+
+## ppt/notesSlides/notesSlide33.xml
+33
+
+## ppt/notesSlides/notesSlide34.xml
+34
+
+## ppt/notesSlides/notesSlide35.xml
+35
+
+## ppt/notesSlides/notesSlide36.xml
+36
+
+## ppt/notesSlides/notesSlide37.xml
+37
+
+## ppt/notesSlides/notesSlide38.xml
+38
+
+## ppt/notesSlides/notesSlide39.xml
+39
+
+## ppt/notesSlides/notesSlide40.xml
+40
+
+## ppt/notesSlides/notesSlide41.xml
+41
+
+## ppt/notesSlides/notesSlide42.xml
+42
+
+## ppt/notesSlides/notesSlide43.xml
+43
+
+## ppt/notesSlides/notesSlide44.xml
+44
+
+## ppt/notesSlides/notesSlide45.xml
+45
+
+## ppt/notesSlides/notesSlide46.xml
+46
+
+## ppt/notesSlides/notesSlide47.xml
+47
+
+## ppt/slides/slide1.xml
+Module 6 Tutorial:
+Wellbeing in practice
+INDG6002 Health & Indigenous Peoples
+
+## ppt/slides/slide2.xml
+Warning
+This presentation may include images, voices, stories, and names of people who have passed to the dreaming that may cause sadness or distress to Aboriginal and Torres Strait Islander Peoples
+
+## ppt/slides/slide3.xml
+Overview
+Connections between 
+Aboriginal and Torres Strait Islander 
+health and wellbeing perspectives and the principles of Primary Health Care (PHC) and Health Promotion (HP)
+The roles and work of Aboriginal and Torres Strait Islander Health Workers are described 
+The Aboriginal Community Controlled Health Organisations’ role as a world leader in early Primary Health Care (PHC) is acknowledged 
+Optimal health outcomes 
+for 
+Aboriginal and Torres Strait Islander
+ Peoples
+	The importance of:
+		Country, Culture, and Family and
+	T
+he circular nature and interconnection of your learning journey in this unit.
+ 
+
+## ppt/slides/slide4.xml
+Mapping Module to grass-roots, community-led Indigenous frameworks and approaches
+
+## ppt/slides/slide5.xml
+“A cultural safety approach requires reorientation – from positioning Indigenous peoples as problematic to focus on strengths, capacity and resilience”
+Intergenerational resistance – the strength passed down to resist and recover. … Every positive change – be it a supportive uncle, a strong mother a cultural  program, or a government policy – is like a thread of healing woven into the fabric of Aboriginal peoples’ stories, strengthening them for the future. … Together we can ensure that our children and grandchildren inherit not the pain of our history, but the pride and resilience of our people.
+Abilities, Knowledge, and Capacities 
+Rather than on what we do not know or can not do
+Re-cap: Strengths-based Focus
+
+## ppt/slides/slide6.xml
+Image: IISC 
+EqualityEquity
+ https://dividedwefall.org/equity-vs-equality/
+
+## ppt/slides/slide7.xml
+Alma-Ata
+“The existing gross inequality in the health status of the people
+, particularly between developed and developing countries as well as within countries,
+ is politically, socially and economically unacceptable and is, therefore, of common concern to all countries.”
+Take a few moments to reflect on this statement and write down your reflections on how this applies to Indigenous Peoples in Australia. 
+Principle II (2) of the Declaration of Alma-Ata states:
+
+## ppt/slides/slide8.xml
+Prerequisites for Health 
+
+## ppt/slides/slide9.xml
+Primary Health Care (PHC)
+Primary Health Care is a whole-of-society approach to health that aims at ensuring the highest possible level of health and wellbeing and their equitable distribution by focusing on people’s needs as early as possible along the continuum from health promotion and disease prevention to treatment, rehabilitation, and palliative care, and as close as feasible to people’s everyday environment.
+WHO, 2023 
+
+## ppt/slides/slide10.xml
+Primary Health Care (PHC) continued …
+A primary health care approach includes three components:
+Meeting people’s health needs throughout their lives,
+Addressing the broader determinants of health through multisectoral policy and action, and
+Empowering individuals, families, and communities to take charge of their own health.
+
+## ppt/slides/slide11.xml
+Primary Health Care (PHC) continued …
+PHC’s core principles are: 
+  Essential
+  Accessible
+  Acceptable
+  Affordable 
+Healthcare that is not top-down, but rather based in and directed by community
+PHC’s holistic and social view of health fits well within an Aboriginal & Torres Strait Islander worldview
+
+## ppt/slides/slide12.xml
+Aboriginal and Torres Strait Islander Peoples Definition of:
+Primary Health Care (PHC)
+“Primary health care (PHC)
+ is … generally the first ‘layer’ of health care services that individuals, families and the community encounter that usually provide comprehensive and continuous care. Primary health care includes general practitioners (GPs), Aboriginal and Torres Strait Islander Health Workers and Practitioners, nurses, allied health professionals, midwives, pharmacists and dentists. The services provided as part of primary health care are broad, and include health promotion and education, prevention and screening, early intervention, treatment and management.”
+https://healthinfonet.ecu.edu.au/learn/health-system/primary-health-care/
+
+## ppt/slides/slide13.xml
+NACCHO
+Peak national body representing 146 ACCHO’s in urban, rural and remote areas
+“A process which allows the local Aboriginal community to be involved in its affairs in accordance with whatever protocols or procedures are determined by the Community”
+Objectives
+To ameliorate poverty within the Aboriginal community through self determination
+Promote, develop and expand health services through ACCHS
+Represent and advocate for health service delivery, health information, research, public health, health financing and programs
+To deliver holistic and culturally appropriate health and health-related services to the Aboriginal community.
+https://www.naccho.org.au/acchos/
+
+## ppt/slides/slide14.xml
+Recap: ACCHO
+An ACCHO is a primary health care service initiated and operated by the local Aboriginal community to deliver holistic, comprehensive, and culturally appropriate health care 
+to the community which controls it
+, through a locally elected Board of Management.
+
+## ppt/slides/slide15.xml
+Coomealla Health Aboriginal Corporation’s Community‑Controlled Primary Care Model (Wentworth, NSW)
+What Happened:
+Wentworth lost both GP clinics in 2018 → major access crisis.
+CHAC (an ACCHO) stepped in to establish a new primary care clinic.
+Aboriginal board led all decisions: service design, staffing, priorities.
+Clinic built around holistic, culturally grounded care.
+Salaried GP model + Medicare 19(2) exemption ensured sustainability.
+Outreach and allied health integrated across multiple towns.
+Why It Matters:
+Self‑determination:
+ Indigenous governance drives system redesign.
+Holistic health:
+ Care reflects SEWB, family, culture, and community.
+Cultural safety:
+ Longer appointments, relational practice, trusted environment.
+Strengths‑based health promotion:
+ Delivered through relationships, not pamphlets.
+Community‑controlled solutions:
+ Structural innovation replaces failed mainstream models.
+Improved outcomes:
+ Access, continuity, trust, and community engagement strengthened.
+https://www.chac.org.au/post/welcome-to-coomealla-health-aboriginal-corporation-chac-community-controlled-healthcare-in-dareto
+
+## ppt/slides/slide16.xml
+Aboriginal and Torres Strait Islander Health Workers (AHWs/A&TSIHWs) are critical to improving the health and wellbeing of their people. They bring unique cultural skills and play a vital role that spans clinical intervention, health promotion, and community outreach and liaison. Aboriginal health workers (AHWs/A&TSIHWs) often work at the frontline of PHC and HP activities and services.
+PHC – AHWs/ A&TSIHW s Approach
+
+## ppt/slides/slide17.xml
+Who remembers …
+AHW or A&TSIHW
+AHP
+ALO
+ILO
+AHEO
+ACCHOs
+NACCHO
+Quick reflection…
+
+## ppt/slides/slide18.xml
+Primary Health Care (PHC) continued …
+
+## ppt/slides/slide19.xml
+OTTAWA CHARTER
+Recognition that you can not promote good health without having the fundamental prerequisites of health itself
+Shift towards a population health approach to health promotion
+Recognition that 
+Health is created and lived by people – 
+Indigenous Australians
+Adapted from - First International Conference on Health Promotion; Ottawa, 21 November 1986 
+
+## ppt/slides/slide20.xml
+Health Promotion (HP)
+HP focuses on empowering people to increase control over their health. 
+HP identifies obstacles 
+to the adoption of healthy public health policies aiming to place health at the top of the agenda of policymakers
+. 
+HP co-exists with Primary Health Care (PHC).
+
+## ppt/slides/slide21.xml
+Health Promotion (HP) continued …
+HP is the process of enabling people to increase control over and improve their health. 
+To reach a state of complete physical, mental and social wellbeing, an individual or group must be able to identify and realise:
+aspirations, 
+to satisfy needs, and 
+to change or cope with the environment
+A discussion document on the concept and principles of health promotion 
+Health 
+Promot
+. Int. (1986) 1(1): 73-76
+
+## ppt/slides/slide22.xml
+An Aboriginal Health Promotion (HP) Program
+With an Aboriginal lens:
+Aboriginal health promotion theory and practice include: 
+Aboriginal empowerment approaches (e.g. self-determination principles); 
+A wholistic definition of health that acknowledges the connection to land and spirit;
+Community ownership and localised decision-making; and 
+A recognition of the specific historical, social and cultural context of the community
+
+## ppt/slides/slide23.xml
+Considerations to Health Promotion Among Aboriginal and Torres Strait Islander Peoples
+
+## ppt/slides/slide24.xml
+Continued …
+
+## ppt/slides/slide25.xml
+Health Promotion (HP)
+HP focuses on empowering people to increase control over their health. 
+HP identifies obstacles 
+to the adoption of healthy public health policies aiming to place health at the top of the agenda of policymakers
+. 
+HP co-exists with Primary Health Care (PHC).
+https://www.youtube.com/watch?v=Wd5E0lKMdww
+
+## ppt/slides/slide26.xml
+Activity: Speaking Strength - Positive language in Indigenous Health Promotion 
+In a Group of 5-6 students
+Choose one Health Promotion Program from the list provided
+Research the program:
+What are its main goals?
+Who designs, leads, or controls the program? 
+How does the program show respect for culture and support what the community says is important?
+Create 
+three positive comments
+, on cards provided, that clearly describe the program
+Guiding Questions based on:
+Indigenous leadership and decision‑making
+Strengths and capabilities
+Culture, relationships, and community control
+
+## ppt/slides/slide27.xml
+The video highlights that Aboriginal Health Workers are not just support staff — they are leaders in health promotion and primary health care. Their cultural expertise and frontline role make them vital to closing the health gap and strengthening community wellbeing.
+Critical role
+Unique skills
+Frontline presence
+Wide scope 
+Community connection
+
+## ppt/slides/slide28.xml
+Health Promotion continued …
+
+## ppt/slides/slide29.xml
+A human rights-based approach to health
+Human rights provide a framework for addressing the consequences of health inequality experienced by First Nations Peoples. 
+This includes recognising its underlying causes as well as the interconnections with other issues. 
+Human rights require more than a rhetorical acknowledgement of the existence of inequality and general commitments to overcome this situation at some unspecified time in the future.
+Key elements include: 
+Availability, Accessibility, Non-discrimination
+The 
+National Strategic Framework
+ identifies as a key result area achieving a health system that is more effective and responsive to First Nations Peoples needs.
+
+## ppt/slides/slide30.xml
+Who remembers…
+Aboriginal and Torres Strait Islander health does not mean the physical wellbeing of an individual. 
+It refers to the 
+social
+, 
+emotional
+, and 
+cultural
+ wellbeing of the 
+individual
+, 
+the 
+family
+ and 
+the whole 
+community
+. 
+For Aboriginal and Torres Strait Islander peoples this is seen in terms of the whole-life-view.
+PHC services should strive to achieve a state where every individual is able to achieve their full potential as human beings and must bring about the total wellbeing of their families and communities.
+
+## ppt/slides/slide31.xml
+Summary
+This module explored the authenticity of the Primary Health Care model and Health Promotion and looked at the breadth of roles supporting Indigenous health in the community. 
+The module also recognised the strength drawn from the centrality of culture, partnerships, and collaboration within the context of Indigenous health.
+
+## ppt/slides/slide32.xml
+Special Considerations Support extension
+
+## ppt/slides/slide33.xml
+Assessment 2 – Critical Review
+Title
+Assessment
+ 
+2
+Type
+Critical 
+Review
+Length
+2,200
+ 
+words
+Weighting
+60%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning 
+Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+1. Discuss key concepts of health and wellbeing as determined by Aboriginal people 
+2. Identify key stages of the colonisation process and its relationship to the contemporary health status of Australian Indigenous people 
+3. 
+Analyse
+ the relationship between socio-economic factors and the contemporary health status of Australian Indigenous people 
+4. Explain how primary health care and/or health promotion enhances the wellbeing of Indigenous people and role of the health professional as an agent of social change
+
+## ppt/slides/slide34.xml
+Writing a Critical Review
+https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/quick-guides/writing_a_critical_review.pdf
+
+## ppt/slides/slide35.xml
+Critical Review of the Scenario
+A critical review goes 
+beyond description
+ by examining 
+why
+ something happened, 
+how
+ it influences outcomes, and 
+what it means
+ in a broader context
+In 
+this assessment
+, you are not reviewing a written document—you are critically reviewing a 
+scenario and practice interaction
+.
+Instead of reading an article, you are examining:
+Sarah’s experiences 
+The impacts of colonisation on her contemporary health 
+the cultural context shaping the encounter
+the power dynamics in the consultation
+How primary health care and health promotion can respond 
+
+## ppt/slides/slide36.xml
+Critical Review of the Scenario continued …
+Judge the strengths and weaknesses 
+(of the actions and recommendations in the scenario) – which must be evidence-based 
+Identify bias or assumptions 
+- Analyse privilege, whiteness, and Western norms (how these assumptions affect Sarah’s wellbeing and care) 
+Overall evaluation 
+- Judgement about the quality of practice - Must be linked to theory 
+A critical review 
+always ends with a judgement
+.
+
+## ppt/slides/slide37.xml
+Assessment 2 – Brief
+Rationale – Why this assessment matters
+Apply unit concepts to a 
+realistic health care scenario
+Critically examine 
+culturally safe, strengths‑based, socially responsive
+ practice
+Analyse:
+SEWB concepts
+Impacts of colonisation
+Socioeconomic determinants
+Primary health care & health promotion
+Shift away from deficit views → recognise 
+strengths, resilience, cultural connections, self‑determination
+Understand health professionals as 
+agents of social change
+Explore how culturally safe, equitable care supports 
+Indigenous wellbeing
+Assessment Task – What students must do
+Write a 
+critical review
+ of the Sarah scenario
+Examine how health professionals and services can support 
+Indigenous health and wellbeing
+Apply unit concepts to Sarah’s experiences and the clinic’s 
+service improvements
+Analyse culturally safe, strengths‑based approaches using 
+scholarly evidence
+ (min. 12 sources)
+Evaluate the quality of practice → identify strengths, weaknesses, bias, assumptions
+Provide 
+evidence‑based recommendations
+ for culturally safe care and SEWB‑aligned practice
+Link all analysis to theory: SEWB, cultural safety, colonisation, determinants, PHC, health promotion
+
+## ppt/slides/slide38.xml
+Assessment 2  Scenario
+
+## ppt/slides/slide39.xml
+Example Assessment Structure
+
+## ppt/slides/slide40.xml
+Your response must …
+Assessment Requirements
+Be written in a clear, coherent, and respectful academic style.
+Support your discussion with evidence from:
+Scholarly literature
+Unit materials
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Utilise
+ evidence from a 
+minimum of 12 scholarly sources
+ 
+to support your analysis 
+Use correct terminology and tone when referring to Australian Indigenous people
+Use APA 7
+th
+ document, referencing, and citation styles in this Unit
+Label your submission with your surname and initials, and the assessment task's name, for example:
+		
+SmithJ_Critical
+ Review.docx	
+ You 
+MUST
+ add a footer to your submission.
+Add your name and task type – i.e. 
+SmithJ_CriticalReview
+ on left margin, your student ID, and have page number on the right margin. See the example below:
+		
+ 
+
+## ppt/slides/slide41.xml
+Task Resources & Other Requirements
+
+## ppt/slides/slide42.xml
+INDG6002 GenAI Use
+In Gnibi College units, the use of GenAI in assessments is generally restricted to protect the integrity and authenticity of the learning process. Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning—something that cannot be authentically achieved through AI-generated content.
+
+## ppt/slides/slide43.xml
+GenAI Use Continued … 
+
+## ppt/slides/slide44.xml
+Coversheet & Declaration
+
+## ppt/slides/slide45.xml
+Assessment 2 – Rubric
+5 Criteria
+1: Examine Australian Indigenous concepts of health and wellbeing in the scenario
+2: 
+Analyse
+ the role of Primary Health Care, Health Promotion, and Culturally Safe Recommendations in supporting Australian Indigenous health and wellbeing 
+3: 
+Critical reflection on how historical contexts have shaped socioeconomic determinants and continue to influence the health and wellbeing of Australian Indigenous peoples
+4: 
+Respectful treatment of Australian Indigenous content
+5: 
+Academic Communication style, referencing and citation 
+
+## ppt/slides/slide46.xml
+Questions?
+
+## ppt/slides/slide47.xml
+Thank you for participating and sharing in ‘Health and Indigenous Australian Peoples’. 
+I hope you have enjoyed your learning journey as much as I have enjoyed teaching and learning from your questions and experiences. 
+I wish you well in your future studies and endeavours, as you go into a new day.

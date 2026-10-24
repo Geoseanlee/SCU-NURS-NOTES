@@ -1,0 +1,109 @@
+Formatting your assessment for APA 7th
+General Formatting
+The following guidelines have been set out by the American Psychological Association (n.d.a).
+
+Accepted fonts and sizes
+    •    Times New Roman 12
+    •    Calibri 11
+    •    Arial 11
+    •    Lucinda Sans Unicode 10
+    •    Georgia 11
+    •    Computer Modern 10
+
+
+References
+Use a hanging indent – 0.5in. (or 1.27 cm; this is the automatic default in Microsoft Word). This means the first line will
+align with the left margin and subsequent lines are indented. There should be no extra spacing between reference list
+entries.
+
+Paragraphs
+Paragraphs should begin with a first line indent in which the text of the first line is indented 0.5in. (1.27cm) from the left.
+The tab key can be used for this. Alternatively, in the ‘Home’ tab in Word, find ‘Paragraph' in the top ribbon menu, and
+click on the arrow in the bottom right corner to expand the paragraph options. Then select ‘First-line’ under the
+indentation drop-down menu (See images below). Note: First line indents are not used in an abstract.
+
+
+
+
+Learning Experience Team
+        learningzone@scu.edu.au
+        +61 2 6626 9262                                                                         Last updated: 18.09.2025          p. 1
+Headers
+The header should only consist of the page number, unless otherwise specified by your unit assessor. The page number
+should be in the top right corner, starting on the title page. A running head is no longer required unless requested from
+unit assessor.
+
+Spacing
+Your paper should be double spaced unless otherwise specified by your unit assessor. There should be no extra spacing
+between paragraphs. This does not include the title page (see Figure 1), within tables and figures, footnotes or
+equations.
+
+Margin
+Your paper should have a 1in. (2.54cm) margin on all sides.
+
+Tables and Figures
+Tables and figures are now formatted the same in APA 7th. The heading “Figure 1” or “Table 1” is now bold and placed
+above the figure/table. Figures/tables require a title, written in italics, with title case, and on a second line. Finally,
+figure/table captions are now “notes”. These are placed under the figure/table and begin with “Note.” in italics. For
+example, see Table 1 and Figure 1. For more information see American Psychological Association (n.d.b)
+
+Headings
+Your headings should follow the formatting in Table 1.
+Table 1
+Format for Headings in APA 7th.
+      Level          Format
+        1                                              Centered, Bold, Title Case Heading
+                    Text begins as a new paragraph
+        2           Left-justified, Bold, Title Case Heading
+                    Text begins as a new paragraph
+        3           Left-justified, Bold, Italics, Title Case Heading
+                    Text begins as a new paragraph
+        4                   Indented, Bold, Title Case Heading, with a Full Stop. Text begins on the same line and
+                    continues as a regular paragraph.
+
+        5                  Indented, Bold, Italics, Title Case Heading, with a Full Stop. Text begins on the same line
+                    and continues as a regular paragraph.
+
+From “Headings” by American Psychological Association, n.d.c. APA Style. (https://apastyle.apa.org/style-grammar-
+guidelines/paper-format/headings).
+
+
+
+Title Page
+Title pages should be used unless your unit assessor has requested the SCU cover page. The title page should include
+the title of the work, your name (as author), your affiliation (i.e. which Faculty you are in), the unit number, your unit
+assessor or tutors name, the due date, and a page number. This should follow the formatting displayed in Figure 1 on
+p.3.
+Note: the paper title is 3-4 lines below the top. The title is in bold, has the major words capitalized, and has an extra
+space before the author name. The text on the title page is centered, each element is on a separate line and double
+spacing is used.
+
+
+
+
+                                                                                                                            p. 2
+Figure 1
+Title Page Format for APA 7th.
+
+
+
+
+From “Title page setup” by American Psychological Association, n.d.d, APA Style. (https://apastyle.apa.org/style-
+grammar-guidelines/paper-format/title-page).
+
+
+                                                     References
+American Psychological Association. (n.d.a). Paper Format. APA Style. https://apastyle.apa.org/style-grammar-
+       guidelines/paper-format
+American Psychological Association. (n.d.b). Paper Format. APA Style. https://apastyle.apa.org/style-grammar-
+       guidelines/tables-figures
+American Psychological Association. (n.d.c). Headings. APA Style. https://apastyle.apa.org/style-grammar-
+       guidelines/paper-format/headings
+American Psychological Association. (n.d.d). Title page setup. APA Style. https://apastyle.apa.org/style-grammar-
+       guidelines/paper-format/title-page
+
+
+
+
+                                                                                                                    p. 3
+

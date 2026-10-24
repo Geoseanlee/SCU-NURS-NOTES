@@ -1,0 +1,7969 @@
+===== Tutorial & Workshop Slides [_7821286_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821286_1?view=content&state=view
+
+Children:
+Workshops - Ros & Coral
+Tutorial Slides - Ros
+
+===== Workshops - Ros & Coral [_7821302_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821302_1?view=content&state=view
+
+Children:
+Week 1 - workshop.pptx
+Week 2 - workshop.pptx
+Week 3 - workshop.pptx
+Week 4 - workshop.pptx
+Week 5 - workshop.pptx
+Week 6 - workshop.pptx
+
+===== Week 1 - workshop.pptx [_7821307_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821307_1?view=content&state=view
+
+
+--- Attachment: Week 1 - workshop.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/notesSlides/notesSlide27.xml
+27
+
+## ppt/notesSlides/notesSlide28.xml
+28
+
+## ppt/notesSlides/notesSlide29.xml
+29
+
+## ppt/notesSlides/notesSlide30.xml
+30
+
+## ppt/notesSlides/notesSlide31.xml
+31
+
+## ppt/notesSlides/notesSlide32.xml
+32
+
+## ppt/slides/slide1.xml
+INDG6002
+Week 
+1 – Workshop
+Orientation
+
+## ppt/slides/slide2.xml
+Acknowledgment of Country 
+An Acknowledgement of Country is a demonstration of respect for the Traditional Caretakers of the land on which a meeting or event is being held. It is a recognition of the continuing relationship between Aboriginal and Torres Strait Islander peoples and their Country, acknowledging their continuing connections to land, sea, and community. 
+
+## ppt/slides/slide3.xml
+This week
+Welcome
+Our Team
+Gnibi Elders Principles
+Outline of Unit 
+Assessments 
+Questions 
+
+## ppt/slides/slide4.xml
+Team
+Dr Ros Sawtell – Lecturer
+Dr Coral Jeffries – Lecturer
+Dr Barb Kinder - Lecturer
+Kirra Louise – Lecturer
+Dr Darlene Rotumah – (UA)
+Darlene.Rotumah@scu.edu.au
+
+## ppt/slides/slide5.xml
+Gnibi Elders Principles
+Indigenous Knowledge is a relevant, ethical, intelligent, effective and a useful way of knowing.
+Indigenous peoples are active, able and worthy peoples.
+The truth about our histories and value of Indigenous ways are determined by us, we carry this knowledge.
+Elders hold our Aboriginal Spirituality and our culture close. We choose what is open and shared and what will be closed. Aboriginal spirituality is the basis for life Indigenous Education and Cultural Competency, it infuses everything.
+Our knowledge is relational. Our principles are the basis for SCU to establish and sustain an active informed and respectful relationship with Indigenous Elders who will give considered collective input. The continuance of this relationship through the Elders group is essential.
+Culture is sacred to us. We are and own this living culture. We do not need a ‘book’. We share with you so that you can learn how to listen and hear what we say.
+Identity is based upon things [inside] beneath the surface. Empowered, individual, affirmed identity is the basis of positive, productive, healthy and non-destructive lives - opportunities to engage and build knowledge builds [strong mob] through [inside learning].
+Learning everyday with each other has to be informed and sustained by a politic of open, positive and ethical interactions.
+We as Elders have presented these things all our lives without being heard –we are often listened to but our message is not heard nor heeded. We take this opportunity to speak in the understanding that you will listen in the right way, hear us and learn.
+
+## ppt/slides/slide6.xml
+After successfully completing 
+the learning activities in 
+this unit you should be able to:
+Discuss key concepts of health and wellbeing as determined by Australian Indigenous Peoples
+Identify key stages of the colonisation process and its relationship to the contemporary health status of 
+Australian
+Indigenous
+ Peoples
+Analyse the relationship between cultural determinants and socioeconomic factors and the contemporary health status of Australian Indigenous Peoples
+Explain how primary health care, health promotion, and health professionals enhance the wellbeing of Australian Indigenous Peoples
+
+## ppt/slides/slide7.xml
+Delivery
+This mode of learning may seem more intensive than you are used to, so it is important to keep up with the weekly modules. Students are expected to spend up to 20 hours per week progressing through the self-paced material and preparing for assessments, plus there is a one-hour workshop and several options of tutorial types and times to choose from. 
+The Workshop and online tutorials
+ are recorded and will be available for those who cannot attend due to work commitments. 
+Face-to-Face Tutorials are not recorded
+
+## ppt/slides/slide8.xml
+Zoom – Setting Correct Time 
+
+## ppt/slides/slide9.xml
+Zoom - Access to recordings
+Select the ‘eye’                 icon to display the Passcode
+	Copy this as you will need it on the next screen
+The Recording (audio-visual) / Audio only recording will open
+
+## ppt/slides/slide10.xml
+Discussion Forums 
+
+## ppt/slides/slide11.xml
+Indigenous Knowledges
+Referencing
+Guidance
+at SCU
+Provides guidance on how to respectfully assess, acknowledge, attribute, cite, and reference Indigenous Knowledges, with practical examples to support academic writing.
+Latest version of the 
+Indigenous Referencing Guidance for Indigenous Knowledges
+, 
+now called the 
+Indigenous Knowledges Attribution Toolkit (IKAT
+).  
+Both versions are accessed from the same embedded links on the 
+Indigenous Knowledge (Gnibi) guides
+ and the Indigenous Knowledge tab in SCU 
+Library referencing guides
+.  
+
+## ppt/slides/slide12.xml
+Assessment 1 
+Title
+Assessment
+ 
+1
+Type
+Short
+ 
+response
+Length
+1,000
+ 
+words
+Weighting
+40%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Turnitin
+Unit
+ 
+Learning Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+ULO1
+:
+ 
+Discuss
+ 
+key
+ 
+concepts
+ 
+of
+ 
+health
+ 
+and
+ 
+wellbeing
+ 
+as
+ 
+determined
+ 
+by 
+Aboriginal and Torres Strait Islander Peoples.
+ULO2
+:
+ 
+Identify
+ 
+key
+ 
+stages
+ 
+of
+ 
+the
+ 
+colonisation
+ 
+process
+ 
+and
+ 
+its
+ 
+relationship
+ 
+to 
+the contemporary health status of Indigenous Australian Peoples.
+
+## ppt/slides/slide13.xml
+Assessment 1 Brief continued …
+13
+
+## ppt/slides/slide14.xml
+Assessment 1 Brief continued …
+14
+
+## ppt/slides/slide15.xml
+Guide to Writing a Short Response Structure
+Always
+ 
+use
+ 
+unit
+ 
+approaches
+ 
+(concepts,
+ 
+theories,
+ 
+models,
+ 
+processes
+ 
+or
+ 
+guidelines)
+ 
+in
+ 
+your 
+short
+ 
+responses.
+ 
+Often,
+ 
+this
+ 
+means
+ 
+defining
+ 
+and
+ 
+applying
+ 
+unit
+ 
+concepts
+ 
+or
+ 
+theories
+.
+ 
+Before
+ 
+you
+ 
+start
+ 
+working
+ 
+on
+ 
+the
+ 
+assessment,
+ 
+find
+ 
+definitions
+ 
+in
+ the 
+unit
+ 
+materials.
+ 
+This
+ 
+step
+ 
+will 
+help
+ 
+you
+ 
+gain
+ 
+a
+ 
+more
+ 
+detailed
+ 
+grasp
+ 
+of
+ 
+unit
+ 
+ideas
+ 
+and
+ 
+theories
+ 
+so
+ 
+that
+ 
+you
+ 
+can
+ 
+show
+ 
+this understanding
+ 
+to
+ 
+the
+ 
+marker.
+ 
+Don't
+ 
+try
+ 
+to
+ 
+COVER
+ 
+EVERYTHING
+ 
+you
+ 
+know
+ 
+about
+ 
+a
+ 
+topic.
+ 
+While
+ 
+it
+ 
+can
+ 
+be
+ 
+tempting,
+ 
+this
+ 
+is
+ 
+not 
+your
+ 
+task
+ 
+in
+ 
+a
+ 
+short
+ 
+response,
+ 
+and
+ 
+you
+ 
+don't
+ 
+have
+ 
+enough
+ 
+words.
+ 
+Offer your 
+informed
+ 
+answer
+ 
+to
+ 
+the
+ 
+question
+ 
+within
+ 
+a
+ 
+limited
+ 
+word count.
+ 
+As
+ 
+you
+ 
+brainstorm,
+ 
+plan,
+ 
+and
+ 
+draft
+ 
+keep
+ 
+trying
+ 
+to
+ 
+narrow,
+ 
+narrow,
+ 
+narrow
+ 
+your
+ 
+focus.
+
+## ppt/slides/slide16.xml
+Short Response Structure
+
+## ppt/slides/slide17.xml
+PEEL Writing Guide
+
+## ppt/slides/slide18.xml
+Other Assessment Guidelines
+Your assignment must be submitted as a 
+Word document 
+format 
+Line spacing should be either as per APA 7
+th
+ Document formatting
+Referencing style: APA 7
+th
+Please state your 
+name and subject type (
+SmithJ_ShortResponse
+)
+, on the left margin in the footer, your Student ID in Centre of the footer, and display the page number on the right margin in the footer
+The 
+GenAI Declaration 
+is in the Coversheet – this 
+MUST
+ be correctly completed and attached at the beginning of your assessment prior to final submission
+All assignments are to be submitted online via the Turnitin assignment submission link contained in the relevant Assessment page under Assessment Tasks and Submission. 
+You must label your submission with your surname and initials, and the assessment task's name, for example:
+SmithJ_Short
+Response
+.docx
+Work submitted late without an approved extension will attract a penalty of 5 % for each day it is late. Approved extensions MUST be submitted using the 
+Special Consideration for Support Form
+. This can be found:
+	Assessments / Assessment Information / Assessment support / Special Consideration Support
+Word count includes the usual plus or minus 10% rule (Does not include Reference List or Coversheet/GenAI Declaration)
+ 
+
+## ppt/slides/slide19.xml
+Referencing Guidelines
+Ensure you meet the following Criteria:
+Referencing
+ 
+style
+ 
+of
+ 
+APA 7th
+.
+Consistent use of 
+correct 
+and 
+appropriate 
+terminology and tone in reference to Australian Indigenous Peoples, communities, and their priorities. 
+U
+se 
+a minimum of 5 
+scholarly sources, 
+You must also cite and reference UNDRIP. As UNDRIP is not a scholarly source, it does not count towards the minimum of five scholarly sources. Therefore, your reference list must contain at least six (6) references.
+Wikipedia, Creative
+ 
+Spirits 
+and or other such websites are 
+not
+ 
+acceptable scholarly reference material.
+
+## ppt/slides/slide20.xml
+Document Formatting Guidelines
+
+## ppt/slides/slide21.xml
+GNIBI GenAI use 
+ 
+In Gnibi College units, the use of GenAI in assessments is generally 
+restricted
+ to protect the 
+integrity and authenticity of the learning process.
+ Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning, something that cannot be authentically achieved through AI-generated content.
+ Generative Artificial Intelligence (GenAI) tools, such as ChatGPT, 
+may not be used 
+for this Assessment Task. 
+You must demonstrate that you have developed the required knowledge and skills 
+independently
+, without the assistance of GenAI tools. 
+Unauthorised
+ use of GenAI
+ may be considered a breach of academic integrity under the Student Academic and Non-Academic Misconduct Rules (Section 3).
+
+## ppt/slides/slide22.xml
+INDG6002 GenAI Use
+22
+
+## ppt/slides/slide23.xml
+Grammarly Tracking Template
+
+## ppt/slides/slide24.xml
+Assessment Coversheet & Declaration
+
+## ppt/slides/slide25.xml
+Assessment 1 Resources & Other Requirements
+25
+
+## ppt/slides/slide26.xml
+Assessment 1 Rubric – Criterion 1 
+26
+
+## ppt/slides/slide27.xml
+Assessment 1 Rubric – Criterion 2
+27
+
+## ppt/slides/slide28.xml
+Assessment 1 Rubric – Criterion 3
+28
+
+## ppt/slides/slide29.xml
+Assessment 1 Rubric – Criterion 4
+29
+
+## ppt/slides/slide30.xml
+Assessment 1 Rubric – Criterion 5
+30
+
+## ppt/slides/slide31.xml
+Questions? 
+31
+
+## ppt/slides/slide32.xml
+Until next time …
+32
+
+
+===== Week 2 - workshop.pptx [_7821303_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821303_1?view=content&state=view
+
+
+--- Attachment: Week 2 - workshop.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/slides/slide1.xml
+INDG6002 Health and Indigenous Peoples
+Week 2 - Workshop
+Colonisation and health
+
+## ppt/slides/slide2.xml
+Gnibi Elders Principle that aligns with: Colonisation and Health
+:
+Principle 3 "The truth about our histories and value of Indigenous ways are determined by us, we carry this knowledge."
+Gnibi Elders Principle 3 reminds us that Aboriginal and Torres Strait Islander peoples hold and determine the truth of their own histories, highlighting the importance of learning about colonisation through Indigenous perspectives and experiences.
+https://www.scu.edu.au/about/first-peoples/gnibi-elders-council/
+
+## ppt/slides/slide3.xml
+Special Considerations Support extension
+
+## ppt/slides/slide4.xml
+Assessment 1 – Short Response
+Title
+Assessment
+ 
+1
+Type
+Short
+ 
+response
+Length
+1,000
+ 
+words
+Weighting
+40%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+ULO1
+:
+ 
+Discuss
+ 
+key
+ 
+concepts
+ 
+of
+ 
+health
+ 
+and
+ 
+wellbeing
+ 
+as
+ 
+determined
+ 
+by 
+Aboriginal People.
+ULO2
+:
+ 
+Identify
+ 
+key
+ 
+stages
+ 
+of
+ 
+the
+ 
+colonisation
+ 
+process
+ 
+and
+ 
+its
+ 
+relationship
+ 
+to 
+the contemporary health status of Australian Indigenous People.
+
+## ppt/slides/slide5.xml
+Overview to Writing a Short Response
+5
+Always
+ 
+use
+ 
+unit
+ 
+approaches
+ 
+(concepts,
+ 
+theories,
+ 
+models,
+ 
+processes
+ 
+or
+ 
+guidelines)
+ 
+in
+ 
+your 
+short
+ 
+responses.
+ 
+Often,
+ 
+this
+ 
+means
+ 
+defining
+ 
+and
+ 
+applying
+ 
+unit
+ 
+concepts
+ 
+or
+ 
+theories
+.
+ 
+Before
+ 
+you
+ 
+start
+ 
+working
+ 
+on
+ 
+the
+ 
+assessment,
+ 
+find
+ 
+definitions
+ 
+in
+ the 
+unit
+ 
+materials.
+ 
+This
+ 
+step
+ 
+will 
+help
+ 
+you
+ 
+gain
+ 
+a
+ 
+more
+ 
+detailed
+ 
+grasp
+ 
+of
+ 
+unit
+ 
+ideas
+ 
+and
+ 
+theories
+ 
+so
+ 
+that
+ 
+you
+ 
+can
+ 
+show
+ 
+this understanding
+ 
+to
+ 
+the
+ 
+marker.
+ 
+Don't
+ 
+try
+ 
+to
+ 
+COVER
+ 
+EVERYTHING
+ 
+you
+ 
+know
+ 
+about
+ 
+a
+ 
+topic.
+ 
+While
+ 
+it
+ 
+can
+ 
+be
+ 
+tempting,
+ 
+this
+ 
+is
+ 
+not 
+your
+ 
+task
+ 
+in
+ 
+a
+ 
+short
+ 
+response,
+ 
+and
+ 
+you
+ 
+don't
+ 
+have
+ 
+enough
+ 
+words.
+ 
+Offer your 
+informed
+ 
+answer
+ 
+to
+ 
+the
+ 
+question
+ 
+within
+ 
+a
+ 
+limited
+ 
+word count.
+ 
+As
+ 
+you
+ 
+brainstorm,
+ 
+plan,
+ 
+and
+ 
+draft
+ 
+keep
+ 
+trying
+ 
+to
+ 
+narrow,
+ 
+narrow,
+ 
+narrow
+ 
+your
+ 
+focus.
+You can use 
+headings 
+in a short response, 
+it is part of the word count.
+
+## ppt/slides/slide6.xml
+10 Key Steps for Strong Short Response Writing
+Start with a clear main point: 
+Emphasise that short responses must begin with the answer, not background. Example sentence starters such as: 
+“This concept refers to…”
+ or 
+“In the scenario, this is evident when…”
+.
+2. Explain the key concept briefly:  D
+efine or clarify the concept in their own words before applying it. This prevents vague or incorrect use of terms 
+3. Link the concept to UNDRIP Article 3
+ 
+Show clearly how the concept relates to the rights described in Article 3 and to Australian 
+Indigenous Peoples 
+understandings of health and wellbeing. Interpret the connection—do not retell general background information.
+4. Use scholarly or unit evidence: 
+Short responses still require academic grounding. Evidence can be a unit concept, framework, or scholarly idea. Keep it brief. 
+5. Write concisely and coherently: 
+Use short, direct sentences - improves clarity and reduces grammatical errors - avoid long introductions, unnecessary detail, or narrative writing.
+
+## ppt/slides/slide7.xml
+10 Key Steps for Strong Short Response Writing 
+continued …
+7
+6. Maintain respectful terminology: 
+Remember: Correct and consistent use of your chosen term
+7. Conclude by linking back to the question: 	
+A final sentence should reinforce the main point to close the paragraph logically and signals relevance to the marker.
+8. Avoid common pitfalls: 
+Highlight typical issues: over‑description, missing the main point, unclear links to Article 3, lack of evidence, incorrect terminology, and overly long sentences. 
+9. Use postgraduate verbs: 
+Encourage verbs that show analysis and interpretation: 
+analyse, interpret, examine, integrate, contextualise
+. Discourage vague verbs like 
+talk about
+ or 
+discuss
+.
+10. Follow a simple structure (PEEL): Point → Explain → Evidence/Scenario → Link
+.
+
+## ppt/slides/slide8.xml
+PEEL Writing Structure
+
+## ppt/slides/slide9.xml
+Assessment 1 Overview
+ 
+Purpose of the Assessment
+Builds understanding of 
+Australian Indigenous perspectives of health and wellbeing
+.
+Introduces 
+self‑determination
+ as a core principle in 
+UNDRIP Article 3
+.
+Highlights differences between 
+Australian Indigenous wholistic health
+ and 
+Western biomedical models
+.
+Examines how 
+colonisation has limited the ability to exercise self‑determination
+.
+Develops foundational knowledge for 
+culturally safe practice
+ in health, social services, and community work.
+Strengthens 
+critical thinking
+ and culturally grounded analysis for professional contexts.
+Task
+ 
+Description
+Read 
+Article 3 of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP)
+:
+"Indigenous peoples have the right to self-determination. By virtue of that right, they freely determine their political status and freely pursue their economic, social and cultural development."
+Write a 
+1,000-word short response
+ explaining how this article relates to Australian Indigenous Peoples understandings of health and wellbeing.
+ 
+
+## ppt/slides/slide10.xml
+Assessment 1 - Instructions
+ 
+Step 1: Read UNDRIP Article 3
+Consider what the term 
+self-determination
+ means and why it is important for Australian Indigenous Peoples.
+Step 2: Review Unit Content
+Use learning materials from:
+Module 1: Australian Indigenous concepts of health and wellbeing.
+Module 2: Colonisation and its impacts on Australian Indigenous health and wellbeing.
+Step 3: Research
+Locate additional scholarly literature that supports your discussion.
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Step 4: Write Your Response
+Your response should explain how Australian Indigenous concepts of health and wellbeing, self-determination, and community-accepted communication styles are interconnected, and how these relate to the ongoing impacts of colonisation on Australian Indigenous health and wellbeing.
+
+## ppt/slides/slide11.xml
+Example Short Response Structure
+ 
+Introduction (Approx. 100 words)
+Introduce UNDRIP Article 3.
+Outline the main points of your response.
+Health and Wellbeing (Approx. 300 words)
+Examine the key concepts of health and wellbeing from Australian Indigenous perspectives.
+Reflect on why self-determination is important for Australian Indigenous health and wellbeing.
+Critically evaluate one cultural determinant which shapes Australian Indigenous health and wellbeing.
+Community-accepted communication styles (Approx. 300 words)
+Critically 
+analyse
+ the role of community-accepted communication styles in supporting
+ 
+Australian Indigenous health and wellbeing.
+ 
+Colonisation and Health (Approx. 200 words)
+Critically reflect on the enduring effects of colonisation on Australian Indigenous health and wellbeing.
+Conclusion (Approx. 100 words)
+Summarise
+ your key points. 
+NO
+ new information
+ 
+
+## ppt/slides/slide12.xml
+Your response must …
+12
+Assessment Requirements
+Follow the 
+Short Response Quick Guide
+ (Assessment 1 resources).
+Address 
+UNDRIP Article 3
+ throughout your discussion.
+Analyse 
+Australian Indigenous concepts of health and wellbeing
+, including 
+self‑determination
+ and 
+one cultural determinant
+.
+Explain the 
+relationship between colonisation and contemporary Australian Indigenous health outcomes
+.
+Support your discussion with 
+scholarly evidence
+.
+Sources & Referencing
+Use a 
+minimum of five (5) scholarly sources
+.
+UNDRIP must be cited and referenced
+, but 
+does not count
+ toward the five scholarly sources.
+Your reference list must contain 
+at least six (6) references
+ in total.
+
+## ppt/slides/slide13.xml
+Referencing Requirements
+13
+Ensure you meet the following Criteria:
+Referencing
+ 
+style
+ 
+of
+ 
+APA7
+.
+Consistent use of 
+correct 
+and 
+appropriate 
+terminology and tone in reference to Indigenous Australian Peoples, communities, and issues. 
+U
+se 
+a minimum of 5 peer-reviewed scholarly sources
+, 1 
+MUST
+ be the 
+The 
+United Nations Declaration on the Rights of Indigenous Peoples
+ (
+UNDRIP
+) 2007.
+Wikipedia, Creative
+ 
+Spirits 
+and or other such websites are 
+not
+ 
+acceptable scholarly reference material.
+
+## ppt/slides/slide14.xml
+Other Requirements …
+14
+Ensure you have attached your 
+signed and correctly completed
+ 
+Coversheet
+ to the front of your assessment document prior to uploading your final submission.
+Label your submission with your surname and initials, and the assessment task's name e.g. SmithJ_ShortResponse.docx
+You are required to use APA 7
+th
+ referencing style in this Unit formatting your document, citations, and references
+Instead of a Header you MUST 
+add a footer to your submission.
+ 
+Add your name and task type – i.e. 
+SmithJ_ShortResponse
+ on left margin, your student ID, and have page number on the right margin e.g.
+
+## ppt/slides/slide15.xml
+Assessment 1 Resources & Other Requirements
+
+## ppt/slides/slide16.xml
+Assessment Coversheet & Declaration
+
+## ppt/slides/slide17.xml
+APA 7
+th
+ Formatting your Document
+
+## ppt/slides/slide18.xml
+GNIBI GenAI use
+ 
+In Gnibi College units, the use of GenAI in assessments is generally 
+restricted
+ to protect the 
+integrity and authenticity of the learning process.
+ Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning, something that cannot be authentically achieved through AI-generated content.
+ Generative Artificial Intelligence (GenAI) tools, such as ChatGPT, 
+may not be used 
+for this Assessment Task. 
+You must demonstrate that you have developed the required knowledge and skills 
+independently
+, without the assistance of GenAI tools. 
+Unauthorised
+ use of GenAI
+ may be considered a breach of academic integrity under the Student Academic and Non-Academic Misconduct Rules (Section 3).’
+
+## ppt/slides/slide19.xml
+INDG6002 GenAI use
+
+## ppt/slides/slide20.xml
+Assessment 1 Rubric 
+– Criterion 1 
+20
+
+## ppt/slides/slide21.xml
+Assessment 1 Rubric – Criterion 2 
+21
+
+## ppt/slides/slide22.xml
+Assessment 1 Rubric – Criterion 3
+22
+
+## ppt/slides/slide23.xml
+Assessment 1 Rubric – Criterion 4
+23
+
+## ppt/slides/slide24.xml
+Assessment 1 Rubric – Criterion 5
+24
+
+## ppt/slides/slide25.xml
+Questions ….
+
+## ppt/slides/slide26.xml
+Until Next Time …
+
+
+===== Week 3 - workshop.pptx [_7821308_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821308_1?view=content&state=view
+
+
+--- Attachment: Week 3 - workshop.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/slides/slide1.xml
+Week 3 Workshop:
+Social and cultural determinants of health
+
+## ppt/slides/slide2.xml
+Gnibi Elders Principle that aligns with: Social & cultural determinants of health
+Principle 5 “Our knowledge is relational. Our principles are the basis for SCU to establish and sustain an active informed and respectful relationship with Indigenous Elders who will give considered collective input. The continuance of this relationship through the Elders group is essential.”
+https://www.scu.edu.au/about/first-peoples/gnibi-elders-council/
+
+## ppt/slides/slide3.xml
+Special Considerations Support extension
+
+## ppt/slides/slide4.xml
+Assessment 1 – Short Response
+Title
+Assessment
+ 
+1
+Type
+Short
+ 
+response
+Length
+1,000
+ 
+words
+Weighting
+40%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+ULO1
+:
+ 
+Discuss
+ 
+key
+ 
+concepts
+ 
+of
+ 
+health
+ 
+and
+ 
+wellbeing
+ 
+as
+ 
+determined
+ 
+by 
+Aboriginal People.
+ULO2
+:
+ 
+Identify
+ 
+key
+ 
+stages
+ 
+of
+ 
+the
+ 
+colonisation
+ 
+process
+ 
+and
+ 
+its
+ 
+relationship
+ 
+to 
+the contemporary health status of Australian Indigenous People.
+
+## ppt/slides/slide5.xml
+Overview to Writing a Short Response
+5
+Always
+ 
+use
+ 
+unit
+ 
+approaches
+ 
+(concepts,
+ 
+theories,
+ 
+models,
+ 
+processes
+ 
+or
+ 
+guidelines)
+ 
+in
+ 
+your 
+short
+ 
+responses.
+ 
+Often,
+ 
+this
+ 
+means
+ 
+defining
+ 
+and
+ 
+applying
+ 
+unit
+ 
+concepts
+ 
+or
+ 
+theories
+.
+ 
+Before
+ 
+you
+ 
+start
+ 
+working
+ 
+on
+ 
+the
+ 
+assessment,
+ 
+find
+ 
+definitions
+ 
+in
+ the 
+unit
+ 
+materials.
+ 
+This
+ 
+step
+ 
+will 
+help
+ 
+you
+ 
+gain
+ 
+a
+ 
+more
+ 
+detailed
+ 
+grasp
+ 
+of
+ 
+unit
+ 
+ideas
+ 
+and
+ 
+theories
+ 
+so
+ 
+that
+ 
+you
+ 
+can
+ 
+show
+ 
+this understanding
+ 
+to
+ 
+the
+ 
+marker.
+ 
+Don't
+ 
+try
+ 
+to
+ 
+COVER
+ 
+EVERYTHING
+ 
+you
+ 
+know
+ 
+about
+ 
+a
+ 
+topic.
+ 
+While
+ 
+it
+ 
+can
+ 
+be
+ 
+tempting,
+ 
+this
+ 
+is
+ 
+not 
+your
+ 
+task
+ 
+in
+ 
+a
+ 
+short
+ 
+response,
+ 
+and
+ 
+you
+ 
+don't
+ 
+have
+ 
+enough
+ 
+words.
+ 
+Offer your 
+informed
+ 
+answer
+ 
+to
+ 
+the
+ 
+question
+ 
+within
+ 
+a
+ 
+limited
+ 
+word count.
+ 
+As
+ 
+you
+ 
+brainstorm,
+ 
+plan,
+ 
+and
+ 
+draft
+ 
+keep
+ 
+trying
+ 
+to
+ 
+narrow,
+ 
+narrow,
+ 
+narrow
+ 
+your
+ 
+focus.
+You can use 
+headings 
+in a short response, 
+it is part of the word count.
+
+## ppt/slides/slide6.xml
+10 Key Steps for Strong Short Response Writing
+Start with a clear main point: 
+Emphasise that short responses must begin with the answer, not background. Example sentence starters such as: 
+“This concept refers to…”
+ or 
+“In the scenario, this is evident when…”
+.
+2. Explain the key concept briefly:  D
+efine or clarify the concept in their own words before applying it. This prevents vague or incorrect use of terms 
+3. Link the concept to UNDRIP Article 3
+ 
+Show clearly how the concept relates to the rights described in Article 3 and to Australian 
+Indigenous Peoples 
+understandings of health and wellbeing. Interpret the connection—do not retell general background information.
+4. Use scholarly or unit evidence: 
+Short responses still require academic grounding. Evidence can be a unit concept, framework, or scholarly idea. Keep it brief. 
+5. Write concisely and coherently: 
+Use short, direct sentences - improves clarity and reduces grammatical errors - avoid long introductions, unnecessary detail, or narrative writing.
+
+## ppt/slides/slide7.xml
+10 Key Steps for Strong Short Response Writing 
+continued …
+7
+6. Maintain respectful terminology: 
+Remember: Correct and consistent use of your chosen term
+7. Conclude by linking back to the question: 	
+A final sentence should reinforce the main point to close the paragraph logically and signals relevance to the marker.
+8. Avoid common pitfalls: 
+Highlight typical issues: over‑description, missing the main point, unclear links to Article 3, lack of evidence, incorrect terminology, and overly long sentences. 
+9. Use postgraduate verbs: 
+Encourage verbs that show analysis and interpretation: 
+analyse, interpret, examine, integrate, contextualise
+. Discourage vague verbs like 
+talk about
+ or 
+discuss
+.
+10. Follow a simple structure (PEEL): Point → Explain → Evidence/Scenario → Link
+.
+
+## ppt/slides/slide8.xml
+PEEL Writing Structure
+
+## ppt/slides/slide9.xml
+Assessment 1 Overview
+ 
+Purpose of the Assessment
+Builds understanding of 
+Australian Indigenous perspectives of health and wellbeing
+.
+Introduces 
+self‑determination
+ as a core principle in 
+UNDRIP Article 3
+.
+Highlights differences between 
+Australian Indigenous wholistic health
+ and 
+Western biomedical models
+.
+Examines how 
+colonisation has limited the ability to exercise self‑determination
+.
+Develops foundational knowledge for 
+culturally safe practice
+ in health, social services, and community work.
+Strengthens 
+critical thinking
+ and culturally grounded analysis for professional contexts.
+Task
+ 
+Description
+Read 
+Article 3 of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP)
+:
+"Indigenous peoples have the right to self-determination. By virtue of that right, they freely determine their political status and freely pursue their economic, social and cultural development."
+Write a 
+1,000-word short response
+ explaining how this article relates to Australian Indigenous Peoples understandings of health and wellbeing.
+ 
+
+## ppt/slides/slide10.xml
+Assessment 1 - Instructions
+ 
+Step 1: Read UNDRIP Article 3
+Consider what the term 
+self-determination
+ means and why it is important for Australian Indigenous Peoples.
+Step 2: Review Unit Content
+Use learning materials from:
+Module 1: Australian Indigenous concepts of health and wellbeing.
+Module 2: Colonisation and its impacts on Australian Indigenous health and wellbeing.
+Step 3: Research
+Locate additional scholarly literature that supports your discussion.
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Step 4: Write Your Response
+Your response should explain how Australian Indigenous concepts of health and wellbeing, self-determination, and community-accepted communication styles are interconnected, and how these relate to the ongoing impacts of colonisation on Australian Indigenous health and wellbeing.
+
+## ppt/slides/slide11.xml
+Example Short Response Structure
+ 
+Introduction (Approx. 100 words)
+Introduce UNDRIP Article 3.
+Outline the main points of your response.
+Health and Wellbeing (Approx. 300 words)
+Examine the key concepts of health and wellbeing from Australian Indigenous perspectives.
+Reflect on why self-determination is important for Australian Indigenous health and wellbeing.
+Critically evaluate one cultural determinant which shapes Australian Indigenous health and wellbeing.
+Community-accepted communication styles (Approx. 300 words)
+Critically 
+analyse
+ the role of community-accepted communication styles in supporting
+ 
+Australian Indigenous health and wellbeing.
+ 
+Colonisation and Health (Approx. 200 words)
+Critically reflect on the enduring effects of colonisation on Australian Indigenous health and wellbeing.
+Conclusion (Approx. 100 words)
+Summarise
+ your key points. 
+NO
+ new information
+ 
+
+## ppt/slides/slide12.xml
+Your response must …
+12
+Assessment Requirements
+Follow the 
+Short Response Quick Guide
+ (Assessment 1 resources).
+Address 
+UNDRIP Article 3
+ throughout your discussion.
+Analyse 
+Australian Indigenous concepts of health and wellbeing
+, including 
+self‑determination
+ and 
+one cultural determinant
+.
+Explain the 
+relationship between colonisation and contemporary Australian Indigenous health outcomes
+.
+Support your discussion with 
+scholarly evidence
+.
+Sources & Referencing
+Use a 
+minimum of five (5) scholarly sources
+.
+UNDRIP must be cited and referenced
+, but 
+does not count
+ toward the five scholarly sources.
+Your reference list must contain 
+at least six (6) references
+ in total.
+
+## ppt/slides/slide13.xml
+Referencing Requirements
+13
+Ensure you meet the following Criteria:
+Referencing
+ 
+style
+ 
+of
+ 
+APA7
+.
+Consistent use of 
+correct 
+and 
+appropriate 
+terminology and tone in reference to Indigenous Australian Peoples, communities, and issues. 
+U
+se 
+a minimum of 5 peer-reviewed scholarly sources
+, 1 
+MUST
+ be the 
+The 
+United Nations Declaration on the Rights of Indigenous Peoples
+ (
+UNDRIP
+) 2007.
+Wikipedia, Creative
+ 
+Spirits 
+and or other such websites are 
+not
+ 
+acceptable scholarly reference material.
+
+## ppt/slides/slide14.xml
+Other Requirements …
+14
+Ensure you have attached your 
+signed and correctly completed
+ 
+Coversheet
+ to the front of your assessment document prior to uploading your final submission.
+Label your submission with your surname and initials, and the assessment task's name e.g. SmithJ_ShortResponse.docx
+You are required to use APA 7
+th
+ referencing style in this Unit formatting your document, citations, and references
+Instead of a Header you MUST 
+add a footer to your submission.
+ 
+Add your name and task type – i.e. 
+SmithJ_ShortResponse
+ on left margin, your student ID, and have page number on the right margin e.g.
+
+## ppt/slides/slide15.xml
+Assessment 1 Resources & Other Requirements
+
+## ppt/slides/slide16.xml
+Assessment Coversheet & Declaration
+
+## ppt/slides/slide17.xml
+APA 7
+th
+ Formatting your Document
+
+## ppt/slides/slide18.xml
+GNIBI GenAI use
+ 
+In Gnibi College units, the use of GenAI in assessments is generally 
+restricted
+ to protect the 
+integrity and authenticity of the learning process.
+ Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning, something that cannot be authentically achieved through AI-generated content.
+ Generative Artificial Intelligence (GenAI) tools, such as ChatGPT, 
+may not be used 
+for this Assessment Task. 
+You must demonstrate that you have developed the required knowledge and skills 
+independently
+, without the assistance of GenAI tools. 
+Unauthorised
+ use of GenAI
+ may be considered a breach of academic integrity under the Student Academic and Non-Academic Misconduct Rules (Section 3).’
+
+## ppt/slides/slide19.xml
+INDG6002 GenAI use
+
+## ppt/slides/slide20.xml
+Assessment 1 Rubric 
+– Criterion 1 
+20
+
+## ppt/slides/slide21.xml
+Assessment 1 Rubric – Criterion 2 
+21
+
+## ppt/slides/slide22.xml
+Assessment 1 Rubric – Criterion 3
+22
+
+## ppt/slides/slide23.xml
+Assessment 1 Rubric – Criterion 4
+23
+
+## ppt/slides/slide24.xml
+Assessment 1 Rubric – Criterion 5
+24
+
+## ppt/slides/slide25.xml
+Questions ….
+
+## ppt/slides/slide26.xml
+Until Next Time …
+
+
+===== Week 4 - workshop.pptx [_7821306_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821306_1?view=content&state=view
+
+
+--- Attachment: Week 4 - workshop.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/slides/slide1.xml
+INDG6002 Health and Indigenous Peoples
+ 
+Cultural Safety
+Week 
+4 Workshop
+
+## ppt/slides/slide2.xml
+Gnibi Elders Principle that aligns with: 
+Cultural Safety
+Principle 8: “Learning everyday with each other has to be informed and sustained by a politic of open, positive and ethical interactions”
+Gnibi Elders Principle 8 reminds us that learning and working together requires open, respectful, and ethical interactions, which are fundamental to culturally safe practice.
+https://www.scu.edu.au/about/first-peoples/gnibi-elders-council/
+
+## ppt/slides/slide3.xml
+Requesting a Special Consideration Support extension
+
+## ppt/slides/slide4.xml
+Assessment 2 – Critical Review
+Title
+Assessment
+ 
+2
+Type
+Critical 
+Review
+Length
+2,200
+ 
+words
+Weighting
+60%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning 
+Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+1. Discuss key concepts of health and wellbeing as determined by Aboriginal people 
+2. Identify key stages of the colonisation process and its relationship to the contemporary health status of Australian Indigenous people 
+3. 
+Analyse
+ the relationship between socio-economic factors and the contemporary health status of Australian Indigenous people 
+4. Explain how primary health care and/or health promotion enhances the wellbeing of Indigenous people and role of the health professional as an agent of social change
+
+## ppt/slides/slide5.xml
+Writing a Critical Review
+https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/quick-guides/writing_a_critical_review.pdf
+
+## ppt/slides/slide6.xml
+Critical Review of the Scenario
+                               
+A critical review goes 
+beyond description
+ by examining 
+why
+ something happened, 
+how
+ it influences outcomes, and 
+what it means
+ in a broader context
+In 
+this assessment
+, you are not reviewing a written document—you are critically reviewing a 
+scenario and practice interaction
+.
+Instead of reading an article, you are examining:
+Sarah’s experiences 
+The impacts of colonisation on her contemporary health 
+the cultural context shaping the encounter
+the power dynamics in the consultation
+How primary health care and health promotion can respond 
+
+## ppt/slides/slide7.xml
+Critical Review of the Scenario continued …
+                               
+Judge the strengths and weaknesses 
+(of the actions and recommendations in the scenario) – which must be evidence-based 
+Identify bias or assumptions 
+- Analyse privilege, whiteness, and Western norms (how these assumptions affect Sarah’s wellbeing and care) 
+Overall evaluation 
+- Judgement about the quality of practice - Must be linked to theory 
+A critical review 
+always ends with a judgement
+.
+
+## ppt/slides/slide8.xml
+Assessment 2 - Brief
+Rationale – Why this assessment matters
+Apply unit concepts to a 
+realistic health care scenario
+Critically examine 
+culturally safe, strengths‑based, socially responsive
+ practice
+Analyse:
+SEWB concepts
+Impacts of colonisation
+Socioeconomic determinants
+Primary health care & health promotion
+Shift away from deficit views → recognise 
+strengths, resilience, cultural connections, self‑determination
+Understand health professionals as 
+agents of social change
+Explore how culturally safe, equitable care supports 
+Indigenous wellbeing
+Assessment Task – What students must do
+Write a 
+critical review
+ of the Sarah scenario
+Examine how health professionals and services can support 
+Indigenous health and wellbeing
+Apply unit concepts to Sarah’s experiences and the clinic’s 
+service improvements
+Analyse culturally safe, strengths‑based approaches using 
+scholarly evidence
+ (min. 12 sources)
+Evaluate the quality of practice → identify strengths, weaknesses, bias, assumptions
+Provide 
+evidence‑based recommendations
+ for culturally safe care and SEWB‑aligned practice
+Link all analysis to theory: SEWB, cultural safety, colonisation, determinants, PHC, health promotion
+
+## ppt/slides/slide9.xml
+Assessment 2  Scenario
+
+## ppt/slides/slide10.xml
+Example Assessment Structure
+
+## ppt/slides/slide11.xml
+Your response must …
+Assessment Requirements
+Be written in a clear, coherent, and respectful academic style.
+Support your discussion with evidence from:
+Scholarly literature
+Unit materials
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Utilise
+ evidence from a 
+minimum of 12 scholarly sources
+ 
+to support your analysis 
+Use correct terminology and tone when referring to Australian Indigenous people
+Use APA 7
+th
+ document, referencing, and citation styles in this Unit
+Label your submission with your surname and initials, and the assessment task's name, for example:
+		
+SmithJ_Critical
+ Review.docx	
+ You 
+MUST
+ add a footer to your submission.
+Add your name and task type – i.e. 
+SmithJ_CriticalReview
+ on left margin, your student ID, and have page number on the right margin. See the example below:
+		
+ 
+
+## ppt/slides/slide12.xml
+Task Resources & Other Requirements
+
+## ppt/slides/slide13.xml
+INDG6002 GenAI Use
+
+## ppt/slides/slide14.xml
+GenAI Use continued …
+
+## ppt/slides/slide15.xml
+Coversheet & Declaration
+
+## ppt/slides/slide16.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide17.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide18.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide19.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide20.xml
+
+
+## ppt/slides/slide21.xml
+Next week … 
+
+## ppt/slides/slide22.xml
+Until next time …
+
+
+===== Week 5 - workshop.pptx [_7821305_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821305_1?view=content&state=view
+
+
+--- Attachment: Week 5 - workshop.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+21
+
+## ppt/slides/slide1.xml
+INDG6002 Health and Indigenous Peoples
+Week 5 Workshop:
+Decolonising your practice
+
+## ppt/slides/slide2.xml
+Gnibi Elders Principle that
+ aligns with:
+Decolonising
+ your practice
+Principle 9 “
+We as Elders have presented these things all our lives without being heard –we are often listened to but our message is not heard nor heeded. We take this opportunity to speak in the understanding that you will listen in the right way, hear us and learn.”
+Gnibi Elders Principle 9 reminds us that decolonising practice begins with listening deeply to Indigenous voices, valuing Indigenous knowledge, and being willing to learn from what has too often been unheard or ignored.
+
+## ppt/slides/slide3.xml
+Special Considerations Support Extension
+
+## ppt/slides/slide4.xml
+Assessment 2 – Critical Review
+Title
+Assessment
+ 
+2
+Type
+Critical 
+Review
+Length
+2,200
+ 
+words
+Weighting
+60%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning 
+Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+1. Discuss key concepts of health and wellbeing as determined by Aboriginal people 
+2. Identify key stages of the colonisation process and its relationship to the contemporary health status of Australian Indigenous people 
+3. 
+Analyse
+ the relationship between socio-economic factors and the contemporary health status of Australian Indigenous people 
+4. Explain how primary health care and/or health promotion enhances the wellbeing of Indigenous people and role of the health professional as an agent of social change
+
+## ppt/slides/slide5.xml
+Writing a Critical Review
+https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/quick-guides/writing_a_critical_review.pdf
+
+## ppt/slides/slide6.xml
+Critical Review of the Scenario
+                               
+A critical review goes 
+beyond description
+ by examining 
+why
+ something happened, 
+how
+ it influences outcomes, and 
+what it means
+ in a broader context
+In 
+this assessment
+, you are not reviewing a written document—you are critically reviewing a 
+scenario and practice interaction
+.
+Instead of reading an article, you are examining:
+Sarah’s experiences 
+The impacts of colonisation on her contemporary health 
+the cultural context shaping the encounter
+the power dynamics in the consultation
+How primary health care and health promotion can respond 
+
+## ppt/slides/slide7.xml
+Critical Review of the Scenario
+                               
+Judge the strengths and weaknesses 
+(of the actions and recommendations in the scenario) – which must be evidence-based 
+Identify bias or assumptions 
+- Analyse privilege, whiteness, and Western norms (how these assumptions affect Sarah’s wellbeing and care) 
+Overall evaluation 
+- Judgement about the quality of practice - Must be linked to theory 
+A critical review 
+always ends with a judgement
+.
+
+## ppt/slides/slide8.xml
+Assessment 2 - Brief
+Rationale – Why this assessment matters
+Apply unit concepts to a 
+realistic health care scenario
+Critically examine 
+culturally safe, strengths‑based, socially responsive
+ practice
+Analyse:
+SEWB concepts
+Impacts of colonisation
+Socioeconomic determinants
+Primary health care & health promotion
+Shift away from deficit views → recognise 
+strengths, resilience, cultural connections, self‑determination
+Understand health professionals as 
+agents of social change
+Explore how culturally safe, equitable care supports 
+Indigenous wellbeing
+Assessment Task – What students must do
+Write a 
+critical review
+ of the Sarah scenario
+Examine how health professionals and services can support 
+Indigenous health and wellbeing
+Apply unit concepts to Sarah’s experiences and the clinic’s 
+service improvements
+Analyse culturally safe, strengths‑based approaches using 
+scholarly evidence
+ (min. 12 sources)
+Evaluate the quality of practice → identify strengths, weaknesses, bias, assumptions
+Provide 
+evidence‑based recommendations
+ for culturally safe care and SEWB‑aligned practice
+Link all analysis to theory: SEWB, cultural safety, colonisation, determinants, PHC, health promotion
+
+## ppt/slides/slide9.xml
+Assessment 2  Scenario
+
+## ppt/slides/slide10.xml
+Example Assessment Structure
+
+## ppt/slides/slide11.xml
+Your response must …
+Assessment Requirements
+Be written in a clear, coherent, and respectful academic style.
+Support your discussion with evidence from:
+Scholarly literature
+Unit materials
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Utilise
+ evidence from a 
+minimum of 12 scholarly sources
+ 
+to support your analysis 
+Use correct terminology and tone when referring to Australian Indigenous people
+Use APA 7
+th
+ document, referencing, and citation styles in this Unit
+Label your submission with your surname and initials, and the assessment task's name, for example:
+		
+SmithJ_Critical
+ Review.docx	
+ You 
+MUST
+ add a footer to your submission.
+Add your name and task type – i.e. 
+SmithJ_CriticalReview
+ on left margin, your student ID, and have page number on the right margin. See the example below:
+		
+ 
+
+## ppt/slides/slide12.xml
+Task Resources & Other Requirements
+
+## ppt/slides/slide13.xml
+INDG6002 GenAI Use
+
+## ppt/slides/slide14.xml
+GenAI Use continued …
+
+## ppt/slides/slide15.xml
+Coversheet & Declaration
+
+## ppt/slides/slide16.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide17.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide18.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide19.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide20.xml
+Questions?
+
+## ppt/slides/slide21.xml
+Next week
+
+
+===== Week 6 - workshop.pptx [_7821310_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821310_1?view=content&state=view
+
+
+--- Attachment: Week 6 - workshop.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/slides/slide1.xml
+Week 6 Workshop:
+Wellbeing in practice
+INDG6002 Health and Indigenous Peoples
+​
+
+## ppt/slides/slide2.xml
+Gnibi Elders Principle that aligns with: 
+Wellbeing in practice
+Principle 2: “Indigenous peoples are active, able and worthy peoples.”
+Gnibi Elders Principle 2 reminds us that Aboriginal and Torres Strait Islander peoples are active, capable, and self-determining peoples whose strengths, knowledge, and leadership are central to health and wellbeing.
+https://www.scu.edu.au/about/first-peoples/gnibi-elders-council/
+
+## ppt/slides/slide3.xml
+Special Considerations Support extension
+
+## ppt/slides/slide4.xml
+Assessment 2 – Critical Review
+Title
+Assessment
+ 
+2
+Type
+Critical 
+Review
+Length
+2,200
+ 
+words
+Weighting
+60%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning 
+Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+1. Discuss key concepts of health and wellbeing as determined by Aboriginal people 
+2. Identify key stages of the colonisation process and its relationship to the contemporary health status of Australian Indigenous people 
+3. 
+Analyse
+ the relationship between socio-economic factors and the contemporary health status of Australian Indigenous people 
+4. Explain how primary health care and/or health promotion enhances the wellbeing of Indigenous people and role of the health professional as an agent of social change
+
+## ppt/slides/slide5.xml
+Writing a Critical Review
+https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/quick-guides/writing_a_critical_review.pdf
+
+## ppt/slides/slide6.xml
+Critical Review of the Scenario
+A critical review goes 
+beyond description
+ by examining 
+why
+ something happened, 
+how
+ it influences outcomes, and 
+what it means
+ in a broader context
+In 
+this assessment
+, you are not reviewing a written document—you are critically reviewing a 
+scenario and practice interaction
+.
+Instead of reading an article, you are examining:
+Sarah’s experiences 
+The impacts of colonisation on her contemporary health 
+the cultural context shaping the encounter
+the power dynamics in the consultation
+How primary health care and health promotion can respond 
+
+## ppt/slides/slide7.xml
+Critical Review of the Scenario continued …
+Judge the strengths and weaknesses 
+(of the actions and recommendations in the scenario) – which must be evidence-based 
+Identify bias or assumptions 
+- Analyse privilege, whiteness, and Western norms (how these assumptions affect Sarah’s wellbeing and care) 
+Overall evaluation 
+- Judgement about the quality of practice - Must be linked to theory 
+A critical review 
+always ends with a judgement
+.
+
+## ppt/slides/slide8.xml
+Assessment 2 – Brief
+Rationale – Why this assessment matters
+Apply unit concepts to a 
+realistic health care scenario
+Critically examine 
+culturally safe, strengths‑based, socially responsive
+ practice
+Analyse:
+SEWB concepts
+Impacts of colonisation
+Socioeconomic determinants
+Primary health care & health promotion
+Shift away from deficit views → recognise 
+strengths, resilience, cultural connections, self‑determination
+Understand health professionals as 
+agents of social change
+Explore how culturally safe, equitable care supports 
+Indigenous wellbeing
+Assessment Task – What students must do
+Write a 
+critical review
+ of the Sarah scenario
+Examine how health professionals and services can support 
+Indigenous health and wellbeing
+Apply unit concepts to Sarah’s experiences and the clinic’s 
+service improvements
+Analyse culturally safe, strengths‑based approaches using 
+scholarly evidence
+ (min. 12 sources)
+Evaluate the quality of practice → identify strengths, weaknesses, bias, assumptions
+Provide 
+evidence‑based recommendations
+ for culturally safe care and SEWB‑aligned practice
+Link all analysis to theory: SEWB, cultural safety, colonisation, determinants, PHC, health promotion
+
+## ppt/slides/slide9.xml
+Assessment 2  Scenario
+
+## ppt/slides/slide10.xml
+Example Assessment Structure
+
+## ppt/slides/slide11.xml
+Your response must …
+Assessment Requirements
+Be written in a clear, coherent, and respectful academic style.
+Support your discussion with evidence from:
+Scholarly literature
+Unit materials
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Utilise
+ evidence from a 
+minimum of 12 scholarly sources
+ 
+to support your analysis 
+Use correct terminology and tone when referring to Australian Indigenous people
+Use APA 7
+th
+ document, referencing, and citation styles in this Unit
+Label your submission with your surname and initials, and the assessment task's name, for example:
+		
+SmithJ_Critical
+ Review.docx	
+ You 
+MUST
+ add a footer to your submission.
+Add your name and task type – i.e. 
+SmithJ_CriticalReview
+ on left margin, your student ID, and have page number on the right margin. See the example below:
+		
+ 
+
+## ppt/slides/slide12.xml
+Task Resources & Other Requirements
+
+## ppt/slides/slide13.xml
+INDG6002 GenAI Use
+In Gnibi College units, the use of GenAI in assessments is generally restricted to protect the integrity and authenticity of the learning process. Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning—something that cannot be authentically achieved through AI-generated content.
+
+## ppt/slides/slide14.xml
+GenAI Use Continued … 
+
+## ppt/slides/slide15.xml
+Coversheet & Declaration
+
+## ppt/slides/slide16.xml
+Assessment 2 – Rubric
+5 Criteria
+1: Examine Australian Indigenous concepts of health and wellbeing in the scenario
+2: 
+Analyse
+ the role of Primary Health Care, Health Promotion, and Culturally Safe Recommendations in supporting Australian Indigenous health and wellbeing 
+3: 
+Critical reflection on how historical contexts have shaped socioeconomic determinants and continue to influence the health and wellbeing of Australian Indigenous peoples
+4: 
+Respectful treatment of Australian Indigenous content
+5: 
+Academic Communication style, referencing and citation 
+
+## ppt/slides/slide17.xml
+Questions?
+
+## ppt/slides/slide18.xml
+Thank you for participating and sharing in ‘Health and Indigenous Peoples’. 
+I hope you have enjoyed your learning journey as much as I have enjoyed teaching and learning from your questions and experiences. 
+I wish you well in your future studies and endeavours.
+Ros
+
+
+===== Tutorial Slides - Ros [_7821289_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821289_1?view=content&state=view
+
+Children:
+Week 2 - tutorial.pptm
+Week 3 - tutorial.pptx
+Week 4 - tutorial.pptx
+Week 1 - tutorial.pptx
+Week 5 - tutorial.pptx
+Week 6 - tutorial.pptx
+
+===== Week 2 - tutorial.pptm [_7821293_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821293_1?view=content&state=view
+
+
+--- Attachment: Week 2 - tutorial.pptm ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/notesSlides/notesSlide27.xml
+27
+
+## ppt/notesSlides/notesSlide28.xml
+28
+
+## ppt/notesSlides/notesSlide29.xml
+29
+
+## ppt/notesSlides/notesSlide30.xml
+30
+
+## ppt/notesSlides/notesSlide31.xml
+31
+
+## ppt/notesSlides/notesSlide32.xml
+32
+
+## ppt/notesSlides/notesSlide33.xml
+33
+
+## ppt/notesSlides/notesSlide34.xml
+34
+
+## ppt/notesSlides/notesSlide35.xml
+35
+
+## ppt/notesSlides/notesSlide36.xml
+36
+
+## ppt/notesSlides/notesSlide37.xml
+37
+
+## ppt/notesSlides/notesSlide38.xml
+38
+
+## ppt/notesSlides/notesSlide39.xml
+39
+
+## ppt/notesSlides/notesSlide40.xml
+40
+
+## ppt/notesSlides/notesSlide41.xml
+41
+
+## ppt/notesSlides/notesSlide42.xml
+42
+
+## ppt/notesSlides/notesSlide43.xml
+43
+
+## ppt/notesSlides/notesSlide44.xml
+44
+
+## ppt/notesSlides/notesSlide45.xml
+45
+
+## ppt/notesSlides/notesSlide46.xml
+46
+
+## ppt/notesSlides/notesSlide47.xml
+47
+
+## ppt/notesSlides/notesSlide48.xml
+48
+
+## ppt/notesSlides/notesSlide49.xml
+49
+
+## ppt/notesSlides/notesSlide50.xml
+50
+
+## ppt/notesSlides/notesSlide51.xml
+51
+
+## ppt/notesSlides/notesSlide52.xml
+52
+
+## ppt/notesSlides/notesSlide53.xml
+53
+
+## ppt/notesSlides/notesSlide54.xml
+54
+
+## ppt/notesSlides/notesSlide55.xml
+55
+
+## ppt/notesSlides/notesSlide56.xml
+56
+
+## ppt/notesSlides/notesSlide57.xml
+57
+
+## ppt/slides/slide1.xml
+Module 2 - Tutorial
+Colonisation and health
+
+## ppt/slides/slide2.xml
+Warning
+
+## ppt/slides/slide3.xml
+
+
+## ppt/slides/slide4.xml
+Module 2
+By the end of this module you will be able to:
+recognise how colonisation continues to substantially impact the lives of Indigenous Peoples
+apply a critical lens to the ongoing damage of ‘Stolen Generations’ on the social, cultural and health status of all Indigenous Peoples in Australia
+describe/summarise forms of racism and how they impact Aboriginal and Torres Strait Islander peoples health
+
+## ppt/slides/slide5.xml
+The end in the beginning: re(de)finding Aboriginality
+“Our
+ 
+peoples
+ 
+have
+ 
+left
+ 
+us
+ 
+deep
+ 
+roots,
+ 
+which
+ 
+empowered
+ 
+us
+ 
+to
+ 
+endure
+ 
+the
+ 
+violence
+ 
+of oppression. They are the roots of survival, but not of constriction. They are the roots from which all growth is possible. They are the roots that protected our end from the beginning.”
+Professor Michael ‘Mick’ Dodson (The end in the beginning: re(de)finding Aboriginality 1994, p. 11)
+
+## ppt/slides/slide6.xml
+Cultural Vitality
+‘the emotional strength, the spirit, the essence of people who strive and struggle to maintain strong identity and adapt to new and challenging environments, while they value and pass on distinctive cultural beliefs, practices and life ways’ 
+the active and proactive adaptation of culture is assumed and valued
+no longer seen as a static, idealised ‘given’ that needs to be ‘gone back to’
+consider the innovative, creative and resourceful ways in which people and their communities are adapting
+      (Taylor & Geurin, p. 152)  
+Quote: (Eckermann et al., 2010, p. 99 in Taylor & Geurin, 2019, p. 152)
+
+## ppt/slides/slide7.xml
+
+
+## ppt/slides/slide8.xml
+Mapping Module to grass-roots, community-led Indigenous frameworks and approaches
+Aboriginal and Torres Strait Islander Health Performance Framework (HPF) 2017
+
+## ppt/slides/slide9.xml
+Story: The Lion & the Hunter
+
+## ppt/slides/slide10.xml
+Image: Mills’ Plains, Ben Lomond Tas, c. 1832-4 John Glover in The Biggest Estate on Earth Gammage, 2011, p. 19
+History prior to Colonisation
+Image: Hand stencils Manja Shelter 
+Gariwerd
+ (Grampians National Park
+Image: 'Aborigines Resting by a Camp Fire near the Mouth of the Hunter River, Newcastle, NSW' (Joseph Lycett, c. 1820s). This scene may have been typical of Aboriginal life on the coastal belt during the early settlement of New South Wales (Courtesy National Library of Australia: R5684).
+Image: A bark spear shield (or ‘
+helimans
+’) 
+Department of Environment and Conservation (NSW), Aboriginal scarred trees in NSW, 2005, p. 22
+
+## ppt/slides/slide11.xml
+History since Colonisation
+Image: auswars_169_keyarttitle_1920x1080 Rachel Perkins Dale Hickey Watson 2023
+
+## ppt/slides/slide12.xml
+Colonial Massacres
+Australia, 1788-1930
+https://c21ch.newcastle.edu.au/colonialmassacres/map.php
+
+## ppt/slides/slide13.xml
+Terra Nulluis
+Meaning… ‘land belonging to no-one’ allowed British settlement under European law 
+(Taylor & Guerin, 2014 p.26)
+This policy remained until the 
+Mabo Decision in the High Court
+ in 1992
+
+## ppt/slides/slide14.xml
+
+
+## ppt/slides/slide15.xml
+Assimilation
+
+## ppt/slides/slide16.xml
+Assimilation in Practice
+16
+How? Children were taken by the police; from their homes or on their way to school and put into institutions, fostered or adopted out to non-Aboriginal and non-Torres Strait Islander families.
+Many children suffered harsh, degrading treatment (including sexual abuse) and were frequently indoctrinated to believe Aboriginal and Torres Strait Islander peoples were inferior 
+(Healing Foundation, 2017)
+
+## ppt/slides/slide17.xml
+The Stolen Generations
+1995 National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families    
+1997 Bringing them Home Report (Aboriginal & Torres Strait Islander Healing Foundation, 2017)
+Social workers were some of the key workers working in child welfare and protection – did not speak out against it
+Link to Report: 
+https://www.humanrights.gov.au/sites/default/files/content/pdf/
+
+## ppt/slides/slide18.xml
+Map of Stolen Generations Institutions
+Institutions Map | The Healing Foundation
+
+## ppt/slides/slide19.xml
+
+
+## ppt/slides/slide20.xml
+Australian Prime Minister Kevin Rudd apology speech - YouTube
+
+## ppt/slides/slide21.xml
+Closing the Gap Strategy
+In February 2008, Prime Minister 
+Kevin Rudd
+ pledged the government would attempt to bridge the gap between Indigenous and non-Indigenous Australian health, education, living conditions, life expectancy, educational achievement, and economic opportunity.
+‘Closing the gap’ refers to Australian Government initiatives, which do not necessarily reflect the human rights-based approach of the Close the Gap Campaign.
+
+## ppt/slides/slide22.xml
+When considering Indigenous peoples health and wellbeing it is good to be familiar with the annual Close the Gap reports. To help you familiarise yourself with these resources. 
+History of Closing the Gap. 
+https://healthinfonet.ecu.edu.au/learn/health-system/closing-the-gap/history-of-closing-the-gap/
+Close the Gap 2024 Report
+https://www.closingthegap.gov.au/national-agreement/targets 
+Lets discuss…
+
+## ppt/slides/slide23.xml
+The impacts on communities
+Poverty
+(stolen wages, kept wages, no wages)
+Education system ignored Aboriginal ways of knowing, being and doing
+Social rejection
+Poor housing
+No recognition of traditional healing system = poor health outcomes
+Poor housing
+Secret life
+Disruption
+Incarceration
+Trauma
+Mental Health
+Substance abuse
+Grief & Loss
+Loss & Disconnection of culture
+Separation or loss of family connections
+Disconnection
+
+## ppt/slides/slide24.xml
+
+
+## ppt/slides/slide25.xml
+Translation to Practice 
+Prevention of harm therefore must seek to intervene in inter-generational cycles of harm by healing, strengthening, and reconnecting families and communities
+More community governance and meaningful Aboriginal and Torres Strait Islander community participation
+
+## ppt/slides/slide26.xml
+Privilege and Oppression
+Are about unjust distributions of power
+Privilege is unearned advantage 
+This is not about how good or bad someone’s life is, or whether or not they are happy
+Individuals do not choose to get those advantages, and do not have them by merit
+Privilege is concerned with whether a given society, economic system, or institution unjustly benefits certain groups
+Oppression is unearned disadvantage
+The same points hold true for oppression.
+So, an individual is oppressed in the event that they get a range of disadvantages due to their socio-economic position
+Their disadvantages are not a consequence of their choices. Merit  is irrelevant
+
+## ppt/slides/slide27.xml
+Racism, as a form of oppression, is primarily concerned with unjust distributions of power on the basis of ethnicity. Where ideas and influences are/become normalised perceptions with structures
+, i.e. stereotypes, negative discourse, and 
+biases.
+It is not, primarily, about the specific beliefs of individuals or groups
+There are people who discriminate on the basis of group membership i.e. Aboriginal, or Muslim, or Jewish, or Jamaican, or  ‘Black,’ or ‘Indian,’ or for any other reason
+Racism does not depend on these people alone. Many people benefit from racism without having these beliefs and are, in a broader sense, also racist.
+Racism and Power
+
+## ppt/slides/slide28.xml
+Racism –Systemic racism, and how it presents as Institutional or Structural racism
+Systemic racism is:
+“When the policies and practices of institutions result in unfair treatment of some groups compared to others. Like everyday racism, systemic racism does not necessarily target a particular person.”
+Institutional racism [based on policies and entrenched societal ‘norms’]
+ 
+This is when racism is established as a normal behaviour within an organisation or society. It often results in discrimination by people who are doing jobs that others have given to them. For example, police are sometimes criticised for racial profiling, and police agencies now make efforts to eliminate institutional racism;
+Structural/Systemic racism [based on the organisations and structures that uphold these systems]
+ This refers to inequalities found in societies that tend to exclude some groups of people. For example, when certain groups are under-represented in fields like the media, the legal profession, or politics, it can lead to inequalities in other areas too.
+
+## ppt/slides/slide29.xml
+Inquiry into missing and murdered First Nations women and children 2022 ANTaR
+“
+First Nations women commonly face negative experiences with police when attempting to report violence. This can include criminalisation for past offences. 
+In particular, Aboriginal and Torres Strait Islander women are at a high risk of police misidentification, and are more likely to be misidentified ‘simply because they are Aboriginal.’ 
+Such responses reinforce the idea of First Nations people as the ‘ideal offender’ rather than the ‘ideal victim,’ who are thereby rendered unworthy of the same time, attention, or credibility given to non-Indigenous people
+.”
+p. 7 
+
+## ppt/slides/slide30.xml
+"I need you to see that this is not past history, this is the ongoing story of our country."
+
+## ppt/slides/slide31.xml
+Healing Through Culture: The Woorabinda Men’s and Women’s Healing Camps (Central Queensland)
+What Happened:
+Woorabinda created cultural healing camps on Country.
+Elders, cultural mentors, and Aboriginal health workers lead the program.
+Activities include ceremony, storytelling, Yarning circles, bush foods, and time on Country.
+Healing focuses on identity, belonging, and cultural pride.
+Trauma is acknowledged but not centred — strength is the focus.
+Why It Matters:
+Strengths‑based healing:
+ Culture, identity, and community are central.
+Intergenerational trauma:
+ Healing through connection, not deficit framing.
+SEWB:
+ Supports spirit, mind, body, family, community, and Country.
+Yarning & Dadirri:
+ Build trust, safety, and deep understanding.
+Cultural continuity:
+ Elders’ knowledge strengthens wellbeing.
+Community leadership:
+ Healing is Indigenous‑led and culturally grounded.
+
+## ppt/slides/slide32.xml
+Activity: Resistance &  Resilience: Advocates & Allies
+How do these people/events shape your understanding of Australian history?
+What surprised or challenged you?
+How do these events still affect Indigenous communities today?
+
+## ppt/slides/slide33.xml
+Special Considerations Support extension
+
+## ppt/slides/slide34.xml
+Assessment 1 – Short Response
+Title
+Assessment
+ 
+1
+Type
+Short
+ 
+response
+Length
+1,000
+ 
+words
+Weighting
+40%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+ULO1
+:
+ 
+Discuss
+ 
+key
+ 
+concepts
+ 
+of
+ 
+health
+ 
+and
+ 
+wellbeing
+ 
+as
+ 
+determined
+ 
+by 
+Aboriginal People.
+ULO2
+:
+ 
+Identify
+ 
+key
+ 
+stages
+ 
+of
+ 
+the
+ 
+colonisation
+ 
+process
+ 
+and
+ 
+its
+ 
+relationship
+ 
+to 
+the contemporary health status of Australian Indigenous People.
+
+## ppt/slides/slide35.xml
+Overview to Writing a Short Response
+Always
+ 
+use
+ 
+unit
+ 
+approaches
+ 
+(concepts,
+ 
+theories,
+ 
+models,
+ 
+processes
+ 
+or
+ 
+guidelines)
+ 
+in
+ 
+your 
+short
+ 
+responses.
+ 
+Often,
+ 
+this
+ 
+means
+ 
+defining
+ 
+and
+ 
+applying
+ 
+unit
+ 
+concepts
+ 
+or
+ 
+theories
+.
+ 
+Before
+ 
+you
+ 
+start
+ 
+working
+ 
+on
+ 
+the
+ 
+assessment,
+ 
+find
+ 
+definitions
+ 
+in
+ the 
+unit
+ 
+materials.
+ 
+This
+ 
+step
+ 
+will 
+help
+ 
+you
+ 
+gain
+ 
+a
+ 
+more
+ 
+detailed
+ 
+grasp
+ 
+of
+ 
+unit
+ 
+ideas
+ 
+and
+ 
+theories
+ 
+so
+ 
+that
+ 
+you
+ 
+can
+ 
+show
+ 
+this understanding
+ 
+to
+ 
+the
+ 
+marker.
+ 
+Don't
+ 
+try
+ 
+to
+ 
+COVER
+ 
+EVERYTHING
+ 
+you
+ 
+know
+ 
+about
+ 
+a
+ 
+topic.
+ 
+While
+ 
+it
+ 
+can
+ 
+be
+ 
+tempting,
+ 
+this
+ 
+is
+ 
+not 
+your
+ 
+task
+ 
+in
+ 
+a
+ 
+short
+ 
+response,
+ 
+and
+ 
+you
+ 
+don't
+ 
+have
+ 
+enough
+ 
+words.
+ 
+Offer your 
+informed
+ 
+answer
+ 
+to
+ 
+the
+ 
+question
+ 
+within
+ 
+a
+ 
+limited
+ 
+word count.
+ 
+As
+ 
+you
+ 
+brainstorm,
+ 
+plan,
+ 
+and
+ 
+draft
+ 
+keep
+ 
+trying
+ 
+to
+ 
+narrow,
+ 
+narrow,
+ 
+narrow
+ 
+your
+ 
+focus.
+You can use 
+headings 
+in a short response, 
+it is part of the word count.
+
+## ppt/slides/slide36.xml
+10 Key Steps for Strong Short Response Writing
+Start with a clear main point: 
+Emphasise that short responses must begin with the answer, not background. Example sentence starters such as: 
+“This concept refers to…”
+ or 
+“In the scenario, this is evident when…”
+.
+2. Explain the key concept briefly:  D
+efine or clarify the concept in their own words before applying it. This prevents vague or incorrect use of terms 
+3. Link the concept to UNDRIP Article 3
+ 
+Show clearly how the concept relates to the rights described in Article 3 and to Australian 
+Indigenous Peoples understandings 
+of health and wellbeing. Interpret the connection—do not retell general background information.
+4. Use scholarly or unit evidence: 
+Short responses still require academic grounding. Evidence can be a unit concept, framework, or scholarly idea. Keep it brief. 
+5. Write concisely and coherently: 
+Use short, direct sentences - improves clarity and reduces grammatical errors - avoid long introductions, unnecessary detail, or narrative writing.
+
+## ppt/slides/slide37.xml
+10 Key Steps for Strong Short Response Writing continued …
+6. Maintain respectful terminology: 
+Remember: Correct and consistent use of your chosen term
+7. Conclude by linking back to the question: 	
+A final sentence should reinforce the main point to close the paragraph logically and signals relevance to the marker.
+8. Avoid common pitfalls: 
+Highlight typical issues: over‑description, missing the main point, unclear links to Article 3, lack of evidence, incorrect terminology, and overly long sentences. 
+9. Use postgraduate verbs: 
+Encourage verbs that show analysis and interpretation: 
+analyse, interpret, examine, integrate, contextualise
+. Discourage vague verbs like 
+talk about
+ or 
+discuss
+.
+10. Follow a simple structure (PEEL): Point → Explain → Evidence/Scenario → Link
+.
+
+## ppt/slides/slide38.xml
+PEEL Writing Structure
+
+## ppt/slides/slide39.xml
+Purpose of the Assessment
+Builds understanding of 
+Australian Indigenous perspectives of health and wellbeing
+.
+Introduces 
+self‑determination
+ as a core principle in 
+UNDRIP Article 3
+.
+Highlights differences between 
+Australian Indigenous wholistic health
+ and 
+Western biomedical models
+.
+Examines how 
+colonisation has limited the ability to exercise self‑determination
+.
+Develops foundational knowledge for 
+culturally safe practice
+ in health, social services, and community work.
+Strengthens 
+critical thinking
+ and culturally grounded analysis for professional contexts.
+Task
+ 
+Description
+Read 
+Article 3 of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP)
+:
+"Indigenous peoples have the right to self-determination. By virtue of that right, they freely determine their political status and freely pursue their economic, social and cultural development."
+Write a 
+1,000-word short response
+ explaining how this article relates to Australian Indigenous Peoples understandings of health and wellbeing.
+ 
+Assessment 1 Overview
+
+## ppt/slides/slide40.xml
+Assessment 1 - Instructions
+Step 1: Read UNDRIP Article 3
+Consider what the term 
+self-determination
+ means and why it is important for Australian Indigenous Peoples.
+Step 2: Review Unit Content
+Use learning materials from:
+Module 1: Australian Indigenous concepts of health and wellbeing.
+Module 2: Colonisation and its impacts on Australian Indigenous health and wellbeing.
+Step 3: Research
+Locate additional scholarly literature that supports your discussion.
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Step 4: Write Your Response
+Your response should explain how Australian Indigenous concepts of health and wellbeing, self-determination, and community-accepted communication styles are interconnected, and how these relate to the ongoing impacts of colonisation on Australian Indigenous health and wellbeing.
+
+## ppt/slides/slide41.xml
+Introduction (Approx. 100 words)
+Introduce UNDRIP Article 3.
+Outline the main points of your response.
+Health and Wellbeing (Approx. 300 words)
+Examine the key concepts of health and wellbeing from Australian Indigenous perspectives.
+Reflect on why self-determination is important for Australian Indigenous health and wellbeing.
+Critically evaluate one cultural determinant which shapes Australian Indigenous health and wellbeing.
+Community-accepted communication styles (Approx. 300 words)
+Critically 
+analyse
+ the role of community-accepted communication styles in supporting
+ 
+Australian Indigenous health and wellbeing.
+ 
+Colonisation and Health (Approx. 200 words)
+Critically reflect on the enduring effects of colonisation on Australian Indigenous health and wellbeing.
+Conclusion (Approx. 100 words)
+Summarise
+ your key points. 
+NO
+ new information
+ 
+Example Short Response Structure
+
+## ppt/slides/slide42.xml
+Assessment Requirements
+Follow the 
+Short Response Quick Guide
+ (Assessment 1 resources).
+Address 
+UNDRIP Article 3
+ throughout your discussion.
+Analyse 
+Australian Indigenous concepts of health and wellbeing
+, including 
+self‑determination
+ and 
+one cultural determinant
+.
+Explain the 
+relationship between colonisation and contemporary Australian Indigenous health outcomes
+.
+Support your discussion with 
+scholarly evidence
+.
+Sources & Referencing
+Use a 
+minimum of five (5) scholarly sources
+.
+UNDRIP must be cited and referenced
+, but 
+does not count
+ toward the five scholarly sources.
+Your reference list must contain 
+at least six (6) references
+ in total.
+Your response must …
+
+## ppt/slides/slide43.xml
+Ensure you meet the following Criteria:
+Referencing
+ 
+style
+ 
+of
+ 
+APA7
+.
+Consistent use of 
+correct 
+and 
+appropriate 
+terminology and tone in reference to Indigenous Australian Peoples, communities, and issues. 
+U
+se 
+a minimum of 5 peer-reviewed scholarly sources
+, 1 
+MUST
+ be the 
+The 
+United Nations Declaration on the Rights of Indigenous Peoples
+ (
+UNDRIP
+) 2007.
+Wikipedia, Creative
+ 
+Spirits 
+and or other such websites are 
+not
+ 
+acceptable scholarly reference material.
+Referencing Requirements
+
+## ppt/slides/slide44.xml
+Ensure you have attached your 
+signed and correctly completed
+ 
+Coversheet
+ to the front of your assessment document prior to uploading your final submission.
+Label your submission with your surname and initials, and the assessment task's name e.g. SmithJ_ShortResponse.docx
+You are required to use APA 7
+th
+ referencing style in this Unit formatting your document, citations, and references
+Instead of a Header you MUST 
+add a footer to your submission.
+ 
+Add your name and task type – i.e. 
+SmithJ_ShortResponse
+ on left margin, your student ID, and have page number on the right margin e.g.
+Other Requirements …
+
+## ppt/slides/slide45.xml
+Assessment 1 – Resources & Other Requirements
+
+## ppt/slides/slide46.xml
+Assessment Coversheet & Declaration
+
+## ppt/slides/slide47.xml
+APA 7
+th
+ Formatting your Document
+
+## ppt/slides/slide48.xml
+INDG6002 - GenAI Use
+In Gnibi College units, the use of GenAI in assessments is generally restricted to protect the integrity and authenticity of the learning process. Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning—something that cannot be authentically achieved through AI-generated content.
+
+## ppt/slides/slide49.xml
+This assessment is classified as: 
+Level 2: AI use permitted for specific purposes. 
+You can use AI for specific tasks as identified by the Unit Assessor.
+✅ You may use GenAI to: 
+Formatting, spelling and grammar - Grammarly Premium AI is permitted for formatting, spelling and grammar. Grammarly is permitted for language improvements – 
+no content or knowledge creation is permitted.
+Paraphrasing permitted - Use of 
+Grammarly Premium AI 
+is permitted for paraphrasing. Pay careful attention to any language adjustments that may affect the clarity of your work. Paraphrasing using 
+Grammarly Premium AI 
+must be referenced.
+❌ You may not use GenAI to: 
+Use of any other GenAI for content or knowledge creation is not within the permitted uses for this task.
+Present GenAI-generated material as your own original ideas
+Ask GenAI to 
+write any part of the analysis
+, commentary, or conclusions about your chosen study. 
+Upload or provide text from the research article or for GenAI to rewrite, summarise, or interpret the article.
+INDG6002 - GenAI Use continued …
+
+## ppt/slides/slide50.xml
+Rubric Assessment 1: Criterion 1
+
+## ppt/slides/slide51.xml
+Rubric Assessment 1: Criterion 2
+
+## ppt/slides/slide52.xml
+Rubric Assessment 1: Criterion 3
+
+## ppt/slides/slide53.xml
+Rubric Assessment 1: Criterion 4
+
+## ppt/slides/slide54.xml
+Rubric Assessment 1: Criterion 5
+
+## ppt/slides/slide55.xml
+Questions?
+
+## ppt/slides/slide56.xml
+Next week:
+Module 3: Social and cultural determinants of health
+
+## ppt/slides/slide57.xml
+Until Next Time …
+
+
+===== Week 3 - tutorial.pptx [_7821292_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821292_1?view=content&state=view
+
+
+--- Attachment: Week 3 - tutorial.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+6
+
+## ppt/notesSlides/notesSlide6.xml
+7
+
+## ppt/notesSlides/notesSlide7.xml
+8
+
+## ppt/notesSlides/notesSlide8.xml
+9
+
+## ppt/notesSlides/notesSlide9.xml
+10
+
+## ppt/notesSlides/notesSlide10.xml
+11
+
+## ppt/notesSlides/notesSlide11.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide12.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide13.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide14.xml
+15
+
+## ppt/notesSlides/notesSlide15.xml
+16
+
+## ppt/notesSlides/notesSlide16.xml
+17
+
+## ppt/notesSlides/notesSlide17.xml
+18
+
+## ppt/notesSlides/notesSlide18.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide19.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide20.xml
+21
+
+## ppt/notesSlides/notesSlide21.xml
+22
+
+## ppt/notesSlides/notesSlide22.xml
+23
+
+## ppt/notesSlides/notesSlide23.xml
+24
+
+## ppt/notesSlides/notesSlide24.xml
+25
+
+## ppt/notesSlides/notesSlide25.xml
+26
+
+## ppt/notesSlides/notesSlide26.xml
+27
+
+## ppt/notesSlides/notesSlide27.xml
+28
+
+## ppt/notesSlides/notesSlide28.xml
+29
+
+## ppt/notesSlides/notesSlide29.xml
+30
+
+## ppt/notesSlides/notesSlide30.xml
+31
+
+## ppt/notesSlides/notesSlide31.xml
+32
+
+## ppt/notesSlides/notesSlide32.xml
+33
+
+## ppt/notesSlides/notesSlide33.xml
+34
+
+## ppt/notesSlides/notesSlide34.xml
+35
+
+## ppt/notesSlides/notesSlide35.xml
+36
+
+## ppt/notesSlides/notesSlide36.xml
+37
+
+## ppt/notesSlides/notesSlide37.xml
+38
+
+## ppt/notesSlides/notesSlide38.xml
+39
+
+## ppt/notesSlides/notesSlide39.xml
+40
+
+## ppt/notesSlides/notesSlide40.xml
+41
+
+## ppt/notesSlides/notesSlide41.xml
+42
+
+## ppt/notesSlides/notesSlide42.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide43.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide44.xml
+1.7.2013
+‹#›
+
+## ppt/slides/slide1.xml
+Week 3 Tutorial:
+INDG6002 Health and Indigenous Australian Peoples 
+Social and Cultural Determinants of Health
+
+## ppt/slides/slide2.xml
+Warning
+This presentation may include images, voices, stories, and names of deceased people now resting in the Dreaming that may cause sadness or distress to Aboriginal and Torres Strait Islander students.
+
+## ppt/slides/slide3.xml
+Themes
+Cultural and Social determinants of health
+Strengths-based approaches
+Institutional / systemic racism
+
+## ppt/slides/slide4.xml
+Mapping Module to grass-roots, community-led Indigenous frameworks and approaches
+The National Aboriginal and Torres Strait Islander Health Plan 2021–2031 
+
+## ppt/slides/slide5.xml
+Is a ‘learned’ set of:
+Beliefs
+Practices
+Philosophies
+Traditions 
+Set of principles
+Values, and Norms that describe a groups particular way of living …their template or pattern for living as a group
+What is culture
+
+## ppt/slides/slide6.xml
+https://www.youtube.com/watch?v=OByUX1o6puU
+
+## ppt/slides/slide7.xml
+Cultural Determinants of Health
+“Cultural Determinants originate from and promote a strength-based perspective, acknowledging that stronger connections to culture and Country build stronger individual and collective identities, a sense of self-esteem, resilience, and improved outcomes across the other determinants of health including education, economic stability and community safety.”
+Prof. 
+Ngiare
+ Brown (undated), cited in The 
+Lowitja
+ Institute – Cultural Determinants Roundtable, Melbourne 26th November 2014, 
+Image: Gee, Dudgeon, Schultz, Hart & Kelly 2014 – Ch 4 – p. 57
+
+## ppt/slides/slide8.xml
+Cultural Determinants of health
+… are the protective factors that support good health, wellbeing , and resilience for Aboriginal & Torres Strait Islander peoples, including:
+Connection to Country
+Connection to Community
+Identity
+Kinship
+Knowledge and Beliefs
+Language
+Self-determination
+Cultural expression
+Gee et al, 2014 – Ch 4 – pp. 57-61
+
+## ppt/slides/slide9.xml
+Aboriginal and Torres Strait Islander Health Status
+https://healthinfonet.ecu.edu.au/learn/health-facts/overview-aboriginal-torres-strait-islander-health-status/
+“Focusing less on the deficit narratives promoted by the way these indicators are framed and more on the positive affirming impacts of cultural determinants, the narrative can shift more towards strengths based understandings of Aboriginal and Torres Strait Islander health.”
+ p.12
+
+## ppt/slides/slide10.xml
+Re-cap (Module 1): 
+Strengths-based approaches
+    
+Strength and cultural determinants of health
+    Strength through protective factors
+    Asset-based approaches and resilience
+    Strength through decolonisation
+    Strength as empowerment
+    Strength as ‘Wholistic health and cultural appropriateness’
+    Strengths-based counselling approaches
+    Strength, wellness, and wellbeing
+
+## ppt/slides/slide11.xml
+Akeyulerre Healing Centre 
+What happens:
+Aboriginal Elders created a healing centre in Alice Springs.
+Activities include bush medicine making, trips to Country, language teaching, and storytelling.
+Families and kin are involved in healing.
+Decisions are made by the community (community‑controlled).
+Culture is treated as medicine.
+Why it matters:
+Cultural determinants:
+ Culture, Country, language, kinship, identity.
+Strengths‑based practice:
+ Focus on resilience, pride, and cultural continuity.
+SEWB:
+ Supports spirit, mind, body, family, community, and Country.
+Community governance:
+ Elders lead and decide.
+Holistic wellbeing:
+ Culture improves emotional, spiritual, and social health.
+Contrast with deficit models:
+ Moves away from “problems” to cultural strengths.
+https://www.akeyulerre.org.au/
+
+## ppt/slides/slide12.xml
+Identify key cultural determinants of health.
+Reflect on how these determinants intersect with clinical and community health practice.
+Explore culturally safe and responsive approaches to health care.
+Collaborate across disciplines to propose culturally safety health strategies.
+Activity: Listening to Country: Cultural Determinants in Practice
+
+## ppt/slides/slide13.xml
+In groups – either same discipline or mixed discipline fields
+Select a ‘Scenario’ 
+Review the Cultural Determinants of Health: Key Concepts Handout
+Identify the Cultural determinants in your scenario
+Post the Group Reflections and Responses – you can use the discussion prompts (provided) to get the conversation started 
+Share your findings with the class
+
+## ppt/slides/slide14.xml
+The activity showed where we get strength.
+Next, we discuss Why they are necessary. Why we need our strengths to support us 
+and our health.
+These help us deal with those situations beyond our control, the social determinants, which continually, and cumulatively impact our health and wellbeing 
+
+## ppt/slides/slide15.xml
+Social Determinants of health (
+SDoH
+)
+Examples of social determinants of health, which can influence health equity in positive and negative ways:
+income and social protection
+education
+unemployment and job insecurity
+working life conditions
+food insecurity
+housing, basic amenities and the environment
+early childhood development
+social inclusion and non-discrimination
+structural conflict
+access to affordable health services of decent quality (WHO 2023 in AIHW, 2024).
+https://www.aihw.gov.au/reports/australias-health/social-determinants-of-health
+
+## ppt/slides/slide16.xml
+Social Determinants of Health further impacting 
+Aboriginal and Torres Strait Islander peoples
+  
+(
+SDoH
+)
+Australian
+ 
+Government,
+ 
+Department
+ 
+of
+ 
+Health, Disability and Ageing,
+ 
+2021,
+ 
+Status
+ 
+and
+ 
+determinants
+ 
+of
+ 
+Aboriginal
+ 
+and
+ 
+Torres
+ 
+Strait
+ 
+Islander
+ 
+health,
+ 
+Canberra.
+https://www.health.gov.au/topics/aboriginal-and-torres-strait-islander-health/status-and-determinants
+Social determinants of health also impacting Aboriginal and Torres Strait Islander peoples 
+early childhood development
+community and family safety
+education and youth
+employment and income
+racism
+housing
+environment and infrastructure
+interactions with government systems and services
+law and justice
+poverty
+food security
+experiences with alcohol, tobacco and other drugs
+colonisation and intergenerational trauma
+
+## ppt/slides/slide17.xml
+Recap (Module 2): Racism & Bias
+Racism is a stressor that has been reported to affect both mental and physical health. 
+There is a growing body of literature that validates the public health impact of racial bias, implicit and explicit, on the lives and health of First Nations Peoples.
+Stereotyping and negative discourse enable the racism to continue – t
+he construction of understanding Aboriginal peoples “reinforces unequal power relationships; in other words, an image of sick, 
+disorganised
+ communities can be used to justify paternalism and dependency”
+ (Bond & Singh, 2020)
+
+## ppt/slides/slide18.xml
+Systemic and Institutional Racism
+Braveman et al (2022) shared: “
+Systemic racism
+ emphasizes the involvement of whole systems, and often all systems—for example, political, legal, economic, health care, school, and criminal justice systems—including the structures that uphold the systems. 
+Institutional (Structural) racism
+ 
+emphasises
+ the role of the structures (laws, policies, institutional practices, and entrenched norms) that are the systems’ scaffolding.
+ 
+Image: Iceberg Simon Lee 
+Unsplash
+
+## ppt/slides/slide19.xml
+Check Up
+What are we doing about racism
+Engaged ANU | Ending racism: Check up
+
+## ppt/slides/slide20.xml
+Othering
+Othering can be seen by actions such as:
+thinking that people outside your social/cultural group are not as intelligent or skilled as you and this is then reflected in your actions and tone of language
+ignoring people’s ideas or opinions
+not giving people the benefit of the doubt
+failing to share vital information with others
+excluding others
+
+## ppt/slides/slide21.xml
+Requesting a Special Consideration Support extension
+
+## ppt/slides/slide22.xml
+Assessment 1 – Short Response
+Title
+Assessment
+ 
+1
+Type
+Short
+ 
+response
+Length
+1,000
+ 
+words
+Weighting
+40%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+ULO1
+:
+ 
+Discuss
+ 
+key
+ 
+concepts
+ 
+of
+ 
+health
+ 
+and
+ 
+wellbeing
+ 
+as
+ 
+determined
+ 
+by 
+Aboriginal People.
+ULO2
+:
+ 
+Identify
+ 
+key
+ 
+stages
+ 
+of
+ 
+the
+ 
+colonisation
+ 
+process
+ 
+and
+ 
+its
+ 
+relationship
+ 
+to 
+the contemporary health status of Australian Indigenous People.
+
+## ppt/slides/slide23.xml
+Overview to Writing a Short Response
+Always
+ 
+use
+ 
+unit
+ 
+approaches
+ 
+(concepts,
+ 
+theories,
+ 
+models,
+ 
+processes
+ 
+or
+ 
+guidelines)
+ 
+in
+ 
+your 
+short
+ 
+responses.
+ 
+Often,
+ 
+this
+ 
+means
+ 
+defining
+ 
+and
+ 
+applying
+ 
+unit
+ 
+concepts
+ 
+or
+ 
+theories
+.
+ 
+Before
+ 
+you
+ 
+start
+ 
+working
+ 
+on
+ 
+the
+ 
+assessment,
+ 
+find
+ 
+definitions
+ 
+in
+ the 
+unit
+ 
+materials.
+ 
+This
+ 
+step
+ 
+will 
+help
+ 
+you
+ 
+gain
+ 
+a
+ 
+more
+ 
+detailed
+ 
+grasp
+ 
+of
+ 
+unit
+ 
+ideas
+ 
+and
+ 
+theories
+ 
+so
+ 
+that
+ 
+you
+ 
+can
+ 
+show
+ 
+this understanding
+ 
+to
+ 
+the
+ 
+marker.
+ 
+Don't
+ 
+try
+ 
+to
+ 
+COVER
+ 
+EVERYTHING
+ 
+you
+ 
+know
+ 
+about
+ 
+a
+ 
+topic.
+ 
+While
+ 
+it
+ 
+can
+ 
+be
+ 
+tempting,
+ 
+this
+ 
+is
+ 
+not 
+your
+ 
+task
+ 
+in
+ 
+a
+ 
+short
+ 
+response,
+ 
+and
+ 
+you
+ 
+don't
+ 
+have
+ 
+enough
+ 
+words.
+ 
+Offer your 
+informed
+ 
+answer
+ 
+to
+ 
+the
+ 
+question
+ 
+within
+ 
+a
+ 
+limited
+ 
+word count.
+ 
+As
+ 
+you
+ 
+brainstorm,
+ 
+plan,
+ 
+and
+ 
+draft
+ 
+keep
+ 
+trying
+ 
+to
+ 
+narrow,
+ 
+narrow,
+ 
+narrow
+ 
+your
+ 
+focus.
+You can use 
+headings 
+in a short response, 
+it is part of the word count.
+
+## ppt/slides/slide24.xml
+10 Key Steps for Strong Short Response Writing
+Start with a clear main point: 
+Emphasise that short responses must begin with the answer, not background. Example sentence starters such as: 
+“This concept refers to…”
+ or 
+“In the scenario, this is evident when…”
+.
+2. Explain the key concept briefly:  D
+efine or clarify the concept in their own words before applying it. This prevents vague or incorrect use of terms 
+3. Link the concept to UNDRIP Article 3
+ 
+Show clearly how the concept relates to the rights described in Article 3 and to Australian Indigenous Peoples understandings of health and wellbeing. Interpret the connection—do not retell general background information.
+4. Use scholarly or unit evidence: 
+Short responses still require academic grounding. Evidence can be a unit concept, framework, or scholarly idea. Keep it brief. 
+5. Write concisely and coherently: 
+Use short, direct sentences - improves clarity and reduces grammatical errors - avoid long introductions, unnecessary detail, or narrative writing.
+
+## ppt/slides/slide25.xml
+10 Key Steps for Strong Short Response Writing continued …
+6. Maintain respectful terminology: 
+Remember: Correct and consistent use of your chosen term
+7. Conclude by linking back to the question: 	
+A final sentence should reinforce the main point to close the paragraph logically and signals relevance to the marker.
+8. Avoid common pitfalls: 
+Highlight typical issues: over‑description, missing the main point, unclear links to Article 3, lack of evidence, incorrect terminology, and overly long sentences. 
+9. Use postgraduate verbs: 
+Encourage verbs that show analysis and interpretation: 
+analyse, interpret, examine, integrate, contextualise
+. Discourage vague verbs like 
+talk about
+ or 
+discuss
+.
+10. Follow a simple structure (PEEL): Point → Explain → Evidence/Scenario → Link
+.
+
+## ppt/slides/slide26.xml
+PEEL Writing Structure
+
+## ppt/slides/slide27.xml
+Purpose of the Assessment
+Builds understanding of 
+Australian Indigenous perspectives of health and wellbeing
+.
+Introduces 
+self‑determination
+ as a core principle in 
+UNDRIP Article 3
+.
+Highlights differences between 
+Australian Indigenous wholistic health
+ and 
+Western biomedical models
+.
+Examines how 
+colonisation has limited the ability to exercise self‑determination
+.
+Develops foundational knowledge for 
+culturally safe practice
+ in health, social services, and community work.
+Strengthens 
+critical thinking
+ and culturally grounded analysis for professional contexts.
+Task
+ 
+Description
+Read 
+Article 3 of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP)
+:
+"Indigenous peoples have the right to self-determination. By virtue of that right, they freely determine their political status and freely pursue their economic, social and cultural development."
+Write a 
+1,000-word short response
+ explaining how this article relates to Australian Indigenous Peoples understandings of health and wellbeing.
+ 
+Assessment 1 Overview
+
+## ppt/slides/slide28.xml
+Assessment 1 - Instructions
+Step 1: Read UNDRIP Article 3
+Consider what the term 
+self-determination
+ means and why it is important for Australian Indigenous Peoples.
+Step 2: Review Unit Content
+Use learning materials from:
+Module 1: Australian Indigenous concepts of health and wellbeing.
+Module 2: Colonisation and its impacts on Australian Indigenous health and wellbeing.
+Step 3: Research
+Locate additional scholarly literature that supports your discussion.
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Step 4: Write Your Response
+Your response should explain how Australian Indigenous concepts of health and wellbeing, self-determination, and community-accepted communication styles are interconnected, and how these relate to the ongoing impacts of colonisation on Australian Indigenous health and wellbeing.
+
+## ppt/slides/slide29.xml
+Introduction (Approx. 100 words)
+Introduce UNDRIP Article 3.
+Outline the main points of your response.
+Health and Wellbeing (Approx. 300 words)
+Examine the key concepts of health and wellbeing from Australian Indigenous perspectives.
+Reflect on why self-determination is important for Australian Indigenous health and wellbeing.
+Critically evaluate one cultural determinant which shapes Australian Indigenous health and wellbeing.
+Community-accepted communication styles (Approx. 300 words)
+Critically 
+analyse
+ the role of community-accepted communication styles in supporting
+ 
+Australian Indigenous health and wellbeing.
+ 
+Colonisation and Health (Approx. 200 words)
+Critically reflect on the enduring effects of colonisation on Australian Indigenous health and wellbeing.
+Conclusion (Approx. 100 words)
+Summarise
+ your key points. 
+NO
+ new information
+ 
+Example Short Response Structure
+
+## ppt/slides/slide30.xml
+Assessment Requirements
+Follow the 
+Short Response Quick Guide
+ (Assessment 1 resources).
+Address 
+UNDRIP Article 3
+ throughout your discussion.
+Analyse 
+Australian Indigenous concepts of health and wellbeing
+, including 
+self‑determination
+ and 
+one cultural determinant
+.
+Explain the 
+relationship between colonisation and contemporary Australian Indigenous health outcomes
+.
+Support your discussion with 
+scholarly evidence
+.
+Sources & Referencing
+Use a 
+minimum of five (5) scholarly sources
+.
+UNDRIP must be cited and referenced
+, but 
+does not count
+ toward the five scholarly sources.
+Your reference list must contain 
+at least six (6) references
+ in total.
+Your response must …
+
+## ppt/slides/slide31.xml
+Ensure you meet the following Criteria:
+Referencing
+ 
+style
+ 
+of
+ 
+APA7
+.
+Consistent use of 
+correct 
+and 
+appropriate 
+terminology and tone in reference to Indigenous Australian Peoples, communities, and issues. 
+U
+se 
+a minimum of 5 peer-reviewed scholarly sources
+, 1 
+MUST
+ be the 
+The 
+United Nations Declaration on the Rights of Indigenous Peoples
+ (
+UNDRIP
+) 2007.
+Wikipedia, Creative
+ 
+Spirits 
+and or other such websites are 
+not
+ 
+acceptable scholarly reference material.
+Referencing Requirements
+
+## ppt/slides/slide32.xml
+Ensure you have attached your 
+signed and correctly completed
+ 
+Coversheet
+ to the front of your assessment document prior to uploading your final submission.
+Label your submission with your surname and initials, and the assessment task's name e.g. SmithJ_ShortResponse.docx
+You are required to use APA 7
+th
+ referencing style in this Unit formatting your document, citations, and references
+Instead of a Header you MUST 
+add a footer to your submission.
+ 
+Add your name and task type – i.e. 
+SmithJ_ShortResponse
+ on left margin, your student ID, and have page number on the right margin e.g.
+Other Requirements …
+
+## ppt/slides/slide33.xml
+Assessment 1 – Resources & Other Requirements
+
+## ppt/slides/slide34.xml
+Assessment Coversheet & Declaration
+
+## ppt/slides/slide35.xml
+APA 7
+th
+ Formatting your Document
+
+## ppt/slides/slide36.xml
+INDG6002 - GenAI Use
+In Gnibi College units, the use of GenAI in assessments is generally restricted to protect the integrity and authenticity of the learning process. Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning—something that cannot be authentically achieved through AI-generated content.
+
+## ppt/slides/slide37.xml
+This assessment is classified as: 
+Level 2: AI use permitted for specific purposes. 
+You can use AI for specific tasks as identified by the Unit Assessor.
+✅ You may use GenAI to: 
+Formatting, spelling and grammar - Grammarly Premium AI is permitted for formatting, spelling and grammar. Grammarly is permitted for language improvements – 
+no content or knowledge creation is permitted.
+Paraphrasing permitted - Use of 
+Grammarly Premium AI 
+is permitted for paraphrasing. Pay careful attention to any language adjustments that may affect the clarity of your work. Paraphrasing using 
+Grammarly Premium AI 
+must be referenced.
+❌ You may not use GenAI to: 
+Use of any other GenAI for content or knowledge creation is not within the permitted uses for this task.
+Present GenAI-generated material as your own original ideas
+Ask GenAI to 
+write any part of the analysis
+, commentary, or conclusions about your chosen study. 
+Upload or provide text from the research article or for GenAI to rewrite, summarise, or interpret the article.
+INDG6002 - GenAI Use continued …
+
+## ppt/slides/slide38.xml
+Rubric Assessment 1: Criterion 1
+
+## ppt/slides/slide39.xml
+Rubric Assessment 1: Criterion 2
+
+## ppt/slides/slide40.xml
+Rubric Assessment 1: Criterion 3
+
+## ppt/slides/slide41.xml
+Rubric Assessment 1: Criterion 4
+
+## ppt/slides/slide42.xml
+Rubric Assessment 1: Criterion 5
+
+## ppt/slides/slide43.xml
+Questions?
+
+## ppt/slides/slide44.xml
+Next week
+
+## ppt/slides/slide45.xml
+Until Next Time
+
+
+===== Week 4 - tutorial.pptx [_7821295_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821295_1?view=content&state=view
+
+
+--- Attachment: Week 4 - tutorial.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide3.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide4.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide5.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide8.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide9.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide10.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide11.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide14.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide18.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide19.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide27.xml
+27
+
+## ppt/notesSlides/notesSlide28.xml
+28
+
+## ppt/notesSlides/notesSlide29.xml
+29
+
+## ppt/notesSlides/notesSlide30.xml
+30
+
+## ppt/notesSlides/notesSlide31.xml
+31
+
+## ppt/notesSlides/notesSlide32.xml
+32
+
+## ppt/notesSlides/notesSlide33.xml
+33
+
+## ppt/notesSlides/notesSlide34.xml
+34
+
+## ppt/notesSlides/notesSlide35.xml
+35
+
+## ppt/notesSlides/notesSlide36.xml
+36
+
+## ppt/notesSlides/notesSlide37.xml
+37
+
+## ppt/notesSlides/notesSlide38.xml
+38
+
+## ppt/notesSlides/notesSlide39.xml
+39
+
+## ppt/notesSlides/notesSlide40.xml
+40
+
+## ppt/notesSlides/notesSlide41.xml
+41
+
+## ppt/notesSlides/notesSlide42.xml
+42
+
+## ppt/notesSlides/notesSlide43.xml
+43
+
+## ppt/notesSlides/notesSlide44.xml
+44
+
+## ppt/notesSlides/notesSlide45.xml
+45
+
+## ppt/notesSlides/notesSlide46.xml
+46
+
+## ppt/slides/slide1.xml
+INDG6002 Health and Indigenous Peoples
+ 
+Cultural Safety
+Week 4 Tutorial
+
+## ppt/slides/slide2.xml
+Warning
+This presentation may include images, voices, stories, and names of deceased people now resting in the Dreaming that may cause sadness or distress to Aboriginal and Torres Strait Islander students.
+
+## ppt/slides/slide3.xml
+Overview
+What does cultural safety mean to you? 
+In this module, we will look at the origins and meaning of Cultural Safety and provide a rationale for why this is an effective framework for working with Aboriginal and Torres Strait Islander peoples. 
+Five core principles of Cultural Safety are described and discussed in detail. 
+There are a range of terms used when working with culturally diverse groups and it is easy to be distracted by the terminology (e.g. cultural competency, cultural awareness). 
+This module will focus on Cultural Safety and Culturally safe practice 
+and how these apply to your professional practice when working with 
+Aboriginal and Torres Strait Islander peoples
+. 
+
+## ppt/slides/slide4.xml
+Mapping Module to grass-roots, community-led Indigenous frameworks and approaches
+Australian Institute of Health and Welfare (AIHW) 2023 Cultural Safety Monitoring Framework
+ 
+
+## ppt/slides/slide5.xml
+Frameworks of Healthcare - 
+Curtin, Robinson and 
+Dulvarie
+ 2019
+Chapter 3 - 
+Aboriginal and Torres Strait Islander Peoples' Health & Wellbeing Biles & Biles (Eds) 
+Prioritise Aboriginal and Torres Strait Islander peoples voices/knowledges
+Support tertiary curricula to prepare graduates to provide culturally safe services
+Improve trust in the health system by Aboriginal and Torres Strait Islander peoples
+Ensure Western health providers understand that, for Aboriginal and Torres Strait Islander peoples, health is holistic and linked to culture and community.
+Emphasise the importance of community leadership and involvement in developing health responses and ensuring that efforts are community-driven and appropriate
+Providing a structured approach to care that is sensitive to the diversity of Aboriginal and Torres Strait Islander peoples
+
+## ppt/slides/slide6.xml
+Communication style
+Appearance
+ 
+Beliefs & Assumptions 
+Values
+Expectations 
+Attitudes
+Culture – Visible/Invisible
+
+## ppt/slides/slide7.xml
+Recap - Culture affects health
+Important to know:
+Culture impacts upon our health, values, and health beliefs and practices 
+Our diet and cultural eating patterns 
+Physical activity
+Child rearing practices
+Reactions to pain
+Reactions to birth, death and stress
+You need to know because you will work with people from many different and diverse cultural backgrounds
+
+## ppt/slides/slide8.xml
+Culture – Aboriginal perspective  
+
+## ppt/slides/slide9.xml
+Cultural Frameworks
+
+## ppt/slides/slide10.xml
+Transcultural Nursing: Early Approach to Culture in Health Care
+Developed in the 1960s, influenced by anthropology and Madeleine Leininger’s work
+First nursing model to integrate cultural considerations into health care practice
+Focused on teaching health professionals about cultural differences
+Culture was narrowly defined as ethnicity or race
+Nurses learned cultural protocols for clients from different ethnic or religious backgrounds
+Limitation: risk of relying on stereotypes about behaviour based on ethnicity
+
+## ppt/slides/slide11.xml
+Cultural safety emerged from the work of Māori nurse Irihapeti Ramsden.
+This was in response to her concerns at witnessing the discriminatory and inequitable treatment of her people within the Aotearoa/New Zealand health system
+Origins of Cultural Safety 
+
+## ppt/slides/slide12.xml
+5 Cultural Safety Principles
+5 Facts about Cultural Safety
+
+## ppt/slides/slide13.xml
+Cultural Safety – An Aboriginal and Torres Strait Islander Perspective 
+Discussing and addressing cultural safety in Australia is essential because racism and the enduring effects of colonisation continue to drive significant health disparities for Aboriginal and Torres Strait Islander peoples
+.
+ 
+(Mohamed et al.,2024)
+As previously stated in this unit, racism and lack of cultural safety drives Indigenous Peoples fear and avoidance of health and social services. Lack of trust between Indigenous Peoples and western provided health and social services  has a strong colonial history (Gatwiri, Rix, & Rotumah, 2021).
+
+## ppt/slides/slide14.xml
+AHPRA and Cultural Safety in Australia
+Australian Health Practitioner Regulation Agency (AHPRA) 
+regulates over 800,000 health practitioners. 
+Cultural safety 
+is now a guiding principle in the National Law and embedded in professional codes of conduct. 
+AHPRA’s Aboriginal and Torres Strait Islander Health and Cultural Safety Strategy 2020–2025 aims to: 
+Eliminate racism in healthcare. 
+Make clinical and cultural safety inseparable.
+Ensure cultural safety is defined by Aboriginal and Torres Strait Islander Peoples.
+ 
+Cultural safety is reinforced through:
+Mandatory education and CPD frameworks.
+Accreditation standards for health programs.
+Monitoring and reporting systems. 
+Indigenous Leadership at the core
+AHPRA’s cultural safety initiatives are Indigenous-led, ensuring Aboriginal and Torres Strait Islander voices shape policy and practice.
+
+## ppt/slides/slide15.xml
+What is Reflexivity?
+Image: 
+fidel-fernando
+--PGr1H-Ua7U-unsplash
+“
+The sector often uses the term reflexivity, which is like reflection. Simply, reflection leads to insight about something, whereas reflexivity involves finding strategies to question our ‘attitudes, values, assumptions, prejudices, and habitual actions’. Reflexivity helps us understand how we contribute to the dynamic with others.”​
+Victorian State Government. (2024) p. 38
+​
+
+## ppt/slides/slide16.xml
+Reflexivity and Actions
+Image: Gollan & Stacey 2021, p. 14
+
+## ppt/slides/slide17.xml
+Scenario
+An elderly Aboriginal patient comes to the clinic with her daughter. The health professional speaks quickly, uses medical words that are hard to understand, and talks only to the daughter. The patient looks confused and quiet.
+“What might the patient be feeling?”
+List 
+3 things the health professional could do
+ to make the interaction more culturally safe.
+
+## ppt/slides/slide18.xml
+Translation to Practice
+
+## ppt/slides/slide19.xml
+Othering can be seen by actions such as:
+thinking that people outside your social/cultural group are not as intelligent or skilled as you and this is then reflected in your actions and tone of language
+ignoring people’s ideas or opinions
+not giving people, the benefit of the doubt
+failing to share vital information with others
+excluding others
+Othering: The ‘flip side’ of Cultural Safety
+
+## ppt/slides/slide20.xml
+Cultural safety and the National Principles for Child Safe Organisations
+10 National Principles for Child Safe Organisations Guide link: 
+https://www.childsafety.gov.au/resources/keeping-our-kids-safe-cultural-safety-and-national-principles-child-safe-organisations-guide-0
+SNAICC - 
+https://www.snaicc.org.au/
+
+## ppt/slides/slide21.xml
+International perspective
+Link: https://www.youtube.com/watch?v=cLDkA2RIeCM
+
+## ppt/slides/slide22.xml
+Marumali Journey of Healing Program
+What Happened:
+Aunty Lorraine Peeters created a healing program for Stolen Generations survivors.
+Activities include truth‑telling, identity work, kinship reconnection, and cultural mentoring.
+Healing is led by Elders and survivors.
+Culture is treated as medicine.
+Safe spaces are created through cultural protocols.
+Why It Matters:
+Client‑determined care:
+ Safety defined by the client.
+Critical self‑reflection:
+ Staff examine bias and privilege.
+Anti‑racism:
+ Confronting institutional racism.
+Indigenous leadership:
+ Elders guide care.
+Truth‑telling:
+ Central to healing and cultural safety.
+Strengths‑based practice:
+ Focus on resilience and cultural pride.
+Cultural safety:
+ Holistic, empowering, community‑controlled care.
+https://marumali.com.au/our-programs/
+
+## ppt/slides/slide23.xml
+Warning
+This presentation includes images, voices, stories, and names of deceased people now resting in the Dreaming that may cause sadness or distress to Aboriginal and Torres Strait Islander students.
+
+## ppt/slides/slide24.xml
+SBS Report on Naomi Williams(Oct,2018)
+Naomi Williams was a 27-year-old Wiradjuri (First Nations) woman, six months pregnant, who died in 2016 from sepsis. 
+She had visited the local rural hospital many times (reportedly 18 times in 8 months) for symptoms like severe pain, vomiting, and nausea. 
+Despite her repeated visits, she was given minimal treatment (in one instance, just two Panadol) and sent home without a proper assessment.
+Experts at the inquest argued that there was 
+implicit racial bias
+ — hospital staff made stereotypical assumptions about her, including that she was a “drug seeker” because she had said she used marijuana
+This stereotyping is linked to broader systemic racism in healthcare: for example, evidence was brought forward that Indigenous patients often receive fewer procedures than non-Indigenous patients
+
+## ppt/slides/slide25.xml
+SBS Report on Naomi Williams (Oct, 2018) 
+
+## ppt/slides/slide26.xml
+Activity: 
+Case Scenario
+David, an Aboriginal man, presents to the emergency department with chest pain. He is accompanied by a family member. The nurse begins asking clinical questions without introducing themselves or acknowledging the family. The nurse assumes David speaks English fluently and does not ask about language preferences or cultural needs. When David hesitates to answer, the nurse becomes impatient and says, “We need to hurry; this is serious.” The family member tries to speak, but the nurse dismisses them, saying, “We only need the patient’s answers.”
+1.	What examples of culturally unsafe care can you identify in this scenario?
+2.	How could the nurse have provided culturally safe care?
+3.	What strategies would you use to minimise power imbalances and respect cultural protocols?
+4.	Reflect on your own practice: How would you ensure cultural safety in similar situations?
+Discussion Questions :
+
+## ppt/slides/slide27.xml
+Requesting a Special Consideration Support extension
+
+## ppt/slides/slide28.xml
+Assessment 2 – Critical Review
+Title
+Assessment
+ 
+2
+Type
+Critical 
+Review
+Length
+2,200
+ 
+words
+Weighting
+60%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning 
+Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+1. Discuss key concepts of health and wellbeing as determined by Aboriginal people 
+2. Identify key stages of the colonisation process and its relationship to the contemporary health status of Australian Indigenous people 
+3. 
+Analyse
+ the relationship between socio-economic factors and the contemporary health status of Australian Indigenous people 
+4. Explain how primary health care and/or health promotion enhances the wellbeing of Indigenous people and role of the health professional as an agent of social change
+
+## ppt/slides/slide29.xml
+Writing a Critical Review
+https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/quick-guides/writing_a_critical_review.pdf
+
+## ppt/slides/slide30.xml
+Critical Review of the Scenario
+                               
+A critical review goes 
+beyond description
+ by examining 
+why
+ something happened, 
+how
+ it influences outcomes, and 
+what it means
+ in a broader context
+In 
+this assessment
+, you are not reviewing a written document—you are critically reviewing a 
+scenario and practice interaction
+.
+Instead of reading an article, you are examining:
+Sarah’s experiences 
+The impacts of colonisation on her contemporary health 
+the cultural context shaping the encounter
+the power dynamics in the consultation
+How primary health care and health promotion can respond 
+
+## ppt/slides/slide31.xml
+Critical Review of the Scenario
+                               
+Judge the strengths and weaknesses 
+(of the actions and recommendations in the scenario) – which must be evidence-based 
+Identify bias or assumptions 
+- Analyse privilege, whiteness, and Western norms (how these assumptions affect Sarah’s wellbeing and care) 
+Overall evaluation 
+- Judgement about the quality of practice - Must be linked to theory 
+A critical review 
+always ends with a judgement
+.
+
+## ppt/slides/slide32.xml
+Assessment 2 - Brief
+Rationale – Why this assessment matters
+Apply unit concepts to a 
+realistic health care scenario
+Critically examine 
+culturally safe, strengths‑based, socially responsive
+ practice
+Analyse:
+SEWB concepts
+Impacts of colonisation
+Socioeconomic determinants
+Primary health care & health promotion
+Shift away from deficit views → recognise 
+strengths, resilience, cultural connections, self‑determination
+Understand health professionals as 
+agents of social change
+Explore how culturally safe, equitable care supports 
+Indigenous wellbeing
+Assessment Task – What students must do
+Write a 
+critical review
+ of the Sarah scenario
+Examine how health professionals and services can support 
+Indigenous health and wellbeing
+Apply unit concepts to Sarah’s experiences and the clinic’s 
+service improvements
+Analyse culturally safe, strengths‑based approaches using 
+scholarly evidence
+ (min. 12 sources)
+Evaluate the quality of practice → identify strengths, weaknesses, bias, assumptions
+Provide 
+evidence‑based recommendations
+ for culturally safe care and SEWB‑aligned practice
+Link all analysis to theory: SEWB, cultural safety, colonisation, determinants, PHC, health promotion
+
+## ppt/slides/slide33.xml
+Assessment 2  Scenario
+
+## ppt/slides/slide34.xml
+Example Assessment Structure
+
+## ppt/slides/slide35.xml
+Your response must …
+Assessment Requirements
+Be written in a clear, coherent, and respectful academic style.
+Support your discussion with evidence from:
+Scholarly literature
+Unit materials
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Utilise
+ evidence from a 
+minimum of 12 scholarly sources
+ 
+to support your analysis 
+Use correct terminology and tone when referring to Australian Indigenous people
+Use APA 7
+th
+ document, referencing, and citation styles in this Unit
+Label your submission with your surname and initials, and the assessment task's name, for example:
+		
+SmithJ_Critical
+ Review.docx	
+ You 
+MUST
+ add a footer to your submission.
+Add your name and task type – i.e. 
+SmithJ_CriticalReview
+ on left margin, your student ID, and have page number on the right margin. See the example below:
+		
+ 
+
+## ppt/slides/slide36.xml
+Task Resources & Other Requirements
+
+## ppt/slides/slide37.xml
+INDG6002 GenAI Use
+
+## ppt/slides/slide38.xml
+GenAI Use continued …
+
+## ppt/slides/slide39.xml
+Coversheet & Declaration
+
+## ppt/slides/slide40.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide41.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide42.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide43.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide44.xml
+
+
+## ppt/slides/slide45.xml
+Next week … 
+
+## ppt/slides/slide46.xml
+Until next time …
+
+
+===== Week 1 - tutorial.pptx [_7821294_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821294_1?view=content&state=view
+
+
+--- Attachment: Week 1 - tutorial.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/notesSlides/notesSlide27.xml
+27
+
+## ppt/notesSlides/notesSlide28.xml
+28
+
+## ppt/notesSlides/notesSlide29.xml
+29
+
+## ppt/notesSlides/notesSlide30.xml
+30
+
+## ppt/notesSlides/notesSlide31.xml
+31
+
+## ppt/notesSlides/notesSlide32.xml
+32
+
+## ppt/notesSlides/notesSlide33.xml
+33
+
+## ppt/notesSlides/notesSlide34.xml
+34
+
+## ppt/notesSlides/notesSlide35.xml
+35
+
+## ppt/notesSlides/notesSlide36.xml
+36
+
+## ppt/notesSlides/notesSlide37.xml
+37
+
+## ppt/notesSlides/notesSlide38.xml
+38
+
+## ppt/notesSlides/notesSlide39.xml
+39
+
+## ppt/notesSlides/notesSlide40.xml
+40
+
+## ppt/notesSlides/notesSlide41.xml
+41
+
+## ppt/notesSlides/notesSlide42.xml
+42
+
+## ppt/notesSlides/notesSlide43.xml
+43
+
+## ppt/notesSlides/notesSlide44.xml
+44
+
+## ppt/notesSlides/notesSlide45.xml
+45
+
+## ppt/notesSlides/notesSlide46.xml
+46
+
+## ppt/notesSlides/notesSlide47.xml
+47
+
+## ppt/notesSlides/notesSlide48.xml
+48
+
+## ppt/notesSlides/notesSlide49.xml
+49
+
+## ppt/notesSlides/notesSlide50.xml
+50
+
+## ppt/notesSlides/notesSlide51.xml
+51
+
+## ppt/notesSlides/notesSlide52.xml
+52
+
+## ppt/slides/slide1.xml
+INDG6002
+Week 1 - Tutorial
+Contrasting Indigenous and western health perspectives
+
+## ppt/slides/slide2.xml
+Welcome to Country
+https://www.youtube.com/watch?v=DAGBVE3V4s0
+
+## ppt/slides/slide3.xml
+3
+Acknowledgment of Country
+An Acknowledgement of Country is a demonstration of respect for the Traditional Caretakers of the land on where 
+we Yarn 
+today. 
+It is a recognition of the continuing relationship between Aboriginal and Torres Strait Islander peoples and their Country; acknowledging their continuing connections to land, sea and community. 
+
+## ppt/slides/slide4.xml
+4
+Acknowledgment of Country
+
+## ppt/slides/slide5.xml
+Warning
+Aboriginal and Torres Strait Islander students are advised that the following content may contain the images and stories of Aboriginal Elders and community members now resting in the Dreaming
+
+## ppt/slides/slide6.xml
+Welcome - overview
+In this first module we will explore the divergent concepts of health and provide a deeper understanding of the wholistic and multi-factorial view of health and wellbeing through an Aboriginal and Torres Strait Islander lens
+The Social and Emotional Wellbeing framework is introduced
+Dadirri (deep non-judgemental listening) and Yarning are introduced
+ Change of focus and narratives towards strengths-based approaches 
+
+## ppt/slides/slide7.xml
+TIP …
+20XX
+presentation title
+7
+
+## ppt/slides/slide8.xml
+A symbol of Interconnectedness and Timelessness
+A symbol of 
+interconnectedness
+—each flows into the next, representing the interwoven nature of Country, people, animals, plants, Ancestors, and spirit. We are reminded that 
+everything is connected through Country
+.
+Its round shape reflects 
+non-linear time
+: past, present, and future exist together, guided by the Dreaming.
+It reminds us that 
+everything is connected
+, and our stories are always alive.
+The colours shift and shimmer like the land itself—Holding this ball is like holding a piece of the Dreaming. It invites us to listen, to learn, and to walk gently with respect for all beings—
+seen and unseen, past and present
+.
+
+## ppt/slides/slide9.xml
+4 R’s Differences but Commonalities
+
+## ppt/slides/slide10.xml
+Magpie Story – Differing worldviews
+Magpie Image: 
+A bird standing on a railing photo – Free Bird Image on 
+Unsplash
+Story shared by Nicole Tujague & Kelleigh Ryan, 2023, p. 47
+Crow Image: 
+Torresian Crow | Corvus 
+orru
+ | Black Bird | 
+BioExplorer
+
+## ppt/slides/slide11.xml
+A symbol of Interconnectedness and Timelessness
+A symbol of 
+interconnectedness
+—each flows into the next, representing the interwoven nature of Country, people, animals, plants, Ancestors, and spirit. We are reminded that 
+everything is connected through Country
+.
+Its round shape reflects 
+non-linear time
+: past, present, and future exist together, guided by the Dreaming.
+It reminds us that 
+everything is connected
+, and our stories are always alive.
+The colours shift and shimmer like the land itself—Holding this ball is like holding a piece of the Dreaming. It invites us to listen, to learn, and to walk gently with respect for all beings—
+seen and unseen, past and present
+.
+
+## ppt/slides/slide12.xml
+Mapping Module to grass-roots, community-led Indigenous frameworks and approaches
+Australian Institute of Health and Welfare (AIHW) 2023 – 
+Cultural Safety in Health Care for Indigenous Australians: Monitoring Framework
+
+## ppt/slides/slide13.xml
+Yarning is Australian First Nations People’s storytelling based on reciprocal relationships where respect is assumed.
+Acknowledgement of the powerfulness of mother earth and her connections to the people who have reciprocal responsibilities with her
+One day return to Country. The feelings of sadness were profound.
+His ancestors were part of him and were communicating with him. This experience confirmed all he knew about his tribal ways, his epistemology, axiology and ontology. It was now time to return to Country
+
+## ppt/slides/slide14.xml
+World Health Organisation 
+(1948) definition:
+Health is a state of complete physical, mental and social well being and not merely the absence of disease or infirmity
+.
+National Aboriginal Health Strategy 
+(1989) definition:
+Health is not just the physical wellbeing of the individual, but the social, emotional and cultural wellbeing of the whole community. This is a whole-of-life view and it also includes the cycle of life-death-life
+Models  of health
+
+## ppt/slides/slide15.xml
+Current Health Plan vision …
+15
+
+## ppt/slides/slide16.xml
+Land is central to wellbeing:
+  
+This holistic concept does not merely refer to the ‘whole body’ but, in fact, is steeped in the harmonised
+ inter-relations 
+which constitute wellbeing. These inter-relating factors can be categorised largely as 
+spiritual, environmental, ideological, political, social, economic, mental, and physical
+. Crucially it must be understood that when the 
+harmony
+ of these inter-relations is 
+disrupted
+, Aboriginal 
+ill health 
+will persist.
+ 
+(Swan & Raphael 1995, pt1, p.13 cited in Taylor & Guerin 2014, p
+. 106)
+Another definition of health
+
+## ppt/slides/slide17.xml
+17
+“
+Health is so much more than simply not being sick. It’s about getting a balance between physical, mental, emotional, cultural and spiritual health. Health and healing are interwoven, which means that one can’t be separated from the other .”
+ 
+Dr Tamara Maclean, Australian First Female Aboriginal Doctor
+ 
+
+## ppt/slides/slide18.xml
+This model was developed during the 
+Ways Forward 
+National Consultancy (Swan, P & Raphael B., 1995)
+Image sourced from the National Strategic Framework for Aboriginal and Torres Strait Islander's Peoples’ Mental Health and Social Emotional Wellbeing
+(361) Social 
+and Emotional Wellbeing - Indigenous point of view - YouTube
+
+## ppt/slides/slide19.xml
+Nine guiding principles that underpin the SEWB Framework
+These principles emphasise the holistic and whole-of-life definition of health held by Aboriginal and Torres Strait Islander Peoples. 
+Health is holistic
+The right to self determination
+The need for cultural understanding
+The impact of history in trauma and loss
+Recognition of human rights
+The impact of racism and stigma
+Recognition of centrality of kinship
+Recognition of cultural diversity
+Recognition of cultural strengths
+These principles were developed during the 
+Ways Forward 
+National Consultancy (Swan, P & Raphael B., 1995)
+Image sourced from the National Strategic Framework for Aboriginal and Torres Strait Islander's Peoples’ Mental Health and Social Emotional Wellbeing
+. 
+
+## ppt/slides/slide20.xml
+What is important to you? Break the circle up to represent what is important to you and your wellbeing
+How satisfied are you in these areas? Shade each area to represent how satisfied you feel in these areas
+What do you feel has allowed you to feel the levels of satisfaction that you have indicated in each area?
+What do you feel is currently stopping you from feeling more satisfied in each of these areas?
+What would you like to see change? 
+How would you like to see these changes occur?
+Activity: Using the Wellbeing circle for a check-in
+
+## ppt/slides/slide21.xml
+Journey of Health and Wellbeing 
+(361) Journey of health and wellbeing - YouTube
+21
+
+## ppt/slides/slide22.xml
+Examples of risks to Aboriginal SEWB
+(Zubrick et al., 2014)
+ Discrimination and Race
+ Widespread grief and loss 
+ Unresolved trauma 
+ Life stress
+ Social exclusion 
+ Economic and social disadvantage
+ Incarceration and juvenile justice supervision 
+ Child removal by Care and Protection Orders
+ Violence
+ Family violence
+ Substance use
+ Physical health problems
+
+## ppt/slides/slide23.xml
+https://www.snaicc.org.au
+23
+Strengths-based approach
+
+## ppt/slides/slide24.xml
+Strengths Based Activity
+Talking Up Our Strengths Cards
+Instructions:
+🎴 
+Select a card.
+ Choose one ‘Talking Up Our Strengths’ card that resonates with you.
+🧑‍🤝‍🧑 
+Discuss in your group.
+ Share how the strength you chose shapes your view or actions within your own culture.
+🌏 
+Reflect on cultural insights.
+ Explore: Did your card or group discussion show 
+similarities or differences
+ between your cultural group and 
+Aboriginal and Torres Strait Islander peoples and their cultures
+?
+📢 
+Share with the whole class.
+ Highlight insights from your group—what surprised you, moved you, or made you think?
+
+## ppt/slides/slide25.xml
+Connection to Land, culture, spirituality and ancestry
+Kinship
+Self-determination, Community Governance, and Cultural Continuity
+The land owns us…
+Factors that protect Aboriginal SEWB
+(Zubrick et al.,2014)
+Uncle Neville quote retrieved from 
+Social & Emotional Wellbeing - 
+HealthWISE
+ (healthwisenenw.com.au)
+‘
+Tjilpi
+’ Uncle Bob Randall from Kanyini Unconditional Love and Responsibility
+
+## ppt/slides/slide26.xml
+26
+Strength-based Method
+		 Dadirri
+
+## ppt/slides/slide27.xml
+Yarning
+Yarning is a word used by many Aboriginal and Torres Strait Islander people, meaning ‘Let’s have a chat’ (Bessarab, 2010). 
+Use of minimal questions and prompts, with acute listening skills are fundamental to allowing comfortable and informal stories and discussions to unfold. 
+Do not interrupt, this shows lack of respect for what is being shared
+Take on the role of listener, learner, and student
+27
+
+## ppt/slides/slide28.xml
+Waijungbah 
+Jarjums
+Birthing on Country
+28
+What happened:
+Yugambeh community created a Birthing on Country program.
+Indigenous midwives, Elders, and health workers lead the model.
+Care includes Yarning, cultural mentoring, and family involvement.
+Babies are welcomed to Country through ceremony.
+Women receive continuity of care and cultural support.
+Why it matters:
+Holistic SEWB:
+ Health includes emotional, cultural, spiritual, and community wellbeing.
+Country as wellbeing:
+ Identity, belonging, and healing come from Country.
+Yarning & Dadirri:
+ Culturally safe communication builds trust.
+Indigenous worldviews:
+ Health is relational and community‑centred.
+Strengths‑based practice:
+ Focus on culture, resilience, identity, and community strength.
+Contrast with Western models:
+ Moves beyond physical health to whole‑of‑life wellbeing.
+https://www.goldcoast.health.qld.gov.au/our-services/aboriginal-and-torres-strait-islander-service/services/waijungbah-jarjums
+
+## ppt/slides/slide29.xml
+Special Considerations Support extension
+
+## ppt/slides/slide30.xml
+Assessment 1 – Short Response
+Title
+Assessment
+ 
+1
+Type
+Short
+ 
+response
+Length
+1,000
+ 
+words
+Weighting
+40%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+ULO1
+:
+ 
+Discuss
+ 
+key
+ 
+concepts
+ 
+of
+ 
+health
+ 
+and
+ 
+wellbeing
+ 
+as
+ 
+determined
+ 
+by 
+Aboriginal People.
+ULO2
+:
+ 
+Identify
+ 
+key
+ 
+stages
+ 
+of
+ 
+the
+ 
+colonisation
+ 
+process
+ 
+and
+ 
+its
+ 
+relationship
+ 
+to 
+the contemporary health status of Australian Indigenous People.
+
+## ppt/slides/slide31.xml
+Overview to Writing a Short Response
+Always
+ 
+use
+ 
+unit
+ 
+approaches
+ 
+(concepts,
+ 
+theories,
+ 
+models,
+ 
+processes
+ 
+or
+ 
+guidelines)
+ 
+in
+ 
+your 
+short
+ 
+responses.
+ 
+Often,
+ 
+this
+ 
+means
+ 
+defining
+ 
+and
+ 
+applying
+ 
+unit
+ 
+concepts
+ 
+or
+ 
+theories
+.
+ 
+Before
+ 
+you
+ 
+start
+ 
+working
+ 
+on
+ 
+the
+ 
+assessment,
+ 
+find
+ 
+definitions
+ 
+in
+ the 
+unit
+ 
+materials.
+ 
+This
+ 
+step
+ 
+will 
+help
+ 
+you
+ 
+gain
+ 
+a
+ 
+more
+ 
+detailed
+ 
+grasp
+ 
+of
+ 
+unit
+ 
+ideas
+ 
+and
+ 
+theories
+ 
+so
+ 
+that
+ 
+you
+ 
+can
+ 
+show
+ 
+this understanding
+ 
+to
+ 
+the
+ 
+marker.
+ 
+Don't
+ 
+try
+ 
+to
+ 
+COVER
+ 
+EVERYTHING
+ 
+you
+ 
+know
+ 
+about
+ 
+a
+ 
+topic.
+ 
+While
+ 
+it
+ 
+can
+ 
+be
+ 
+tempting,
+ 
+this
+ 
+is
+ 
+not 
+your
+ 
+task
+ 
+in
+ 
+a
+ 
+short
+ 
+response,
+ 
+and
+ 
+you
+ 
+don't
+ 
+have
+ 
+enough
+ 
+words.
+ 
+Offer your 
+informed
+ 
+answer
+ 
+to
+ 
+the
+ 
+question
+ 
+within
+ 
+a
+ 
+limited
+ 
+word count.
+ 
+As
+ 
+you
+ 
+brainstorm,
+ 
+plan,
+ 
+and
+ 
+draft
+ 
+keep
+ 
+trying
+ 
+to
+ 
+narrow,
+ 
+narrow,
+ 
+narrow
+ 
+your
+ 
+focus.
+You can use 
+headings 
+in a short response, 
+it is part of the word count.
+
+## ppt/slides/slide32.xml
+32
+10 Key Steps for Strong Short Response Writing
+Start with a clear main point: 
+Emphasise that short responses must begin with the answer, not background. Example sentence starters such as: 
+“This concept refers to…”
+ or 
+“In the scenario, this is evident when…”
+.
+2. Explain the key concept briefly:  D
+efine or clarify the concept in their own words before applying it. This prevents vague or incorrect use of terms 
+3. Link the concept to UNDRIP Article 3
+ 
+Show clearly how the concept relates to the rights described in Article 3 and to Australian Indigenous Peoples understandings of health and wellbeing. 
+Interpret the connection—do not retell general background information.
+4. Use scholarly or unit evidence: 
+Short responses still require academic grounding. Evidence can be a unit concept, framework, or scholarly idea. Keep it brief. 
+5. Write concisely and coherently: 
+Use short, direct sentences - improves clarity and reduces grammatical errors - avoid long introductions, unnecessary detail, or narrative writing.
+
+## ppt/slides/slide33.xml
+33
+10 Key Steps for Strong Short Response Writing continued …
+6. Maintain respectful terminology: 
+Remember: Correct and consistent use of your chosen term
+7. Conclude by linking back to the question: 	
+A final sentence should reinforce the main point to close the paragraph logically and signals relevance to the marker.
+8. Avoid common pitfalls: 
+Highlight typical issues: over‑description, missing the main point, unclear links to Article 3, lack of evidence, incorrect terminology, and overly long sentences. 
+9. Use postgraduate verbs: 
+Encourage verbs that show analysis and interpretation: 
+analyse, interpret, examine, integrate, contextualise
+. Discourage vague verbs like 
+talk about
+ or 
+discuss
+.
+10. Follow a simple structure (PEEL): Point → Explain → Evidence/Scenario → Link
+.
+
+## ppt/slides/slide34.xml
+PEEL Writing Structure
+
+## ppt/slides/slide35.xml
+Assessment 1 Overview
+Purpose of the Assessment
+Builds understanding of 
+Australian Indigenous perspectives of health and wellbeing
+.
+Introduces 
+self‑determination
+ as a core principle in 
+UNDRIP Article 3
+.
+Highlights differences between 
+Australian Indigenous wholistic health
+ and 
+Western biomedical models
+.
+Examines how 
+colonisation has limited the ability to exercise self‑determination
+.
+Develops foundational knowledge for 
+culturally safe practice
+ in health, social services, and community work.
+Strengthens 
+critical thinking
+ and culturally grounded analysis for professional contexts.
+Task
+ 
+Description
+Read 
+Article 3 of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP)
+:
+"Indigenous peoples have the right to self-determination. By virtue of that right, they freely determine their political status and freely pursue their economic, social and cultural development."
+Write a 
+1,000-word short response
+ explaining how this article relates to Australian Indigenous Peoples understandings of health and wellbeing.
+ 
+35
+
+## ppt/slides/slide36.xml
+Step 1: Read UNDRIP Article 3
+Consider what the term 
+self-determination
+ means and why it is important for Australian Indigenous Peoples.
+Step 2: Review Unit Content
+Use learning materials from:
+Module 1: Australian Indigenous concepts of health and wellbeing.
+Module 2: Colonisation and its impacts on Australian Indigenous health and wellbeing.
+Step 3: Research
+Locate additional scholarly literature that supports your discussion.
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+ Step 4: Write Your Response
+Your response should explain how Australian Indigenous concepts of health and wellbeing, self-determination, and community-accepted communication styles are interconnected, and how these relate to the ongoing impacts of colonisation on Australian Indigenous health and wellbeing.
+36
+Assessment 1 Task Instructions
+
+## ppt/slides/slide37.xml
+Introduction (Approx. 100 words)
+Introduce UNDRIP Article 3.
+Outline the main points of your response.
+Health and Wellbeing (Approx. 300 words)
+Examine the key concepts of health and wellbeing from Australian Indigenous perspectives.
+Reflect on why self-determination is important for Australian Indigenous health and wellbeing.
+Critically evaluate one cultural determinant which shapes Australian Indigenous health and wellbeing.
+Community-accepted communication styles (Approx. 300 words)
+Critically 
+analyse
+ the role of community-accepted communication styles in supporting
+ 
+Australian Indigenous health and wellbeing.
+ 
+Colonisation and Health (Approx. 200 words)
+Critically reflect on the enduring effects of colonisation on Australian Indigenous health and wellbeing.
+Conclusion (Approx. 100 words)
+Summarise
+ your key points. 
+NO
+ new information
+ 
+37
+Example Short Response Structure
+
+## ppt/slides/slide38.xml
+38
+Your response must …
+Assessment Requirements
+Follow the 
+Short Response Quick Guide
+ (Assessment 1 resources).
+Address 
+UNDRIP Article 3
+ throughout your discussion.
+Analyse 
+Australian Indigenous concepts of health and wellbeing
+, including 
+self‑determination
+ and 
+one cultural determinant
+.
+Explain the 
+relationship between colonisation and contemporary Australian Indigenous health outcomes
+.
+Support your discussion with 
+scholarly evidence
+.
+Sources & Referencing
+Use a 
+minimum of five (5) scholarly sources
+.
+UNDRIP must be cited and referenced
+, but 
+does not count
+ toward the five scholarly sources.
+Your reference list must contain 
+at least six (6) references
+ in total.
+
+## ppt/slides/slide39.xml
+Referencing Requirements
+Ensure you meet the following Criteria:
+Referencing
+ 
+style
+ 
+of
+ 
+APA7
+.
+Consistent use of 
+correct 
+and 
+appropriate 
+terminology and tone in reference to Australian Indigenous Peoples health and wellbeing. 
+U
+se 
+a minimum of 5 scholarly sources 
+You must also cite and reference UNDRIP (2007). As UNDRIP is not a scholarly source, it does not count towards the minimum of five scholarly sources. 
+Therefore, your reference list must contain 
+at least six (6) references.
+Wikipedia, Creative
+ 
+Spirits 
+and or other such websites are 
+not
+ 
+acceptable scholarly reference material.
+
+## ppt/slides/slide40.xml
+Ensure you have attached your 
+signed and correctly completed
+ 
+Coversheet
+ to the front of your assessment document prior to uploading your final submission.
+Label your submission with your surname and initials, and the assessment task's name e.g. SmithJ_ShortResponse.docx
+You are required to use APA 7
+th
+ referencing style in this Unit formatting your document, citations, and references
+Instead of a Header you MUST 
+add a footer to your submission.
+ 
+Add your name and task type – i.e. 
+SmithJ_ShortResponse
+ on left margin, your student ID, and have page number on the right margin e.g.
+40
+Other Requirements …
+
+## ppt/slides/slide41.xml
+Assessment 1 – Resources & Other Requirements
+
+## ppt/slides/slide42.xml
+Assessment Coversheet & Declaration
+42
+
+## ppt/slides/slide43.xml
+APA 7
+th
+ Formatting your Document
+
+## ppt/slides/slide44.xml
+INDG6002 - GenAI Use
+In Gnibi College units, the use of GenAI in assessments is generally restricted to protect the integrity and authenticity of the learning process. Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning—something that cannot be authentically achieved through AI-generated content.
+
+## ppt/slides/slide45.xml
+45
+This assessment is classified as: 
+Level 2: AI use permitted for specific purposes. 
+You can use AI for specific tasks as identified by the Unit Assessor.
+✅ You may use GenAI to: 
+Formatting, spelling and grammar - Grammarly Premium AI is permitted for formatting, spelling and grammar. Grammarly is permitted for language improvements – 
+no content or knowledge creation is permitted.
+Paraphrasing permitted - Use of 
+Grammarly Premium AI 
+is permitted for paraphrasing. Pay careful attention to any language adjustments that may affect the clarity of your work. Paraphrasing using 
+Grammarly Premium AI 
+must be referenced.
+❌ You may not use GenAI to: 
+Use of any other GenAI for content or knowledge creation is not within the permitted uses for this task.
+Present GenAI-generated material as your own original ideas
+Ask GenAI to 
+write any part of the analysis
+, commentary, or conclusions about your chosen study. 
+Upload or provide text from the research article or for GenAI to rewrite, summarise, or interpret the article.
+INDG6002 - GenAI Use continued …
+
+## ppt/slides/slide46.xml
+46
+Rubric Assessment 1: Criterion 1
+
+## ppt/slides/slide47.xml
+47
+Rubric Assessment 1: Criterion 2
+
+## ppt/slides/slide48.xml
+48
+Rubric Assessment 1: Criterion 3
+
+## ppt/slides/slide49.xml
+49
+Rubric Assessment 1: Criterion 4
+
+## ppt/slides/slide50.xml
+50
+Rubric Assessment 1: Criterion 5
+
+## ppt/slides/slide51.xml
+Questions?
+
+## ppt/slides/slide52.xml
+Colonisation and health
+Next Week: 
+
+
+===== Week 5 - tutorial.pptx [_7821291_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821291_1?view=content&state=view
+
+
+--- Attachment: Week 5 - tutorial.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide5.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide8.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide9.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide15.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide16.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide17.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+1.7.2013
+‹#›
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/notesSlides/notesSlide27.xml
+27
+
+## ppt/notesSlides/notesSlide28.xml
+28
+
+## ppt/notesSlides/notesSlide29.xml
+29
+
+## ppt/notesSlides/notesSlide30.xml
+30
+
+## ppt/notesSlides/notesSlide31.xml
+31
+
+## ppt/notesSlides/notesSlide32.xml
+32
+
+## ppt/notesSlides/notesSlide33.xml
+33
+
+## ppt/notesSlides/notesSlide34.xml
+34
+
+## ppt/notesSlides/notesSlide35.xml
+35
+
+## ppt/notesSlides/notesSlide36.xml
+36
+
+## ppt/notesSlides/notesSlide37.xml
+37
+
+## ppt/notesSlides/notesSlide38.xml
+38
+
+## ppt/notesSlides/notesSlide39.xml
+39
+
+## ppt/notesSlides/notesSlide40.xml
+40
+
+## ppt/notesSlides/notesSlide41.xml
+41
+
+## ppt/notesSlides/notesSlide42.xml
+43
+
+## ppt/slides/slide1.xml
+INDG6002 Health and Indigenous Peoples
+Module 5 Tutorial:
+Decolonising your practice
+
+## ppt/slides/slide2.xml
+This presentation may include images, voices, stories, and names of deceased people now resting in the Dreaming that may cause sadness or distress to Aboriginal and Torres Strait Islander students.
+Warning
+
+## ppt/slides/slide3.xml
+Warning
+
+## ppt/slides/slide4.xml
+By the end of this module, you will be able to:
+define and discuss what ‘Decolonising your practice’ means in the context of working with Indigenous Australians
+further expand and deepen your understanding of the relationship between colonisation and the health and wellbeing of Australia’s Indigenous Peoples
+begin to reflect on how you can decolonise your own thinking and practice when working with Indigenous clients in all service and support environments.
+Module 5
+
+## ppt/slides/slide5.xml
+Mapping Module to grass-roots, community-led Indigenous frameworks and approaches
+The NSW Aboriginal Health Governance, Shared Decision Making and Accountability Framework (2024)
+ 
+
+## ppt/slides/slide6.xml
+A strengths-based approach is based on the premise that inherent strengths and resilience can be unlocked with structured support. 
+This approach recognises that individuals live within families, communities, and a culture that also have strengths and resources that will contribute to wellbeing
+Focuses on abilities,  knowledge and capacities -- empowering them --  rather than focusing on what people do not know or cannot do.  …
+Recap: Strengths-based approach
+
+## ppt/slides/slide7.xml
+Recap - 5 Cultural Safety Principles
+  Reflexive Practice
+  Engage
+  Power Balancing
+  
+Decolonisation
+  Cultural Respect
+
+## ppt/slides/slide8.xml
+The word, concept and spiritual practice that is Dadirri (da-did-ee) is from the Ngan'gikurunggurr and Ngen'giwumirri languages of the Aboriginal Peoples of the Daly River region (Northern Territory, Australia).
+Inner, deep, listening – “watching and listening, waiting, and then acting”
+“
+Our Aboriginal culture has taught us to be still and to wait. We do not try to hurry things up”
+Dadirri
+Permission to use Dadirri can be sought from Miriam-Rose Ungunmerr https://www.miriamrosefoundation.org.au/dadirri/
+
+## ppt/slides/slide9.xml
+Yarning – thinking about a health setting
+
+## ppt/slides/slide10.xml
+Understanding Communication in a Health Context 
+
+## ppt/slides/slide11.xml
+It is important to:
+Acknowledge the importance of engagement and the fact that the engagement process starts well before the actual Yarn
+Consider the setting of the Yarn, and what might work best for the patient
+Determine how you can best establish rapport and engage with the patient/client and their family
+Consider the issue of confidentiality, and what this means in an Aboriginal and/or Torres Strait Islander community
+Continued…
+
+## ppt/slides/slide12.xml
+Understand the importance of cultural safety
+Be respectful
+Acknowledge your own limitations and the things we do not know
+Develop a trusting relationship with the health workers and the community
+Be mindful of your attitude, behaviour, and communication - at all times.
+It is important to: 
+continued…
+
+## ppt/slides/slide13.xml
+Understanding the difference between Relationships & Partnerships
+Concept
+Relationship
+Partnership
+Primary nature
+Relational, cultural, lived
+Structural, organisational
+Duration
+Lifelong or long-term
+Often time-limited or project-based
+Core principle
+Reciprocity, respect, trust
+Shared goals/tasks
+Authority
+Determined by community
+Determined through agreements
+Obligations
+Ethical and cultural
+Contractual or strategic
+Can it exist alone?
+Yes
+No — must be built on relationship
+Risk if done poorly
+Disrespect, cultural harm
+In Indigenous worldviews, relationship is the 
+base layer of all ethical interaction
+. Without relationship, no collaboration can be culturally safe. 
+Relationship comes first
+, always.
+In Indigenous contexts - 
+A partnership must 
+follow
+ a relationship, not replace it.
+
+## ppt/slides/slide14.xml
+1. Rediscovery & Recovery
+Reconnect with history, language, Country, and kin. Renew identity and traditional knowledge.
+2. Mourning
+Express anger and injustice. Begin healing; avoid getting stuck in this phase.
+3. Healing & Forgiveness
+Focus on wellbeing and harmony, self-care, reflection, cultural renewal.
+4. Dreaming
+Strengthen philosophy and knowledge.
+Build vision for recovery; draw on ancient and contemporary wisdom.
+5. Commitment
+Choose a direction for action.
+Personal resolve toward change.
+6. Action
+Proactive, positive steps.
+Not reactive or punitive—create meaningful change.
+ 
+Not an Indigenous issue
+ – 
+Responsibility lies with all Australians.
+ 
+Structural change needs personal change
+ – 
+Challenge internalised myths and colonial ideologies.
+Requires honest self-reflection and commitment.
+Six stages of decolonisation
+ – 
+Integrated, not linear.
+People move between stages, sometimes overlapping.
+Muller 2022, pp 47-48
+6 Stages of 
+Decolonisation
+ 
+
+## ppt/slides/slide15.xml
+The future of social work in Australia relies on dismantling colonial structures and rethinking professional practice. 
+Decolonising means recognising that inequity stems from colonialism, not Indigenous peoples, and requires health and social care workers to challenge the dominance of Western culture.
+ By embracing cultural safety and valuing Indigenous ways of knowing, professionals can help redress systemic imbalances and foster more equitable relationships. 
+Walter, M., & 
+Baltra
+-Ulloa, A. (2019). Decolonising social work: Indigenous perspectives and practices
+
+## ppt/slides/slide16.xml
+There is significant evidence confirming that Aboriginal Torres Strait Islander Peoples health continues to be a major challenge to governments, its agencies, health professionals and their communities
+It is a statistical fact that Aboriginal and Torres Strait Islander Peoples are the poorest, unhealthiest, less employed, worse housed and most imprisoned Australians, but only half the community believes Aboriginal people are worse off than other Australians (only around 30 per cent believe they are ‘a lot’ worse off), then there is a significant gap between the facts and what many believe about the position of Aboriginal and Torres Strait Islander Peoples 
+(Newspoll survey 2000 cited in Behrendt 2003: 65)
+We believe the critical issues that underlie the lack of improvement in Aboriginal and Torres Strait Islander peoples health are the continuation of colonisation, through the dominance of western worldviews in research, policy, planning, and praxis; the lack of Indigenous health models and the dominance of the bio-medical model; and everyday personal and institutional racism. 
+(Sherwood & Edwards 2006, pp. 182-3)
+Why decolonisation is critical
+
+## ppt/slides/slide17.xml
+Decolonisation
+“Decolonisation is like a tapestry; our culture is like a tapestry with big bloody stab holes in it and what we’ve 
+gotta
+ do is repair that. We will probably never get the same thread, but it will be ours and something we can own and use to move forward
+We can’t do it alone!
+ (Dowling, in Taylor, 2017)
+
+## ppt/slides/slide18.xml
+
+
+## ppt/slides/slide19.xml
+… the process of dismantling and reversing the impacts of colonisation, not just the structures but the institutions and the ways of thinking of the colonists.
+… deconstructs the various ways in which ethnic and racial minority communities are presented as problematic and often blamed for their own misfortunes
+ 
+… the process of proactively shifting the focus of worldviews and ideologies; reclaiming Aboriginal and Torres Strait Islander ways of knowing, being, and doing that were/are considered inferior by colonial processes. 
+Decolonisation is …
+
+## ppt/slides/slide20.xml
+How might decolonising your practice look and feel?
+Cultural safety is a tool to dismantle and unsettle the dominant ways of thinking about health and social care.
+ A decolonising of your practice inevitably includes the examination of the omnipresent existence of race that exists in human relationships 
+(Walter & Baltra-Ulloa, 2019)
+
+## ppt/slides/slide21.xml
+The Yarrabah Health and Wellbeing Model
+What Happened:
+Yarrabah community created its own health service.
+Indigenous leaders took control of governance and service design.
+Gurriny 
+Yealamucka
+ Health Service became the main provider of primary care.
+Staff are mostly local Aboriginal workers.
+Programs include cultural camps, youth leadership, healing circles, and chronic disease support.
+Health promotion is delivered through relationships, culture, and community events.
+Why It Matters:
+Decolonisation
+: Shifts power from colonial systems to Indigenous governance.
+Strengths‑based practice
+: Focuses on culture, resilience, identity, and community strengths.
+Cultural safety
+: Care is respectful, relational, and grounded in Indigenous worldviews.
+Self‑determination
+: Community decides how health services operate.
+Structural change
+: New funding models, new workforce structures, new ways of delivering care.
+Positive wellbeing outcomes
+: Increased trust, better access, stronger identity, healthier community.
+
+## ppt/slides/slide22.xml
+Decolonisation
+ – Steps to take 
+Be specific about Nations
+ Name the exact Country, Nation, or language group. Avoid broad terms unless discussing pan‑Indigenous issues.
+Use community‑preferred names
+ Follow the spelling, terms, and language used by local Elders and knowledge holders.
+Focus on strengths, not stereotypes
+ Highlight resilience, innovation, and deep knowledge traditions — not deficit narratives.
+Recognise Indigenous knowledges as knowledge systems
+ They are complex, relational, place‑based, intellectual — not myths or “add‑ons”.
+Acknowledge cultures as living
+ Indigenous cultures continue to grow, adapt, and thrive today.
+Use respectful language
+ Shift from “they believe…” to “In Noongar knowledge systems…” or “According to Bundjalung Elders…”.
+Learn the full history
+ Understand colonisation, dispossession, resistance, and ongoing impacts without minimising harm.
+Know your own position
+ Be aware of how your identity and background shape the way you learn and speak about Indigenous knowledges.
+Prioritise Indigenous voices
+ Use materials, teachings, and stories from Indigenous people. Do not speak for communities.
+Avoid generalising
+ There are hundreds of Nations — always identify whose knowledge you’re referring to.
+Include Indigenous perspectives regularly
+ Indigenous content should appear across subjects, not as a one‑off topic.
+Think in terms of relationships
+ Indigenous knowledges are connected to Country, kinship, community, and responsibility.
+Balance truth with strength
+ Learn about colonial impacts alongside survival, creativity, and ongoing cultural strength.
+Stay humble
+ It’s okay not to know — be open to learning, listening, and being corrected.
+
+## ppt/slides/slide23.xml
+Activity: Decolonising your practice
+Decolonising practice means:
+the problem is 
+systems
+, not Indigenous peoples
+health workers have 
+power
+listening and respect are important
+Learning to unlearn is about listening deeply, letting go of control, and being humble in relationships 
+(Walter & Baltra-Ulloa, 2019)
+Decolonising practice asks health workers to 
+unlearn
+ dominant ways of thinking and to centre respectful relationships 
+
+## ppt/slides/slide24.xml
+AIATSIS - Core cultural learning
+Core cultural learning | AIATSIS
+Why should I do it?
+Core provides a 
+detailed exploration of Aboriginal and Torres Strait Islander peoples 
+and situations
+, 
+as a means of 
+assist
+ing 
+you to enhance your cultural understanding; gain a deeper sense of self-awareness and critical reflection; and enhance your personal and professional capacity to engage respectfully and effectively in an intercultural context.
+The program is 
+designed to encourage people to understand their own cultural perspectives as the basis for effective interactions with people of (other) diverse backgrounds
+.
+
+## ppt/slides/slide25.xml
+Special Considerations Support Extension
+
+## ppt/slides/slide26.xml
+Assessment 2 – Critical Review
+Title
+Assessment
+ 
+2
+Type
+Critical 
+Review
+Length
+2,200
+ 
+words
+Weighting
+60%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning 
+Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+1. Discuss key concepts of health and wellbeing as determined by Aboriginal people 
+2. Identify key stages of the colonisation process and its relationship to the contemporary health status of Australian Indigenous people 
+3. 
+Analyse
+ the relationship between socio-economic factors and the contemporary health status of Australian Indigenous people 
+4. Explain how primary health care and/or health promotion enhances the wellbeing of Indigenous people and role of the health professional as an agent of social change
+
+## ppt/slides/slide27.xml
+Writing a Critical Review
+https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/quick-guides/writing_a_critical_review.pdf
+
+## ppt/slides/slide28.xml
+Critical Review of the Scenario
+                               
+A critical review goes 
+beyond description
+ by examining 
+why
+ something happened, 
+how
+ it influences outcomes, and 
+what it means
+ in a broader context
+In 
+this assessment
+, you are not reviewing a written document—you are critically reviewing a 
+scenario and practice interaction
+.
+Instead of reading an article, you are examining:
+Sarah’s experiences 
+The impacts of colonisation on her contemporary health 
+the cultural context shaping the encounter
+the power dynamics in the consultation
+How primary health care and health promotion can respond 
+
+## ppt/slides/slide29.xml
+Critical Review of the Scenario
+                               
+Judge the strengths and weaknesses 
+(of the actions and recommendations in the scenario) – which must be evidence-based 
+Identify bias or assumptions 
+- Analyse privilege, whiteness, and Western norms (how these assumptions affect Sarah’s wellbeing and care) 
+Overall evaluation 
+- Judgement about the quality of practice - Must be linked to theory 
+A critical review 
+always ends with a judgement
+.
+
+## ppt/slides/slide30.xml
+Assessment 2 - Brief
+Rationale – Why this assessment matters
+Apply unit concepts to a 
+realistic health care scenario
+Critically examine 
+culturally safe, strengths‑based, socially responsive
+ practice
+Analyse:
+SEWB concepts
+Impacts of colonisation
+Socioeconomic determinants
+Primary health care & health promotion
+Shift away from deficit views → recognise 
+strengths, resilience, cultural connections, self‑determination
+Understand health professionals as 
+agents of social change
+Explore how culturally safe, equitable care supports 
+Indigenous wellbeing
+Assessment Task – What students must do
+Write a 
+critical review
+ of the Sarah scenario
+Examine how health professionals and services can support 
+Indigenous health and wellbeing
+Apply unit concepts to Sarah’s experiences and the clinic’s 
+service improvements
+Analyse culturally safe, strengths‑based approaches using 
+scholarly evidence
+ (min. 12 sources)
+Evaluate the quality of practice → identify strengths, weaknesses, bias, assumptions
+Provide 
+evidence‑based recommendations
+ for culturally safe care and SEWB‑aligned practice
+Link all analysis to theory: SEWB, cultural safety, colonisation, determinants, PHC, health promotion
+
+## ppt/slides/slide31.xml
+Assessment 2  Scenario
+
+## ppt/slides/slide32.xml
+Example Assessment Structure
+
+## ppt/slides/slide33.xml
+Your response must …
+Assessment Requirements
+Be written in a clear, coherent, and respectful academic style.
+Support your discussion with evidence from:
+Scholarly literature
+Unit materials
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Utilise
+ evidence from a 
+minimum of 12 scholarly sources
+ 
+to support your analysis 
+Use correct terminology and tone when referring to Australian Indigenous people
+Use APA 7
+th
+ document, referencing, and citation styles in this Unit
+Label your submission with your surname and initials, and the assessment task's name, for example:
+		
+SmithJ_Critical
+ Review.docx	
+ You 
+MUST
+ add a footer to your submission.
+Add your name and task type – i.e. 
+SmithJ_CriticalReview
+ on left margin, your student ID, and have page number on the right margin. See the example below:
+		
+ 
+
+## ppt/slides/slide34.xml
+Task Resources & Other Requirements
+
+## ppt/slides/slide35.xml
+INDG6002 GenAI Use
+
+## ppt/slides/slide36.xml
+GenAI Use continued …
+
+## ppt/slides/slide37.xml
+Coversheet & Declaration
+
+## ppt/slides/slide38.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide39.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide40.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide41.xml
+Assessment 2 - Rubric
+
+## ppt/slides/slide42.xml
+Questions?
+
+## ppt/slides/slide43.xml
+Next week
+
+
+===== Week 6 - tutorial.pptx [_7821296_1] =====
+Source: https://learn.scu.edu.au/ultra/courses/_156096_1/document/_7821296_1?view=content&state=view
+
+
+--- Attachment: Week 6 - tutorial.pptx ---
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/notesSlides/notesSlide27.xml
+27
+
+## ppt/notesSlides/notesSlide28.xml
+28
+
+## ppt/notesSlides/notesSlide29.xml
+29
+
+## ppt/notesSlides/notesSlide30.xml
+30
+
+## ppt/notesSlides/notesSlide31.xml
+31
+
+## ppt/notesSlides/notesSlide32.xml
+32
+
+## ppt/notesSlides/notesSlide33.xml
+33
+
+## ppt/notesSlides/notesSlide34.xml
+34
+
+## ppt/notesSlides/notesSlide35.xml
+35
+
+## ppt/notesSlides/notesSlide36.xml
+36
+
+## ppt/notesSlides/notesSlide37.xml
+37
+
+## ppt/notesSlides/notesSlide38.xml
+38
+
+## ppt/notesSlides/notesSlide39.xml
+39
+
+## ppt/notesSlides/notesSlide40.xml
+40
+
+## ppt/notesSlides/notesSlide41.xml
+41
+
+## ppt/notesSlides/notesSlide42.xml
+42
+
+## ppt/notesSlides/notesSlide43.xml
+43
+
+## ppt/notesSlides/notesSlide44.xml
+44
+
+## ppt/notesSlides/notesSlide45.xml
+45
+
+## ppt/notesSlides/notesSlide46.xml
+46
+
+## ppt/notesSlides/notesSlide47.xml
+47
+
+## ppt/slides/slide1.xml
+Module 6 Tutorial:
+Wellbeing in practice
+INDG6002 Health & Indigenous Peoples
+
+## ppt/slides/slide2.xml
+Warning
+This presentation may include images, voices, stories, and names of people who have passed to the dreaming that may cause sadness or distress to Aboriginal and Torres Strait Islander Peoples
+
+## ppt/slides/slide3.xml
+Overview
+Connections between 
+Aboriginal and Torres Strait Islander 
+health and wellbeing perspectives and the principles of Primary Health Care (PHC) and Health Promotion (HP)
+The roles and work of Aboriginal and Torres Strait Islander Health Workers are described 
+The Aboriginal Community Controlled Health Organisations’ role as a world leader in early Primary Health Care (PHC) is acknowledged 
+Optimal health outcomes 
+for 
+Aboriginal and Torres Strait Islander
+ Peoples
+	The importance of:
+		Country, Culture, and Family and
+	T
+he circular nature and interconnection of your learning journey in this unit.
+ 
+
+## ppt/slides/slide4.xml
+Mapping Module to grass-roots, community-led Indigenous frameworks and approaches
+
+## ppt/slides/slide5.xml
+“A cultural safety approach requires reorientation – from positioning Indigenous peoples as problematic to focus on strengths, capacity and resilience”
+Intergenerational resistance – the strength passed down to resist and recover. … Every positive change – be it a supportive uncle, a strong mother a cultural  program, or a government policy – is like a thread of healing woven into the fabric of Aboriginal peoples’ stories, strengthening them for the future. … Together we can ensure that our children and grandchildren inherit not the pain of our history, but the pride and resilience of our people.
+Abilities, Knowledge, and Capacities 
+Rather than on what we do not know or can not do
+Re-cap: Strengths-based Focus
+
+## ppt/slides/slide6.xml
+Image: IISC 
+EqualityEquity
+ https://dividedwefall.org/equity-vs-equality/
+
+## ppt/slides/slide7.xml
+Alma-Ata
+“The existing gross inequality in the health status of the people
+, particularly between developed and developing countries as well as within countries,
+ is politically, socially and economically unacceptable and is, therefore, of common concern to all countries.”
+Take a few moments to reflect on this statement and write down your reflections on how this applies to Indigenous Peoples in Australia. 
+Principle II (2) of the Declaration of Alma-Ata states:
+
+## ppt/slides/slide8.xml
+Prerequisites for Health 
+
+## ppt/slides/slide9.xml
+Primary Health Care (PHC)
+Primary Health Care is a whole-of-society approach to health that aims at ensuring the highest possible level of health and wellbeing and their equitable distribution by focusing on people’s needs as early as possible along the continuum from health promotion and disease prevention to treatment, rehabilitation, and palliative care, and as close as feasible to people’s everyday environment.
+WHO, 2023 
+
+## ppt/slides/slide10.xml
+Primary Health Care (PHC) continued …
+A primary health care approach includes three components:
+Meeting people’s health needs throughout their lives,
+Addressing the broader determinants of health through multisectoral policy and action, and
+Empowering individuals, families, and communities to take charge of their own health.
+
+## ppt/slides/slide11.xml
+Primary Health Care (PHC) continued …
+PHC’s core principles are: 
+  Essential
+  Accessible
+  Acceptable
+  Affordable 
+Healthcare that is not top-down, but rather based in and directed by community
+PHC’s holistic and social view of health fits well within an Aboriginal & Torres Strait Islander worldview
+
+## ppt/slides/slide12.xml
+Aboriginal and Torres Strait Islander Peoples Definition of:
+Primary Health Care (PHC)
+“Primary health care (PHC)
+ is … generally the first ‘layer’ of health care services that individuals, families and the community encounter that usually provide comprehensive and continuous care. Primary health care includes general practitioners (GPs), Aboriginal and Torres Strait Islander Health Workers and Practitioners, nurses, allied health professionals, midwives, pharmacists and dentists. The services provided as part of primary health care are broad, and include health promotion and education, prevention and screening, early intervention, treatment and management.”
+https://healthinfonet.ecu.edu.au/learn/health-system/primary-health-care/
+
+## ppt/slides/slide13.xml
+NACCHO
+Peak national body representing 146 ACCHO’s in urban, rural and remote areas
+“A process which allows the local Aboriginal community to be involved in its affairs in accordance with whatever protocols or procedures are determined by the Community”
+Objectives
+To ameliorate poverty within the Aboriginal community through self determination
+Promote, develop and expand health services through ACCHS
+Represent and advocate for health service delivery, health information, research, public health, health financing and programs
+To deliver holistic and culturally appropriate health and health-related services to the Aboriginal community.
+https://www.naccho.org.au/acchos/
+
+## ppt/slides/slide14.xml
+Recap: ACCHO
+An ACCHO is a primary health care service initiated and operated by the local Aboriginal community to deliver holistic, comprehensive, and culturally appropriate health care 
+to the community which controls it
+, through a locally elected Board of Management.
+
+## ppt/slides/slide15.xml
+Coomealla Health Aboriginal Corporation’s Community‑Controlled Primary Care Model (Wentworth, NSW)
+What Happened:
+Wentworth lost both GP clinics in 2018 → major access crisis.
+CHAC (an ACCHO) stepped in to establish a new primary care clinic.
+Aboriginal board led all decisions: service design, staffing, priorities.
+Clinic built around holistic, culturally grounded care.
+Salaried GP model + Medicare 19(2) exemption ensured sustainability.
+Outreach and allied health integrated across multiple towns.
+Why It Matters:
+Self‑determination:
+ Indigenous governance drives system redesign.
+Holistic health:
+ Care reflects SEWB, family, culture, and community.
+Cultural safety:
+ Longer appointments, relational practice, trusted environment.
+Strengths‑based health promotion:
+ Delivered through relationships, not pamphlets.
+Community‑controlled solutions:
+ Structural innovation replaces failed mainstream models.
+Improved outcomes:
+ Access, continuity, trust, and community engagement strengthened.
+https://www.chac.org.au/post/welcome-to-coomealla-health-aboriginal-corporation-chac-community-controlled-healthcare-in-dareto
+
+## ppt/slides/slide16.xml
+Aboriginal and Torres Strait Islander Health Workers (AHWs/A&TSIHWs) are critical to improving the health and wellbeing of their people. They bring unique cultural skills and play a vital role that spans clinical intervention, health promotion, and community outreach and liaison. Aboriginal health workers (AHWs/A&TSIHWs) often work at the frontline of PHC and HP activities and services.
+PHC – AHWs/ A&TSIHW s Approach
+
+## ppt/slides/slide17.xml
+Who remembers …
+AHW or A&TSIHW
+AHP
+ALO
+ILO
+AHEO
+ACCHOs
+NACCHO
+Quick reflection…
+
+## ppt/slides/slide18.xml
+Primary Health Care (PHC) continued …
+
+## ppt/slides/slide19.xml
+OTTAWA CHARTER
+Recognition that you can not promote good health without having the fundamental prerequisites of health itself
+Shift towards a population health approach to health promotion
+Recognition that 
+Health is created and lived by people – 
+Indigenous Australians
+Adapted from - First International Conference on Health Promotion; Ottawa, 21 November 1986 
+
+## ppt/slides/slide20.xml
+Health Promotion (HP)
+HP focuses on empowering people to increase control over their health. 
+HP identifies obstacles 
+to the adoption of healthy public health policies aiming to place health at the top of the agenda of policymakers
+. 
+HP co-exists with Primary Health Care (PHC).
+
+## ppt/slides/slide21.xml
+Health Promotion (HP) continued …
+HP is the process of enabling people to increase control over and improve their health. 
+To reach a state of complete physical, mental and social wellbeing, an individual or group must be able to identify and realise:
+aspirations, 
+to satisfy needs, and 
+to change or cope with the environment
+A discussion document on the concept and principles of health promotion 
+Health 
+Promot
+. Int. (1986) 1(1): 73-76
+
+## ppt/slides/slide22.xml
+An Aboriginal Health Promotion (HP) Program
+With an Aboriginal lens:
+Aboriginal health promotion theory and practice include: 
+Aboriginal empowerment approaches (e.g. self-determination principles); 
+A wholistic definition of health that acknowledges the connection to land and spirit;
+Community ownership and localised decision-making; and 
+A recognition of the specific historical, social and cultural context of the community
+
+## ppt/slides/slide23.xml
+Considerations to Health Promotion Among Aboriginal and Torres Strait Islander Peoples
+
+## ppt/slides/slide24.xml
+Continued …
+
+## ppt/slides/slide25.xml
+Health Promotion (HP)
+HP focuses on empowering people to increase control over their health. 
+HP identifies obstacles 
+to the adoption of healthy public health policies aiming to place health at the top of the agenda of policymakers
+. 
+HP co-exists with Primary Health Care (PHC).
+https://www.youtube.com/watch?v=Wd5E0lKMdww
+
+## ppt/slides/slide26.xml
+Activity: Speaking Strength - Positive language in Indigenous Health Promotion 
+In a Group of 5-6 students
+Choose one Health Promotion Program from the list provided
+Research the program:
+What are its main goals?
+Who designs, leads, or controls the program? 
+How does the program show respect for culture and support what the community says is important?
+Create 
+three positive comments
+, on cards provided, that clearly describe the program
+Guiding Questions based on:
+Indigenous leadership and decision‑making
+Strengths and capabilities
+Culture, relationships, and community control
+
+## ppt/slides/slide27.xml
+The video highlights that Aboriginal Health Workers are not just support staff — they are leaders in health promotion and primary health care. Their cultural expertise and frontline role make them vital to closing the health gap and strengthening community wellbeing.
+Critical role
+Unique skills
+Frontline presence
+Wide scope 
+Community connection
+
+## ppt/slides/slide28.xml
+Health Promotion continued …
+
+## ppt/slides/slide29.xml
+A human rights-based approach to health
+Human rights provide a framework for addressing the consequences of health inequality experienced by First Nations Peoples. 
+This includes recognising its underlying causes as well as the interconnections with other issues. 
+Human rights require more than a rhetorical acknowledgement of the existence of inequality and general commitments to overcome this situation at some unspecified time in the future.
+Key elements include: 
+Availability, Accessibility, Non-discrimination
+The 
+National Strategic Framework
+ identifies as a key result area achieving a health system that is more effective and responsive to First Nations Peoples needs.
+
+## ppt/slides/slide30.xml
+Who remembers…
+Aboriginal and Torres Strait Islander health does not mean the physical wellbeing of an individual. 
+It refers to the 
+social
+, 
+emotional
+, and 
+cultural
+ wellbeing of the 
+individual
+, 
+the 
+family
+ and 
+the whole 
+community
+. 
+For Aboriginal and Torres Strait Islander peoples this is seen in terms of the whole-life-view.
+PHC services should strive to achieve a state where every individual is able to achieve their full potential as human beings and must bring about the total wellbeing of their families and communities.
+
+## ppt/slides/slide31.xml
+Summary
+This module explored the authenticity of the Primary Health Care model and Health Promotion and looked at the breadth of roles supporting Indigenous health in the community. 
+The module also recognised the strength drawn from the centrality of culture, partnerships, and collaboration within the context of Indigenous health.
+
+## ppt/slides/slide32.xml
+Special Considerations Support extension
+
+## ppt/slides/slide33.xml
+Assessment 2 – Critical Review
+Title
+Assessment
+ 
+2
+Type
+Critical 
+Review
+Length
+2,200
+ 
+words
+Weighting
+60%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Blackboard
+Unit
+ 
+Learning 
+Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+1. Discuss key concepts of health and wellbeing as determined by Aboriginal people 
+2. Identify key stages of the colonisation process and its relationship to the contemporary health status of Australian Indigenous people 
+3. 
+Analyse
+ the relationship between socio-economic factors and the contemporary health status of Australian Indigenous people 
+4. Explain how primary health care and/or health promotion enhances the wellbeing of Indigenous people and role of the health professional as an agent of social change
+
+## ppt/slides/slide34.xml
+Writing a Critical Review
+https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/quick-guides/writing_a_critical_review.pdf
+
+## ppt/slides/slide35.xml
+Critical Review of the Scenario
+A critical review goes 
+beyond description
+ by examining 
+why
+ something happened, 
+how
+ it influences outcomes, and 
+what it means
+ in a broader context
+In 
+this assessment
+, you are not reviewing a written document—you are critically reviewing a 
+scenario and practice interaction
+.
+Instead of reading an article, you are examining:
+Sarah’s experiences 
+The impacts of colonisation on her contemporary health 
+the cultural context shaping the encounter
+the power dynamics in the consultation
+How primary health care and health promotion can respond 
+
+## ppt/slides/slide36.xml
+Critical Review of the Scenario continued …
+Judge the strengths and weaknesses 
+(of the actions and recommendations in the scenario) – which must be evidence-based 
+Identify bias or assumptions 
+- Analyse privilege, whiteness, and Western norms (how these assumptions affect Sarah’s wellbeing and care) 
+Overall evaluation 
+- Judgement about the quality of practice - Must be linked to theory 
+A critical review 
+always ends with a judgement
+.
+
+## ppt/slides/slide37.xml
+Assessment 2 – Brief
+Rationale – Why this assessment matters
+Apply unit concepts to a 
+realistic health care scenario
+Critically examine 
+culturally safe, strengths‑based, socially responsive
+ practice
+Analyse:
+SEWB concepts
+Impacts of colonisation
+Socioeconomic determinants
+Primary health care & health promotion
+Shift away from deficit views → recognise 
+strengths, resilience, cultural connections, self‑determination
+Understand health professionals as 
+agents of social change
+Explore how culturally safe, equitable care supports 
+Indigenous wellbeing
+Assessment Task – What students must do
+Write a 
+critical review
+ of the Sarah scenario
+Examine how health professionals and services can support 
+Indigenous health and wellbeing
+Apply unit concepts to Sarah’s experiences and the clinic’s 
+service improvements
+Analyse culturally safe, strengths‑based approaches using 
+scholarly evidence
+ (min. 12 sources)
+Evaluate the quality of practice → identify strengths, weaknesses, bias, assumptions
+Provide 
+evidence‑based recommendations
+ for culturally safe care and SEWB‑aligned practice
+Link all analysis to theory: SEWB, cultural safety, colonisation, determinants, PHC, health promotion
+
+## ppt/slides/slide38.xml
+Assessment 2  Scenario
+
+## ppt/slides/slide39.xml
+Example Assessment Structure
+
+## ppt/slides/slide40.xml
+Your response must …
+Assessment Requirements
+Be written in a clear, coherent, and respectful academic style.
+Support your discussion with evidence from:
+Scholarly literature
+Unit materials
+Definition of Scholarly and Peer-Reviewed sources
+Peer-reviewed sources are academic publications that have been evaluated by experts before publication to ensure quality, accuracy, and credibility. Scholarly sources are written by researchers or experts for an academic audience and include journal articles, academic books, conference papers, and theses. They typically provide author credentials and references. All peer-reviewed sources are scholarly, but not all scholarly sources are peer-reviewed. For example, an academic book may be scholarly without undergoing peer review.
+Utilise
+ evidence from a 
+minimum of 12 scholarly sources
+ 
+to support your analysis 
+Use correct terminology and tone when referring to Australian Indigenous people
+Use APA 7
+th
+ document, referencing, and citation styles in this Unit
+Label your submission with your surname and initials, and the assessment task's name, for example:
+		
+SmithJ_Critical
+ Review.docx	
+ You 
+MUST
+ add a footer to your submission.
+Add your name and task type – i.e. 
+SmithJ_CriticalReview
+ on left margin, your student ID, and have page number on the right margin. See the example below:
+		
+ 
+
+## ppt/slides/slide41.xml
+Task Resources & Other Requirements
+
+## ppt/slides/slide42.xml
+INDG6002 GenAI Use
+In Gnibi College units, the use of GenAI in assessments is generally restricted to protect the integrity and authenticity of the learning process. Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning—something that cannot be authentically achieved through AI-generated content.
+
+## ppt/slides/slide43.xml
+GenAI Use Continued … 
+
+## ppt/slides/slide44.xml
+Coversheet & Declaration
+
+## ppt/slides/slide45.xml
+Assessment 2 – Rubric
+5 Criteria
+1: Examine Australian Indigenous concepts of health and wellbeing in the scenario
+2: 
+Analyse
+ the role of Primary Health Care, Health Promotion, and Culturally Safe Recommendations in supporting Australian Indigenous health and wellbeing 
+3: 
+Critical reflection on how historical contexts have shaped socioeconomic determinants and continue to influence the health and wellbeing of Australian Indigenous peoples
+4: 
+Respectful treatment of Australian Indigenous content
+5: 
+Academic Communication style, referencing and citation 
+
+## ppt/slides/slide46.xml
+Questions?
+
+## ppt/slides/slide47.xml
+Thank you for participating and sharing in ‘Health and Indigenous Australian Peoples’. 
+I hope you have enjoyed your learning journey as much as I have enjoyed teaching and learning from your questions and experiences. 
+I wish you well in your future studies and endeavours, as you go into a new day.
+

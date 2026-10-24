@@ -1,0 +1,550 @@
+      Critical Public Health
+
+
+
+
+      ISSN: 0958-1596 (Print) 1469-3682 (Online) Journal homepage: www.tandfonline.com/journals/ccph20
+
+
+
+
+More than an ally: becoming an accomplice to
+cultural safety for Australian First Nations people
+and Indigenous knowledge
+
+Elizabeth Rix, Shae L. Brown & Darlene Rotumah
+
+To cite this article: Elizabeth Rix, Shae L. Brown & Darlene Rotumah (2026) More than an ally:
+becoming an accomplice to cultural safety for Australian First Nations people and Indigenous
+knowledge, Critical Public Health, 36:1, 2674389, DOI: 10.1080/09581596.2026.2674389
+
+To link to this article: https://doi.org/10.1080/09581596.2026.2674389
+
+
+
+
+       © 2026 The Author(s). Published by Informa
+       UK Limited, trading as Taylor & Francis
+       Group.
+
+       Published online: 12 Jun 2026.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 318
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+
+                     Full Terms & Conditions of access and use can be found at
+            https://www.tandfonline.com/action/journalInformation?journalCode=ccph20
+Critical Public Health
+2026, VOL. 36, NO. 1, 2674389
+https://doi.org/10.1080/09581596.2026.2674389
+
+
+Equality, Equity and Health Policy﻿  | REVIEW ARTICLE
+
+More than an ally: becoming an accomplice to cultural safety for
+Australian First Nations people and Indigenous knowledge
+Elizabeth Rixa             , Shae L. Brownb                  and Darlene Rotumahc
+a
+ Adelaide Nursing School, University of Adelaide, Adelaide, Australia; bSouthern Cross University, Lismore, Australia; cGnibi
+College of Indigenous Australian Indigenous Peoples, Southern Cross University, Lismore, Australia
+
+
+    ABSTRACT                                                                                                                    ARTICLE HISTORY
+    Introduction: Culturally safe practice is a foundational requirement of all Australian                                      Received 12 February
+    health professionals and is now mandated within their codes of practice. Being a                                            2026
+    culturally safe practitioner requires understanding of the concepts of social justice,                                      Accepted 11 May 2026
+    equity, and the principles of respectful engagement with diverse groups of people.                                          KEYWORDS
+    Theory: There are fundamental similarities applying to equity for all people, and                                           Accomplice;
+    specific requirements for diverse groups. Here we focus on respectful and effective                                         accompliceship; First
+    engagement with Australian First Nations people, who have the most concerning                                               Nations people; cultural
+    outcomes in health. Many health practitioners are open to becoming accomplices to                                           safety; equity health and
+    First Nations peoples’ struggle for equity, self-determination and respect for Indigenous                                   fitness; whiteness
+    knowledges, but are unsure how to begin.
+    Methods/Results: We invite all to begin their journey from allyship towards
+    accompliceship and culturally safer practice. To do this we offer pragmatic guidance
+    and examples. Our four guiding principles contain practical skills to inspire others to
+    begin and continue their own journey towards accompliceship.
+    Discussion: We offer a grounded approach, to expand understanding of how
+    discrimination operates, and how practical equity for First Nations people can be
+    enacted every day. In a world where discrimination of difference has been normalised,
+    becoming an accomplice is a contribution to a better world for all.
+
+
+
+
+Introduction
+Practicing cultural safety as health professionals requires an understanding of the social, cultural, histor-
+ical and systemic influences upon lived experience and outcomes for First Nations peoples. These influ-
+ences include cultural protocols, support structures, and multiple systemic barriers of disadvantage and
+discrimination, both obvious and subtle. Accompliceship emerges through incorporating this understand-
+ing into equitable, meaningful actions within everyday practice. Our focus is Australian First Nations
+peoples, and we are aware there are some similarities for First Nations peoples in other parts of the
+world. The term accomplice is used to denote intentional affirmative action (Bruno, 2023; Parter et al.,
+2023). We use the term accompliceship instead of ally, as the latter can be claimed without practical
+action being taken or change occurring (Finlay, 2020; Parter et al., 2023). Accomplices stand alongside
+First Nations peoples in their struggle for social justice and a voice in policies that directly impact their
+people (Finlay, 2020; Southam, 2021).
+   The term equity needs qualifying here, as it can be used in a way that obscures lack of cultural safety
+or indeed equitable outcomes. Given the dominance of western knowledge and cultures in healthcare,
+have you ever asked yourself ‘equity from whose perspective’? Equity cannot exist without acknowledg-
+ing and addressing power imbalances and discriminatory practices within health institutions and social
+and cultural structures (Curtis et al., 2019). The definition of equity applied here includes the fact that
+conditions of privilege or discrimination are not necessarily predictive or causative of specific health
+
+
+CONTACT Elizabeth Rix            elizabethfrix@gmail.com
+© 2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http://creativecommons.org/licenses/
+by-nc/4.0/), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms
+on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+2     E. RIX ET AL.
+
+
+outcomes but correlated through ongoing inequity within institutional structures and professional prac-
+tice. Authentic equity includes voice, access, participation, and rights (Burton et al., 2024; United Nations,
+2008). Accompliceship to First Nations people enacts authentic practical equity through everyday actions
+and relationships (Southam, 2021).
+    Processes and practices that enable racist and discriminatory actions remain embedded within health-
+care, despite being unethical and outdated (Curtis et al., 2019). However, many institutions have policy
+requirements and guidelines for respectful professional practice when working with vulnerable minority
+groups. Cultural safety is a professional and legal requirement in all healthcare professions (Australian
+Health Practitioner Regulation Agency & National Boards, 2020). Not a mere box ticking exercise, but as
+enacted reality. Cultural safety is defined in Australia as ‘the ongoing critical reflection of health practi-
+tioner knowledge, skills, attitudes, practising behaviours and power differentials in delivering safe, acces-
+sible and responsive healthcare free of racism’ (Australian Health Practitioner Regulation Agency &
+National Boards, 2020). Each of us working in healthcare bears responsibility to integrate equity and
+fairness into our practice. Some take up this challenge through daily actions of respectful care and con-
+sideration. Others may contribute to institutional policy, calling out discriminatory protocols and practices.
+    We all make a difference. Accessing healthcare forces First Nations people to interact with western
+institutions and everything we do has positive or negative effects. Health practitioners in every role are
+either contributing to equity in service provision or are complicit in inequity and discrimination, via their
+silence, inaction, or worse (Schmidt, 2019). We cannot sit on the fence imagining we are neutral and
+somehow outside of the reality of treatment and outcomes for First Nations people.
+    Social and practical justice are manifestations of fundamental human rights (United Nations, 2008).
+Racism and discrimination towards any minority have no place in healthcare. Instead, ethics of dignity,
+respect and fair treatment create conditions for improving health outcomes for those with the worst
+statistics and outcomes in Australia. As health settings become increasingly diverse, culturally safe pro-
+fessional skills are crucial. Not just in relationship with First Nations peoples, for all minorities. This
+includes wellbeing in the workplace for both recipients of care and practitioners. Although practitioner
+wellbeing is not the focus of this article, workplace discrimination in the form of undermining or bullying
+through sexism, homophobia and racism are also manifestations of wider prejudice and cannot be
+ignored. Discrimination experienced by staff who are not members of the dominant cultural group, as
+well as patients, are common everyday experiences in Australia (Bargaille, 2020). This has increased from
+50% to 59% since the ‘NO’ campaign’s misinformation and social media blitz contributed to Australians’
+rejecting recognition of First Nations peoples in Australia’s constitution in 2023 (Diversity Council of
+Australia, 2023). Being fully informed on rights to respect at work and communicating respectfully within
+institutional cultures are crucial to the skillset required of an accomplice to First Nations people (Parter
+et al., 2023).
+    When we stand up as accomplices to equity, there can be pushback from people who are benefiting
+from the whiteness myth of superiority. Excluding, supressing and discriminating against some people
+and acting in a destructive way towards alternative worldviews and lifestyles is a recipe for social disas-
+ter, as many of the challenges of the 21st century attest. Enabling all people to participate fully in their
+communities is a necessary condition for societal health and coherence, aligning with the United Nations
+Declaration on the Rights of Indigenous Peoples (United Nations, 2008). We note that at this time in
+history, there is a groundswell of conservativism seeking to maintain/re-enshrine discriminatory policy
+and practices. Now more than ever, cultural safety for every person we encounter as a health profes-
+sional is an act of humanitarian resolve; an act of deciding to hold respect and care. In these times we
+all need to hold a space of unbiased professional practice.
+    We offer four guiding principles that open a pathway to becoming an accomplice. These principles
+suggest points for exploration, practical steps and crucially, self-reflection. We offer anecdotes and stories
+from our own professional experiences. We provide a foundation for building practitioner confidence to
+begin their journey towards accompliceship. Towards authentic care and consideration of the needs of
+First Nations peoples and other minority groups. These principles are transferable to all people or groups
+we engage (Came & Griffith, 2017).
+    Being an effective accomplice is a lifetime journey of unlearning for white Australians (Rix et al., 2024),
+as we challenge views that have been taken for granted for centuries. For example, the default position
+                                                                                      Critical Public Health    3
+
+
+within healthcare, that western and biomedical knowledges are the ‘gold standard,’ relegates non-western
+cultures and knowledges to the status of lesser, irrelevant, or simply the ‘other.’ Providing ‘equity’ in
+healthcare requires respectful inclusion of diverse ways of being and knowing. Not to replace western
+knowledges and practices, rather to enhance and increase effective care. We are not claiming absolute
+or fixed solutions. Rather, letting go of thinking any group has all the answers, opening ourselves to
+lifelong learning, can contribute to improvements (Bruno, 2023). Our four principles are: (1) Reality is
+complex, (2) Ready to learn, (3) Action and being brave, and (4) Reflection.
+    Firstly, the foundations of whiteness and intersectionality, and ‘nothing about us without us,’ are laid.
+
+
+Whiteness and intersectionality
+The terms white and whiteness are not used to directly denote skin tone, but as a signifier for structures
+of power and institutional systems of discrimination where they are enacted by individuals and groups
+holding power. The terms came about because those who enact or benefit from whiteness have histor-
+ically been of European/Caucasian descent. This situation is an ongoing structure of discrimination
+according to Mackay et al.: ‘Whiteness and institutionalised racism began in Australia in 1788 and con-
+tinues to this day in many aspects of our culture and society’ (Mackay et al., 2023, p. 6), operating within
+a hierarchy of automatically assumed superiority, based on appearance and assumptions. People of many
+cultural backgrounds may be living/working within, perpetuating, and benefiting from western/white
+systems and institutions. The way we use the term whiteness draws on extensive research and literature
+into the enormity and pervasiveness of this structural and cultural system of colonialism, dominance and
+discrimination (Bonds & Inwood, 2016; Mackay et al., 2023; McIntosh, 1990; Mitchell et al., 2022). It also
+relates to the notion of white fragility, that is the often-emotional, victim-oriented reactions of those
+facing challenges to their participation in and benefiting from these structures of power and discrimina-
+tion (Diangelo, 2018).
+
+
+Nothing about us without us
+The voices of First Nations people must be sought when policies and practice affect their lives. To not
+do so is patronising and insulting. Healthcare institutions have not traditionally sought the opinions of
+those accessing services, yet the time taken to engage in authentic communication/consultation have
+positive effects on health outcomes. The phrase ‘Nothing about us without us’ originated from Charlton’s
+(1998) book of the same name. While Charlton’s work relates to disability rights, the phrase’s meaning is
+transferrable to all minority groups experiencing discrimination. Protocols can be created to streamline a
+process of effective, authentic and respectful consultation. Like many aspects of accompliceship, this is
+not about getting it perfect, feedback and adjustment will support refinement. Not doing anything is the
+only way to get it wrong.
+   The central importance of this ethical and respectful perspective is demonstrated by the development
+of this article. Authors Dr Elizabeth Rix and Dr Shae L Brown developed the draft principles, with con-
+sultation with First Nations scholar, health professional and co-author Dr Darlene Rotumah refining and
+validating the authenticity of our principles, and the veracity of our approach to accompliceship. This
+collaboration demonstrates the necessity of stepping up as non-Indigenous professionals, with openness,
+willingness and critical reflexivity, to listen deeply, and learn from First Nations experts.
+
+
+Guiding principles of First Nations accompliceship
+Our four guiding principles offer pragmatic strategies for a lifelong journey of accompliceship to practical
+equity. These principles demonstrate relationship, respect, responsibility and reciprocity (Tsosie et al., 2022).
+These four ‘Rs’ are the fundamental attributes of accompliceship with First Nations people, with relevance to
+any minority group experiencing discrimination (National Health & Medical Research Council, 2018). The
+principles are interconnected and overlapping; however, it is useful to have guidance in the form of specif-
+ically focused points. They form a lens, enabling us to bring the complexities of human life into focus, so
+we act with broader vision (Brown, 2021). Thinking with a complexity perspective helps us to see wider
+4      E. RIX ET AL.
+
+
+ranging factors that influence any situation. These can be factors that privilege or discriminate (Brown, 2021).
+Thinking this way assists us to connect with the whole person placed within our care (Gatwiri et al., 2021).
+    Reflecting on my role as an Aboriginal health professional and the experiences I’ve had over the years, I’m
+    reminded that our people depend heavily on spaces that feel safe, welcoming, and culturally grounded. I’ve
+    always felt the weight of that, knowing that Aboriginal health workers are often the ones breaking down barriers
+    and creating that sense of safety, even though our workforce is small and stretched thin (Rotumah, 2023).
+
+    I’ve seen moments where care is respectful and centred on relationships, and those moments remind me why
+    this work matters. But I’ve also seen the opposite, times when the interaction isn’t safe, and our people don’t
+    return. Those moments stay with me.
+
+    What strikes me is that many of my colleagues genuinely want to understand our cultural ways, but the systems
+    we work in don’t always allow for the relational approaches our communities rely on. These systems were never
+    built with us in mind, and that’s where discrimination shows itself, not always through individuals, but through
+    structures that make our people feel unwelcome or unsafe.
+
+    That’s why I keep coming back to the importance of accomplices. We need non-Aboriginal health professionals
+    who speak up, advocate, and challenge the parts of the system that cause harm. When they put people first and
+    work in ways that centre trust, relationships, and cultural respect, they help create health services where our
+    people can truly belong. (Darlene)
+   We argue that these accompliceship principles should be part of professional training, informing cul-
+tural safety education and used to inform policies and practice.
+   Accompliceship is an ongoing enacted process (Smith et al., 2016). Health and fitness provide a useful
+metaphor. We cannot get fitter and healthier by simply talking about exercise. Five minutes exercise once
+a month will have minimal impact. Health and fitness require regular engagement, a resolve to being in
+relationship with exercise as part of our daily lives. It means persisting even when it’s hard or uncom-
+fortable. Health and fitness are affected by everything that has happened in our lives, in our parents’,
+grandparents’ and great grandparents’ lives, through generationally inherited epigenetics (Grazioli et al.,
+2017). Health is also impacted by the environment and circumstances we are in right now. We can use
+this metaphor to think of being an accomplice as equity health and fitness.
+   All that we do in healthcare is entangled with our attitudes, beliefs, and actions (Gatwiri et al., 2021).
+We are building professional culture daily, with our actions, communications and relationships. What kind
+of culture are we generating? We can never underestimate the impact any of us have. An attitude of
+resolve and determination is needed. Humility in understanding and using our privilege as educated pro-
+fessionals for action will assist us. It can be challenging. We all make mistakes, as we learn and grow new
+knowledge. Only First Nations people can know if we are culturally safe accomplices (Cargo et al., 2019).
+
+
+Principle 1: Reality is complex
+Professional practice is shaped and influenced by many complex factors (Brown, 2021; 2023).
+Acknowledging and considering this complexity supports us to refrain from projecting narrow assump-
+tions. We must be open to exploring and learning, treating each person and situation as unique. Thus,
+within this principle, we explore multiple contexts.
+    One of the key attributes of life’s complexity is diversity. All healthy ecosystems, communities and
+societies include the contributions of diversity. Working purposefully with cultural diversity can move us
+beyond reactive unconscious biases and discriminatory practice (Mohamed et al., 2024). Contextual sen-
+sitivity can assist us to soften the demands of conformity, opening our curiosity into authentic listening
+and learning.
+
+
+Our own context
+Our own cultural context and educational experience can create a limited worldview. We are all different,
+with unique lived experience. Australian education has presented a narrow knowledge focus, obscuring
+histories and perspectives of non-dominant cultures and peoples (Shay & Wickes, 2017). Acknowledging
+and exploring the many factors that shape and influence us is a first step to authentic accompliceship.
+                                                                                       Critical Public Health      5
+
+
+What has gone before is always impacting the present. We cannot ignore nor deny the personal or col-
+lective legacy/s we live with, nor our unique lens on reality, but we can shift the way the past influences
+the now and our worldview.
+   Knowing even a little of our own cultural heritage, beyond the 236+ years of non-Indigenous pres-
+ence in Australia, is an important first step. We are not suggesting complex genealogical research, but
+having some idea of the story of our family gives a more complete view of generational connection to
+Australia and Country. This step can begin our own truth telling journey. If our ancestors were involved
+in actions directly damaging to First Nations peoples, we may need to develop the emotional strength
+to acknowledge this. Such information can fuel our resolve towards the reciprocity of becoming an
+accomplice, not out of a sense of being expected to make ‘reparations’ but out of resolve for a more
+equitable life for all in the 21st century. With regard to any form of generational violence and trauma,
+truth telling and peace making are served by affirmative action (Southam, 2021).
+   This step along the path can provide us with a way to introduce ourselves to First Nations people.
+Our job title, and or other status information are of little importance in building relationship. The follow-
+ing anecdotes are our own experiences.
+
+  I use self-disclosure and storytelling when building rapport with a new patient/person. Who my family are,
+  where my Country is, exchanging humorous anecdotes. I try to convey with actions and words my accomplic-
+  eship in the struggle for culturally respectful and safe treatment and care. I ask people if they are on their
+  Country, where their mob are from. This exchange of more than clinical information builds relationship and
+  trust. (Elizabeth)
+
+  My introduction to First Nations people often begins with the story of how I inherited my respect for diverse
+  peoples from my mother, and my grandmother. I explain that I am a mother of two daughters and a grand-
+  mother to two boys. How long I have lived on Bundjalung Country, and a favourite place that sustains me is
+  something I might share. I always add that I am open to learning. (Shae)
+
+
+Context of peoples and place
+Learning about the history of Peoples/Nations on the Country where we are working and/or living can
+create respectful engagement with First Nations people. This may include learning the names of dif-
+ferent language groups. This information is freely available through the internet and libraries. It is our
+own responsibility to become informed, rather than the responsibility of First Nations people to bear
+this cultural load for our benefit (Bruno, 2023). Local First Nations organisations may be readily
+equipped to provide information, especially once they know that we are sincere in our resolve of
+accompliceship. These organisations can be useful to connect with along the way.
+
+
+Wider context
+We can also become informed about the current state of affairs for Australian First Nations peoples gen-
+erally (for example, Chamberlain et al., 2024). First Nations websites provide valuable information. This
+research can educate about specific topics/issues within your area of practice. Be aware that
+non-Indigenous sites generally provide information that expresses mainstream/western cultural and polit-
+ical perspectives, omitting truths about the ongoing violence of colonisation and flawed government
+policies such as the Stolen Generations (Aboriginal & Torres Strait Islander Healing Foundation, 2014;
+McCallum et al., 2012).
+   Exploring policies and practices for working with First Nations peoples is important if we are to be
+informed. All of us are required to operate within policy frameworks; accessing these can assist us to
+contribute to updating policy and best practice approaches. Such knowledge becomes vital if we expe-
+rience pushback from colleagues or management. As we advocate for First Nations patients, we may also
+need to advocate for ourselves, and being well informed will support us.
+   Acknowledging complex reality relates to our own commitment to make a difference (Brown, 2021).
+Being clear when articulating the rationale for our journey to becoming accomplices can assist us.
+We are not suggesting long-prepared speeches/lectures, however a well-honed personal/professional
+6      E. RIX ET AL.
+
+
+‘position’ statement provides a clear, succinct response to questions and challenges. It is also important to
+regularly recall what motivated us to become accomplices. This is the why of the accompliceship journey.
+    During my six years of doctoral research, I had my position statement up where I could always see it. It included
+    the words ‘I am using my non-Indigenous privilege to contribute to the visibility of Indigenous knowledge in
+    the academy.’ This position statement was enacted through always seeking to cite Indigenous scholars at every
+    opportunity (Southam, 2021). I am only one person, but every contribution is valuable. (Shae).
+
+   Accompliceship requires retaining the ‘big picture’ of culturally safe practice, staying informed of pol-
+icy developments within our disciplines, while remaining responsive to the needs and preferences of
+First Nations peoples.
+
+
+Principle 2: Ready to listen and learn
+This principle is founded on deep listening and being open to learning (Bruno, 2023). Unbalanced power
+relationships usually mean the flow of information and dialogue is one way: from practitioner to patient.
+Listening becomes authentic when we seek to understand the speaker, rather than merely formulating
+our response/counter point/s. In western culture we are accustomed to listening to respond/debate
+rather than to deeply understand. Engaging in deep listening and waiting, rather than jumping in as
+soon as we can, supports relationship. Gaining understanding from First Nations peoples must always be
+juxtaposed with institutional/policy requirements of our professional role. Integrating First Nations voices
+within policy and practice requirements is central to being an accomplice (Kirkham, et al., 2019). Deep
+listening is the basis of authentic, meaningful engagement and relationality with First Nations peoples
+(Bruno, 2023).
+    Talking with an Elder today, I was struck by his ability to truly listen to my words. Then I noticed how he did not
+    speak until he had thought about what I had said, giving me a thoughtful response. (Elizabeth) (Rix et al., 2014)
+
+   Without listening, how can we know what is required of us in any role. Resolving to listen and learn
+is a first step. However, this humble position is not always easy. Being open-minded and allowing our
+humanity to show develops our knowledge of discrimination within healthcare policy and practice.
+Accompliceship is not knowledge of fixed outcomes but is non-linear and ongoing. There is ambiguity,
+no absolute answers and contradiction, because these are qualities of the world we live in. Western
+knowledge may encourage us to think we can accumulate fixed and absolute knowledge and that as
+individuals we can own that knowledge. Reality however is more complex. Human knowledge is always
+partial, always shifting and emerging, with new learning and understanding (Brown, 2021). This is true
+within medical research, theory and practice.
+
+
+Principle 3: Taking action
+Accomplices may be cautious, fearing getting it wrong or making mistakes. We recommend being brave
+enough to get it wrong; an inadvertent mistake can lead to learning and relationship. However, taking
+no action contributes to the complicity of silence (Fredericks et al., 2020). A clear and concise action plan
+is useful. Aims, goals, actions, and communications relating to our professional role and scope of practice
+can form a strong professional foundation, providing confidence to act (Bruno, 2023).
+   Accompliceship actions include standing up against silencing and bullying towards anyone who
+exposes racism. Such pushback occurs when we expose ourselves within health institutions as someone
+who will not be complicit or ‘white-silenced’ about racism and discrimination. White silencing occurs
+frequently within Australian institutions. It materialises as subtle or blatant workplace lateral violence: i.e.
+dismissing/denying concerns about racism, scapegoating, gaslighting, bullying, being overlooked for pro-
+motion or even the threat of or actual dismissal (Gatwiri et al., 2021)
+    I was shocked and appalled at the shift in how staff treated me within a hospital when I outed myself as an
+    active accomplice, I myself became the target of discrimination, a huge learning curve in my journey from ally
+    to accomplice. (Elizabeth)
+                                                                                           Critical Public Health     7
+
+
+  Rigid power hierarchies are daunting to discover, and workplace bullying is real. Documenting events
+and experiences is crucial. Our actions are a role model for others. Younger practitioners, peers, and
+potential accomplices can be positively influenced by our knowledge sharing.
+
+
+Principle 4: Reflection
+Critical reflection is central to being a culturally safe practitioner. Without critically reflecting on our cul-
+ture and biases, there can be minimal culturally safe practice (Mills et al., 2022). Reflecting on personal/
+professional experience and learning across our accompliceship journey is crucial (Rix et al., 2024). Being
+aware of unconscious biases and how these impact our professional practice is key to moving beyond
+performative allyship (Fredericks et al., 2020; Gatwiri et al., 2021). There may be times of movement and
+growth, of frustration, perceptions of roadblocks and when things appear to regress. At these times our
+ongoing critical reflection is of greatest assistance.
+   A deeper level of learning and understanding results from reflection, enriching our growing knowl-
+edge. Keeping a reflective journal supports your accompliceship journey. A newsletter contribution, a
+presentation, or an article are opportunities to encourage others. Sometimes sharing the accompliceship
+journey triggers deeper reflection for us and can begin a conscious journey for others. Keeping a reflec-
+tive journal, also provides supporting evidence in the advent of pushback against our actions as
+accomplices.
+
+
+Conclusion
+We end here with an invitation to join us on this lifelong journey of accompliceship. The ongoing strug-
+gle for practical equity and social justice requires committed practicing accomplices. Our four principles
+for accompliceship aim to invite and encourage. Knowing that ‘Reality is Complex,’ being ‘Ready to Listen
+and Learn,’ ‘Taking Action,’ and critical ‘Reflection,’ can provide a foundational pathway. Practical equity
+means moving beyond superficial inclusion and box ticking. It is based on authentic relationality with
+First Nations peoples. Humanity is at a crucial time in history. Social justice and equity are fundamental
+to a positive future for all. It is time to move beyond being threatened by people who are different from
+us. Respect for each other and learning to live with cultural diversity are key to a stable and healthy
+future for all.
+
+
+Author contributions
+CRediT: Elizabeth Rix: Conceptualization, Writing – original draft, Writing – review & editing; Shae L. Brown:
+Conceptualization, Writing – original draft, Writing – review & editing; Darlene Rotumah: Writing – review & editing.
+
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+
+ORCID
+Elizabeth Rix  http://orcid.org/0000-0002-2062-5070
+Shae L. Brown   http://orcid.org/0000-0001-6999-6000
+Darlene Rotumah     http://orcid.org/0000-0002-2346-7856
+
+
+References
+Aboriginal and Torres Strait Islander Healing Foundation. (2014). Healing Foundation strategic plan 2014–2017.
+  Aboriginal and Torres Strait Islander Healing Foundation. http://healingfoundation.org.au/wordpress/wp-content/
+  files_mf/1430190708StrategicPlan20142017.pdf
+Australian Health Practitioner Regulation Agency & National Boards. (2020). The national scheme’s Aboriginal and
+  Torres Strait Islander Health and Cultural Safety Strategy 2020–2025. Australian Health Practitioner Regulation Agency
+8      E. RIX ET AL.
+
+
+   & National Boards. https://nacchocommunique.files.wordpress.com/2020/02/aboriginal-and-torres-strait-islander-cu
+   ltural-health-and-safety-strategy-2020-2025-1.pdf
+Bargaille, D. (2020). ‘Tokenised, silenced’: new research reveals Indigenous public servants’ experiences of racism.
+   The Conversation. https://theconversation.com/tokenised-silenced-new-research-reveals-indigenous-public-servants-
+   experiences-of-racism-141372
+Bonds, A., & Inwood, J. (2016). Beyond white privilege: Geographies of white supremacy and settler colonialism.
+   Progress in Human Geography, 40(6), 715–733. https://doi.org/10.1177/0309132515613166
+Brown, S. L. (2021). Complexity patterning: A patterns-based approach to the teaching and learning of complexity com-
+   petence. Southern Cross University. https://scu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991013104
+   413702368&context=L&vid=61SCU_INST:61SCU&lang=en&search_scope=WithoutResearch&adaptor=Local%20
+   Search%20Engine&tab=Everything&query=any,contains,Brown%20%20S%20%20L.%202021%20Thesis&facet=rtype,i
+   nclude,dissertations&mode=Basic&offset=0
+Brown, S. L. (2023). Teaching complex time through pattern thinking and understanding. Time & Society, 32(3), 336–
+   358. https://doi.org/10.1177/0961463X231187702
+Bruno, M. E. J. (2023). What does it mean to become and ally in Indigenous healthcare?. University of Alberta.
+Burton, D. C., Kelly, A., Cardo, D., Daskalakis, D., Huang, D. T., Penman-Aguilar, A., Raghunathan, P. L., Zhu, B.-P., &
+   Bunnell, R. (2024). Principles of health equity science for public health action. Public Health Reports, 139(3), 277–
+   283. https://doi.org/10.1177/00333549231213162
+Came, H., Griffith, D. M. (2017). Tackling racism as a “wicked” public health problem: Enabling allies in anti-racism prax-
+   is. Social Science and Medicine. https://openrepository.aut.ac.nz/server/api/core/bitstreams/18f2f19c-62b6-4e6f-
+   9515-0b325fcd27de/content
+Cargo, M., Potaka-Osborne, G., Cvitanovic, L., Warner, L., Clarke, S., Judd, J., Chakraborty, A., & Boulton, A. (2019).
+   Strategies to support culturally safe health and wellbeing evaluations in Indigenous settings in Australia and New
+   Zealand: a concept mapping study. International Journal for Equity in Health, 18(1), 194. https://doi.org/10.1186/
+   s12939-019-1094-z
+Chamberlain, C., Anderson, I., Fredericks, B., Calma, T., & Eades, S. (2024). Indigenous peoples’ health after Australia’s
+   No vote. BMJ, 384, q24.https://doi.org/10.1136/bmj.q24
+Charlton, J. I. (1998). Nothing about us without us – disability, oppression & power. University of California Press.
+Curtis, E., Jones, R., Tipene-Leach, D., Walker, C., Loring, B., Paine, S.-J., & Reid, P. (2019). Why cultural safety rather
+   than cultural competency is required to achieve health equity: a literature review and recommended definition.
+   International Journal for Equity in Health, 18(1), 174. https://doi.org/10.1186/s12939-019-1082-3
+Diangelo, R. (2018). White fragility: Why it’s so hard for White People to talk about racism. Beacon Press.
+Diversity Council of Australia. (2023). First Nations facing increased discrimination & cultural load. Diversity Council of
+   Australia. https://www.dca.org.au/news/media-releases/first-nations-facing-increased-discrimination
+Finlay, S. M. (2020). Where do you fit? Tokenistic, ally – or accomplice?. Croakey Health Media. https://croakey.org/
+   where-do-you-fit-tokenistic-ally-or-accomplice/
+Fredericks, B., Bargallie, D., Carlson, B. (2020). “Nothing about us, without us”: performative allyship and telling silences.
+   Croakey Health Media. https://croakey.org/nothing-about-us-without-us-performative-allyship-and-telling-silences/
+Gatwiri, K., Rotumah, D., & Rix, E. (2021). BlackLivesMatter in Healthcare: Racism and Implications for Health Inequity
+   among Aboriginal and Torres Strait Islander Peoples in Australia. International Journal of Environmental Research
+   and Public Health, 18(9), 4399. https://doi.org/10.3390/ijerph18094399
+Grazioli, E., Dimauro, I., Mercatelli, N., Wang, G., Pitsiladis, Y., Di Luigi, L., & Caporossi, D. (2017). Physical activity in
+   the prevention of human diseases: role of epigenetic modifications. BMC Genomics, 18(Suppl 8), 802. https://doi.
+   org/10.1186/s12864-017-4193-5
+Kirkham, R., Maple-Brown, L. J., Freeman, N., Beaton, B., Lamilami, R., Hausin, M., Puruntatemeri, A.-M., Wood, P.,
+   Signal, S., Majoni, S. W., Cass, A., & Hughes, J. T. (2019). Incorporating indigenous knowledge in health services:
+   A consumer partnership framework. Public Health, 176, 159–162. https://doi.org/10.1016/j.puhe.2018.08.009
+Mackay, M., McGahey, K., & Mackay, J. (2023). Whiteness in Nursing and Midwifery in Australia. In K. O. J. Ravulo, T.
+   Dune, A. Workman, & P. Liamputtong (Eds.), Handbook of critical whiteness: deconstructing dominant discourses
+   across disciplines (pp. 1–17). Springer Nature. https://doi.org/10.1007/978-981-19-1612-0_22-1
+McCallum, M., Meadows, L., Waller, D., Breen, M., Reid, H. (2012). The Media & Indigenous Policy: How news media and
+   mediatization practice impact on Indigenous policy. University of Canberra. https://researchprofiles.canberra.edu.au/
+   en/publications/the-media-and-indigenous-policy-how-news-media-reporting-and-medi/
+McIntosh, P. (1990). White privilege: unpacking the invisible knapsack. Independent School. https://files.eric.ed.gov/
+   fulltext/ED355141.pdf?utm#page=43
+Mills, K., Creedy, D. K., Sunderland, N., Allen, J., Carter, A., & Corporal, S. (2022). Evaluation of a First Peoples-led,
+   emotion-based pedagogical intervention to promote cultural safety in undergraduate non-Indigenous health pro-
+   fessional students. Nurse Education Today, 109, 105219. https://doi.org/10.1016/j.nedt.2021.105219
+Mitchell, A., Wade, V., Haynes, E., Katzenellenbogen, J., & Bessarab, D. (2022). “The world is so white”: improving cul-
+   tural safety in healthcare systems for Australian Indigenous people with rheumatic heart disease. Australian and
+   New Zealand Journal of Public Health, 46(5), 588–594. https://doi.org/10.1111/1753-6405.13219
+                                                                                                 Critical Public Health       9
+
+
+Mohamed, J., Stacey, K., Chamberlain, C., Priest, N. (2024). Cultural safety in Australia: Discussion paper. Lowitja Institute.
+   https://www.lowitja.org.au/wp-content/uploads/2024/08/CulturalSafetyinAustralia_DiscussionPaper_August2024.pdf
+National Health and Medical Research Council. (2018). Ethical conduct in research with Aboriginal and Torres Strait
+   Islander Peoples and communities: Guidelines for researchers and stakeholders. National Health and Medical Research
+   Council.
+Parter, C., Gwynn, J., Wilson, S., Skinner, J. C., Rix, E., & Hartz, D. (2023). Putting Indigenous cultures and Indigenous
+   knowledges front and centre to clinical practice: Katherine Hospital case example. International Journal of
+   Environmental Research and Public Health, 21(1), 3. https://doi.org/10.3390/ijerph21010003
+Rix, E., Barclay, L., & Wilson, S. (2014). Can a white nurse get it? ‘Reflexive practice’ and the non-Indigenous clinician/
+   researcher working with Aboriginal people. Rural and Remote Health, 14(2), 2679. https://www.rrh.org.au/journal/
+   article/2679/ https://doi.org/10.22605/RRH2679
+Rix, E., Doran, F., Wrigley, B., & Rotumah, D. (2024). Decolonisation for health: A lifelong process of unlearning for
+   Australian white nurse educators. Nursing Inquiry, 31(2), e12616. https://doi.org/10.1111/nin.12616
+Rotumah, D. (2023). Yarning with aboriginal-identified health workers: Hearing stories of working at the cultural interface
+   [Southern Cross University]. https://doi.org/10.25918/thesis.345
+Schmidt, H. (2019). Indigenizing and decolonizing the teaching of psychology: Reflections on the role of the
+   non-Indigenous ally. American Journal of Community Psychology, 64(1-2), 59–71. https://doi.org/10.1002/ajcp.12365
+Shay, M., & Wickes, J. (2017). Aboriginal identity in education settings: privileging our stories as a way of deconstruct-
+   ing the past and re-imagining the future. The Australian Educational Researcher, 44(1), 107–122. https://doi.org/
+   10.1007/s13384-017-0232-0
+Smith, J., Puckett, C., & Simon, W. (2016). Indigenous allyship: An overview. Wilfred Laurier University.
+Southam, T. (2021). PORTFOLIO: Academics as Allies and Accomplices: Practices for Decolonized Solidarity.
+   Anthropology & Aging, 42(2), 150–165. https://doi.org/10.5195/aa.2021.366
+Tsosie, R. L., Grant, A. D., Harrington, J., Wu, K., Thomas, A., Chase, S., Barnett, D., Hill, S. B., Belcourt, A., Brown, B., &
+   Plenty Sweetgrass-She Kills, R. (2022). The Six R’s of Indigenous research. Tribal College Journal of American Indian
+   Higher Education, 33(4). https://tribalcollegejournal.org/the-six-rs-of-indigenous-research/
+United Nations. (2008). United Nations Declaration on the Rights of Indigenous Peoples. United Nations. http://www.
+   un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf
+

@@ -1,0 +1,663 @@
+## ppt/notesSlides/notesSlide1.xml
+1
+
+## ppt/notesSlides/notesSlide2.xml
+2
+
+## ppt/notesSlides/notesSlide3.xml
+3
+
+## ppt/notesSlides/notesSlide4.xml
+4
+
+## ppt/notesSlides/notesSlide5.xml
+5
+
+## ppt/notesSlides/notesSlide6.xml
+6
+
+## ppt/notesSlides/notesSlide7.xml
+7
+
+## ppt/notesSlides/notesSlide8.xml
+8
+
+## ppt/notesSlides/notesSlide9.xml
+9
+
+## ppt/notesSlides/notesSlide10.xml
+10
+
+## ppt/notesSlides/notesSlide11.xml
+11
+
+## ppt/notesSlides/notesSlide12.xml
+12
+
+## ppt/notesSlides/notesSlide13.xml
+13
+
+## ppt/notesSlides/notesSlide14.xml
+14
+
+## ppt/notesSlides/notesSlide15.xml
+15
+
+## ppt/notesSlides/notesSlide16.xml
+16
+
+## ppt/notesSlides/notesSlide17.xml
+17
+
+## ppt/notesSlides/notesSlide18.xml
+18
+
+## ppt/notesSlides/notesSlide19.xml
+19
+
+## ppt/notesSlides/notesSlide20.xml
+20
+
+## ppt/notesSlides/notesSlide21.xml
+21
+
+## ppt/notesSlides/notesSlide22.xml
+22
+
+## ppt/notesSlides/notesSlide23.xml
+23
+
+## ppt/notesSlides/notesSlide24.xml
+24
+
+## ppt/notesSlides/notesSlide25.xml
+25
+
+## ppt/notesSlides/notesSlide26.xml
+26
+
+## ppt/notesSlides/notesSlide27.xml
+27
+
+## ppt/notesSlides/notesSlide28.xml
+28
+
+## ppt/notesSlides/notesSlide29.xml
+29
+
+## ppt/notesSlides/notesSlide30.xml
+30
+
+## ppt/notesSlides/notesSlide31.xml
+31
+
+## ppt/notesSlides/notesSlide32.xml
+32
+
+## ppt/slides/slide1.xml
+INDG6002
+Week 
+1 – Workshop
+Orientation
+
+## ppt/slides/slide2.xml
+Acknowledgment of Country 
+An Acknowledgement of Country is a demonstration of respect for the Traditional Caretakers of the land on which a meeting or event is being held. It is a recognition of the continuing relationship between Aboriginal and Torres Strait Islander peoples and their Country, acknowledging their continuing connections to land, sea, and community. 
+
+## ppt/slides/slide3.xml
+This week
+Welcome
+Our Team
+Gnibi Elders Principles
+Outline of Unit 
+Assessments 
+Questions 
+
+## ppt/slides/slide4.xml
+Team
+Dr Ros Sawtell – Lecturer
+Dr Coral Jeffries – Lecturer
+Dr Barb Kinder - Lecturer
+Kirra Louise – Lecturer
+Dr Darlene Rotumah – (UA)
+Darlene.Rotumah@scu.edu.au
+
+## ppt/slides/slide5.xml
+Gnibi Elders Principles
+Indigenous Knowledge is a relevant, ethical, intelligent, effective and a useful way of knowing.
+Indigenous peoples are active, able and worthy peoples.
+The truth about our histories and value of Indigenous ways are determined by us, we carry this knowledge.
+Elders hold our Aboriginal Spirituality and our culture close. We choose what is open and shared and what will be closed. Aboriginal spirituality is the basis for life Indigenous Education and Cultural Competency, it infuses everything.
+Our knowledge is relational. Our principles are the basis for SCU to establish and sustain an active informed and respectful relationship with Indigenous Elders who will give considered collective input. The continuance of this relationship through the Elders group is essential.
+Culture is sacred to us. We are and own this living culture. We do not need a ‘book’. We share with you so that you can learn how to listen and hear what we say.
+Identity is based upon things [inside] beneath the surface. Empowered, individual, affirmed identity is the basis of positive, productive, healthy and non-destructive lives - opportunities to engage and build knowledge builds [strong mob] through [inside learning].
+Learning everyday with each other has to be informed and sustained by a politic of open, positive and ethical interactions.
+We as Elders have presented these things all our lives without being heard –we are often listened to but our message is not heard nor heeded. We take this opportunity to speak in the understanding that you will listen in the right way, hear us and learn.
+
+## ppt/slides/slide6.xml
+After successfully completing 
+the learning activities in 
+this unit you should be able to:
+Discuss key concepts of health and wellbeing as determined by Australian Indigenous Peoples
+Identify key stages of the colonisation process and its relationship to the contemporary health status of 
+Australian
+Indigenous
+ Peoples
+Analyse the relationship between cultural determinants and socioeconomic factors and the contemporary health status of Australian Indigenous Peoples
+Explain how primary health care, health promotion, and health professionals enhance the wellbeing of Australian Indigenous Peoples
+
+## ppt/slides/slide7.xml
+Delivery
+This mode of learning may seem more intensive than you are used to, so it is important to keep up with the weekly modules. Students are expected to spend up to 20 hours per week progressing through the self-paced material and preparing for assessments, plus there is a one-hour workshop and several options of tutorial types and times to choose from. 
+The Workshop and online tutorials
+ are recorded and will be available for those who cannot attend due to work commitments. 
+Face-to-Face Tutorials are not recorded
+
+## ppt/slides/slide8.xml
+Zoom – Setting Correct Time 
+
+## ppt/slides/slide9.xml
+Zoom - Access to recordings
+Select the ‘eye’                 icon to display the Passcode
+	Copy this as you will need it on the next screen
+The Recording (audio-visual) / Audio only recording will open
+
+## ppt/slides/slide10.xml
+Discussion Forums 
+
+## ppt/slides/slide11.xml
+Indigenous Knowledges
+Referencing
+Guidance
+at SCU
+Provides guidance on how to respectfully assess, acknowledge, attribute, cite, and reference Indigenous Knowledges, with practical examples to support academic writing.
+Latest version of the 
+Indigenous Referencing Guidance for Indigenous Knowledges
+, 
+now called the 
+Indigenous Knowledges Attribution Toolkit (IKAT
+).  
+Both versions are accessed from the same embedded links on the 
+Indigenous Knowledge (Gnibi) guides
+ and the Indigenous Knowledge tab in SCU 
+Library referencing guides
+.  
+
+## ppt/slides/slide12.xml
+Assessment 1 
+Title
+Assessment
+ 
+1
+Type
+Short
+ 
+response
+Length
+1,000
+ 
+words
+Weighting
+40%
+Academic
+ 
+Integrity
+Level
+ 
+2.
+ 
+Purpose-Specific
+ 
+GenAI
+ 
+Use
+GenAI
+ 
+may
+ 
+NOT
+ 
+be
+ 
+used EXCEPT Grammarly Premium AI.
+Submission
+Word
+ 
+document
+ 
+submitted
+ 
+to
+ 
+Turnitin
+Unit
+ 
+Learning Outcomes
+This
+ 
+assessment
+ 
+task
+ 
+maps
+ 
+to
+ 
+the
+ 
+following
+ 
+ULOs:
+ULO1
+:
+ 
+Discuss
+ 
+key
+ 
+concepts
+ 
+of
+ 
+health
+ 
+and
+ 
+wellbeing
+ 
+as
+ 
+determined
+ 
+by 
+Aboriginal and Torres Strait Islander Peoples.
+ULO2
+:
+ 
+Identify
+ 
+key
+ 
+stages
+ 
+of
+ 
+the
+ 
+colonisation
+ 
+process
+ 
+and
+ 
+its
+ 
+relationship
+ 
+to 
+the contemporary health status of Indigenous Australian Peoples.
+
+## ppt/slides/slide13.xml
+Assessment 1 Brief continued …
+13
+
+## ppt/slides/slide14.xml
+Assessment 1 Brief continued …
+14
+
+## ppt/slides/slide15.xml
+Guide to Writing a Short Response Structure
+Always
+ 
+use
+ 
+unit
+ 
+approaches
+ 
+(concepts,
+ 
+theories,
+ 
+models,
+ 
+processes
+ 
+or
+ 
+guidelines)
+ 
+in
+ 
+your 
+short
+ 
+responses.
+ 
+Often,
+ 
+this
+ 
+means
+ 
+defining
+ 
+and
+ 
+applying
+ 
+unit
+ 
+concepts
+ 
+or
+ 
+theories
+.
+ 
+Before
+ 
+you
+ 
+start
+ 
+working
+ 
+on
+ 
+the
+ 
+assessment,
+ 
+find
+ 
+definitions
+ 
+in
+ the 
+unit
+ 
+materials.
+ 
+This
+ 
+step
+ 
+will 
+help
+ 
+you
+ 
+gain
+ 
+a
+ 
+more
+ 
+detailed
+ 
+grasp
+ 
+of
+ 
+unit
+ 
+ideas
+ 
+and
+ 
+theories
+ 
+so
+ 
+that
+ 
+you
+ 
+can
+ 
+show
+ 
+this understanding
+ 
+to
+ 
+the
+ 
+marker.
+ 
+Don't
+ 
+try
+ 
+to
+ 
+COVER
+ 
+EVERYTHING
+ 
+you
+ 
+know
+ 
+about
+ 
+a
+ 
+topic.
+ 
+While
+ 
+it
+ 
+can
+ 
+be
+ 
+tempting,
+ 
+this
+ 
+is
+ 
+not 
+your
+ 
+task
+ 
+in
+ 
+a
+ 
+short
+ 
+response,
+ 
+and
+ 
+you
+ 
+don't
+ 
+have
+ 
+enough
+ 
+words.
+ 
+Offer your 
+informed
+ 
+answer
+ 
+to
+ 
+the
+ 
+question
+ 
+within
+ 
+a
+ 
+limited
+ 
+word count.
+ 
+As
+ 
+you
+ 
+brainstorm,
+ 
+plan,
+ 
+and
+ 
+draft
+ 
+keep
+ 
+trying
+ 
+to
+ 
+narrow,
+ 
+narrow,
+ 
+narrow
+ 
+your
+ 
+focus.
+
+## ppt/slides/slide16.xml
+Short Response Structure
+
+## ppt/slides/slide17.xml
+PEEL Writing Guide
+
+## ppt/slides/slide18.xml
+Other Assessment Guidelines
+Your assignment must be submitted as a 
+Word document 
+format 
+Line spacing should be either as per APA 7
+th
+ Document formatting
+Referencing style: APA 7
+th
+Please state your 
+name and subject type (
+SmithJ_ShortResponse
+)
+, on the left margin in the footer, your Student ID in Centre of the footer, and display the page number on the right margin in the footer
+The 
+GenAI Declaration 
+is in the Coversheet – this 
+MUST
+ be correctly completed and attached at the beginning of your assessment prior to final submission
+All assignments are to be submitted online via the Turnitin assignment submission link contained in the relevant Assessment page under Assessment Tasks and Submission. 
+You must label your submission with your surname and initials, and the assessment task's name, for example:
+SmithJ_Short
+Response
+.docx
+Work submitted late without an approved extension will attract a penalty of 5 % for each day it is late. Approved extensions MUST be submitted using the 
+Special Consideration for Support Form
+. This can be found:
+	Assessments / Assessment Information / Assessment support / Special Consideration Support
+Word count includes the usual plus or minus 10% rule (Does not include Reference List or Coversheet/GenAI Declaration)
+ 
+
+## ppt/slides/slide19.xml
+Referencing Guidelines
+Ensure you meet the following Criteria:
+Referencing
+ 
+style
+ 
+of
+ 
+APA 7th
+.
+Consistent use of 
+correct 
+and 
+appropriate 
+terminology and tone in reference to Australian Indigenous Peoples, communities, and their priorities. 
+U
+se 
+a minimum of 5 
+scholarly sources, 
+You must also cite and reference UNDRIP. As UNDRIP is not a scholarly source, it does not count towards the minimum of five scholarly sources. Therefore, your reference list must contain at least six (6) references.
+Wikipedia, Creative
+ 
+Spirits 
+and or other such websites are 
+not
+ 
+acceptable scholarly reference material.
+
+## ppt/slides/slide20.xml
+Document Formatting Guidelines
+
+## ppt/slides/slide21.xml
+GNIBI GenAI use 
+ 
+In Gnibi College units, the use of GenAI in assessments is generally 
+restricted
+ to protect the 
+integrity and authenticity of the learning process.
+ Indigenous Knowledges are grounded in lived experience, cultural practices, and relational ways of knowing. Engaging meaningfully with these knowledges requires personal reflection, respectful interpretation, and a commitment to culturally responsive learning, something that cannot be authentically achieved through AI-generated content.
+ Generative Artificial Intelligence (GenAI) tools, such as ChatGPT, 
+may not be used 
+for this Assessment Task. 
+You must demonstrate that you have developed the required knowledge and skills 
+independently
+, without the assistance of GenAI tools. 
+Unauthorised
+ use of GenAI
+ may be considered a breach of academic integrity under the Student Academic and Non-Academic Misconduct Rules (Section 3).
+
+## ppt/slides/slide22.xml
+INDG6002 GenAI Use
+22
+
+## ppt/slides/slide23.xml
+Grammarly Tracking Template
+
+## ppt/slides/slide24.xml
+Assessment Coversheet & Declaration
+
+## ppt/slides/slide25.xml
+Assessment 1 Resources & Other Requirements
+25
+
+## ppt/slides/slide26.xml
+Assessment 1 Rubric – Criterion 1 
+26
+
+## ppt/slides/slide27.xml
+Assessment 1 Rubric – Criterion 2
+27
+
+## ppt/slides/slide28.xml
+Assessment 1 Rubric – Criterion 3
+28
+
+## ppt/slides/slide29.xml
+Assessment 1 Rubric – Criterion 4
+29
+
+## ppt/slides/slide30.xml
+Assessment 1 Rubric – Criterion 5
+30
+
+## ppt/slides/slide31.xml
+Questions? 
+31
+
+## ppt/slides/slide32.xml
+Until next time …
+32
