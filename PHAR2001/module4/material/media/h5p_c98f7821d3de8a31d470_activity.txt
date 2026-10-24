@@ -1,0 +1,38 @@
+Source: https://scu.h5p.com/content/1291894893864989699
+Type: activity text extraction (full data in JSON)
+
+Despite being around longest, warfarin is still a valuable antiplatelet drug.
+
+Warfarin initially becomes effective within 24 hours of the first dose.
+
+Warfarin is an enzymatic inhibitor of the enzyme epoxide reductase, which is involved in several clotting factors
+
+The dose of warfarin is extremely variable between individuals
+
+Clients on warfarin need to be monitored frequently, with a measure called the INR.
+
+Finish ?
+
+Retry ?
+
+Select the statement(s) that is/are correct about anticoagulants.
+
+Untitled Multiple Choice
+
+Warfarin is the first line treatment as an anticoagulant.
+
+Clients on warfarin need to be monitored with frequent INRs
+
+There is a large number of foods and drugs that are contraindicated during warfarin therapy.
+
+Warfarin is a pregnancy category X drug and as such should be used in pregnancy only when absolutely necessary.
+
+Choose the statement(s) that is.are correct:
+
+Warfarin
+
+Rivaroxabam
+
+Enoxaparin
+
+The medication that is regarded as the safest and best choice as an anticoagulant during pregnancy is:

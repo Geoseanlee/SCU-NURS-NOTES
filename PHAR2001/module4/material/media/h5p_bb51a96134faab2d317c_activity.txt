@@ -1,0 +1,30 @@
+Source: https://scu.h5p.com/content/1291825050117067359
+Type: activity text extraction (full data in JSON)
+
+Loop diuretics include furosemide
+
+Furosemide inhibits the sodium reabsorption at the broad portion of the loop of Henle
+
+Furosemide is the preferred diuretic for those with osteoporosis
+
+Electrolyte levels should be periodically taken when a person is on furosemide or other loop diuretics
+
+Loop diuretics like furosemide are the preferred medication for those with gout
+
+Finish ?
+
+Retry ?
+
+Choose the statement(s) that is/are correct.
+
+Untitled Multiple Choice
+
+true
+
+Loop diuretics are very potent and as such are a good choice when there is a rapid diuresis needed, or there is a large volume of fluid that needs to be lost. But just as importantly, they can result in dehydration more than other diuretics.
+
+Untitled True/False Question
+
+If you think about the actions of loop diuretics like furosemide, you can figure this out. Briefly explain why loop diuretics are so potent, resulting in more fluid loss than most diuretics.
+
+Untitled Essay

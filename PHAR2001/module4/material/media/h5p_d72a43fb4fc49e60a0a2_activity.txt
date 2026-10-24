@@ -1,0 +1,24 @@
+Source: https://scu.h5p.com/content/1291825019171141519
+Type: activity text extraction (full data in JSON)
+
+Thiazide diuretics like hydrochlorothiazide are mild diuretics that are often combined with other diuretics to increase their action and reduce the side effects.
+
+Metolazone is a thiazide-like diuretic that, like hydrochlorothiazide, is contraindicated in clients with gout due to its ability to compete with the secretion of uric acid.
+
+Metolazone and hydrochlorothiazide block the sodium secretion at the distal convoluted tubule
+
+Thiazide diuretics are potassium sparing diuretics.
+
+Finish ?
+
+Retry ?
+
+Please choose the statement(s) that is/are correct:
+
+Untitled Multiple Choice
+
+Thiazide diuretics are a pregnancy category C drug and as such a cost/benefit analysis should be done prior to prescribing the drug in pregnancy.
+
+Thiazide diuretics are used in clients with osteoporosis because it reduces the osteoclastic (bone destroying cells) activity
+
+Select the statement(s) that is/are correct.

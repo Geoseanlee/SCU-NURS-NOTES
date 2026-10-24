@@ -1,0 +1,20 @@
+Source: https://scu.h5p.com/content/1291894973693722299
+Type: activity text extraction (full data in JSON)
+
+Streptokinase is an oral fibrinolytic (thrombolytic) drug used to prevent deep vein thrombosis (DVTs)
+
+Streptokinase has a very narrow therapeutic index, meaning that there is little difference between the effective dose and the one that is either ineffective or results in haemorrhaging.
+
+Streptokinase is of bacterial origin and as such, may result in allergies or other hypersensitivities.
+
+Worldwide, streptokinase is still the most frequently used fibrinolytic agent.
+
+If a client was administered streptokinase successfully 2 months ago, that is the preferred fibrinolytic agent
+
+Finish ?
+
+Retry ?
+
+Please select the statement(s) that is/are true:
+
+Untitled Multiple Choice

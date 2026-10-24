@@ -1,0 +1,79 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=ea94325e-9316-4146-bed8-b47b0079f639
+Type: captions, not an independently verified transcript
+
+[14.92] So just a couple definitions to start out. What is the endocrine system?
+[20.60] The endocrine system is a series of glands that secrete hormones directly into circulation,
+[26.92] so that the hormones can go to distant portions of the body and act on receptors that are made for those hormones.
+[37.84] There are exceptions to that rule, though, like there are exceptions in every rule of medicine.
+[44.80] There are instances where the hormones go into a portal venous system.
+[51.12] So for instance we have the hypothalamus portal venous system.
+[55.20] It doesn't go into direct circulation. Recall that the hypothalamus secretes a number of different hormones into the blood.
+[62.44] But the blood that it is secreting the hormones into goes directly over to the pituitary gland.
+[70.00] The blood is what we call already spent. It's already given up its oxygen supply to the hypothalamus.
+[78.76] Another exception to the rule of the hormones being secreted into the general circulation is the case of the male and female reproductive system,
+[89.28] where testosterone and oestrogen are respectively secreted into the local area.
+[96.76] But in general, the hormones are going to be secreted into the circulatory system.
+[102.48] And just to make sure that you know what a hormone is.
+[106.20] It refers to a biochemical that's produced by one of the endocrine glands.
+[112.00] And that, of course, is the thing that circulates to those distal areas.
+[117.00] Think of hormones as being molecular communicators, the body's way of communicating between one organ and another.
+[127.67] So now I'm going to expand on those definitions.
+[131.03] And the first thing that I'm going to do is take a closer look at the general characteristics of hormones.
+[138.67] We've already said that there are messenger molecules, and there are body's way of communicating from one organ to another.
+[146.39] But how are they secreted? Well, the types of secretion include diurnal patterns, pulsatile patterns, and cyclic patterns.
+[157.75] Pulsatile secretion occurs in a burst like or an episodic manner, rather than constantly.
+[165.59] Examples of hormones that are secreted in a pulsatile manner include the gonadotropin releasing hormone and also growth hormone for growth hormone.
+[178.55] There are a lot of diurnal patterns as well.
+[182.75] A diurnal pattern occurs in a daily fluctuation, so for growth hormone,
+[190.15] the diurnal pattern is to have the peak of growth hormone secreted a couple hours after the person goes to sleep.
+[199.75] In fact, one of the reasons that a child can have a failure to grow to their normal height is that he or she may not be sleeping properly.
+[211.71] That will disrupt that diurnal pattern of the growth hormone, resulting in a failure to thrive.
+[220.99] While growth hormone is released in a pulsatile pattern with some diurnal variations.
+[227.55] Cortisol is released in a diurnal way.
+[231.83] The peak levels of cortisol, which is our main stress hormone, is going to be just after you awaken.
+[241.23] Usually, if something is released in a diurnal pattern, those patterns will be altered.
+[248.19] If someone, for instance, has a night shift.
+[251.79] So while cortisol, our main stress hormone, is going to be the highest in most people around 8:00 in the morning,
+[260.43] it may, for instance, be highest at 3:00 in the afternoon in someone doing a night shift.
+[267.55] And finally, the other type of hormonal secretion is the cyclic pattern.
+[272.83] And a good example of the cyclic hormonal secretion involves most of the hormones of the menstrual cycle.
+[280.87] And of course, when a hormone is secreted, it's not going to affect every cell in the body,
+[287.59] not at least directly, because only certain cells have the receptors for that specific hormone.
+[296.59] And while hormones remain in the system longer than, for instance, neurotransmitters,
+[302.83] neurotransmitters degrade within milliseconds, a few thousandths of a second.
+[308.99] The hormones are fairly rapidly degraded by the liver enzymes, and as they're degraded,
+[316.02] they're going to be made more water soluble and usually rendered inactive.
+[322.38] There's a few exceptions to that rule. For instance, the thyroxine, which is the T4 thyroxine, is secreted from the thyroid gland.
+[334.62] And it's going to have a half life of about six days.
+[340.30] And interestingly, thyroxine is also degraded to a more active hormone before it's degraded to an inactive hormone.
+[351.62] So it's degraded to T3 with three molecules of iodine instead of the four molecules.
+[359.86] We said that hormones were chemical messengers that communicate.
+[363.90] But what do they do? Well, the hormones will find the receptor for which they were made.
+[370.38] They'll bind to the receptor, and then they'll do a number of different things.
+[375.02] For instance, they could activate or deactivate enzymatic systems.
+[380.74] For instance, most of the hormones of the hypothalamus go to the anterior pituitary.
+[388.02] They bind to the receptors that stimulate the release of another hormone.
+[392.46] So in many cases, the hormone is going to stimulate another cell to secrete another hormone.
+[400.86] Or conversely, the hormone may bind to the receptor and decrease the release of some hormones.
+[408.34] An example of that is the hormone inhibition, which decreases the pituitary release of follicle stimulating hormone.
+[419.58] Hormones can also stimulate mitosis, or, in other words, cell division.
+[424.50] For example, growth hormone is going to stimulate cell division in many cell lines, and it also stimulates protein synthesis in the liver.
+[434.18] And finally, other actions of hormones include Increasing the secretory activity or.
+[441.54] Metabolic activity of cells. Those are just a few examples of what hormones can do.
+[449.10] In general, we're going to be talking about hormones all the way through this lecture series.
+[454.94] So your knowledge of the hormones will expand as we talk about them.
+[459.62] Just remember for right now what is the regulation of the hormone.
+[464.18] How do we regulate the secretion of a hormone. And usually that's by negative feedback.
+[472.10] For instance let's take the hypothalamus pituitary axis with respect to the growth hormone.
+[480.46] The hypothalamus will secrete growth hormone releasing hormone.
+[484.62] That's going to go right over to the pituitary gland.
+[488.46] And there will be secretion of growth hormone.
+[491.98] Now as the levels of growth hormone increase in the bloodstream there's going to be a negative feedback back up at the hypothalamus.
+[501.77] So growth hormone will have an effect on the receptors in the hypothalamus.
+[508.21] And that's going to result in a negative feedback.
+[512.37] And while most of the feedback systems of hormones involves negative feedback, there are a couple examples of positive feedback.
+[521.49] One of the most notable examples of positive feedback is in the menstrual cycle,
+[528.01] where small amounts of oestrogen are going to act in a negative feedback mechanism.
+[533.69] Medium amounts have no positive or negative feedback, and large amounts of oestrogen are going to act in a positive feedback manner.
+[545.53] This surge in the hypothalamus pituitary ovarian axis ensures that we have high
+[553.09] amounts of other hormones that are needed for proper control of the menstrual cycle.

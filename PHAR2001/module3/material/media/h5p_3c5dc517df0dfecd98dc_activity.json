@@ -1,0 +1,183 @@
+{
+  "source": "https://scu.h5p.com/content/1291813646469741739",
+  "assetBase": "h5p_3c5dc517df0dfecd98dc_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_3_2_1_Understanding_Thyroid_Hormone",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "The thyroid axis begins at the hypothalamus secretion of Thyroid releasing hormone (TRH), which incites the pituitary to release Thyroid stimulating hormone (TSH), which incites the thyroid gland to release free T4. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>The T4 is ‘degraded’ (metabolised) to T3 in the liver, but the resulting T3 is MORE potent than the original T4 because it binds to the receptors with a greater affinity. One of the ‘sub clinical forms of hypothyroidism’ is due to the fact that the liver is not as efficient at converting the T4 to the more potent form.</div>\n",
+                    "notChosenFeedback": "<div>The T4 is ‘degraded’ (metabolised) to T3 in the liver, but the resulting T3 is MORE potent than the original T4 because it binds to the receptors with a greater affinity. One of the ‘sub clinical forms of hypothyroidism’ is due to the fact that the liver is not as efficient at converting the T4 to the more potent form.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>The T4 (4 molecules of iodine) released from the thyroid gland is LESS potent than the T3 (3 molecules of iodine) that has been metabolised in the liver</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "The main stimulus for the release of TRH from the hypothalamus is exposure to cold. In turn, thyroid hormone increases the metabolism in nearly every cell in the body, and increases the sodium-potassium ATPase pumps throughout the body, increasing the body’s heat. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "One of the actions of the thyroid hormone is to increase the effects of adrenaline and noradrenaline (the catecholamines) \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "The thyroid gland is made to sequester the iodine from the bloodstream, and if it is not receiving adequate supply, a type of goitre or enlargement of the gland will occur. \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "NO, THIS ONE IS INCORRECT. Supplementing a person with iodine when they already have adequate iodine can actually temporarily decrease the amount of thyroid hormone produced!\n",
+                    "tip": "",
+                    "notChosenFeedback": "Indeed, supplementing a person with iodine when they already have adequate iodine can actually temporarily decrease the amount of thyroid hormone produced!\n"
+                  },
+                  "text": "Since the thyroid hormone uses iodine in its structure, supplementation of iodine will increase the amount of thyroid hormone produced. \n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Select the statement(s) about thyroid hormone that is/are correct.</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "4e538552-7329-4596-9461-455de34fc926"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

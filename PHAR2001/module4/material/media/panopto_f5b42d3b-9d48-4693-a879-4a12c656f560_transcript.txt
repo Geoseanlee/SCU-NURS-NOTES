@@ -1,0 +1,50 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=984ae8d0-7c5c-43b4-882d-b47b00b0250f
+Type: captions, not an independently verified transcript
+
+[15.80] Welcome back to the Cardiovascular System Pharmacology lecture series.
+[19.76] We're in part one B of that series. And right now we just have one objective.
+[25.84] And that'll be to identify and describe the therapeutic actions and major side effects of common
+[32.80] pharmacological agents that are used in the treatment of dyslipidemia or hyperlipidaemia.
+[41.68] The first lipid lowering drug that we're going to discuss is the HMG coenzyme A reductase inhibitors,
+[50.56] which is more commonly referred to as the statins.
+[54.48] And the first thing that you should remember about those medications is that they all end in the suffix stay t I n.
+[63.75] So common examples of the statins that are sold in Australia include r statin and simvastatin.
+[72.03] The actual drug class is called HMG coenzyme A reductase inhibitors,
+[80.35] and from that we would know that the statins will be working on inhibiting some kind of enzyme.
+[87.59] And indeed, that enzyme that's being inhibited is one of the ones that's used by the liver to synthesise cholesterol.
+[96.67] So one of the main things that the statins do is to decrease the synthesis of cholesterol.
+[105.59] We're not decreasing the amount of lipids coming in from the diet.
+[109.11] We're just decreasing that amount that the liver makes. And the statins are also not going to be affecting the high density lipoprotein,
+[119.54] which is that good protein that takes the cholesterol from the tissues back to the liver.
+[125.42] They're not going to affect that either. So these medications are especially good in people with what's called familial hypercholesterolaemia.
+[135.54] So that's a genetic disorder in which there's a tendency to have a high level of the bad protein, the bad the LDL.
+[147.42] And more of that is actually produced regardless of how much fats and triathlon glycerol are consumed.
+[155.30] And normally the good protein, the levels of HDL in familial hypercholesterolaemia are not going to be the problem either.
+[165.30] So the statins are normally the ideal medication for those who have familial hypercholesterolaemia, where the body simply makes too much cholesterol.
+[178.29] But it's interesting that the statins were found to be associated with a significant decrease in mortality,
+[185.65] a significant increase in longevity, and a significant decrease in thrombotic events.
+[195.05] And that was unusual because normally LDL, the bad cholesterol, is not associated directly with those parameters in other studies.
+[206.49] And therefore we started investigating that. And we thought, you know, why is it that the statins are associated with those benefits?
+[214.33] And we found that the statins also have anti-inflammatory properties.
+[220.85] They have antithrombotic and atherosclerotic plaque stabilising effects.
+[228.77] So those are very valuable effects that the statins have in addition to their effect on the cholesterol,
+[238.19] and those effects seem to be completely separate to their lipid lowering effects.
+[246.39] Just as a reminder to make sure that you can put this into context, when a atherosclerotic plaque gets to a certain point,
+[254.19] it becomes susceptible to getting larger very, very rapidly and then breaking off.
+[259.95] And that's why oftentimes a person has an acute myocardial infarction.
+[265.23] The atherosclerotic plaque actually breaks off and gets stuck in an artery downstream.
+[271.51] Well the statins actually stabilise those plaques helping to prevent their rupture.
+[279.91] And that action is the one that's associated with their positive effects on longevity.
+[287.35] The one statin I'd like you to remember is after statin adverse effects with the statins include rhabdomyolysis, which is a rapid breakdown of muscle.
+[299.10] And it's very, very hard on the kidneys. And that happens in about four people for every 10,000 who take the medication.
+[308.70] But it can cause acute kidney failure if it's not treated.
+[313.74] So it is very important complication.
+[317.22] The adverse effect of rhabdomyolysis is much more likely in people who are taking another lipid lowering medication simultaneously.
+[326.82] So this is one instance where a monotherapy is probably safer than a dual therapy because of the fact that there are a pregnancy category D drug.
+[338.86] They're not only contraindicated in pregnancy, it's not even suggested that a woman of childbearing age is prescribed those.
+[348.26] Another contraindication is liver disease. And there's a potential problem with acute liver failure.
+[354.73] And that's the reason we need to periodically look at the liver enzymes in these individuals.
+[362.69] So the most reliable specific enzymes will be looking for with respect to liver damage is the AST and the Alt.
+[373.49] And the final thing I wanted to note about the statins is the fact that they do vary greatly with respect to their effect on mortality and longevity.
+[384.25] And just because our tour of a statin and simvastatin are currently the best ones, a new statin may be on the market just around the corner.
+[396.05] So just look out for the new statins that might have greater benefits.

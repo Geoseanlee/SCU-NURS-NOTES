@@ -1,0 +1,192 @@
+{
+  "source": "https://scu.h5p.com/content/1291824948213754969",
+  "assetBase": "h5p_cabd8d1189a1c4854935_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_5_2_Understanding_Diuretics_2",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>No, the statement was incorrect, as ADH receptor antagonists would work on the Juxtamedullary nephrons AND cortical nephrons. ADH receptors are in the medullary portion <strong>of the collecting ducts</strong>, where the osmotic gradient favours the movement of fluid from the tubule to the interstitial space. That portion of both types of nephrons dip into the medullary area</div>\n",
+                    "notChosenFeedback": "<div>Indeed, the statement was incorrect, as ADH receptor antagonists would work on the Juxtamedullary nephrons AND cortical nephrons. ADH receptors are in the medullary portion <strong>of the collecting ducts</strong>, where the osmotic gradient favours the movement of fluid from the tubule to the interstitial space. That portion of both types of nephrons dip into the medullary area</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Nephrons can be broadly classified as being cortical nephrons and juxtamedullary nephrons. An ADH receptor antagonist would only work on the cortical nephrons.</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>The portion of the nephron that dips deep into the medulla is called the Loop of Henle, and excretes a lot of salt into the deep portion of the medulla. This provides the osmotic gradient that is later used to save water from the collecting ducts, under the control of ADH, the water saver.</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "The portion of the nephron that dips deep into the medulla is called the Loop of Henle, and excretes a lot of salt into the deep portion of the medulla. This provides the osmotic gradient that is later used in the collecting ducts, under the control of ADH, the water saver. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "A diuretic (layman’s term, water pill/tablet) is any substance that promotes diuresis, the increased production of urine.&nbsp;\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Most diuretics promote diuresis through an increased excretion of salt\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "One of the disorders in which diuretics are useful is congestive heart failure, where there is a build-up of fluid in the interstitial spaces. \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>NO, this&nbsp;statement is incorrect. It is very important that clients remain hydrated or rebound oedema will result</div>\n",
+                    "tip": "",
+                    "notChosenFeedback": "Indeed, this statement is incorrect. It is very important that clients remain hydrated or rebound oedema will result\n"
+                  },
+                  "text": "Clients should decrease consumption of fluids when on diuretics to avoid multiple trips to the toilet. \n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Choose the statement(s) that is/are correct:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "ab087f38-cc58-46a6-8c0f-8b8fc9738b1e"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

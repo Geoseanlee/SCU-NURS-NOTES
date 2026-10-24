@@ -1,0 +1,12 @@
+Source: https://scu.h5p.com/content/1291806768080092639
+Type: activity text extraction (full data in JSON)
+
+true
+
+Finish ?
+
+Retry ?
+
+The medical term 'corticosteroid' refers to the steroid hormones produced in the adrenal cortex or made synthetically. There are two kinds: glucocorticoids and mineralocorticoids.
+
+Untitled True/False Question

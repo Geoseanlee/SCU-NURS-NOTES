@@ -1,0 +1,165 @@
+{
+  "source": "https://scu.h5p.com/content/1291825242322608879",
+  "assetBase": "h5p_20f3b5bdf3f5651c5b6e_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_5_6_Other_Diuretics",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "The type of diuretic that would be used in cases of intracranial hypertension from head injury or glaucoma would be one of the osmotic diuretics such as mannitol. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Most osmotic diuretics need to be injected, and once in the system, they directly pull fluid from interstitial spaces. This differs from other diuretics that mainly excrete fluid in the urine, and then the decreased fluids in the blood allow the fluid in congested areas to slowly normalise. \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "No, this statement is false, as the osmotic diuretics are actually a weaker diuretic in themselves, so they actually reduce fluid volume less than most other diuretics. But they have the direct effect of increasing osmolarity of the blood, thus being valuable in intracranial hypertension and glaucoma. \n",
+                    "notChosenFeedback": "Indeed, this statement is false, as the osmotic diuretics are actually a weaker diuretic in themselves, so they actually reduce fluid volume less than most other diuretics. But they have the direct effect of increasing osmolarity of the blood, thus being valuable in intracranial hypertension and glaucoma. \n",
+                    "tip": ""
+                  },
+                  "text": "The osmotic diuretics including mannitol are a strong diuretic, pulling a lot of fluid out of the system and allowing excretion \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "No, this statement is false. Mannitol needs to be injected and it is normally done so in a fairly controlled environment, like a hospital setting. Mannitol if taken by mouth would stay in the GIT and act as an osmotic laxative. \n",
+                    "tip": "",
+                    "notChosenFeedback": "<div>Indeed, this statement is false. Mannitol needs to be injected and it is normally done so in a fairly controlled environment, like a hospital setting. Mannitol if taken by mouth would stay in the GIT and act as an osmotic laxative. </div>\n"
+                  },
+                  "text": "Mannitol is prescribed at a dose of two 500mg tablets per day, one at night and one in the morning. \n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Choose the statement(s) that is/are correct:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "1706bee1-f8c1-4ca7-9e1c-4c87c78cf421"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

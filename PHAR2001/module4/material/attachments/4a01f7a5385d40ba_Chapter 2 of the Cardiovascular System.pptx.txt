@@ -1,0 +1,624 @@
+## ppt/notesSlides/notesSlide1.xml
+9
+
+## ppt/notesSlides/notesSlide2.xml
+20
+
+## ppt/notesSlides/notesSlide3.xml
+40
+
+## ppt/notesSlides/notesSlide4.xml
+41
+
+## ppt/notesSlides/notesSlide5.xml
+44
+
+## ppt/notesSlides/notesSlide6.xml
+45
+
+## ppt/notesSlides/notesSlide7.xml
+46
+
+## ppt/notesSlides/notesSlide8.xml
+48
+
+## ppt/notesSlides/notesSlide9.xml
+49
+
+## ppt/notesSlides/notesSlide10.xml
+51
+
+## ppt/notesSlides/notesSlide11.xml
+52
+
+## ppt/notesSlides/notesSlide12.xml
+53
+
+## ppt/notesSlides/notesSlide13.xml
+59
+
+## ppt/notesSlides/notesSlide14.xml
+60
+
+## ppt/slides/slide1.xml
+Ken Wojcikowski
+Hypertension 
+Pharmacology of the Cardiovascular System
+
+## ppt/slides/slide2.xml
+Pharmacology of the Cardiovascular System:              Hypertension
+Dr Ken Wojcikowski
+
+## ppt/slides/slide3.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 1:
+Introduction; Physical factors involved in blood pressure
+
+## ppt/slides/slide4.xml
+Objective
+Explain the regulation of blood pressure, including the short term regulation and the long term regulation. 
+
+## ppt/slides/slide5.xml
+Arterial Blood Pressure
+Systolic pressure
+ - arterial blood pressure generated during 
+ventricular contraction
+ 
+Diastolic pressure -
+ arterial blood pressure generated when the 
+ventricles are relaxed
+
+## ppt/slides/slide6.xml
+
+
+## ppt/slides/slide7.xml
+Factors Influencing Mean Arterial Blood Pressure
+Physical
+ 
+Blood volume and the elastic properties of the blood vessels and narrowing of the blood vessels
+Therefore, pathological factors like atherosclerosis can influence blood pressure
+Physiologic factors 
+Cardiac output (stroke volume x heart rate)
+Peripheral vascular resistance
+(Blood pressure = Cardiac output x peripheral vascular resistance)
+
+## ppt/slides/slide8.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 2:
+Physiological factors involved in blood pressure regulation
+
+## ppt/slides/slide9.xml
+Physiological Factors Influencing Blood Pressure
+Blood pressure = cardiac output × peripheral vascular resistance (total peripheral resistance)
+CO
+stroke volume x heart rate
+sympathetic nervous system is most important
+PVR is dependent on three factors:
+Length of the vessel
+Viscosity of the fluid
+But mainly controlled by the diameter of the arterioles
+Sympathetic nervous system is most important 
+
+## ppt/slides/slide10.xml
+Resistance
+Total Peripheral resistance (TPR) 
+Contributing factors –
+ viscosity, 
+length of vessel (obesity)
+But resistance depends mostly 
+on radius of the vessel
+The radius of the 
+arterioles
+ is 
+most important
+ 
+narrowing arterioles decrease blood pressure downstream and increase blood pressure upstream
+
+## ppt/slides/slide11.xml
+If a vessel lumen is decreased by half, it results in 1/16
+th
+ the flow!
+Thibodeau Anatomy and physiology 5e, St. Louis, 2003, Mosby
+
+## ppt/slides/slide12.xml
+Control of Arteriole Diameter 
+Arteriole diameter is most important in influencing resistance
+Controllable factors that can affect arteriole diameter (resistance) and therefore affect blood flow and blood pressure include 
+Neural mechanisms
+Hormonal stimulation
+Local effects
+
+## ppt/slides/slide13.xml
+Review: most important factors for blood pressure regulation
+Heart rate
+Mostly influenced by ANS
+Stroke volume 
+Volume of fluid 
+ADH the water saver, aldosterone the salt saver and ANP the salt waster)
+And stroke volume
+ANS
+Diameter of the arterioles
+Neural mechanisms
+ANS
+Hormonal stimulation
+ANS, angiotensin
+Local effects
+Nitric oxide, prostaglandins, other mediators
+
+## ppt/slides/slide14.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 3:
+Physiological factors involved in blood pressure regulation (cont.)
+
+## ppt/slides/slide15.xml
+Hormonal stimulation 
+Renin angiotensin aldosterone mechanism
+Any decrease in the blood flow to the kidneys results in release of Renin
+Think of renin as a stress hormone released to save us from dehydration or blood loss
+
+## ppt/slides/slide16.xml
+
+
+## ppt/slides/slide17.xml
+Control of blood pressure: 
+Local effects 
+Blood vessels have mechanisms that regulate their own blood flow
+“Autoregulation” 
+Allows some organs to maintain constant blood flow between wide range of BP’s
+Tissue factors contributing to local control of blood flow
+Nitric oxide; Histamine 
+Increases blood flow
+Provides autoregulation in skeletal muscle
+
+## ppt/slides/slide18.xml
+Local effects often work on precapillary sphincters
+
+## ppt/slides/slide19.xml
+Control of blood pressure: 
+Local effects 
+The
+ 
+prostaglandins
+Some cause dilation
+Prostaglandin E2
+Others cause constriction 
+Prostaglandin TXA2
+Example: 
+The vasoconstriction of TXA2 from platelets…          …are balanced by the vasodilation effects of endothelial- derived vasodilator, Prostacyclin I 2
+
+## ppt/slides/slide20.xml
+Mechanisms of Blood Pressure Regulation
+Short-term regulation:
+ 
+corrects temporary imbalances in blood pressure
+ 
+Neural mechanisms
+Hormonal mechanisms
+Long-term regulation: 
+controls the daily, weekly, and monthly regulation of blood pressure
+Renal mechanism
+
+## ppt/slides/slide21.xml
+Summary of blood pressure regulation (see next two slides for enlarged version)
+
+## ppt/slides/slide22.xml
+
+
+## ppt/slides/slide23.xml
+
+
+## ppt/slides/slide24.xml
+Ken Wojcikowski
+Medications for Hypertension 
+Pharmacology of the Cardiovascular System
+
+## ppt/slides/slide25.xml
+Objective
+Identify  and describe the therapeutic actions and major side effects of common pharmacological agents used  in the treatment of hypertension
+
+## ppt/slides/slide26.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 4:
+Overview of hypertension
+
+## ppt/slides/slide27.xml
+Overview of Hypertension
+
+## ppt/slides/slide28.xml
+Hypertension
+A consistently elevated blood pressure 
+equal to or greater than 140/90mmHg
+Primary/essential hypertension (90-95% of cases)
+Many causes:
+Lifestyle factors
+Genetics
+Secondary hypertension 
+One cause
+Underlying disease process
+Drugs
+Hormonal factors
+
+## ppt/slides/slide29.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Overview of antihypertensive agents
+
+## ppt/slides/slide30.xml
+Medications to treat hypertension
+Treatment of hypertension often involves several drugs
+To help remember them, remember your A, B, C, D’s
+A
+B
+C
+D
+
+## ppt/slides/slide31.xml
+Medications to treat hypertension
+Alpha 1 BLOCKERS (…
+zosin
+ drugs)
+Alpha 
+2
+ 
+AGONISTS
+ (not antagonists; Methyldopa (for pregnancy)
+Angiotensin converting enzyme inhibitors (…
+pril
+ drugs)
+Angiotensin 2 receptor blockers (ARBS; …
+sartan
+)
+Beta blockers (…
+olol
+ drugs)
+Calcium channel blockers (Dihydropyridines) 
+Diuretics – Especially Hydrochlorothiazide or thiazide diuretics 
+
+## ppt/slides/slide32.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 5:
+Alpha 1 antagonists
+
+## ppt/slides/slide33.xml
+Prazosin, doxazosin and other …
+zosin
+ drugs
+Alpha antagonists are also known as selective sympatholytic agents, alpha receptor blockers
+Block alpha 1 receptor sites on blood vessels 
+Decreased sympathetic stimulation to blood vessels
+Decreased vascular tone
+Vasodilation
+Decreased vascular resistance
+Decreased BP
+Alpha antagonists
+Location of receptors: 
+Blood vessels 
+Prostate
+Urinary sphincters
+https://www.telegraph.co.uk/news/newstopics/howaboutthat
+
+## ppt/slides/slide34.xml
+Prazosin, doxazosin and other …
+zosin
+ drugs
+Alpha antagonists are no longer the preferred medication for hypertension or benign prostatic hyperplasia. 
+They may be best placed in people who have both BPH and hypertension at the same time. 
+Alpha antagonists
+Location of receptors: 
+Blood vessels 
+Prostate
+Urinary sphincters
+https://www.telegraph.co.uk/news/newstopics/howaboutthat
+
+## ppt/slides/slide35.xml
+Block the alpha receptors located on arterioles and pre-capillary sphincters so that the SNS cannot 
+Lowers systemic vascular resistance.
+Alpha antagonists
+Preventing SNS activity on blood vessels and precapillary sphincters decreases blood pressure
+
+## ppt/slides/slide36.xml
+Alpha antagonists are also known as selective sympatholytic agents, alpha receptor blockers
+Block receptors on prostate/ urinary sphincters
+Potentially useful in Benign prostatic hyperplasia
+Adverse effects: 
+ORTHOSTATIC HYPOTENSION!!
+Syncope 
+Dizziness 
+Prazosin (Minipress)
+Alpha antagonists
+
+## ppt/slides/slide37.xml
+Orthostatic (postural) hypotension
+Important safety issue!
+Teach client how to 
+get up from a seated 
+position safely!
+
+## ppt/slides/slide38.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Alpha 2 agonists (Methyldopa for use during pregnancy: see end of lesson 8)
+
+## ppt/slides/slide39.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 6:
+Angiotensin system medications:
+Medications of the Renin Cascade
+
+## ppt/slides/slide40.xml
+.
+Angiotensin-converting enzyme 
+(ACE) inhibitors
+…PRIL DRUGS including Ramipril
+Angiotensin II receptor blockers 
+(ARBS) 
+…SARTAN drugs like Candesartan 
+Medications of the Renin Cascade
+
+## ppt/slides/slide41.xml
+.
+Think of 
+renin as the panic button 
+to simultaneously 
+increase blood pressure 
+by every means available 
+When our 
+blood pressure is too low
+, or there is sympathetic nervous system stimulation to the kidneys, 
+renin is released. 
+The ultimate effect is an increase of the blood pressure by at least 5 mechanisms
+Our medications 
+of the renin cascade 
+attempt to stop this cascade at two different points
+Understanding the Renin Cascade
+
+## ppt/slides/slide42.xml
+.
+Soupvector
+, CC BY-SA 4.0 
+
+## ppt/slides/slide43.xml
+.
+ACE inhibitors 
+work here
+ARBs 
+work here
+Soupvector
+, CC BY-SA 4.0 
+
+## ppt/slides/slide44.xml
+.
+Renin-angiotensin aldosterone system 
+ACE inhibitors 
+inhibit the conversion of angiotensin I to angiotensin II
+ARBs
+ antagonise the Angiotensin II receptors
+Both: 
+Decrease aldosterone the salt saver
+Decrease ADH, the water saver 
+Decreases vasoconstriction
+Increase fluid released from kidneys
+Decrease the renin-controlled SNS ‘positive feedback’ loop 
+Medications of the Renin Cascade
+
+## ppt/slides/slide45.xml
+.
+ACE inhibitors inhibit the conversion of angiotensin I to angiotensin II
+Rami
+pril
+ and other …
+PRIL drugs
+Indicated in congestive heart disease and hypertension
+Adverse effects: 
+Chronic dry cough, 
+Hyperkalaemia 
+Contraindicated in pregnancy (Category D)
+Angiotensin converting enzyme inhibitors
+
+## ppt/slides/slide46.xml
+.
+Bind to angiotensin II receptors blocking the effect
+Cande
+sartan
+ and other …
+SARTAN drugs
+Indicated in Congestive Heart Disease and hypertension and PRE-HYPERTENSION!
+Adverse effects: 
+Fewer than ACE inhibitors
+GI disturbances
+Contraindicated in pregnancy
+Pregnancy category D
+Angiotensin II receptor blockers
+
+## ppt/slides/slide47.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 7:
+Beta blockers
+
+## ppt/slides/slide48.xml
+.
+Beta blockers are sympathetic antagonists, 
+sympatholytics
+, beta receptor blockers
+Example: Atenolol and other …
+OLOL drugs
+Block Beta 1 receptor sites on the heart
+Decreased sympathetic stimulation to the heart
+Decreased heart rate (
+negative chronotropic 
+effect)
+Decreased contractility (
+negative inotropic 
+effect)
+There are at least 4 drug classes that are better!
+Taper these drugs off slowly or a rebound hypertension may develop
+Beta blockers
+Location of receptors: 
+Heart
+Kidney (renin release)
+https://www.telegraph.co.uk/news/newstopics/howaboutthat
+
+## ppt/slides/slide49.xml
+.
+Carvedilol is considered a third generation beta blocker but does not have the …
+olol
+ suffix due to having alpha 1 blocking properties.
+Indicated in high blood pressure, congestive heart failure (CHF) but not the first line therapy, due to side effects in over 10% of individuals taking carvedilol:
+Dizziness, Fatigue, Low blood pressure
+Diarrhea
+Weakness
+Bradycardia 
+Weight gain
+Erectile dysfunction
+Beta blockers – third generation
+Location of receptors: 
+Heart AND
+Blood vessels
+https://www.telegraph.co.uk/news/newstopics/howaboutthat
+
+## ppt/slides/slide50.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 8:
+Calcium channel blockers
+
+## ppt/slides/slide51.xml
+.
+Reduction in calcium inside the cells
+Reduced cardiac contractility 
+Vasodilation, which reduces myocardial workload
+Adverse effects: 
+Peripheral oedema
+Dizziness, headaches 
+Hypotension
+Bradycardia
+Amlodipine,
+Nifedipine during pregnancy
+Calcium channel blockers
+https://pharmacologycorner.com/calcium-channel-blockers
+But both CCBs are pregnancy category C
+
+## ppt/slides/slide52.xml
+.
+Calcium channel blockers cause oedema
+May be combined with a diuretic, ACE inhibitor or ARB to decrease oedema
+
+## ppt/slides/slide53.xml
+.
+Methyldopa is a pregnancy category A drug
+Indicated in hypertension during pregnancy, gestational pregnancy, pre-eclampsia 
+not generally used in other settings
+It is an 
+alpha 2 agonist*
+*not an antagonist, remember this receptor is the ‘negative feedback receptor’ that we put off to the side when talking about sympathomimetics – it does the opposite thing that we would expect a sympathomimetic to do
+Methyldopa causes many psychological side effects and is normally not used outside pregnancy
+Other antihypertensives during pregnancy
+
+## ppt/slides/slide54.xml
+kjhkjhlkdfs
+PHAR2001_2_5_1
+Medications of the Cardiovascular System: 
+Antihypertensive Medications 
+Lesson 9: Overview of diuretics / Final words about hypertension 
+(For full diuretics discussion, please refer to the final chapter in this module.) 
+
+## ppt/slides/slide55.xml
+Diuretics 
+Inhibit sodium reabsorption from the kidney
+Salt stays in the nephron, and is excreted along with the water that it pulls along with it. 
+Some diuretics actually result in compensation, thereby negating the blood pressure lowering effects. 
+Thiazide diuretics are a first line therapy for hypertension
+Can be combined with other antihypertensive agents for greater efficacy. 
+
+## ppt/slides/slide56.xml
+Final words about treating hypertension 
+Initially, diet and lifestyle changes
+Next, one of the first line therapies
+ACE inhibitors or ARBs
+Calcium channel blockers
+Thiazide diuretics
+Then, more than one of the above. 
+
+## ppt/slides/slide57.xml
+
+
+## ppt/slides/slide58.xml
+Thiazide diuretics (hydrochlorothiazide) 
+Inhibit sodium reabsorption from the distal tubule
+Wastes potassium as well 
+Used for hypertension, congestive heart failure, nephrolithiasis and diabetes insipidus
+Thiazide diuretics compete with the secretion of uric acid so they are contraindicated in people with gout
+Several drugs use hydrochlorothiazide in combination to prevent – a little bit increases the action of other
+Hydrochlorothiazide (
+Dithiazide
+)
+
+## ppt/slides/slide59.xml
+.
+Decrease heart rate and force
+Beta blockers 
+Alpha and beta adrenergic blockers
+Decrease vascular resistance
+Alpha antagonists, 
+ACE inhibitors, 
+Calcium channel blockers, 
+Alpha and beta adrenergic blockers, 
+Angiotensin II receptor blockers
+Decrease plasma volume
+Angiotensin II receptor blockers
+Diuretics
+ACE inhibitors
+Summary by mode of action
+
+## ppt/slides/slide60.xml
+.
+Thibodeau GA, Patton KT: Anatomy and Physiology 5th ed. Mosby, St. Louis 2003
+//upload.wikimedia.org/
+wikipedia
+/commons/c/
+cb
+/Thyroid_system.png
+Soupvector
+, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia 
+CommonsRoyalty
+ free images from Shutterstock
+McCance K, 
+Huether
+ S: Pathophysiology: The biological basis for disease in adults and children 8
+th
+ ed. Mosby St Louis 2018
+https://pharmacologycorner.com/calcium-channel-blockers-classification-mechanism-of-action-indications/
+https://www.telegraph.co.uk/news/newstopics/howaboutthat
+Marieb
+ EN et al. Human Anatomy and Physiology 6th ed. Pearson Education publishing as Benjamin Cummings 2004
+Patton KT, Thibodeau GA: Mosby’s Handbook of Anatomy and Physiology Mosby, St. Louis 2006
+Royalty free images from Shutterstock
+The PowerPoint and associated Video were edited and produced by Dr. Ken Wojcikowski
+References

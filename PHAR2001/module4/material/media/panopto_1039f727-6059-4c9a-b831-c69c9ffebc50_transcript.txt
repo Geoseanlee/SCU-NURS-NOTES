@@ -1,0 +1,64 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=31775209-00e2-4959-b578-b47c0155c2a1
+Type: captions, not an independently verified transcript
+
+[15.04] Before we can really get an understanding of the diuretics,
+[19.08] we need to make sure that we understand the structure and function of the kidneys
+[23.08] and how we exchange different electrolytes at different portions of the nephron.
+[28.60] The first thing that we note in this picture is the location of the kidneys, and also the enormous blood supply to the kidneys.
+[38.04] Your kidneys are just about the size of your clenched fist, but nonetheless they receive about 22% of your cardiac output.
+[48.08] And that's partly due to the fact that the cells in your kidneys have a really high degree of metabolic activity.
+[55.32] For instance, some of those cells have more sodium potassium ATPase pumps than any other cells in your body.
+[64.33] The renal pyramids are shown here.
+[66.97] There is a wide variation of the number of renal pyramids in each kidney, ranging from seven to about 18, in a single kidney.
+[77.01] The renal pyramids are composed of tens of thousands of individual nephrons.
+[82.49] Those nephrons are the functional units of the kidneys. And while there's a really big variation in the number of nephrons in different individuals,
+[92.05] humans have an average of about 1.2 million nephrons per kidney.
+[97.93] So let's take a brief look at the two different kinds of nephrons in this diagram,
+[102.81] and then relate the nephron back to the gross anatomical view of the kidneys.
+[108.29] You can see that there's cortical nephrons. And those don't go too far down into the medullary area.
+[114.57] And then there's the juxta medullary nephrons.
+[119.81] Those juxta medullary nephrons go quite deeply down to the medulla.
+[124.01] And one of the reasons is because of the fact that they are going to drop off automatically.
+[130.37] Active particles down here.
+[133.29] We'll talk about why this area needs to be highly automatically active in a moment when we talk about antidiuretic hormone.
+[142.41] Add the water saver. But before we get too close to the individual cells of the nephron, let's relate these individual nephrons to the whole kidney.
+[155.85] As I was saying, we have 1.2 million of these nephrons in each kidney.
+[160.81] Tens of thousands of the nephrons are arranged in a way that makes a pyramid structure at the wide portion of the pyramid.
+[169.93] There's a lot of glomeruli and cortical nephrons.
+[174.09] And then as a pyramid narrows, there's just pretty much the collecting ducts and the tubules from the juxta medullary nephrons.
+[184.97] All of that is happening in one of these renal pyramids.
+[190.62] The collecting ducts wind up emptying into these calyces and eventually the ureters, which empty into the urinary bladder.
+[200.02] So if you have that in your mind, let's zoom into one of these tens of thousands of nephrons in this renal pyramid.
+[210.10] This picture isolates the glomerulus from the rest of the nephron.
+[214.26] So if you take a look at the small picture at the upper left corner that's depicting the entire nephron.
+[221.06] And what we have here is a blown up picture of the glomerular section.
+[226.26] Recall the structure and function of the nephron. One of the main functions of the nephron is, simplistically speaking, to filter the blood.
+[235.86] And in doing that we have a very large blood supply going into the afferent arteriole.
+[242.58] And then the blood that's not filtered at the glomerulus goes into the efferent arteriole, which later becomes the tubular capillaries.
+[252.98] Some of the products that we don't want to go into the proximal tubule include the red blood cells and the proteins.
+[259.83] We don't have a way to reabsorb the red blood cells or the proteins.
+[265.03] We don't have that way to pull them back into the blood.
+[269.15] So a healthy glomerulus is not going to allow those through the blood cells.
+[275.99] And the proteins will, for the most part go on to the efferent arteriole.
+[281.55] The fluid electrolytes and glucose that are allowed into this proximal tubule will become the filtrate.
+[290.47] So we can also think of it as pre urine. Interestingly,
+[295.63] the diameter of both the afferent and the efferent arterioles is going to be able to be affected by different substances for instance by adrenaline.
+[306.43] And that's the way we regulate the glomerular filtration rate.
+[312.43] Just think about that for a moment. If we Increased the diameter of this afferent arterial and then decrease the diameter of this efferent arterial.
+[326.48] What would happen to that pressure inside the glomerulus?
+[331.08] Yes, the pressure would increase, and as such it would be forcing more fluid into the tubule.
+[338.52] We would be increasing the glomerular filtration rate.
+[343.16] So that's just one example of how this area here acts as a controlling centre of the nephron.
+[351.60] Now let's go to this picture of the entire nephron and make sure that we understand
+[356.24] that there's an efferent arterial that directs the blood into the glomerulus,
+[361.44] where some of the blood will be siphoned out as filtrate. The filtrate goes through the entire nephron and eventually winds up in the
+[369.24] collecting ducts and off to the urinary bladder and any blood that's not filtered
+[375.36] through the the product that doesn't get into the nephron is going to go on
+[381.24] to the efferent arterial and then that becomes the para tubule capillaries.
+[388.36] We have the tubular capillaries depicted as purple in this diagram.
+[394.48] And that's important to remember because anytime we're talking about tubular reabsorption
+[400.08] and secretion we're actually re absorbing the material into the peri tubular capillary.
+[407.52] And anytime that we're talking about secretion we're secreting the substance from the tubular capillary back into the nephron.
+[418.44] And in the end, anything that's left in this very tubular capillary at the end of all of these processes right here,
+[426.84] that'll stay in the blood and it's going to be saved.
+[431.16] And anything that's in the collecting ducts at this point here is going to be excreted from the body.

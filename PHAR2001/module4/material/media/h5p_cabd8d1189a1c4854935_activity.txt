@@ -1,0 +1,24 @@
+Source: https://scu.h5p.com/content/1291824948213754969
+Type: activity text extraction (full data in JSON)
+
+Nephrons can be broadly classified as being cortical nephrons and juxtamedullary nephrons. An ADH receptor antagonist would only work on the cortical nephrons.
+
+The portion of the nephron that dips deep into the medulla is called the Loop of Henle, and excretes a lot of salt into the deep portion of the medulla. This provides the osmotic gradient that is later used to save water from the collecting ducts, under the control of ADH, the water saver.
+
+The portion of the nephron that dips deep into the medulla is called the Loop of Henle, and excretes a lot of salt into the deep portion of the medulla. This provides the osmotic gradient that is later used in the collecting ducts, under the control of ADH, the water saver.
+
+A diuretic (layman’s term, water pill/tablet) is any substance that promotes diuresis, the increased production of urine.
+
+Most diuretics promote diuresis through an increased excretion of salt
+
+One of the disorders in which diuretics are useful is congestive heart failure, where there is a build-up of fluid in the interstitial spaces.
+
+Clients should decrease consumption of fluids when on diuretics to avoid multiple trips to the toilet.
+
+Finish ?
+
+Retry ?
+
+Choose the statement(s) that is/are correct:
+
+Untitled Multiple Choice

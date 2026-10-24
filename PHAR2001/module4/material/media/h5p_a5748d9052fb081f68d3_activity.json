@@ -1,0 +1,159 @@
+{
+  "source": "https://scu.h5p.com/content/1291835610769462529",
+  "assetBase": "h5p_a5748d9052fb081f68d3_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_2_4_Hypertension_Definition",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>Drag the words into the correct boxes</p>\n",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "Currently in Australia, hypertension is defined as systolic (from the Greek word meaning &quot;a drawing together, contraction&quot;) of *140* mmHg over diastolic (from the Greek word meaning “dilation”) of *90* mmHg or greater. Systolic pre-hypertension is defined as *120* to *139* and is associated with an 55% to 71% increased risk of cardiovascular disease and stroke as compared to individuals who have a blood pressure of 115/75 or less. There are two broad classifications of hypertension, being Primary (also called *essential*) hypertension and secondary hypertension. A person whose hypertension is caused by renal arterial occlusion is considered to have *secondary* hypertension, which should resolve after the single problem is addressed. Conversely, *primary* hypertension has several risk factors including some genetic causes, smoking, poor diets, sedentary lifestyle, obesity and others."
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "46a17cad-f05d-4f9f-b10b-952162f988fe"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "Drag the words into the correct boxes",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "Hypertension is one of the many disorders that results in a spiral of events that all end up perpetuating the initial problem and leading to the damage of many different organs. Initially the hypertension can damage the blood vessels, contributing to hardening of the arteries, known as *atherosclerosis*, which narrows the lumen of the artery, leading to even higher blood pressure. The blood vessel damage can also weaken the walls of the arteries, leading to *aneurysms* that can get larger because interestingly, the pressure inside will increase as the damaged vessel forms a bubble-like projection. The arteries in the *glomerulus* of the nephrons are particularly sensitive to the high blood pressure, which can lead to chronic renal failure, and the arteries in the *retina* of the eyes are also sensitive. The build up of plaques on the walls of the arteries can progress and become unstable, leading to heart attacks and strokes. In clinic, we do not generally say that the client “has atherosclerosis”. Instead, if atherosclerosis is contributing to for instance, a decrease in cognition, it is called *cerebral vascular disease*. If the atherosclerosis results in renal arterial occlusion, impotence, or loss of limbs, it is called *peripheral artery disease* and if the atherosclerosis is in the heart, it is called *coronary artery disease*."
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "4a8c364a-73ad-4d08-9e27-abfeebe6b1ac"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

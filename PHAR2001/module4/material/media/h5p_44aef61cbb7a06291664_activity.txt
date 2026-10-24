@@ -1,0 +1,30 @@
+Source: https://scu.h5p.com/content/1291820695356183409
+Type: activity text extraction (full data in JSON)
+
+A client who has xanthelasma definitely has hypercholesterolaemia
+
+Dyslipidaemia is major risk factor in the development of atherosclerosis
+
+Atherosclerosis is the term we use for hardening of the arteries which is good, because hardening of the arteries makes them stronger
+
+Atherosclerosis can progress due to damage by hypertension, toxins (from smoking, excessive glucose levels, infective agents, etc) and hyperlipidaemia.
+
+Finish ?
+
+Retry ?
+
+Please choose the statement(s) that is/are correct:
+
+Untitled Multiple Choice
+
+When the walls of the arteries are damaged by atherosclerosis, the protective agents that are normally secreted from the endothelium (like antiplatelet factors and vasodilating substances) decreases, which which makes it more likely that future insults to the same area will result in a thrombus, emboli, or occlusion.
+
+Atherosclerosis occurs in the arteries and veins
+
+The process of atherosclerosis actually perpetuates itself. For instance, with a nice intact endothelium, the flow of blood is smooth, with little to no damage to itself. But as the endothelium is damaged, and the blood is becoming more turbulent, which in itself causes further damage.
+
+Atherosclerosis is a process of chronic inflammation resulting in fibrosis and scarring.
+
+Atherosclerosis can lead to stroke, myocardial infarction and to the progression of hypertension
+
+Choose the statement(s) that is/are correct:

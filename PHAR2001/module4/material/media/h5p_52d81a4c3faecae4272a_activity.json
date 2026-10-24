@@ -1,0 +1,174 @@
+{
+  "source": "https://scu.h5p.com/content/1291836139034316289",
+  "assetBase": "h5p_52d81a4c3faecae4272a_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_2_5_Alpha_Antagonists",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Alpha 1 antagonists include prazosin, doxazosin and other drugs that end in the …zosin suffix\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>This statement is incorrect. Alpha 1 blockers had been a first line therapy for hypertension in the past but are no longer preferred as there are more effective choices that have fewer side effects.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Indeed, this statement is incorrect. Alpha 1 blockers had been a first line therapy for hypertension in the past but are no longer preferred as there are more effective choices that have fewer side effects.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "Alpha 1 blockers are a first line therapy for hypertension\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>This statement is incorrect. They used to be first line treatments for BPH but there are now very selective medications that block the alpha 1A receptors on the prostate that are more effective and safer. <strong>Tamulosin</strong> is an example of a first line treatment for prostatic enlargement.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>This statement is incorrect. They used to be first line treatments for BPH but there are now very selective medications that block the alpha 1A receptors on the prostate that are more effective and safer. <strong>Tamulosin</strong> is an example of a first line treatment for prostatic enlargement.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "Prazosin is a first line therapy for benign prostatic hyperplasia\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Alpha 1 blockers achieve their antihypertension actions by blocking the adrenergic receptors on the smaller blood vessels that have a muscular layer (i.e. not the capillaries) and on the pre-capillary sphincters. An adrenaline response would normally constrict these, but alpha 1 antagonists block this constriction, in effect acting like a vasodilator. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Orthostatic hypotension, which is also called postural hypotension or a postural drop is a drop in the blood pressure upon rising from a seated position. Both prazosin and doxazosin can cause postural hypotension due to their dilating effect on the peripheral blood vessels and as such, clients should be instructed on how to safely get up from a seated position when on these medications. &nbsp;\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Please choose the statement(s) that is/are correct.&nbsp;</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "4b154e33-fcd1-44ce-b1db-4638b9961df3"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

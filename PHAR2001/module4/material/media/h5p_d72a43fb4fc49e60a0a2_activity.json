@@ -1,0 +1,251 @@
+{
+  "source": "https://scu.h5p.com/content/1291825019171141519",
+  "assetBase": "h5p_d72a43fb4fc49e60a0a2_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_5_3_Thiazide_Diuretics",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "Indeed, thiazide diuretics are often combined, especially with potassium sparing diuretics to attempt to balance out the effects on potassium excretion, and to add effects on blood pressure reduction. \n",
+                    "notChosenFeedback": "<div>Your answer was incorrect. Thiazide diuretics are often combined, especially with potassium sparing diuretics to attempt to balance out the effects on potassium excretion, and to add effects on blood pressure reduction. </div>\n",
+                    "tip": ""
+                  },
+                  "text": "Thiazide diuretics like hydrochlorothiazide are mild diuretics that are often combined with other diuretics to increase their action and reduce the side effects. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Metolazone is a thiazide-like diuretic that, like hydrochlorothiazide, is contraindicated in clients with gout due to its ability to compete with the secretion of uric acid. \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "This statement is actually incorrect. Metolazone and hydrochlorothiazide block the sodium reabsorption at the distal convoluted tubule. Remember although we call it “tubular reabsorption and tubular secretion” the terms pertain to the peritubular capillaries. So ‘tubular reabsorption of sodium’ actually means that the sodium is being saved into the peritubular capillaries. As metolazone and hydrochlorothiazide block the tubular reabsorption, more sodium is in the tubules, pulling water into the nephron and excreting it. \n",
+                    "tip": "",
+                    "notChosenFeedback": "<div>Indeed, this statement is actually incorrect. Metolazone and hydrochlorothiazide block the sodium reabsorption at the distal convoluted tubule. Remember although we call it “tubular reabsorption and tubular secretion” the terms pertain to the peritubular capillaries. So ‘tubular reabsorption of sodium’ actually means that the sodium is being saved into the peritubular capillaries. As metolazone and hydrochlorothiazide block the tubular reabsorption, more sodium is in the tubules, pulling water into the nephron and excreting it.</div>\n"
+                  },
+                  "text": "Metolazone and hydrochlorothiazide block the sodium secretion at the distal convoluted tubule\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "This statement is incorrect. The thiazide diuretics like hydrochlorothiazide and the thiazide like diuretics like metolazone are potassium wasting diuretics and may result in hypokalaemia. \n",
+                    "notChosenFeedback": "Indeed, this statement is incorrect. The thiazide diuretics like hydrochlorothiazide and the thiazide like diuretics like metolazone are potassium wasting diuretics and may result in hypokalaemia. \n"
+                  },
+                  "text": "Thiazide diuretics are potassium sparing diuretics. \n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Please choose the statement(s) that is/are correct:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "c2245cfe-50ea-4f6a-b6eb-0a366a3f2347"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Your answer was correct.&nbsp;<strong>Diuretics are not routinely recommended in pregnancy due to the potential risk of altered uteroplacental blood flow</strong></div>\n",
+                    "tip": "",
+                    "notChosenFeedback": "<div>Your answer was incorrect.&nbsp;<strong>Diuretics are not routinely recommended in pregnancy due to the potential risk of altered uteroplacental blood flow</strong></div>\n"
+                  },
+                  "text": "Thiazide diuretics are a pregnancy category C drug and as such a cost/benefit analysis should be done prior to prescribing the drug in pregnancy. &nbsp;\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "NO, the reason you will see thiazide diuretics used in osteoporotic individuals is due to the increase in osteoblastic activity (bone building cells) and increase the levels of calcium in the body by reducing calcium excretion. Thiazide diuretics have a positive effect on bone mineral density. Thiazide diuretics are not approved for treatment of osteoporosis but are used off-label. \n",
+                    "notChosenFeedback": "<div>Indeed,&nbsp;the reason you will see thiazide diuretics used in osteoporotic individuals is due to the increase in osteoblastic activity (bone building cells) and increase the levels of calcium in the body by reducing calcium excretion. Thiazide diuretics have a positive effect on bone mineral density. Thiazide diuretics are not approved for treatment of osteoporosis but are used off-label. </div>\n"
+                  },
+                  "text": "Thiazide diuretics are used in clients with osteoporosis because it reduces the osteoclastic (bone destroying cells) activity\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Select the statement(s) that is/are correct.&nbsp;</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "9ed6cc51-8d56-430e-b762-a1d3f714e53b"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

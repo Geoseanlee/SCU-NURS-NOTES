@@ -1,0 +1,48 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=607ce47c-67ec-447b-bb96-b47c00dd2373
+Type: captions, not an independently verified transcript
+
+[15.04] While we are talking about the stress axis, it's best to get an idea of a couple of the disorders of the adrenal gland,
+[21.88] one of which is called Cushing's disease or Cushing's syndrome, depending on the origin of the problem.
+[29.96] Now, the main problem with Cushing's syndrome is that there's an excess of cortisone in the body.
+[37.68] It's important to realise that Cushing's syndrome will occur with long term corticosteroid treatment.
+[45.80] That syndrome is depicted in this picture here.
+[50.04] It's often considered the side effects of steroids, or sometimes it's called iatrogenic Cushing's syndrome.
+[59.53] Iatrogenic is a term that means caused by treatment.
+[64.81] So for instance, if a patient was receiving chemotherapy, they would have iatrogenic anaemia.
+[72.81] The reason that we'd be administering glucocorticoids for a really long time is to get that inhibition of the immune and inflammatory reactions,
+[83.49] but in doing that, all of these other adverse effects would occur.
+[89.97] And those are just the Cushing's syndrome portion of the adverse effects many individuals develop.
+[97.53] Other complications using corticosteroids, such as osteonecrosis, which is a death of a portion of the bone.
+[108.09] Yeast infections and many other complications and the opposite can occur as well.
+[115.77] So recall the hypothalamus pituitary adrenal axis.
+[120.14] As a person has a stressful situation, their hypothalamus will secrete corticotropin releasing hormone,
+[126.98] which stimulates the anterior pituitary release of the Acth, and that stimulates the adrenal cortex to release the cortisol.
+[136.90] The cortisol then goes back up to the hypothalamus and the anterior pituitary gland.
+[143.02] And there is a negative feedback convincing those organs that the corticotropin releasing hormone and the Acth should not be released.
+[155.50] And as that patient is on glucocorticoids for a long time,
+[159.94] the glucocorticoids can give such a strong negative feedback that the hypothalamus and the anterior pituitary glands
+[167.78] are pretty much convinced that they'll never need to secrete corticotropin releasing hormone or Acth ever again.
+[175.47] And when the person is withdrawn from the corticosteroids, they wind up with a shortage of cortisol, similar to what we call Addison's disease.
+[186.91] Addison's disease is a primary disease. So it actually happens right there at the adrenal cortex.
+[194.07] And what we're talking about is a secondary adrenal insufficiency.
+[199.47] When we're talking about the withdrawal of the glucocorticoids.
+[204.71] This is important to realise because we can only live a few days with no cortisol in our system.
+[213.67] So when long term corticosteroid treatment is about to be stopped, it needs to be withdrawn very slowly.
+[221.75] And that's the most effective way in getting the person's own cortisol to resume secretion.
+[230.43] There are a couple cortisol like drugs that I'd like you to remember.
+[234.51] One is prednisone and the other one is prednisolone.
+[240.43] Prednisolone is a synthetic derivative of cortisol.
+[245.03] It's the active metabolite of the other drug which is prednisone.
+[251.51] Prednisone is what we call a prodrug. So in order to be effective the prednisone needs to be changed over to the prednisolone.
+[263.71] And given that it needs to be changed in the liver.
+[268.11] So anyone with liver problems is going to be given prednisolone.
+[273.71] And the other medication that I'd like you to remember is spironolactone.
+[279.19] Spironolactone is a medication that's used to treat oedema from heart failure or liver or kidney disease.
+[287.39] In order to understand spironolactone, go back to the mineral cortisol.
+[293.88] Remember aldosterone and other mineralocorticoid.
+[299.00] Those are the ones that save salt. And along with saving salt.
+[303.64] Save the water. So what spironolactone is is it's an antagonist of the aldosterone receptors.
+[315.20] So it goes over to the aldosterone receptors and binds to the aldosterone receptors preventing aldosterone from binding.
+[324.72] So it's basically an anti salt saver.
+[329.48] And as you waste the salt you're going to waste the water as well.
+[335.72] And spironolactone therefore is considered a diuretic. And as such it'll be discussed more fully in the section on diuretics.

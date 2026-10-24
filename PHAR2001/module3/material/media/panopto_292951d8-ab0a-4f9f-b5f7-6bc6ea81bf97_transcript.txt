@@ -1,0 +1,24 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=c7decc16-f8a7-4374-8944-b47b006a8982
+Type: captions, not an independently verified transcript
+
+[15.16] As we begin to talk about the polar opposite disorder to hypothyroidism hypothyroidism.
+[23.64] It's interesting to note that the most common specific disorder under that umbrella term is also an autoimmune disorder.
+[33.80] It's called graves disease. Instead of the autoantibodies destroying the cells in the thyroid like they do in Hashimoto's disease,
+[46.12] these immunoglobulins mimic thyroid stimulating hormone, so they actually act like thyroid stimulating hormone.
+[57.24] Remember what thyroid stimulating hormone binds to. It binds to the cells in the thyroid and then activates the secretion of thyroxine, which is T4.
+[72.25] So in this disorder, the patient's own body is making antibodies that trigger the release of the thyroid hormone.
+[82.09] But the hypothalamus has nothing to say about it, no matter how much it lowers the production of thyroid releasing hormone,
+[92.85] there's still going to be a lot of thyroxine that's ultimately produced.
+[99.85] Graves disease causes a diffuse goitre and also a condition called X ophthalmic, which is a protrusion of usually both of the eyes.
+[115.33] Other forms of hypothyroidism are not associated with the development of XO Thelma's because of
+[125.01] the fact that the thyroid hormone increases the sensitivity of the cells to the catecholamines,
+[133.81] to adrenaline and noradrenaline. Propranolol, or another sympathetic beta blocker, is normally used along with other therapies.
+[147.93] Carbamazepine or propyl thyroid.
+[151.69] Uracil is usually prescribed before the patient is put on radioactive iodine.
+[159.65] These drugs inhibit the enzyme that is necessary for the thyroid synthesis, the thyroid hormone synthesis.
+[170.01] Propyl thyroid. Uracil also inhibits the enzyme that converts the T4 to the T3, so ultimately you have a decreased level of T for end T3.
+[186.10] The drawback on these drawings is that there is some thyroid hormone that's stored in the thyroid gland.
+[195.02] And these medications don't affect the thyroid hormone that has been stored.
+[201.74] Another pharmacological treatment of graves disease is iodine 131,
+[209.58] which is a radioactive iodine that's taken up in the thyroid and it destroys the thyroid cells.
+[220.50] The goal of that treatment is to decrease the number of cells, but it oftentimes decreases to many of the cells, leading to a hypothyroidism.

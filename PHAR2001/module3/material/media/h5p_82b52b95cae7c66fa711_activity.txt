@@ -1,0 +1,24 @@
+Source: https://scu.h5p.com/content/1291806915550799609
+Type: activity text extraction (full data in JSON)
+
+Cortisol stimulates gluconeogenesis, the formation of new glucose in the liver
+
+Cortisol stimulates tissues to use free fatty acids for energy instead of glucose
+
+Cortisol stimulates protein breakdown to use proteins instead of glucose for energy
+
+Cortisol inhibits protein synthesis in most body cells, in an effort to use the proteins as energy rather than glucose
+
+Cortisol inhibits hunger
+
+Finish ?
+
+Retry ?
+
+Please select the statement(s) about cortisol and other glucocorticoids that is/are correct.
+
+Untitled Multiple Choice
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words

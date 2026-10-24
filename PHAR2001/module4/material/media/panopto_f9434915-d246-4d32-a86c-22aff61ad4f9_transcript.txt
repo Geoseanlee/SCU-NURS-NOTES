@@ -1,0 +1,88 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=0b61b967-ddf2-48bf-ae25-b47c00b41f47
+Type: captions, not an independently verified transcript
+
+[15.16] As we begin our discussions of medications that target thrown by.
+[19.80] The first thing that you need to understand is the definition of a thrombus.
+[24.56] The plural, of course, of thrombus is thrombin, and thrombosis is the formation of a thrombus.
+[33.24] A thrombus is a blood clot, and that blood clot can occur in the arterial system or the venous system.
+[41.04] If it occurs in the arterial system, it can cause a stroke, a myocardial infarction, or an infarction of just about any one of our organs.
+[51.08] If it occurs in the venous system, it's most often likely to develop in the deep veins of the legs,
+[58.20] and then it risks breaking off and becoming a pulmonary embolism.
+[64.66] And the first thing that we need to do to fully understand the drugs that we
+[69.66] use to prevent thrombus formation is to understand the process of haemostasia.
+[76.78] Haemostasia is the stoppage of blood.
+[80.70] So hemo, which is blood and stasis, is to stop.
+[85.30] And we use it all the time. You know, we have little bleeds all the time that are going to need the process of haemostasia.
+[94.34] The process of haemostasia is most easily understood by taking it in a series of steps,
+[100.50] and that very first thing that happens in the process of haemostasia, or the stoppage of blood,
+[105.74] is that within the blood vessels themselves, there are factors that are released that constrict the local blood vessels around that damage,
+[117.26] and also within the macrophages in the adjacent tissue to the local damage.
+[123.55] They're going to release vasoactive substances as well, and that'll give extra support in constricting the damaged blood vessels.
+[133.27] That spasm is valuable in slowing down the bleeding,
+[137.59] but it's the steps in haemostasia that occur after that vessel spasm that are the ones that we target with our therapies for thrombosis.
+[147.39] The first step that is important to our medications is the formation of a platelet plug.
+[153.87] So let's start out our understanding of the platelet plug by first understanding the platelet itself.
+[161.63] The platelet is derived from the mega site.
+[166.27] And of course like other cells, mega site does indeed have the genetic information that it needs to make new proteins and so forth.
+[176.51] It has that nucleus, but as it matures and it breaks up into 1 to 4000 individual cell fragments called platelets.
+[188.29] Those cell fragments no longer have that nucleus that contains the genetic information,
+[195.41] so they're no longer able to directly synthesise new proteins and products.
+[203.49] So really, what we have to do as we're making the mega carrier site and prior to the mega carrier site breaking up into thousands of little platelets,
+[214.73] is that we need to make sure that those platelets will be equipped with the products that are necessary to meet their upcoming physiological function.
+[224.93] Some of the products that the platelet will need include actin and myosin fibrils that are important in pulling together the platelets into a plug,
+[238.01] because we need those platelets into a clump in order to stop the bleeding.
+[244.69] The platelets also have mitochondria, and the mitochondria have the ability to produce ADP.
+[251.42] And that's an important pro platelet product.
+[255.66] And then finally, and probably most important for our understanding of of our medications like aspirin,
+[262.30] for instance, is that the mega site equips the platelets with bags of granules that contain cyclooxygenase.
+[272.02] And cyclooxygenase is an enzyme that synthesises the pro platelet prostaglandin, called thromboxane A2.
+[282.50] So as the platelet starts to aggregate, it releases bags of granules which contains this enzyme called cyclooxygenase,
+[291.98] and then that changes the local arachidonic acid into the thromboxane A2.
+[300.10] And that is a potent pro platelet Prostaglandin.
+[306.48] And just a note here. And as that occurs the adjacent intact endothelial cells are going to release antiplatelet products and prostaglandins.
+[318.12] And together the pro platelet prostaglandin and the antiplatelet prostaglandins are going to kind of
+[324.64] achieve a balance so that we don't have too much platelet aggregation or too little platelet aggregation.
+[332.36] The problem in our society is that a good portion of individuals have severe atherosclerosis and with severe atherosclerosis,
+[341.40] their quote unquote, intact endothelial cells are few and far in between.
+[347.20] They're not secreting very much of the antiplatelet prostaglandins into that local area to balance out the pro platelet prostaglandins.
+[359.12] So we have this imbalance already. And therefore those patients will benefit from taking an antiplatelet drugs, for instance aspirin.
+[370.81] And just a note here on how the platelet actually knows that there is a side of injury that needs to come to,
+[379.17] well, when there is a damage to the intact endothelial cell that occurs,
+[384.49] and then there's going to be a charge change, and that charge is going to stop repelling the platelets and start attracting the platelets.
+[394.77] And then there's also a thing called von Willebrand factor.
+[398.45] And that will attract those platelets as well. So they're attracted by a couple different ways in the first place.
+[406.61] So the platelets come together and continue clumping up. But we need to do something to make sure that that clump of platelets does indeed stick.
+[416.13] And make sure that, you know, we have a better chance of permanently stopping the bleeding.
+[422.09] So that's where the clotting cascade comes in.
+[425.97] That's the point at which it will actually become a blood clot rather than a clump of platelets.
+[433.11] The ultimate result of the clotting cascade is to produce an insoluble protein called fibrin,
+[441.51] and that is a meshwork that forms a meshwork that stabilises the platelet plug.
+[449.63] For this unit, you don't need to understand the steps that are involved in the clotting cascade,
+[454.75] but just understand that involves a number of circulating inactive proteins.
+[460.79] And when one of those clotting factors is activated, it will not only do something that helps develop the clot itself,
+[470.95] but it's also going to activate another inactive protein in the cascade.
+[477.15] This simplified flowchart shows you just some of those many factors that are involved in the coagulation cascade.
+[486.39] The coagulation cascade is oftentimes likened to dominoes as they're set up and the first domino gets triggered,
+[495.92] and then it falls down and activates the next, and then the next and the next.
+[499.84] And you can easily see that if you take off one of those dominoes in the cascade, you may very well stop the entire clotting cascade.
+[509.44] And that's precisely what happens with some of our genetic bleeding disorders.
+[515.68] And it's also the principle behind some of our anticoagulants as well.
+[522.44] Right now, the important thing to note about the clotting cascade is that it does result in the formation of the
+[528.72] insoluble fibrin meshwork that pretty much binds together those platelets and makes the actual clot.
+[540.04] And just remember that it is termed an insoluble clot because of the fact that we need a proteolytic enzyme to degrade that protein.
+[551.30] So hence, the final step in the process of haemostasia is the degradation of the clot.
+[557.18] And that's achieved with a smaller cascade of proteins.
+[561.50] And that ultimately results in the plasminogen being changed to the active proteolytic enzyme called plasma.
+[571.46] And the plasma dissolves the clot. So that's the process of haemostasia.
+[578.42] And the medications that we have that decrease thrombosis are going to target one of those steps decreasing platelet aggregation,
+[588.46] decreasing the clotting cascade. Or it's involved in the process of fibrosis itself.
+[597.86] Just one note before we sign off, though, there are differences in the composition of arterial blood clots and venous blood clots.
+[608.02] If you take a look at this, this is an arterial blood clot.
+[611.55] And if you notice there, it's got a number of those blue platelets.
+[617.51] The platelets in this picture are actually shown in blue.
+[621.35] And if you compare that to the venous clot right here it's got a lot of fibrin but it has almost no platelets.
+[629.79] So think about that. If there is a difference in the clots themselves between the arterial clots and the venous clots.
+[638.83] Are you thinking that maybe there's going to be a difference in the approach to treating different clots?
+[646.67] Indeed, there are differences since the venous clots like deep vein thrombosis don't have many platelets.
+[653.79] Our antiplatelet drugs are not going to be effective for the venous system.
+[659.07] Clots.

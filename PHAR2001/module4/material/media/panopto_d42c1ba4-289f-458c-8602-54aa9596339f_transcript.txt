@@ -1,0 +1,72 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=c2ca2d5b-17a9-42f5-b2ad-b47c007b8eee
+Type: captions, not an independently verified transcript
+
+[15.60] Probably the biggest gap in our knowledge about the control of blood pressure at this point has to do with the hormonal regulation of blood pressure.
+[28.60] We've already talked about one hormone, the noradrenaline that's released from the adrenal medulla.
+[35.52] And other hormones, though, are going to be released in response to renin.
+[43.68] Renin is an enzyme that's released from the juxta glomerular apparatus in the kidneys.
+[52.24] When the juxta glomerular apparatus senses a decrease in pressure, or when there is sympathetic nervous system Stimulation down at that level.
+[64.59] Now, in either one of those cases, the enzyme renin is going to be released out into the circulation.
+[71.91] There's going to be an enzymatic activity with renin changing angiotensin again,
+[80.55] which freely floats around the bloodstream, not doing very much of anything but floating around.
+[85.95] And it changes that angiotensin into angiotensin one.
+[91.91] Now it's the point at which angiotensin one is converted to angiotensin two that results in that cascade of events, which I was speaking of.
+[104.31] The angiotensin two is a hormone, and it's going to affect the blood vessel.
+[111.83] So it will actually affect the arterioles and targeting the blood vessels that will actually constrict the blood vessels.
+[119.99] It's a very potent vasoconstrictor in itself.
+[125.34] Another thing that angiotensin two does is that it goes up to the posterior pituitary, and it's the signal to release ADH, which is the water saver.
+[138.90] ADH, the water saver has the ability to conserve water at the kidneys, and we keep more water, therefore increasing the blood pressure.
+[150.78] And then finally, the angiotensin two is going to be the signal at the adrenal medulla to release aldosterone.
+[162.54] Now aldosterone is the salt saver and the salt saver.
+[167.74] If if you're saving salt at the level of the kidneys the water is going to follow.
+[173.14] So you're actually saving salt and water when you're saving salt and water once again, of course that's going to increase the blood pressure.
+[182.50] So that's a really important mechanism which you should be aware of.
+[187.73] And it's important to realise that Ace inhibitors and angiotensin two receptor
+[198.21] blockers will have a number of different activities in decreasing the blood pressure,
+[205.97] because that cascade of events that occurs with the release of renin is virtually stopped.
+[214.61] The final thing that I wanted to mention has to do with the local effects of local mediators.
+[224.41] You probably are aware of a thing called auto regulation.
+[230.37] Many of the organs in our system have a mechanism of auto regulating their blood flow.
+[239.29] For instance, the kidneys will be able to constrict the afferent arteriole and sometimes the efferent arteriole as well,
+[249.72] decreasing the blood flow into the kidneys and thereby protecting the organs.
+[256.16] When they have the blood pressure that's too high.
+[261.40] It's not really too effective when the blood pressure is very low, because it's difficult to dilate the vessels more than they're already dilated.
+[273.40] So it's most effective in the medium high type of blood pressure.
+[279.92] So that auto regulation uses a number of different components.
+[285.16] And one of them is nitric oxide. Nitric oxide is a vasodilator substance.
+[293.68] And we have duplicated that vasodilator substance.
+[298.64] We have used nitroglycerine for our patients with angina.
+[304.04] Nitroglycerine dilates all of the materials in the system and thereby decreases the blood pressure fairly quickly.
+[314.04] Another group of substances that we should be aware of that are used locally.
+[320.60] Are the prostaglandins. So there's a number of different prostaglandins you'll have.
+[326.12] Prostaglandins that are secreted from the endothelial cells.
+[330.96] They'll be. Vaso dilating prostaglandins for instance prostate cyclin I two is a vasodilator substance.
+[340.04] When the platelets come to the area they'll have other glands.
+[345.04] They'll have the vasoconstrictor properties of the TCA two.
+[350.88] And those vaso constricting prostaglandins will pretty much be balanced out with the prostate cyclin from the intact endothelial cells.
+[363.76] So do be aware of prostaglandins and nitric oxide.
+[367.92] And those are just a couple of the examples of local mediators and things that
+[373.47] we can actually use when we're pharmacologically controlling blood pressure.
+[382.59] The final thing that I'd like to do is just take a different look at blood pressure regulation,
+[389.55] and just look at it from short term regulation and longer term regulation.
+[395.83] With the short term regulation, as you're standing up from a seated position.
+[400.31] There's going to be gravity that's going to affect your blood,
+[403.03] and that gravity is going to allow that blood to go pretty much from your head down and down to the lower sections of your body.
+[412.59] Now, the very first thing that happens there is that the barrel receptors immediately respond.
+[419.07] They're going to send up information to the brain.
+[422.03] And then the sympathetic nervous system stimulation will occur that will result in some short term Regulation affects,
+[431.90] they'll result in the adrenaline hitting the alpha one receptors.
+[438.50] The alpha one receptors will actually constrict the arterioles.
+[442.58] There's going to be a stimulation of the beta one receptors, and that'll increase the heart rate and increase the contractility.
+[451.02] So in the short term regulation, most of the short term regulation involves the neural and hormonal effects of adrenaline and noradrenaline.
+[462.70] Now when we're talking about a longer term regulation. So let's say, for instance, that we have been out in the sun for quite a while.
+[471.90] We've been dehydrating. We haven't realised it. So with the long term regulation,
+[477.34] what's going to occur is there's going to be a decrease in blood pressure because of
+[482.98] the decreased amount of blood in our system or the dehydration that's occurring.
+[488.46] And there's going to be that release of Brennan. The renin is going to be released.
+[494.01] It's going to affect the angiotensin in angiotensin is going to change angiotensin one.
+[502.41] Angiotensin one is going to be converted to angiotensin two.
+[507.13] And then that cascade of events will actually occur which will result in a longer term regulation.
+[516.45] So the longer term regulation involves the hormones ADH, aldosterone and the effects of the kidneys.
+[530.37] Well done. And now you have a pretty clear idea of the various mechanisms that the body uses physiologically to control the blood pressure.
+[540.37] And now we're going to take a look at how our drugs target each one of those mechanisms.

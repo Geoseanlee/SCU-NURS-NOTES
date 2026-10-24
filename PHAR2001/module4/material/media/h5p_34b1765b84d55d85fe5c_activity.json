@@ -1,0 +1,159 @@
+{
+  "source": "https://scu.h5p.com/content/1291822416951512999",
+  "assetBase": "h5p_34b1765b84d55d85fe5c_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_2_3_Understanding_Blood_Pressure_Control_Part_3",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>Drag the words into the correct boxes</p>\n",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "We can think of the Renin angiotensin aldosterone mechanism as our ‘one stop shop’ for raising blood pressure. When we are dying of dehydration or bleeding to death, we need some type of system to coordinate all of our mechanisms that increase blood pressure. That is what the Renin mechanism does. When there is a *decrease in blood pressure* at the level of the kidneys, or when there is a sympathetic nervous system stimulation detected by the kidneys, renin is released. Renin then hits an inactive circulating hormone called *angiotensinogen*, and changes it to *angiotensin 1*, which goes through the lungs and is changed by *angiotensin converting enzyme* to *angiotensin 2*. It is the angiotensin 2 that has most of the physiological effects, like stimulating the further release of *noradrenaline* from the adrenal medulla, stimulating the release of *ADH*, the water saver from the posterior pituitary gland, stimulating the release of *aldosterone* the salt saver, from the adrenal cortex, and it also has direct *vasoconstricting* properties. Many of our medications will target this cascade at various points. For instance, our *beta 1 antagonists* will decrease renin release, our *ACE inhibitors* will inhibit the conversion of angiotensin to angiotensin 2, and our *angiotensin receptor blockers* will antagonise the angiotensin 2 binding."
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "8a63eaad-6d64-436c-9e12-2593949cc6fc"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "Drag the words into the correct boxes",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "With the short term regulation of blood pressure, as you are standing up from a seated position, and you want to maintain adequate blood flow to the brain, *adrenaline and noradrenaline* will be released to increase the blood pressure and constrict the arteries. Specifically, the *beta 1* receptors will increase heart rate and increase contractility and the *alpha 1* receptors will be involved in constricting the peripheral blood vessels. But as you have been up from that seated position for a while, we don’t want to use the autonomic nervous system to keep maintaining blood pressure, because that system affects too many other organs. So we employ the *renin mechanism*. One thing that this mechanism does not directly affect is the local mediators of blood pressure. When an organ itself needs to obtain more blood, the endothelial cells can release vasodilating substances such as *nitric oxide* or prostaglandins such as *E2*. This is important in reactions such as when the heart is experiencing hypoxia. We can also use some of these substances with our medications."
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "e69fb9bf-b971-4992-a8f7-f1138a569418"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

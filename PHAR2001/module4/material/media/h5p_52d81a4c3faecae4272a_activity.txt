@@ -1,0 +1,20 @@
+Source: https://scu.h5p.com/content/1291836139034316289
+Type: activity text extraction (full data in JSON)
+
+Alpha 1 antagonists include prazosin, doxazosin and other drugs that end in the …zosin suffix
+
+Alpha 1 blockers are a first line therapy for hypertension
+
+Prazosin is a first line therapy for benign prostatic hyperplasia
+
+Alpha 1 blockers achieve their antihypertension actions by blocking the adrenergic receptors on the smaller blood vessels that have a muscular layer (i.e. not the capillaries) and on the pre-capillary sphincters. An adrenaline response would normally constrict these, but alpha 1 antagonists block this constriction, in effect acting like a vasodilator.
+
+Orthostatic hypotension, which is also called postural hypotension or a postural drop is a drop in the blood pressure upon rising from a seated position. Both prazosin and doxazosin can cause postural hypotension due to their dilating effect on the peripheral blood vessels and as such, clients should be instructed on how to safely get up from a seated position when on these medications.
+
+Finish ?
+
+Retry ?
+
+Please choose the statement(s) that is/are correct.
+
+Untitled Multiple Choice

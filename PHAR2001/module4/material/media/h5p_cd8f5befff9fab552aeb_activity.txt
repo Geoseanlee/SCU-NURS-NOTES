@@ -1,0 +1,30 @@
+Source: https://scu.h5p.com/content/1291891753149429249
+Type: activity text extraction (full data in JSON)
+
+Aspirin is indicated in clients with complicated atherosclerotic lesions that could wind up causing myocardial infarction or stroke
+
+Aspirin is an antiplatelet drug that does not destroy the platelet or render the platelet incapable of aggregating but rather, in effect, takes away one of the platelet's 'tools'
+
+Aspirin inhibits cyclooxygenase needed to form thromboxane A2 (TXA2) which is a pro-platelet prostaglandin.
+
+Low dose aspirin (75-150 mg/day is proven effective in reducing myocardial infarctions and strokes from atherosclerosis.
+
+Finish ?
+
+Retry ?
+
+Select the statement(s) that is/are correct.
+
+Untitled Multiple Choice
+
+Clopidogrel can be combined with aspirin for additional benefits
+
+Clopidogrel is the preferred antiplatelet drug over aspirin
+
+Clopidogrel is proven to reduce the risk of pulmonary embolism from deep vein thrombosis
+
+The effects of clopidogrel commence in about two hours after intake and last five days
+
+Clopidogrel is an ADP receptor antagonist that is fairly selective for the ADP receptor on platelets
+
+Choose the statement that is incorrect about Clopidogrel

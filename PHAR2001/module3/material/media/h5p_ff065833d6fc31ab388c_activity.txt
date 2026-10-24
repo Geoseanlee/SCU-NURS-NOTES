@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291813674097757019
+Type: activity text extraction (full data in JSON)
+
+Cretinism is a condition of severely stunted physical and mental growth due to untreated congenital deficiency of thyroid hormones. Treatment involves lifelong supplementation of TH, and if treated, the person does not ‘have cretinism’.
+
+Hashimoto’s disease involves an autoimmune destruction of the cells that secrete thyroid hormone.
+
+One of the first signs of Hashimoto’s disease is a hard goitre, that is not associated with pain on palpation.
+
+Levothyroxine is a synthetic T4 that is administered orally or intravenously. It is a pregnancy category A drug that has a very long half life of about 7 days.
+
+Liothyronine is a synthetic T3 and since it is stronger than Levothyroxine, it is the preferred medication for hypothyroidism.
+
+Many clients find it difficult to ‘recover’ from hypothyroidism even after normal thyroid levels are established, and for those individuals, suggestions that may increase their metabolic rate may help.
+
+Finish ?
+
+Retry ?
+
+Please select the statement(s) that is/are correct.
+
+Untitled Multiple Choice

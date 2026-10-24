@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291821453400096629
+Type: activity text extraction (full data in JSON)
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words
+
+true
+
+Finish ?
+
+Retry ?
+
+In some people, the atherosclerotic damage to the artery occurs over a long period of time and they develop a thing called 'collateral circulation', which simplistically put, gives them a natural bipass that helps prevent some of the complications of the disorder around the area that the new vessels have formed.
+
+Untitled True/False Question
+
+1/2 the original flow
+
+1/4th the original flow
+
+1/16th the original flow
+
+Mrs Smith's vascular imaging studies have found that the lumen of her left iliac artery has decreased to half its original diameter due to severe atherosclerosis. What has the flow of blood decreased to?
+
+Untitled Multiple Choice

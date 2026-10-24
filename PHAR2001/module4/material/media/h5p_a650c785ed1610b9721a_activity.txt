@@ -1,0 +1,18 @@
+Source: https://scu.h5p.com/content/1291836337173110509
+Type: activity text extraction (full data in JSON)
+
+The thiazide diuretics like hydrochlorothiazide are one of the first line treatments for hypertension, as a small amount of that drug can be given to increase the blood pressure lowering effects of other antihypertensive agents
+
+For treating hypertension, one should start out with small dose of one of the first line treatments for hypertension and then keep increasing the dose if it is not effective.
+
+It is not uncommon for a client to be on all three first line treatments for hypertension (an ACE Inhibitor or ARB, a thiazide diuretic, AND a calcium channel blocker) all at the same time, as these all work by different mechanisms and as such can add additional antihypertensive actions.
+
+Most diuretics work by directly pulling water out of the system.
+
+Finish ?
+
+Retry ?
+
+Select the statement(s) that is/are correct.
+
+Untitled Multiple Choice

@@ -1,0 +1,110 @@
+{
+  "source": "https://scu.h5p.com/content/1291836299187621419",
+  "assetBase": "h5p_5f44c03bfaddecccb229_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_2_7_beta_blockers",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>Drag the words into the correct boxes</p>\n",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "The first-generation beta blockers were non-selective, blocking both the *beta 1* receptors on the heart and the *beta 2* receptors on the lungs and therefore those medications caused difficulty breathing. But the second-generation beta blockers like atenolol were selective, blocking mainly the beta 1 receptors. The beta 1 receptors are located on the heart, increasing the heart rate and contractility of the heart. They are also located on the *kidneys*, increasing the release of renin. So, all three of those actions *increase blood pressure*, and one would normally assume that the beta blockers would remain a primary therapy for hypertension, especially since the second-generation beta blockers no longer constricted the bronchi. But they have been largely superseded by the *thiazide* diuretics, *ACE inhibitors* and angiotensin II receptor blockers that decrease blood pressure in several different ways and the calcium channel blockers. One of the most important things about beta blockers is that they can cause a strong *rebound hypertension* if they are stopped abruptly, so when the physician that you are working with finally realises there are better antihypertensive alternatives and prescribes a first line therapy, make sure the client decreases the dose over *a two-week period*. Most beta blockers end in the suffix *…OLOL* but there is a third-generation beta blocker that does not. Carvedilol is an example and it blocks adrenaline at the alpha 1 and the beta 1 receptors. Although Carvedilol is more effective than the second-generation beta blockers, it is still a second line treatment for hypertension because of the long list of side effects that occur in *over 10%* of individuals taking the medication."
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "672a2fac-edb2-43db-ac5d-94746705b744"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

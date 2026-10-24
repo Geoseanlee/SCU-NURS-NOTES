@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291813646469741739
+Type: activity text extraction (full data in JSON)
+
+The thyroid axis begins at the hypothalamus secretion of Thyroid releasing hormone (TRH), which incites the pituitary to release Thyroid stimulating hormone (TSH), which incites the thyroid gland to release free T4.
+
+The T4 (4 molecules of iodine) released from the thyroid gland is LESS potent than the T3 (3 molecules of iodine) that has been metabolised in the liver
+
+The main stimulus for the release of TRH from the hypothalamus is exposure to cold. In turn, thyroid hormone increases the metabolism in nearly every cell in the body, and increases the sodium-potassium ATPase pumps throughout the body, increasing the body’s heat.
+
+One of the actions of the thyroid hormone is to increase the effects of adrenaline and noradrenaline (the catecholamines)
+
+The thyroid gland is made to sequester the iodine from the bloodstream, and if it is not receiving adequate supply, a type of goitre or enlargement of the gland will occur.
+
+Since the thyroid hormone uses iodine in its structure, supplementation of iodine will increase the amount of thyroid hormone produced.
+
+Finish ?
+
+Retry ?
+
+Select the statement(s) about thyroid hormone that is/are correct.
+
+Untitled Multiple Choice

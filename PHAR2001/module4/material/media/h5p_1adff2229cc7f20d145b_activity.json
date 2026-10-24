@@ -1,0 +1,327 @@
+{
+  "source": "https://scu.h5p.com/content/1291836153399624079",
+  "assetBase": "h5p_1adff2229cc7f20d145b_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_2_5_Renin drugs",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>Drag the words into the correct boxes</p>\n",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "The renin-angiotensin-aldosterone mechanism can be thought of as the panic button for increasing blood pressure as much as possible. It orchestrates all of our individual mechanisms that are designed to increase blood pressure, and begins by simply by releasing one enzyme. When the kidneys sense a decrease in *blood pressure* or an increase in *sympathetic nervous system stimulation* at the level of the glomerulus, there is a release of the enzyme *renin*, which changes *angiotensinogen* to angiotensin I. When angiotensin 1 goes through the lungs, it is cleaved by an enzyme called *angiotensin converting enzyme (ACE)* to form *angiotensin II*, which is a potent hormone that affects many organs. For instance, angiotensin II has direct *vasoconstricting* actions on the peripheral blood vessels, increases the release of *ADH* the water saver from the posterior pituitary gland and *aldosterone* the salt saver from the adrenal cortex. Our antihypertensive medications attempt to stop this cascade at various points. For instance, *ACE inhibitors* block the enzyme in the lungs that changes angiotensin I to angiotensin II and *Angiotensin Receptor Blockers (ARBS)* block the angiotensin II receptors at the various organs."
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "b70d15e0-4b35-4546-aca4-fc9c7781542e"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "ACE inhibitors include Ramipril and other drugs that end in the …pril suffix\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "NO, this statement is incorrect. The only uniformly effective treatment for ACE inhibitor-induced cough is the cessation of ACE inhibitor treatment. Clients are normally changed to the angiotensin II receptor blockers (ARBS; …sartan drugs) \n",
+                    "notChosenFeedback": "Indeed, this statement is incorrect. The only uniformly effective treatment for ACE inhibitor-induced cough is the cessation of ACE inhibitor treatment. Clients are normally changed to the angiotensin II receptor blockers (ARBS; …sartan drugs) \n",
+                    "tip": ""
+                  },
+                  "text": "ACE inhibitors result in a chronic dry cough in 10 -35% of individuals who take the medications and if a client cannot tolerate the cough, they are given dextromethorphan which normally cures the cough.&nbsp;\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "NO, this statement is incorrect. It can be up to three months after treatment before the chronic dry cough has resolved, and that is the reason it is called a CHRONIC cough. \n",
+                    "notChosenFeedback": "Indeed, this statement is incorrect. It can be up to three months after treatment before the chronic dry cough has resolved, and that is the reason it is called a CHRONIC cough. \n",
+                    "tip": ""
+                  },
+                  "text": "The dry cough caused by ACE inhibitors cease immediately after treatment. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "ACE inhibitors act as a type of diuretic, excreting more salt and water from the system, but are not considered diuretics because they have many more actions than diuresis. \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "NO, this statement is incorrect. ACE inhibitors are contraindicated with potassium supplements because the save potassium and in themselves can cause hyperkalaemia, or high levels of potassium. They are often combined with diuretics like hydrochlorothiazide, which waste potassium. \n",
+                    "tip": "",
+                    "notChosenFeedback": "Indeed, this statement is incorrect. ACE inhibitors are contraindicated with potassium supplements because the save potassium and in themselves can cause hyperkalaemia, or high levels of potassium. They are often combined with diuretics like hydrochlorothiazide, which waste potassium. \n"
+                  },
+                  "text": "ACE inhibitors are potassium wasting and they should be taken with potassium supplements. \n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Please select the statement(s) that is/are true.&nbsp;</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "1d691a2e-5eb4-4cf1-8f6c-8b187bc737b0"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>Angiotensin II receptor blockers (ARBS) like candesartan and other …sartan drugs block the angiotensin II receptors at multiple sites, thereby resulting in at least 5 different ways in which blood pressure is decreased. They ultimately decrease the release of ADH, the water saver, decrease the release of aldosterone, the salt saver, and decrease the direct vasoconstriction effect normally caused by angiotensin II (as well as other ways).</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Angiotensin II receptor blockers (ARBS) increase potassium levels and are often combined with a diuretic such as hydrochlorothiazide which excretes more potassium. \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>NO, this statement is incorrect. The incidence of cough in clients taking candesartan is only about 1-2% and the origin of the cough is not known. Many clients who were taken off ACE inhibitors think that candesartan is causing a cough because the ACE inhibitor-induced cough lasts as long as 3 months. &nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Indeed, this statement is incorrect. The incidence of cough in clients taking candesartan is only about 1-2% and the origin of the cough is not known. Many clients who were previously on ACE inhibitors think that candesartan is causing a cough because the ACE inhibitor-induced cough lasts as long as 3 months. &nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "Candesartan can cause a chronic dry cough in 10% of patients, and that cough is similar to that caused by ACE inhibitors. \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "No, this statement is not correct. Although potassium sparing diuretics and potassium wasting diuretics most often balance the potassium levels out, the electrolytes should still be taken because some individuals may still wind up with hyper- or hypokalaemia. \n",
+                    "notChosenFeedback": "Indeed, this statement is not correct. Although potassium sparing diuretics and potassium wasting diuretics most often balance the potassium levels out, the electrolytes should still be taken because some individuals may still wind up with hyper- or hypokalaemia. \n",
+                    "tip": ""
+                  },
+                  "text": "Blood levels of electrolytes (the UEC; Urea, electrolytes and creatinine) doe not need to be taken if candesartan is taken with a potassium wasting diuretic. \n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Please select the statement(s) that is/are correct.&nbsp;</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "0d557262-c482-42a1-8457-e501a68c5695"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

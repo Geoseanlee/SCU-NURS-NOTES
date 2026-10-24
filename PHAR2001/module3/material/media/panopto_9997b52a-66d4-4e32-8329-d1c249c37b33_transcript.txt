@@ -1,0 +1,68 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=a16d417d-b2ed-4535-b5c9-b47b0140594b
+Type: captions, not an independently verified transcript
+
+[12.68] Hello and welcome back to the lecture series on the pharmacology of the endocrine system.
+[18.76] This is the second portion of that lecture. And in this portion we'll be talking about the thyroid hormones and the thyroid axis.
+[28.92] Before we can understand the treatment of hypo or hypothyroidism we need to be able to understand the
+[38.68] hypothalamus pituitary thyroid axis and the effects of the hormones that are involved in that axis.
+[48.72] Although there is some baseline secretion of the thyroid hormone,
+[54.76] the main stimulus for the thyroid hormone secretion comes originally from the hypothalamus,
+[63.95] which will secrete thyroid releasing hormone that goes to the pituitary directly to the pituitary in the hypothalamus.
+[74.43] Pituitary portal venous system acting on the cells to release thyroid stimulating hormone.
+[83.83] Now that goes into the blood circulation and is the signal for the thyroid to release the thyroid hormone.
+[94.59] So why does the hypothalamus secrete thyroid releasing hormone in the first place?
+[102.63] What are the stimuli for that release?
+[107.11] The main stimulus for the release of the thyroid releasing hormone from the hypothalamus is exposure to cold.
+[116.43] If you think of it that way, that our body has this potential to secrete a hormone that can increase the metabolism of all of the cells in the body.
+[131.07] Nearly all the cells in the body. And we use that hormone in order to warm ourselves.
+[138.95] You'll start understanding the thyroid hormone a little bit more.
+[144.91] So the signal comes up to the hypothalamus. The hypothalamus says.
+[151.03] A bit cold. Now there's other things that are involved, like the shivering response.
+[156.27] But mainly the way that we're going to warm ourselves is to release the thyroid releasing hormone, which goes to the pituitary.
+[168.55] The pituitary releases thyroid stimulating hormone and then the thyroid hormones are released.
+[175.95] The thyroid hormones go to nearly every cell in the body, and they increase the metabolism of those cells,
+[185.19] increasing things like the sodium Potassium ATPase pumps.
+[189.74] And with that, of course, there's a lot more heat that's generated.
+[195.66] Other than that, physiological stress and psychological stress also release the extra thyroid releasing hormone,
+[204.58] which goes through that axis and ultimately releases the thyroid hormone from the thyroid gland.
+[215.10] Another major action of the thyroid hormone is to increase the catecholamine effects on what are the catecholamines.
+[223.62] Again, they're the adrenaline and noradrenaline. So you can imagine straight away if you're missing the hormone that increases
+[235.42] metabolism and you're missing the hormone that increases the catecholamine effect,
+[241.62] then the metabolism is going to be very much slowed down.
+[246.22] And the ultimate actions of noradrenaline and adrenaline will be decreased.
+[252.93] Conversely, a person who has excess thyroid hormones is going to have that increased metabolism so that
+[262.25] person will feel the heat a lot more than others and the responses using the catecholamines,
+[270.29] in other words, the adrenaline and noradrenaline, for instance, the heart rate and contractility, those will be greatly increased.
+[281.97] The thyroid hormone is also very important in growth and development.
+[288.29] As a matter of fact, if a person is born without the thyroid hormone and it's not detected quite early in life,
+[298.29] the child will become mentally retarded.
+[302.13] Here's the location of the thyroid gland, and the gland itself is made to sequester the iodine out of this circulatory system.
+[316.33] So as blood flows through the thyroid gland, the thyroid will actually pick up the iodine for use in the thyroid hormones.
+[329.33] So what do you think would happen if there was too little iodine in the system?
+[335.77] There's a lot of countries or the staple foods just don't have any iodine, as you'd probably expect.
+[345.33] The thyroid gland starts to experience a hypertrophy.
+[350.97] All of the cells in the thyroid gland will start getting larger.
+[356.77] In an effort to get as much of the iodine as possible.
+[363.85] That situation is quite prevalent in some of the third world countries,
+[369.37] but it's not something that Australians normally experience because of the fact that salt and some foods are supplemented with iodine.
+[382.20] A hypertrophy of the cells in the thyroid is called a goitre, and this specific type of goitre is called an endemic goitre.
+[393.80] But don't think that just because iodine supplementation would cure this type of hypothyroidism, that it would cure other types of hypothyroidism.
+[408.36] As a matter of fact, if you give your patient too much iodine,
+[412.88] there's a temporary decrease in thyroid function as those thyroid cells attempt to cope with that excess.
+[424.64] I've already mentioned most of the effects of the thyroid hormone.
+[429.08] Let's just review those effects right now. So just about all the cells in the human body have Receptors for thyroid hormone and in those cells.
+[441.47] Thyroid hormone stimulates the metabolic rate.
+[445.87] Stimulating the rate of the sodium potassium ATPase pumps.
+[450.59] And ultimately, of course, if you've got that much energy being produced, it's going to raise the temperature.
+[459.11] Thyroid hormone also increases the sensitivity of the cells to the catecholamines.
+[464.75] Hence, you can understand the fact that the hypothalamus will start secreting thyroid releasing hormone in times of stress,
+[474.95] because the catecholamines adrenaline and noradrenaline are a vital portion of the stress response.
+[483.03] The thyroid hormones in circulation are going to increase the speed of the skeletal muscle contractions,
+[490.43] and they're generally important in maintaining homeostasis.
+[495.75] So therefore they're very important for normal growth and development.
+[502.59] A lot of drugs affect the thyroid hormones or the thyroid release of the hormones.
+[510.55] And while I'm not asking you to remember specific drugs or specific effects on the thyroid hormone,
+[519.23] this slide is here to remind you to check the medications that the patient is on
+[526.27] when they appear to be showing signs or symptoms of hyper or hypothyroidism.
+[534.55] And likewise, the levels of the thyroid hormones are not something you'll be assessed on in this introductory pharmacology unit.
+[546.83] Just understand that the assessment of thyroid function is fairly easy and just involves a blood test.

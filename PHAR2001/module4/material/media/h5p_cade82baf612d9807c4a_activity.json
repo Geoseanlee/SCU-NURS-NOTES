@@ -1,0 +1,165 @@
+{
+  "source": "https://scu.h5p.com/content/1291820666059829309",
+  "assetBase": "h5p_cade82baf612d9807c4a_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_4_1_1_Understanding_Lipids",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "This statement is incorrect. We need cholesterol for the cell membranes and many fat soluble hormones. There are ideal ranges for each subset of lipids, and those vary by the age of the client. In general, we need high amounts of the good protein, HDL and low amounts of the bad protein, LDL.&nbsp;\n",
+                    "notChosenFeedback": "<div>Indeed, this statement is incorrect. We need cholesterol for the cell membranes and many fat soluble hormones. There are ideal ranges for each subset of lipids, and those vary by the age of the client. In general, we need high amounts of the good protein, HDL and low amounts of the bad protein, LDL.&nbsp;</div>\n"
+                  },
+                  "text": "Cholesterol in the blood is bad and we need to keep it as low as possible\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "This statement is incorrect. LDL is a PROTEIN carrier molecule. It is considered the ‘bad cholesterol protein’ because it takes the cholesterol to the tissues, where it may indeed contribute to pathologies such as atherosclerosis\n",
+                    "notChosenFeedback": "<div>Indeed, this statement is incorrect. LDL is a PROTEIN carrier molecule. It is considered the ‘bad cholesterol protein’ because it takes the cholesterol to the tissues, where it may indeed contribute to pathologies such as atherosclerosis</div>\n",
+                    "tip": ""
+                  },
+                  "text": "LDL is a cholesterol used in to make cell membranes\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "HDL is considered the good cholesterol protein because it takes cholesterol from the tissues where it can contribute to atherosclerosis to the liver where it can be metabolised. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "In secondary hypercholesterolaemia, the person is likely to respond well if they address the normal prevention and treatment strategies such as eating a healthier diet, becoming more physically active, quitting smoking and vaping and losing weight, whereas familial hypercholesterolaemia is caused by a gene or genes that is/are not ideal, so that is less likely to respond to diet and lifestyle changes.&nbsp;\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Select the statement or statements that is/are correct\"</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "609a7c38-4ee8-446e-9e47-4d16a1400f37"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

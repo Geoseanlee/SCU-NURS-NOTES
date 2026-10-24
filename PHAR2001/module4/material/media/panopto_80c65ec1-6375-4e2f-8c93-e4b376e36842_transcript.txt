@@ -1,0 +1,49 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=e7704098-7a4c-4d6c-b9fa-b47b0060a1f8
+Type: captions, not an independently verified transcript
+
+[15.04] Now that you understand the process of haemostasia, we can begin talking about the antithrombotic agents.
+[23.68] And as I said, as we are looking at the process of haemostasia,
+[27.60] each one of our antithrombotic medications are going to target one of those processes involved in haemostasia.
+[36.16] So the first group of drugs that we should look at are the antiplatelet drugs.
+[42.84] Aspirin has been around the longest. It's an antiplatelet drug and it's been proven to decrease the incidence of myocardial infarction.
+[51.36] It's also been proven to increase longevity in clients with complicated atherosclerotic lesions.
+[58.68] But just to note here that while aspirin has been proven and effective as an antiplatelet agent,
+[66.88] a medication called clopidogrel is taking over as the preferred antiplatelet drug.
+[74.30] Clopidogrel can be combined with aspirin for additional benefits.
+[81.26] Remember, as we are talking about the platelets, we said that they had the ability to make pro platelet prostaglandins,
+[89.70] specifically thromboxane A2, because of the fact that they carried around an enzyme called cyclooxygenase.
+[100.34] They have that in those bags of granules that are released out in this, out into that local area.
+[106.86] And then the cyclooxygenase can change the arachidonic acid in that local area to the pro platelet prostaglandin.
+[119.38] The drug aspirin has an acetyl group that non competitively inhibits cyclooxygenase.
+[127.98] In other words, cyclooxygenase is essentially destroyed in the platelets for the life of the platelet,
+[135.29] which is about nine days, and without the cyclooxygenase being in the area around the platelet plug.
+[144.33] The thromboxane A2, which is needed for the most effective platelet aggregation, isn't going to be made.
+[153.37] And by the way, this is the reason that if you give blood within ten days of taking aspirin, they're not going to use your platelets.
+[162.49] So they take your blood and just discard the platelets as you've taken an aspirin.
+[168.89] And once again, that doesn't mean that the platelet is destroyed.
+[172.81] There's very few drugs that will actually render the platelet incapable of aggregating.
+[178.97] Aspirin just takes away one of the tools that the platelet has.
+[183.69] It takes away a pro platelet prostaglandin, which stimulates activation of new platelets as well as increases the platelet aggregation.
+[196.13] And the other thing to note is that there also would be a few platelets in that platelet plug that weren't actually exposed to the aspirin.
+[205.47] So there's still going to be some of the thromboxane A2 that pro platelet prostaglandin in that area is just going to be greatly reduced.
+[216.07] So basically just think about the aspirin as rebalancing the pro platelet and antiplatelet prostaglandins in the area of the platelet plug.
+[228.27] The person who's taking aspirin as an antiplatelet drug doesn't have to take as much aspirin as would be needed,
+[235.19] for instance, pain relief, because they just have to take about 75 to 150mg a day.
+[244.31] Aspirin and other antiplatelet drugs are not indicated for the prevention of deep vein thrombosis.
+[252.31] Remember that there's very few platelets in the venous thrombosis, so aspirin is pretty much useless for venous clots.
+[261.19] The antiplatelet drugs are good for people with complicated atherosclerotic lesions which may otherwise lead to unimpeded platelet aggregation.
+[271.62] And as you already know, those complicated lesions could end up totally blocking the blood, the flow of blood to the organ.
+[279.62] Or they could also break off and head downstream to occlude a smaller blood vessel.
+[287.78] As I said before, clopidogrel is emerging as the preferred antiplatelet drug.
+[294.74] Clopidogrel is indicated for decreasing the risk of stroke and myocardial infarction in those people with complicated atherosclerotic lesions.
+[306.10] Clopidogrel can also be combined with aspirin for additional benefits because, simplistically speaking,
+[313.06] the combination of those two drugs is going to take away two of the platelets tools.
+[319.98] Recall that mitochondria are present in the platelet and the mitochondria release ADP, which is a platelet agonist.
+[330.62] And that causes the platelet to change shape and start aggregating well.
+[336.16] Clopidogrel is an ADP receptor antagonist, and it's pretty selective for the ADP receptor on the platelets.
+[347.92] So it doesn't really affect those. It doesn't really bind to other ADP receptors in the body.
+[356.68] And just remember, just like aspirin, clopidogrel is useful in arterial blood clots.
+[364.20] It's not for venous thrombosis, although it would be a slightly bit better than aspirin at kind of helping out with venous thrombosis,
+[374.64] because it does have a little bit of a prevention of fibrin accumulation.
+[379.76] But once again, clopidogrel is not approved for preventing deep vein thrombosis.
+[387.16] We'll talk about the medications for deep vein thrombosis as we discuss the anticoagulants.

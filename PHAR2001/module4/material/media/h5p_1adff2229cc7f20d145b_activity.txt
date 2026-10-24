@@ -1,0 +1,34 @@
+Source: https://scu.h5p.com/content/1291836153399624079
+Type: activity text extraction (full data in JSON)
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words
+
+ACE inhibitors include Ramipril and other drugs that end in the …pril suffix
+
+ACE inhibitors result in a chronic dry cough in 10 -35% of individuals who take the medications and if a client cannot tolerate the cough, they are given dextromethorphan which normally cures the cough.
+
+The dry cough caused by ACE inhibitors cease immediately after treatment.
+
+ACE inhibitors act as a type of diuretic, excreting more salt and water from the system, but are not considered diuretics because they have many more actions than diuresis.
+
+ACE inhibitors are potassium wasting and they should be taken with potassium supplements.
+
+Finish ?
+
+Retry ?
+
+Please select the statement(s) that is/are true.
+
+Untitled Multiple Choice
+
+Angiotensin II receptor blockers (ARBS) like candesartan and other …sartan drugs block the angiotensin II receptors at multiple sites, thereby resulting in at least 5 different ways in which blood pressure is decreased. They ultimately decrease the release of ADH, the water saver, decrease the release of aldosterone, the salt saver, and decrease the direct vasoconstriction effect normally caused by angiotensin II (as well as other ways).
+
+Angiotensin II receptor blockers (ARBS) increase potassium levels and are often combined with a diuretic such as hydrochlorothiazide which excretes more potassium.
+
+Candesartan can cause a chronic dry cough in 10% of patients, and that cough is similar to that caused by ACE inhibitors.
+
+Blood levels of electrolytes (the UEC; Urea, electrolytes and creatinine) doe not need to be taken if candesartan is taken with a potassium wasting diuretic.
+
+Please select the statement(s) that is/are correct.

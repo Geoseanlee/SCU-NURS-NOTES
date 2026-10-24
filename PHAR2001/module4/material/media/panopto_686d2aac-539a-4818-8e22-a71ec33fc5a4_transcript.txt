@@ -1,0 +1,37 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=6ab07ba4-ea56-4cf8-99ff-b47c001b12d8
+Type: captions, not an independently verified transcript
+
+[15.60] If you notice what we said about the last two diuretics, the thiazide diuretics and the loop diuretics.
+[22.60] One of the important things that you need to monitor is the potassium levels, because both of those diuretics can cause hyperkalemia.
+[32.88] So those diuretics are termed potassium wasting diuretics.
+[37.80] Now there's a group of diuretics that are called potassium sparing diuretics.
+[43.60] And those work by blocking aldosterone or simplistically speaking, by blocking the effect of aldosterone binding.
+[53.48] Recall that aldosterone is the hormone that we nickname the salt saver.
+[59.20] Aldosterone has its main action on the cells of the nephron in this section.
+[64.44] Here at the very last portion of the distal convoluted tubule and the first portion of the collecting ducts.
+[72.60] At that point. We have a lot of sodium potassium ATPase pumps that help us keep the last of our sodium.
+[80.40] And so how does that work? Well, if our sodium levels go down, that's sensed by the adrenal cortex and aldosterone is released,
+[90.04] then the aldosterone finds those cells in the nephron binding to these cells here
+[96.04] in the last portion of the distal convoluted tubule and the collecting ducts,
+[100.72] and instructs those cells to activate the sodium potassium ATPase pumps on the surface of the cells.
+[107.88] And with that, the last of the salt gets saved and we excrete potassium in exchange.
+[113.96] Very simplistically speaking, both types of potassium sparing diuretics prevents sodium from being reabsorbed
+[121.40] at this late portion of the distal convoluted tubule and the collecting ducts.
+[128.40] One of the major side effects of both types of potassium sparing diuretics is an increase in potassium, but the aldosterone antagonists,
+[139.64] like spironolactone, have quite a few more side effects than Amelia Ride, because they block the androgens like testosterone.
+[149.17] And that leads to some of the symptoms that you wouldn't really expect from a diuretic,
+[153.81] such as dysmenorrhoea in women and breast development in males.
+[159.13] So in summary, recall that the two diuretics we've just spoken about are actually potassium sparing diuretics.
+[166.45] They both work by decreasing the reuptake of sodium in the far end of the distal convoluted tubules and the collecting ducts.
+[176.49] And if we excrete the salt right here, the water is going to follow, resulting in diuresis.
+[183.89] The aldosterone antagonists have more side effects than amyloid because of the fact that spironolactone has anti androgenic effects.
+[195.41] And just comparing those two potassium sparing diuretics with the other drugs that we've spoken about,
+[201.49] that spare potassium, which are the Ace inhibitors.
+[206.05] Let's recall that the Ace inhibitors resulted in a potential excess amount of potassium because of its effect on aldosterone.
+[215.93] Remember the cascade of events that occurred as we stopped the angiotensin one from converting into angiotensin two?
+[224.89] That cascade of events includes a decreased release of aldosterone, the salt saver.
+[231.09] So basically all of our potassium sparing diuretics are going to involve aldosterone or the cells that aldosterone affects.
+[242.57] We often combine the potassium sparing diuretics and the potassium wasting diuretics.
+[249.77] And with that combination it's oftentimes more efficacious.
+[254.05] And it's oftentimes also less likely to affect the potassium levels.
+[261.45] And that concludes the diuretics that are generally used for decreasing oedema and decreasing blood pressure.

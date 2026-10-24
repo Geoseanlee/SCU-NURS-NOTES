@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291836504085385269
+Type: activity text extraction (full data in JSON)
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words
+
+Unlike most combinations of lipid lowering medications, ezetimibe can be combined with atorvastatin or other statins and that does not increase the risk of rhabdomyolysis
+
+Fixed pill combinations of Ezetimibe and atorvastatin are available.
+
+Ezetimibe has antithrombotic, antioxidant and plaque stabilizing effects
+
+Ezetimibe inhibits the absorption of cholesterol from the small intestine
+
+Finish ?
+
+Retry ?
+
+Please choose the statement(s) that is/are correct.
+
+Untitled Multiple Choice

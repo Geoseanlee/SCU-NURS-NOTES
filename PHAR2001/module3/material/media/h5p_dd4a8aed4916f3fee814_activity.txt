@@ -1,0 +1,42 @@
+Source: https://scu.h5p.com/content/1291812114971006829
+Type: activity text extraction (full data in JSON)
+
+Oral bisphosphonates are the first line therapy for osteoporosis
+
+The bisphosphonates get incorporated into the bone, encouraging the osteoclasts (bone munching cells) to undergo apoptosis (nicknamed ‘cell suicide’)
+
+The oral bisphosphonates end in the suffix …dronate, for instance alendronate.
+
+One action of the bisphosphonates is to increase production of the bone
+
+One rare adverse effect associated with bisphosphonates include a slight risk of osteonecrosis of the jaw.
+
+Finish ?
+
+Retry ?
+
+Choose the statement(s) about bisphosphonates that is/are correct.
+
+Untitled Multiple Choice
+
+Teriparatide is an anabolic drug, meaning that it “builds up” and in this case, it builds bone.
+
+Teriparatide is a recumbent form of parathyroid hormone (PTH), so it acts like PTH, activating osteoblasts more than osteoclasts.
+
+Because teriparatide acts like PTH, it decreases renal excretion of calcium by the kidneys, and increases absorption of calcium in the gut, potentially leading to hypercalcaemia, so calcium levels should be monitored.
+
+Teriparatide is an oral medication
+
+Teriparatide is used off label for speeding up bone fractures, especially in athletes.
+
+There is a slight increased risk of developing bone cancer (osteosarcoma) with use of teriparatide.
+
+Choose the statement(s) about Teriparatide that is/are correct.
+
+The SERMs include teriparatide
+
+Since SERMs antagonise the oestrogen receptors on breast tissues, they have been extensively used on breast cancer patients to decrease progression of oestrogen-linked breast cancer
+
+While SERMs antagonise the effects of oestrogen on the breast tissue, they actually have beneficial effects of oestrogen itself at other tissues, like the bone, helping to maintain bone density.
+
+Select the statement(s) about Selective (O)Estrogen Receptor Modulators (SERMs) that is/are correct

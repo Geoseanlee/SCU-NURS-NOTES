@@ -1,0 +1,50 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=b0253ef6-6300-4723-bcfb-b47b01105ee0
+Type: captions, not an independently verified transcript
+
+[15.32] In this diagram gives us a bit of an idea of how valuable the hypothalamus is.
+[21.20] We have the hypothalamus in control of all of these hormones, both from the posterior pituitary and the anterior pituitary.
+[31.20] And that's one of the main reasons that the hypothalamus is considered the controlling gland of the endocrine system, as we'll see in a little bit.
+[40.08] The hypothalamus which is depicted here sends its hormones directly into the hypothalamus pituitary portal venous system.
+[50.04] So really small amounts of hormones can affect the pituitary quite easily.
+[55.40] For instance, small amounts of corticotropin releasing hormone will go to the anterior pituitary gland.
+[65.00] And that's going to stimulate the release of Acta, and the Acth then stimulates the adrenal gland to release cortisol,
+[76.19] which is a glucocorticoid, and aldosterone, which is a mineralocorticoid called the salt saver.
+[87.07] Another example is the release of thyroid releasing hormone from the hypothalamus.
+[94.47] Thyroid releasing hormone will go into the hypothalamus pituitary portal venous system,
+[102.11] and that will be the stimulus for the secretion of thyroid stimulating hormone.
+[109.23] And in turn, the thyroid stimulating hormone will stimulate the release of thyroxine, which is the main hormone from the thyroid gland.
+[121.07] The example of growth hormone is the simplest one because it involves only two organs, the hypothalamus and the pituitary gland.
+[130.95] The release of growth hormone will create the negative feedback needed to
+[136.23] control the release of growth hormone releasing hormone from the hypothalamus.
+[142.99] In this slide, we see a number of the organs that are involved in the endocrine system.
+[148.55] So starting up at the top we have the hypothalamus and the pituitary system,
+[155.39] the thyroid gland which is involved in the secretion of the thyroid hormones.
+[160.71] And it's part of that hypothalamus pituitary system. We have the parathyroid glands which are just four glands that are embedded in the thyroid gland.
+[173.11] The thymus is an endocrine organ. The adrenal glands are located on top of the kidneys.
+[181.83] The pancreas is an endocrine and an exocrine organ.
+[186.79] The ovaries in females and the testes in males are endocrine organs as well.
+[193.95] And I'll just add a couple here. For instance the skin is an endocrine organ because it synthesises the vitamin D,
+[205.02] which is actually a hormone from cholesterol with the help of UV radiation.
+[211.42] And we also have the kidneys, which are important in secretion of a number of hormones.
+[219.74] Now I'd like to explain a little bit more about the hypothalamus.
+[223.94] The reason that most people think of the hypothalamus as being the controlling organ of the endocrine system.
+[232.86] It doesn't control all of the endocrine system, but it controls a significant portion of the endocrine system.
+[241.74] The hypothalamus is the main organ in maintaining homeostasis.
+[248.46] Homeostasis is the process of maintaining a stable environment in the body and to maintain homeostasis,
+[257.90] the hypothalamus receives information from all over the body.
+[262.34] It receives information in the form of neural messages in the form of hormones, in the form of cytokines,
+[270.05] which are messenger molecules of the immune system, and in turn, the hypothalamus has branches that go back out to those organs.
+[279.77] It has neural networks that go back over to the brain,
+[283.29] and it directly or indirectly controls the hormones of both the anterior and the posterior pituitary glands.
+[292.85] This diagram of the anterior and posterior pituitary is similar to the last diagram, except that it's kind of a mirror image.
+[302.85] So the anterior pituitary is right here. And the posterior pituitary is right here with respect to the posterior pituitary gland located right here.
+[316.29] You can see that there's a structural difference between the posterior and the anterior pituitary.
+[324.33] The posterior pituitary is really a natural extension of the hypothalamus.
+[330.81] The two hormones that are secreted from the posterior pituitary are the oxytocin and the ADH
+[340.21] are made by the hypothalamus and stored in the posterior pituitary by the hypothalamus,
+[348.17] and then the hormones are released when the hypothalamus signals their release.
+[354.85] So the posterior pituitary is really a portion of the hypothalamus.
+[360.09] The only thing that the posterior pituitary gland does is store those hormones for the hypothalamus.
+[367.13] The interesting thing about those hormones, ADH and oxytocin, is that they're very similar in molecular structure to each other.
+[377.21] They're similar enough where the oxytocin has some water saving properties, just like ADH, the water saver.
+[386.13] But they're not similar enough for ADH to have some of the actions of oxytocin.

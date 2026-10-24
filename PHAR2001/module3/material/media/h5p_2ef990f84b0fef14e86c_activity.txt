@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291814525995738659
+Type: activity text extraction (full data in JSON)
+
+The most common form of hyperthyroidism is an autoimmune disorder called Grave’s disease.
+
+In Grave’s disease, the immunoglobulins of the immune system mimic thyroid stimulating hormone, which is the messenger hormone that signals the release of Thyroxine (T4)
+
+Exophthalmos is a protrusion of both eyes that is found in hyperthyroidism from any cause
+
+In hyperthyroidism, the excess thyroid hormone increases the sensitivity to adrenaline, speeding up the heart and increasing heart rate and contractility. Therefore, Beta blockers such as propranolol or other OLOL drugs are used in addition to other drugs to decrease the heart rate back to normal.
+
+Carbimazole and propylthiouracil are used to inhibit the enzymes that make thyroxine (T4) and converts it to the active form of T3. Those medications are often used to treat hyperthyroidism and also while the client is awaiting treatment with radioactive iodine
+
+Carbimazole and propylthiouracil immediately reduce the levels of T4 and T3 in the body.
+
+Finish ?
+
+Retry ?
+
+Please select the statement(s) that is/are correct about hyperthyroidism.
+
+Untitled Multiple Choice
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words

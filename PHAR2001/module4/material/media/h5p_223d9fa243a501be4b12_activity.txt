@@ -1,0 +1,20 @@
+Source: https://scu.h5p.com/content/1291825218025652669
+Type: activity text extraction (full data in JSON)
+
+Potassium sparing diuretics include spironolactone and amiloride.
+
+The potassium sparing diuretic spironolactone blocks the mineralocorticoid (aldosterone) receptor at the kidney, leading to its diuretic actions
+
+The potassium sparing diuretic spironolactone has antiandrogenic (anti-testosterone) effects leading to its efficacy in delaying early puberty in boys, decreasing acne, decreasing hair growth in women and as a part of transgender therapy in transfeminine people.
+
+Breast development in males, erectile dysfunction, testicular atrophy and reduced fertility are all side effects of spironolactone due to direct toxicity to the testicles.
+
+Amiloride is another potassium sparing diuretic that works around the same area of the nephron as spironolactone but does not have the antiandrogenic effects. It is often combined with one of the potassium wasting diuretics like the loop diuretics or the thiazide diuretics.
+
+Finish ?
+
+Retry ?
+
+Please choose the statment(s) that is/are correct.
+
+Untitled Multiple Choice

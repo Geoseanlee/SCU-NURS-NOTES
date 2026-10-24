@@ -1,0 +1,35 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=6f925f7a-4841-4bb7-a5f3-b47b00bbb7a1
+Type: captions, not an independently verified transcript
+
+[15.60] The next drug class that's frequently prescribed for decreasing blood pressure is the beta blockers.
+[23.76] The drug class of beta blockers includes a ten Algol and other Ol drugs.
+[32.48] The first generation of beta blockers were non-selective.
+[38.08] In other words, what they did is they blocked the beta one receptor on the heart, which we want to block,
+[45.64] but they also blocked the beta two receptor on the lungs, which made it a bit difficult for people to breathe.
+[55.88] It basically constricted the airways, blocking the dilation of the airways that adrenaline causes.
+[65.16] But Atenolol is a second generation beta blocker, being fairly selective for that beta one receptor on the heart.
+[74.75] Nonetheless, as with most selective medications, there is some crossover action onto other receptors, and in this case,
+[85.07] there are some crossover effects onto the beta two receptor, which is the one that's found on the lungs.
+[92.63] And that's results in a small percentage of individuals reporting a slight shortness of breath.
+[101.51] Atenolol is quote unquote indicated for hypertension.
+[105.67] And also it's indicated in some types of MIAs of the heart.
+[111.71] But although Atenolol is indicated for hypertension, it is definitely not the best choice for most types of hypertension because Ace inhibitors,
+[123.35] angiotensin receptor blockers,
+[126.31] calcium channel blockers and thiazide diuretics have all been found to be more effective and also have fewer side effects.
+[137.03] Nonetheless, atenolol is one of the most prescribed medications for hypertension in Australia and throughout the world.
+[144.90] And I think the main takeaway from this is that it takes a long time for physicians to stop
+[151.90] prescribing a medication that is no longer the best choice for the problem that's being treated,
+[157.86] and that we should learn by that and keep up to date with the most effective medications.
+[164.54] The last thing that I wanted you to remember about the first and second generation beta blockers is that they can cause a rebound hypertension.
+[174.98] So it's really important that the first and second generation beta blockers are tapered off gradually during a ten day to two week period.
+[186.46] So that was the relevant information about the second generation beta blockers.
+[191.70] But there is a medication called Kavita Lal that is considered a third generation beta blocker.
+[200.14] Note that it doesn't have that suffix ol l, and that's because it's actually got a different molecular shape.
+[209.50] And that different molecular shape allows it to bind not only to the beta one receptor, but also to the alpha one receptor.
+[219.81] So it's a. Beta one alpha one blocker combined.
+[224.09] It's still technically considered a beta blocker, but it is an exception to the rule of the o l o l suffix.
+[233.05] Carvalhal is indicated in hypertension, congestive heart failure, and in left ventricular dysfunction for high blood pressure,
+[242.93] though it's still generally called a second line treatment because of the long list of side effects.
+[250.45] And also, once again, it's not as effective as our main antihypertensive agents and the side effects
+[260.69] that occur in greater than 10% of people taking Carvalhal include dizziness,
+[266.89] fatigue, low blood pressure, diarrhoea, weakness, bradycardia, which is a slowed rate of the heart, weight gain, and also erectile dysfunction.

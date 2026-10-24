@@ -1,0 +1,18 @@
+Source: https://scu.h5p.com/content/1291825242322608879
+Type: activity text extraction (full data in JSON)
+
+The type of diuretic that would be used in cases of intracranial hypertension from head injury or glaucoma would be one of the osmotic diuretics such as mannitol.
+
+Most osmotic diuretics need to be injected, and once in the system, they directly pull fluid from interstitial spaces. This differs from other diuretics that mainly excrete fluid in the urine, and then the decreased fluids in the blood allow the fluid in congested areas to slowly normalise.
+
+The osmotic diuretics including mannitol are a strong diuretic, pulling a lot of fluid out of the system and allowing excretion
+
+Mannitol is prescribed at a dose of two 500mg tablets per day, one at night and one in the morning.
+
+Finish ?
+
+Retry ?
+
+Choose the statement(s) that is/are correct:
+
+Untitled Multiple Choice

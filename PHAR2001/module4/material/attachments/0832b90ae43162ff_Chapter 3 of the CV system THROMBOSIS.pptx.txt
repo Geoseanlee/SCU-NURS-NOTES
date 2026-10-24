@@ -1,0 +1,230 @@
+## ppt/notesSlides/notesSlide1.xml
+33
+
+## ppt/slides/slide1.xml
+Thrombosis
+Pharmacology of the        Cardiovascular System
+Dr Ken 
+Wojcikowski
+
+## ppt/slides/slide2.xml
+
+
+## ppt/slides/slide3.xml
+Objectives for this portion of the chapter
+Explain the various steps involved in thrombus formation 
+Explain how each of our medications that decrease thrombus formation affect one of the steps involved in thrombus formation, 
+Identify and explain the actions of common pharmacological agents used to prevent the development of a thrombus. 
+
+## ppt/slides/slide4.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular System: 
+Thrombosis
+Lesson 1:
+Understanding the foundational information about haemostasis
+
+## ppt/slides/slide5.xml
+Thrombus
+Plural form = thrombi
+Process of thrombus formation = thrombosis
+A thrombus is a blood clot
+
+## ppt/slides/slide6.xml
+Haemostasis
+The process of haemostasis involves:
+Vessel spasm
+Formation of the platelet plug
+Blood coagulation or development of an insoluble fibrin clot
+Clot retraction 
+Clot dissolution 
+
+## ppt/slides/slide7.xml
+Differentiation of precursor cells to platelets
+Pearson Education
+
+## ppt/slides/slide8.xml
+Platelets contain:
+Contractile proteins including actin and myosin
+Mitochondria that produce  ADP
+Preformed enzymes that synthesise prostaglandins
+Cyclooxygenase (COX) synthesises pro-platelet prostaglandin TXA2; thromboxane A2 (intact endothelium contains PGI2; prostacyclin)
+Growth factors that repair damage to endothelium
+
+## ppt/slides/slide9.xml
+.
+
+## ppt/slides/slide10.xml
+.
+Endothelial damage causes change in charge
+Von Willebrand factor attracts platelets as well
+
+## ppt/slides/slide11.xml
+.
+Fibrin meshwork changes the platelet plug into a blood clot
+
+## ppt/slides/slide12.xml
+The clotting cascade
+
+## ppt/slides/slide13.xml
+The clotting cascade
+
+## ppt/slides/slide14.xml
+Fibrin
+
+## ppt/slides/slide15.xml
+Ultimately, plasminogen changes to 
+plasmin
+ which 
+degrades the clot
+
+## ppt/slides/slide16.xml
+Arterial Clot
+http://www.treehugger.com/files/2007/09/how_air_pollution.php 
+
+## ppt/slides/slide17.xml
+Venous Clot
+Pearson Education
+
+## ppt/slides/slide18.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular System: 
+Thrombosis
+Lesson 2:
+Antiplatelet drugs
+
+## ppt/slides/slide19.xml
+Antiplatelet drugs: Aspirin 
+aka 
+acetylsalicylic acid (ASA)
+Aspirin used long-term to help prevent further heart attacks, ischaemic strokes, and 
+arterial 
+blood clots in people at high risk.
+Aspirin works similarly to other NSAIDs but also affects platelets                 
+The bark of the willow tree containing ASA has been used for its health effects for at least 2,400 years.
+Clopidogrel is taking over as preferred antiplatelet drug
+Can be combined with aspirin
+
+## ppt/slides/slide20.xml
+Antiplatelet drugs: Aspirin
+PGI2 from intact epithelium and TXA2 from platelets normally balance to form ideal haemostasis
+This balance is disrupted when the intact epithelium is covered in atherosclerotic plaques, making the pro-platelet TXA2 dominate
+The acetyl group in aspirin non competitively inhibits cyclooxygenase (COX), needed to form TXA2. 
+Thromboxane (TXA2) is therefore not able to be made for the entire 9 day life of the platelet.
+Balance is restored
+Intact endothelium contains PGI2; prostacyclin but the endothelial cells can synthesise more enzyme while platelets cannot
+
+## ppt/slides/slide21.xml
+Aspirin as an antiplatelet drug
+Low dose aspirin (75-150 mg/day) is proven effective in reducing MI and strokes from atherosclerosis
+Adverse effects
+Stomach ache, stomach ulcers, allergies
+Q: I am healthy, and my arteries should be clean, why don’t I bleed readily when I take aspirin?
+A: Aspirin doesn’t destroy platelets, it takes away one of their ‘tools’. Also, not all platelets are affected. 
+
+## ppt/slides/slide22.xml
+Clopidogrel
+Clopidogrel is emerging as the preferred antiplatelet medication 
+Decreases risk of heart attack and stroke
+Its effect starts about two hours after intake and lasts for five days.
+Common side effects include headache, nausea, easy bruising, itching, and heartburn.
+Rarely causes thrombotic thrombocytopenic purpura.
+Works by irreversibly inhibiting a receptor called P2Y12 for ADP on platelets.
+
+## ppt/slides/slide23.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular System: 
+Thrombosis
+Lesson 3:
+Anticoagulants
+
+## ppt/slides/slide24.xml
+Anticoagulants
+Anticoagulants, commonly known as blood thinners, but do not affect the viscosity of blood
+Prevent or reduce coagulation of blood, prolonging the clotting time.
+Used for both arterial and venous clots
+One of the first anticoagulants, warfarin
+Component from sweet clover
+First developed as a poison: rat bait
+
+## ppt/slides/slide25.xml
+Simplistic look at the mechanism by which warfarin works
+Clotting factors need fresh or recycled  vitamin K to be made
+Vitamin K becomes inactive when making clotting factor
+Vitamin K is recycled with epoxide reductase
+
+## ppt/slides/slide26.xml
+Simplistic look at the mechanism by which warfarin works
+Clotting factors need fresh or recycled  vitamin K to be made
+Vitamin K becomes inactive when making clotting factor
+Vitamin K is recycled with 
+epoxide reductase
+Warfarin 
+inhibits epoxide reductase
+, not allowing Vitamin K to be recycled
+
+## ppt/slides/slide27.xml
+Drugs that affect coagulation
+Warfarin
+Taken orally, absorbed quickly
+Takes several days to exert its effect (there is still active vitamin K hanging around)
+Affects several clotting factors
+Warfarin inhibits epoxide reductase, an enzyme that recycles vitamin K back to its active form
+Without active vitamin K, many coagulation factors are missing, resulting in decreased coagulation and if excessive, bleeding 
+
+## ppt/slides/slide28.xml
+Drugs that affect coagulation
+Warfarin (continued)
+Dose is extremely variable (2-20mg/day) and requires frequent assessment of coagulation (INR tests need to be performed to make sure of ideal clotting)
+Huge number of drugs, dietary factors affect its efficacy
+Side effects
+Allergy, bruising, excessive bleeding
+WARFARIN IS TEROTAGENIC  
+(contraindicated in women of child bearing age)
+
+## ppt/slides/slide29.xml
+Drugs that affect coagulation
+Rivaroxaban
+An oral anticoagulant 
+Has 
+fewer side effects than warfarin but greater chance of GIT bleeding
+Works by blocking activity of clotting factor 
+Xa
+Pregnancy category C
+
+## ppt/slides/slide30.xml
+Drugs that affect coagulation
+Low molecular weight heparins
+Injected subcutaneously like heparin, but without the major adverse effects
+Safest anticoagulant to use in pregnancy (still a C drug but considered safer than rivaroxaban
+All drugs of this class end in …
+parin
+Enoxaparin (Clexane; know this drug)
+
+## ppt/slides/slide31.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular System: 
+Thrombosis
+Lesson 4:
+Fibrinolytic drugs
+
+## ppt/slides/slide32.xml
+Fibrinolytic (thrombolytic) drugs
+Streptokinase 
+Intravenously infused in a hospital setting. 
+Potent plasminogen activator 
+Increasing plasminogen increases plasmin activity. Plasmin is the enzyme that dissolves clots. 
+Easily results in haemorrhaging (narrow therapeutic range)
+Allergies (of bacterial origin)
+Cannot be re-administered for about 6 months due to allergies developing 
+Alteplase can be used if needed prior to 6 months
+
+## ppt/slides/slide33.xml
+.
+Marieb
+ EN et al. Human Anatomy and Physiology. Pearson Education 2004
+http://www.treehugger.com/files/2007/09/how_air_pollution.php 
+Dennis Kunkel Microscopy, Inc. 2007
+Thibodeau G: Anatomy and physiology 5th ed Mosby St. Louis 2003 
+Royalty free images from Shutterstock
+The PowerPoint and associated Video were edited and produced by Dr. Ken Wojcikowski
+References

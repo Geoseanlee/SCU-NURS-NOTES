@@ -1,0 +1,38 @@
+Source: https://scu.h5p.com/content/1291836473595657999
+Type: activity text extraction (full data in JSON)
+
+They decrease the synthesis of cholesterol in the liver
+
+They decrease the amount of fatty acids and cholesterol that is absorbed
+
+They increase the amount of the good cholesterol protein, the HDL
+
+They are especially good for individuals with familial hypercholesterolaemia, where the liver makes too much cholesterol (the liver almost seems to be 'set' at the wrong cholesterol level in familial hypercholesterolaemia)
+
+Finish ?
+
+Retry ?
+
+Which of the following is true about the HMG CoA reductase inhibitors?
+
+Untitled Multiple Choice
+
+The statins are associated with a decrease in mortality
+
+The statins are associated with an increase in longevity
+
+The statins are associated with a significant decrease in atherothrombotic events
+
+The statins have anti-inflammatory effects
+
+The statins have antithrombotic effects
+
+The statins have plaque stabilizing effects
+
+The statins are the preferred lipid lowering drug during pregnancy
+
+The Statins like atorvastatin and simvastatin have additional health benefits beyond decreasing the synthesis of cholesterol in the liver. Please select the statement(s) that is/are correct.
+
+Drag the words into the correct boxes
+
+Untitled Drag the Words

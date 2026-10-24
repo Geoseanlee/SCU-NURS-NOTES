@@ -1,0 +1,232 @@
+{
+  "source": "https://scu.h5p.com/content/1291814525995738659",
+  "assetBase": "h5p_2ef990f84b0fef14e86c_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_3_2_3_Hyperthyroidism_and_its_Treatment",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>The most common form of hyperthyroidism is an autoimmune disorder called Grave’s disease.</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "In Grave’s disease, the immunoglobulins of the immune system mimic thyroid stimulating hormone, which is the messenger hormone that signals the release of Thyroxine (T4)\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>No, this statement is incorrect. Exophthalmos is a protrusion of both eyes but it is specific to Grave’s disease</div>\n",
+                    "notChosenFeedback": "<div>Indeed, this statement is incorrect. Exophthalmos is a protrusion of both eyes but it is specific to Grave’s disease</div>\n",
+                    "tip": ""
+                  },
+                  "text": "Exophthalmos is a protrusion of both eyes that is found in hyperthyroidism from any cause\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "In hyperthyroidism, the excess thyroid hormone increases the sensitivity to adrenaline, speeding up the heart and increasing heart rate and contractility. Therefore, Beta blockers such as propranolol or other OLOL drugs are used in addition to other drugs to decrease the heart rate back to normal. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "This statement is true. Unfortunately, both Carbimazole and propylthiouracil are pregnancy category D drugs, and as such extreme care must be taken to weigh the benefits vs the risks. \n",
+                    "notChosenFeedback": "This statement is true. Unfortunately, both Carbimazole and propylthiouracil are pregnancy category D drugs, and as such extreme care must be taken to weigh the benefits vs the risks. \n",
+                    "tip": ""
+                  },
+                  "text": "Carbimazole and propylthiouracil are used to inhibit the enzymes that make thyroxine (T4) and converts it to the active form of T3. Those medications are often used to treat hyperthyroidism and also while the client is awaiting treatment with radioactive iodine\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "NO, this statement is incorrect. Thyroid hormone has a very long half-life, and the thyroid hormone that has been stored will still be active for 6-8 weeks. \n",
+                    "notChosenFeedback": "Indeed, this statement is incorrect. Thyroid hormone has a very long half-life, and the thyroid hormone that has been stored will still be active for 6-8 weeks. \n",
+                    "tip": ""
+                  },
+                  "text": "Carbimazole and propylthiouracil immediately reduce the levels of T4 and T3 in the body. \n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Please select the statement(s) that is/are correct about hyperthyroidism.&nbsp;</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "781643da-9e40-47ea-ae27-843e59303557"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "Drag the words into the correct boxes",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "This activity includes medications that treat hyperthyroidism and hypothyroidism. For hyperthyroidism, the medication that is used to slow down the heart rate and decrease contractility includes *atenolol* and other beta blockers. It does not treat the hyperthyroidism but only the racing heart. One of the medications that can be used to decrease the formation of the thyroid hormones in hyperthyroidism is *carbimazole*, but it is a pregnancy category D drug. *iodine 131* may need to be given in cases of hyperthyroidism to destroy some of the cells in the thyroid. Unfortunately, this may lead to hypothyroidism. The gold standard therapy for hypothyroidism is *levothyroixine* which is a synthetic form of T4 that is administered orally or intravenously and is a pregnancy category A drug. If the person also has liver disease, and is unable to convert the T4 into the more active T3, they will be given *liothyronine* which is a synthetic form of T3. Since thyroid hormones themselves and synthetic replacement drugs have a very long half life of over one week, care is taken to gradually increase the levels of thyroid hormone to the ideal level, and this may take months of treatment."
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "89841ddb-3203-4a40-bb2f-f0bfa7690252"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

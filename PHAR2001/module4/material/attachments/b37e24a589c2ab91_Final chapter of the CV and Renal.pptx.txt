@@ -1,0 +1,300 @@
+## ppt/notesSlides/notesSlide1.xml
+5
+
+## ppt/notesSlides/notesSlide2.xml
+7
+
+## ppt/notesSlides/notesSlide3.xml
+39
+
+## ppt/notesSlides/notesSlide4.xml
+40
+
+## ppt/slides/slide1.xml
+Diure
+t
+ics
+Pharmacology of the        Renal system
+Dr Ken Wojcikowski
+
+## ppt/slides/slide2.xml
+
+
+## ppt/slides/slide3.xml
+Objectives for the     renal system
+Describe the structure and function of the portions of the renal system relevant to diuretics. 
+Identify and explain the actions interactions and side effects of diuretics.
+
+## ppt/slides/slide4.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular/Renal System: 
+Diuretics
+Lesson 1:
+Understanding the foundational information about diuretics
+
+## ppt/slides/slide5.xml
+Location of the kidneys, 
+ureters and bladder
+
+## ppt/slides/slide6.xml
+
+
+## ppt/slides/slide7.xml
+
+
+## ppt/slides/slide8.xml
+
+
+## ppt/slides/slide9.xml
+
+
+## ppt/slides/slide10.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular/Renal System: 
+Diuretics
+Lesson 2:
+Understanding the foundational information about diuretics (continued)
+
+## ppt/slides/slide11.xml
+
+
+## ppt/slides/slide12.xml
+Filtration, 
+reabsorption 
+and secretion
+
+## ppt/slides/slide13.xml
+Reabsorption and Secretion
+Reabsorption and secretion are confusing because we are talking about the tubule but the terms apply to the what is happening in relation to the 
+peritubular
+ blood supply. 
+Reabsorption of water and solutes by tubular cells into the 
+peritubular
+ capillary blood
+Secretion from the blood into the tubular lumen
+
+## ppt/slides/slide14.xml
+
+
+## ppt/slides/slide15.xml
+
+
+## ppt/slides/slide16.xml
+Flow of urine 
+
+## ppt/slides/slide17.xml
+Patients commencing diuretics 
+Care must be taken to avoid fluid rebound. 
+Some patients decrease water consumption when they commence diuretics to decrease trips to the bathroom
+If water is decreased at the same time as diuretic is commenced, rebound oedema will result!
+
+## ppt/slides/slide18.xml
+
+
+## ppt/slides/slide19.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular/Renal System: 
+Diuretics
+Lesson 3:
+Thiazide and thiazide-like diuretics
+
+## ppt/slides/slide20.xml
+Thiazide diuretics (hydrochlorothiazide)
+Thiazide like diuretic (metolazone) 
+Inhibit sodium reabsorption from the distal tubule
+Wastes potassium as well 
+Used for hypertension, congestive heart failure, nephrolithiasis (kidney stones) and diabetes insipidus
+Thiazide diuretics compete with the secretion of uric acid so they are contraindicated in people with gout
+Several drugs use hydrochlorothiazide in combination – a little bit increases the action of other
+Hydrochlorothiazide 
+‘thiazide” drugs 
+
+## ppt/slides/slide21.xml
+Thiazide toxicity
+Allergic reaction (sulphonamides used in antimicrobial agents)
+Photosensitivity (skin; light pinkish skin are most sensitive)
+Hypo
+k
+alaemia (low potassium) 
+Hypo
+na
+traemia
+ (low salt Na+)
+Hyper
+uric
+aemia (gout)
+Hydrochlorothiazide 
+(
+Dithiazide
+)
+May increase risk of type 2 diabetes
+May increase lipid levels
+Contraindicated in pregnancy 
+Distal convoluted tubule
+Katung
+ BG, Masters SB: Basic and Clinical Pharmacology 11
+th
+ ed. McGraw-Hill Companies, Inc
+
+## ppt/slides/slide22.xml
+Thiazide diuretics 
+(hydrochlorothiazide) 
+May be indicated as an additional therapy for people with osteoporosis
+Increases osteoblastic cells
+Increases calcium levels. 
+
+## ppt/slides/slide23.xml
+A symporter on the cell surface
+
+## ppt/slides/slide24.xml
+
+
+## ppt/slides/slide25.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular/Renal System: 
+Diuretics
+Lesson 4:
+Loop diuretics
+
+## ppt/slides/slide26.xml
+Loop diuretics 
+Furosemide (Lasix) and other loop diuretics work on the ascending loop of Henle 
+They indirectly block active transportation of sodium, potassium and chloride into the interstitial space where they would normally re-enter circulation
+Sodium rich urine 
+Work in the ascending loop of 
+Henle
+Katung
+ BG, Masters SB: Basic and Clinical Pharmacology 11
+th
+ ed. McGraw-Hill Companies, Inc
+
+## ppt/slides/slide27.xml
+Loop diuretics 
+Produce a loss of fluid of up to 10 L/d
+Drugs of choice when rapid diuresis is needed
+Oral, IV or IM
+Alkalosis is possible
+Calcium is lost
+Work in the ascending loop of 
+Henle
+Katung
+ BG, Masters SB: Basic and Clinical Pharmacology 11
+th
+ ed. McGraw-Hill Companies, Inc
+
+## ppt/slides/slide28.xml
+Loop diuretics 
+Furosemide is Lasix (lasts six hours) 
+Lasix prevents the reabsorption of:
+Sodium
+Potassium 
+Calcium
+Magnesium 
+Therefore, monitor for 
+Hypovolaemia and 
+hyponaturemia
+ 
+Hypokalemia
+Hypocalcaemia
+Hypomagnesemia   
+Also, allergies to those allergic to sulphonamides 
+
+## ppt/slides/slide29.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular/Renal System: 
+Diuretics
+Lesson 5:
+Potassium sparing diuretics
+
+## ppt/slides/slide30.xml
+Potassium sparing diuretics
+Blocks aldosterone at the distal tubule
+Spironolactone 
+(know this drug)
+OR 
+Indirectly blocks the NaCl pumps at the same spot
+Amiloride 
+Blocks aldosterone at the distal tubule
+Katung
+ BG, Masters SB: Basic and Clinical Pharmacology 11
+th
+ ed. McGraw-Hill Companies, Inc
+
+## ppt/slides/slide31.xml
+Potassium-sparing diuretics
+Spironolactone
+Blocks aldosterone at the distal tubule
+Used for any aldosterone excess states. 
+Toxicity includes hyperkalaemia (raised k+ potassium levels) 
+Blocks androgen as well (dysmenorrhoea in women, breast development in males)
+
+## ppt/slides/slide32.xml
+Potassium-sparing diuretics
+Potassium-sparing diuretics
+Spironolactone (Aldactone): Aldosterone antagonist
+Amiloride: Blocks sodium channels
+Spironolactone  was at one time thought to be important for all patients with hypertension but it causes hyperkalaemia
+Some say it should not be used with ACE inhibitors, but some people can tolerate it
+
+## ppt/slides/slide33.xml
+kjhkjhlkdfs
+Medications of the Cardiovascular/Renal System: 
+Diuretics
+Lesson 6:
+Other diuretics
+
+## ppt/slides/slide34.xml
+ADH antagonists
+“…vaptan” drugs 
+Blocks ADH receptors
+ETOH (alcohol)
+Inhibits pituitary secretion of ADH
+Not used as a diuretic but this explains why one is dehydrated after intoxication
+Blocks ADH receptors
+Katung
+ BG, Masters SB: Basic and Clinical Pharmacology 11
+th
+ ed. McGraw-Hill Companies, Inc
+
+## ppt/slides/slide35.xml
+Osmotic diuretics
+Non-
+reabsorbable
+ solute pulls water in 
+Used to maintain urine volume and reduce intracranial and intraocular pressure
+Initially expands fluid volume (bad for CHF)
+Then high sodium because sodium is not following
+Produces hyperkalaemia 
+
+## ppt/slides/slide36.xml
+
+
+## ppt/slides/slide37.xml
+
+
+## ppt/slides/slide38.xml
+ADH and aldosterone
+ACE inhibitors act as diuretics by indirectly decreasing the ADH and aldosterone secretion
+Despite this, ACE inhibitors are not considered diuretics (they are in a class of their own and have diuretic actions)
+Some of the other diuretics act on 
+ADH the water saver and 
+aldosterone the salt saver
+
+## ppt/slides/slide39.xml
+A. Rad (me), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+
+## ppt/slides/slide40.xml
+.
+McCance K, 
+Huether
+ S: Pathophysiology: The biological basis for disease in adults and children 8
+th
+ ed. Mosby St Louis 2018
+Marieb
+ EN et al. Human Anatomy and Physiology. Pearson Education 2011
+Thibodeau G: Anatomy and physiology 5th ed Mosby St. Louis 2003 
+Wong DL: Whaley and Wong’s nursing care of infants and children 7th ed. Mosby, St Louis, 2003
+A. Rad, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+Royalty free images from Shutterstock
+The PowerPoint and associated Video were edited and produced by Dr. Ken Wojcikowski
+References

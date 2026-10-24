@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291836980720068159
+Type: activity text extraction (full data in JSON)
+
+Nicotinic acid is vitamin B3 and as such, it is completely safe during pregnancy.
+
+Nicotinic acid lowers triglycerides by up to 25%, decreases LDL, the bad transport protein by up to 30% and raises the good protein, the HDL by up to 30% but not all individuals respond to the medication.
+
+Large amounts of nicotinic acid that are effective in normalising lipid levels cause the small blood vessels under the skin to dilate, leading to flushing, which is especially prominent in the face and ears.
+
+If flushing is a problem, nicotinic acid is available in extended-release formulations which distribute the drug over time. Other options include titrating the dose, starting at 250 to 500mg/d, and increasing by the same amount every 2 to 4 weeks, until therapeutic dose is achieved. Aspirin 30 minutes prior to nicotinic acid administration is also effective, as the flushing is caused by a prostaglandin and aspirin decreases prostaglandin synthesis.
+
+Nicotinic acid (in doses effective for normalising lipid levels) should never be used in diabetics, people with gout or stomach ulcers, or in people with liver disease
+
+Nicotinic acid should never be taken with the statins or fibrates because of the increased risk of developing rhabdomyolysis. First signs of rhabdomyolysis include muscle pain and tea coloured urine.
+
+Finish ?
+
+Retry ?
+
+Select the statement(s) that is/are true:
+
+Untitled Multiple Choice
