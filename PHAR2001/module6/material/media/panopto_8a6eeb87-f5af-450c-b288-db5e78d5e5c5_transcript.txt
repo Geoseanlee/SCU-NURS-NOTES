@@ -1,0 +1,105 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=e1290af6-f228-4e12-a6ca-b47b00d8dafa
+Type: captions, not an independently verified transcript
+
+[14.96] As you saw from our objectives, we need to cover some of the background information before we can take a look at the specific antibacterial agents.
+[25.56] Let's first take a look at the definition of the term synergistic.
+[30.48] I'll give you an example before we actually get to the definition.
+[34.84] So let's say that we had two drugs that both had an ability to decrease the blood pressure.
+[41.20] One of the drugs was able to decrease the blood pressure by about four millimetres of mercury,
+[46.16] and the other was able to decrease the blood pressure by five millimetres of mercury.
+[51.32] But when given together, those drugs combined are able to decrease the blood pressure by, say, 15mm of mercury.
+[61.56] At that point, we say that those two drugs have a synergistic effect.
+[67.36] Synergism pertains to two drugs that have a greater action when used together,
+[74.04] than either of those drugs would have had if they had been used by themselves with antibiotics.
+[81.72] That's one of the reasons that we oftentimes see a client who's taking two different antibiotics at the same time.
+[89.68] Oftentimes two drugs taken together, especially if the two drugs act by different mechanisms, have a rapid and profound effect,
+[99.60] while just one of those two drugs may simply not be able to control that bacteria, or may do so very slowly.
+[107.44] And if we're not killing the bacteria fairly quickly,
+[111.04] we're giving those bacteria time to develop mutations that might make them resistant to our antibiotics in the future.
+[120.04] So we oftentimes use combinations of antibiotics that together have synergistic effects.
+[128.48] The next slide gives you three different definitions, including antiseptics, stimulants, and disinfectants.
+[135.64] The only one of those three that's going to be administered as a topical agent is the antiseptic.
+[142.16] Normally a solution containing either about 70% alcohol or about 6% hydrogen peroxide is going to be effective in reducing the microbial population.
+[155.64] And that's the kind of thing that will be applied just before the phlebotomist draws blood.
+[163.00] An example of an antiseptic is cetrimide, and that's oftentimes used for cleaning up roadside accident wounds.
+[172.68] But of course, you wouldn't put a disinfectant or a stimulant on a client.
+[177.60] A sterile scent is generally able to, as the name suggests, sterilise the surface.
+[183.72] In other words, it would get all of the life forms destroyed, including spores.
+[190.88] A disinfectant is going to be basically a scarlet that's a bit less effective.
+[196.76] It may be killing 99% of the microorganisms, and you might use a disinfectant in the toilet,
+[205.12] for instance, and it might say on the label, effective in reducing 99.9% of bacteria.
+[213.48] Today, we'll be concentrating on agents that will be administered to humans.
+[218.00] And as such, that's all we'll be talking about with respect to the antiseptics, disinfectants and stimulants.
+[226.32] The infective agents that we'll be discussing today are shown here the bacteria, fungi and viruses.
+[234.96] The pictures are not in scale because, as you see in the text,
+[240.59] most of the bacteria average about ten to sometimes hundreds of times the size of viruses, and then fungi are much larger than bacteria.
+[252.43] You can get a better idea of the sizes of each of these with this picture here, and I think that really puts them into perspective.
+[261.19] Viruses are bigger than proteins. Prokaryotic cells, like the type that bacteria have, are much bigger than viruses.
+[270.43] And finally, eukaryotic cells, the type that humans and fungi have are the largest on this scale.
+[279.67] So a virus is a lot smaller than a bacterium or a fungus.
+[286.11] And just as a really broad overview right now, I'll take a little bit more information about each of these.
+[293.31] All three of these infective agents are what we call ubiquitous.
+[298.47] They're found virtually all over.
+[300.91] They're found everywhere in the world, except for perhaps the inside of a autoclave after it's been on for about 30 minutes.
+[310.23] The role of the bacteria and fungi in nature is to degrade things without bacteria and fungi.
+[316.87] Everything would decompose much slower.
+[321.23] The viruses probably have a bit more complicated role on Earth, as they seem to contribute to the evolution of just about every organism.
+[333.19] Viruses don't fit into the normal description of life.
+[337.23] A virus is just a protein coat or capsid or envelope, and inside the protein coat or capsid or envelope is a strip of RNA or DNA,
+[349.07] and the viruses latch onto the surface of various cells and inject those cells with its own DNA.
+[357.59] This is an example of a human immunodeficiency virus infecting a human T lymphocyte.
+[365.47] The virus has proteins on the surface of the virus that latch on to specific proteins on the host cells, and as that attachment occurs,
+[375.99] the virus is able to inject its little strip of genetic material into the host cells and instruct the host cells to make much more of the virus.
+[387.11] During that time that the virus is simply seeking to replicate, the virus has that potential to alter genomic structures.
+[396.07] In other words, they're involved in mutations. They also serve as a vehicle to transfer host genes horizontally between cells from different species.
+[409.15] So you can see that the viruses have been instrumental in the evolution of species throughout time
+[417.95] As we begin to talk about the elimination of infective agents or cancer from the human body,
+[426.27] there's one more definition that you should be familiar with, and that is the word chemotherapy.
+[432.79] The word chemotherapy was first used in the early 1900s, and it was used to describe an arsenic component that was used to treat syphilis.
+[445.07] And syphilis is a bacterial infection. So why does it now pertain to a drug that treats cancer?
+[453.87] Well, the definition of the word has evolved,
+[456.71] but you should be aware that the authors of some manuscripts and papers will still describe chemotherapy,
+[464.83] as it was originally described as an agent that has selective toxicity against an invader.
+[471.07] So a virus, a bacterium, a parasite, a cancer cell, and causes comparatively little damage to the normal host cell.
+[482.47] But by using that old definition of chemotherapy, you can see how this entire first portion of this module would be described as chemotherapy,
+[493.67] and some authors would still classify it as that. So just be aware of that definition.
+[499.87] In this unit we'll be referring to the terms anti-cancer chemotherapy, antifungal agents, antiviral medications.
+[510.43] And as far as the antibacterial agents go I'll be using the term antibiotic.
+[517.79] The term antibiotic should be used for antibacterial agents.
+[523.15] And also some of them actually kill parasites as well.
+[528.75] But do be aware that some people use the wrong term for antibiotics,
+[534.11] including things like antiviral medications, but antibiotics are antibacterial agents okay.
+[543.91] So antibiotics can be bacteria or bacteria static.
+[551.11] And it'll be easier to remember the difference if you just take a look at the suffix of the two side comes from the Latin word meaning to kill,
+[559.63] like genocide. Uh, genocide means basically Jeno.
+[564.71] Jeno is coming from the word gene, family, species and side is killing.
+[572.15] So basically genocide means to kill an entire species.
+[576.91] So of course, bactericidal would mean to kill all of the bacteria.
+[581.55] And one of the mechanisms by which we kill all bacteria is if we puncture holes in the bacterial cell walls.
+[589.43] A bacterial cell has a lot of, uh, osmotic difference between the inside and the outside.
+[595.99] And if there is damage to the bacterial cell wall, fluid is going to pour into the cell and that cell is going to burst.
+[604.50] So the medications that have an effect on the cell wall will normally be bactericidal.
+[611.98] Conversely, the suffix static is pretty self-explanatory.
+[617.02] We just try to keep the bacteria in check until the immune system can gain control.
+[624.26] Another set of terms has to do with the spectrum of activity.
+[628.18] We can say it's a narrow spectrum antibiotic or a broad spectrum antibiotic.
+[634.22] The spectrum of activity is not a reflection of the efficacy or potency.
+[641.82] It simply tells us the range of microorganisms that's going to be susceptible to that
+[648.14] drug and antibiotic that has a very narrow range of activity may be very effective,
+[655.62] but it may be effective against just a really narrow range of microorganisms.
+[661.58] For instance,
+[662.38] a narrow spectrum antibiotic may target a specific feature of the bacteria that was developed as a mutation to survive other antibiotics.
+[674.18] So you see, a narrow spectrum can be really, really effective, but it's just effective against a small range of bacteria.
+[684.02] Conversely, the broad spectrum antibiotics can be fairly efficacious for a number of different bacteria.
+[691.18] Normally both gram positive and gram negative.
+[696.30] Another way to classify antibiotics has to do with whether they are time dependent or dose dependent antibiotics.
+[704.30] Time dependent antibiotics are those that require a certain amount of time at a minimum concentration in order to be effective.
+[714.58] One can increase the concentration of the time dependent antibiotic to the point where the host is getting significant adverse effects,
+[724.10] but it's not going to kill the microorganism any faster.
+[729.58] To give you an analogy, the antibiotic might have to, for instance,
+[733.62] soak into the cell membrane, and until it does that, it's not going to be effective.
+[739.34] Those are time dependent antibiotics. Now the concentration or sometimes dose dependent antibiotics are quite different
+[747.98] because you can increase the dose of that antibiotic and get a quicker results.
+[755.26] Our goal with that type of antibiotic is to ensure that those peaks of the concentration within the client's bloodstream are fairly high.
+[765.74] Okay. So let's go through some activities right now. So you can remember all of those definitions we've taken so far.
+[772.42] And I'll see you on the other side.

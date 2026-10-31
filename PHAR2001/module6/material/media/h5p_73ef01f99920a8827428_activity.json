@@ -1,0 +1,214 @@
+{
+  "source": "https://scu.h5p.com/content/1291751474220652489",
+  "assetBase": "h5p_73ef01f99920a8827428_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_6_2_1_Specific_Antibiotics_1",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>Match the antibiotic and drug class to the correct fact about the antibiotic</p>\n",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "If the individual has experienced hypersensitivity problems with the β-lactam antibiotics, they should be prescribed one of the *Macrolides (like erythromycin)*\n*Cefdinir and Cephalexin and other Cef… or Ceph… cephalosporin antibiotics* Antibiotic that is toxic to the kidneys, but bactericidal; relatively few members of this class of antibiotics that can be taken orally  \nThe antibiotics with a high rate of hypersensitivity reactions (10%) but effective against numerous species of gram negative bacteria is *Amoxycillin and Penicillin V and other Penicillin antibiotics*\nThe β-lactam antibiotics include *Penicillin and Cephalosporin antibiotics*"
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "f1091ab5-8943-47e4-b2ea-383e973f36fa"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "correct": "true",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false
+              },
+              "l10n": {
+                "trueText": "True",
+                "falseText": "False",
+                "score": "You got @score of @total points",
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgain": "Retry",
+                "wrongAnswerMessage": "Wrong answer",
+                "correctAnswerMessage": "Correct answer",
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Gram negative bacteria are the ones that have comparatively little peptidoglycan, they are found mainly in the genitourinary and gastrointestinal tracts, they are harder to treat with antibiotics, and they often release endotoxins when dying.&nbsp;</p>\n"
+            },
+            "library": "H5P.TrueFalse 1.8",
+            "metadata": {
+              "contentType": "True/False Question",
+              "license": "U",
+              "title": "Untitled True/False Question"
+            },
+            "subContentId": "951e75ff-3ccc-4f21-81ee-3852883e399e"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "correct": "false",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "feedbackOnCorrect": "Indeed, the specific immune system needs something to latch onto, and the gram positive bacteria don&#039;t have receptors on their surface. Instead, they have a thick layer of peptidoglycan.",
+                "feedbackOnWrong": "Your answer was incorrect. The specific immune system needs something to latch onto, and the gram positive bacteria don&#039;t have receptors on their surface. Instead, they have a thick layer of peptidoglycan."
+              },
+              "l10n": {
+                "trueText": "True",
+                "falseText": "False",
+                "score": "You got @score of @total points",
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgain": "Retry",
+                "wrongAnswerMessage": "Wrong answer",
+                "correctAnswerMessage": "Correct answer",
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>The specific immunity is quite effective at gram positive bacteria </p>\n"
+            },
+            "library": "H5P.TrueFalse 1.8",
+            "metadata": {
+              "contentType": "True/False Question",
+              "license": "U",
+              "title": "Untitled True/False Question"
+            },
+            "subContentId": "5ebcd1a8-dad5-4a9f-adb0-0cbe39b194be"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "source": "https://scu.h5p.com/content/1291751454913967149",
+  "assetBase": "h5p_35c2e1c652b2618bf114_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_6_1_2_Antibiotics_Overview",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>In many cases, a physician will treat a bacterial infection by giving a broad-spectrum antibiotic that has been proven to be successful in that general type of infection. However, if there is a good possibility that the infection is being caused by resistant bacteria, a Microscopy, Culture and Sensitivity (MC&amp;S) should be performed in a lab, and a narrow spectrum antibiotic may be prescribed based on the results of the MC&amp;S. Match the definition of each portion of the MC&amp;S with the appropriate name.</p>\n",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "The sample can be viewed under a microscope within minutes of arriving at the laboratory. This enables a quick initial report, such as ‘Gram positive cocci seen’, to be telephoned to the clinician if necessary. Combined with an accurate clinical picture, this may be enough to initiate targeted treatment. That process is called *Microscopy* \nA sample from the original culture is grown to create a pure sample to enable further identification of an organism in a process called *Culture*.\nA pure culture is seeded onto an agar plate containing discs saturated with various antibiotics. If the organism grows up to a disc it is resistant to that antibiotic; if there is a clear zone around the disc, it is susceptible. That process is called *Sensitivity*"
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "2f5c84dc-23e7-47f1-9165-29ebf0feeb4f"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Overuse, under dosage, poor compliance, Extended prophylaxis (taking antibiotics to prevent an infection)\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>No, this is the best practice that helps prevent antibiotic resistance from developing.&nbsp;</div>\n",
+                    "tip": "",
+                    "notChosenFeedback": "<div>Your answer was correct,&nbsp;this is the best practice that helps prevent antibiotic resistance from developing.&nbsp;</div>\n"
+                  },
+                  "text": "Physicians requesting a MC&amp;S, and prescribing the most effective antibiotic based on the results. \n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Use of non-suitable antibiotics, Self-administration of leftover drugs, Indwelling devices\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Prolonged hospitalisation, Previous treatment with a variety of antibiotics\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Please select the statement(s) that contribute to antibiotic resistance:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "3840fd66-3a34-427e-9a5a-835cb19ee9b1"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "correct": "true",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false
+              },
+              "l10n": {
+                "trueText": "True",
+                "falseText": "False",
+                "score": "You got @score of @total points",
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgain": "Retry",
+                "wrongAnswerMessage": "Wrong answer",
+                "correctAnswerMessage": "Correct answer",
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Normally, the natural flora on the skin and GIT contains bacteria that release toxins which keep the fungi in check, and fungi that release toxins which keep the bacteria in check. Candida albicans infection (candidiasis), which is a fungal infection of the mouth, GIT and or vagina can occur due to antibiotic use because the antibiotics kill off many of the protective bacteria within the bacterial flora.&nbsp;</p>\n"
+            },
+            "library": "H5P.TrueFalse 1.8",
+            "metadata": {
+              "contentType": "True/False Question",
+              "license": "U",
+              "title": "Untitled True/False Question"
+            },
+            "subContentId": "c588668e-8f98-4569-83a4-4c4537cd72c6"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "correct": "false",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "feedbackOnCorrect": "Well done, the diarrhoea after antibiotic use is due to the toxins secreted by the bacteria as they are dying and we need to expel those ASAP",
+                "feedbackOnWrong": "No, the diarrhoea after antibiotic use is due to the toxins secreted by the bacteria as they are dying and we need to expel those ASAP"
+              },
+              "l10n": {
+                "trueText": "True",
+                "falseText": "False",
+                "score": "You got @score of @total points",
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgain": "Retry",
+                "wrongAnswerMessage": "Wrong answer",
+                "correctAnswerMessage": "Correct answer",
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>If a person gets diarrhoea after commencing antibiotic therapy, they should be given loperamide or another antidiarrheal medication.&nbsp;</p>\n"
+            },
+            "library": "H5P.TrueFalse 1.8",
+            "metadata": {
+              "contentType": "True/False Question",
+              "license": "U",
+              "title": "Untitled True/False Question"
+            },
+            "subContentId": "ff470dde-f2fb-429f-b754-13dce847fb5c"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "correct": "true",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false
+              },
+              "l10n": {
+                "trueText": "True",
+                "falseText": "False",
+                "score": "You got @score of @total points",
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgain": "Retry",
+                "wrongAnswerMessage": "Wrong answer",
+                "correctAnswerMessage": "Correct answer",
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Antibiotics can cause all four types of hypersensitivity reactions. A hypersensitivity type I reaction is the only type of hypersensitivity that is called a true allergy. It involves mast cell degranulation, histamine release, dilated blood vessels and constriction of the respiratory airways. </p>\n"
+            },
+            "library": "H5P.TrueFalse 1.8",
+            "metadata": {
+              "contentType": "True/False Question",
+              "license": "U",
+              "title": "Untitled True/False Question"
+            },
+            "subContentId": "5897b05d-68f4-422e-a152-daa164bed593"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

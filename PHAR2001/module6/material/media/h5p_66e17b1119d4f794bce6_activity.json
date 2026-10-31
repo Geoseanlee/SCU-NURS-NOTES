@@ -1,0 +1,159 @@
+{
+  "source": "https://scu.h5p.com/content/1291751550653905979",
+  "assetBase": "h5p_66e17b1119d4f794bce6_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_6_2_2_Specific_Antibiotics_2",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>Drag the words into the correct boxes</p>\n",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "The antibiotic drug class that can permanently stain teeth in kids and is not to be taken with calcium supplements is the *Tetracyclines* and includes *Doxycycline, Minocycline and other …cyclin drugs*\n*Nitroimidazoles including Metronidazole (aka Flagyl; suffix …dazole)* Treat PID, bacterial vaginosis and candidiasis; pregnancy category B2 drug\n*Cephalosporins including Cefdinir, Cephalexin and other Ceph… drugs* have a high % of hypersensitivity reactions and renal toxicity\nSulphonamides: \n*Sulphamethoxazole  and other Sulf or sulph… drugs* have a high level of toxicity; LFT and EUCs must be performed; causes crystalluria"
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "7a0f9730-f371-46eb-9364-d478307de663"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "Drag the words into the correct boxes",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "A good substitute to penicillins or other β-lactam antibiotics if client has had a hypersensitivity to one of those is the *Macrolides*\n*Lincosamides including Clindamycin and other drugs that have the ...lin... affix* can be used with other medications for malaria\n*Quinolones including Ciprofloxacin, levofloxacin, and other ...floxacin drugs* are important in treatment of serious bacterial infections, especially nosocomial (hospital-acquired) infections\n*Penicillins like Amoxycillin, Penicillin V (V, not 5) and other …cillin drugs* are broad spectrum antibiotics that have a high rate of hypersensitivity reactions including rashes"
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "6a7dfe18-1d27-4fb1-bec8-623d786ef64f"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

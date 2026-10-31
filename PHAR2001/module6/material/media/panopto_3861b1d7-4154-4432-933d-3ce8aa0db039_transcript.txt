@@ -1,0 +1,109 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=413a7910-4a24-4e42-8c46-b47c001d0eba
+Type: captions, not an independently verified transcript
+
+[15.00] Right now, what we're going to do is look at the mechanism of interfering with metabolic processes.
+[21.16] This group of drugs is a fairly small group of drugs, and they work by interfering with the metabolic process involving folic acid.
+[30.80] In other words, they affect DNA and RNA synthesis because the DNA and RNA synthesis is dependent on folic acid.
+[40.80] Now these are bacteria static.
+[43.76] So they're not going to actually kill the microorganism, but instead they're going to keep them in check until the immune system can take over.
+[52.44] One example of a drug that interferes with the metabolic processes is the sulphonamides.
+[58.52] And that's the main group that you'll need to remember. And the example that I need you to remember is sulphur methane.
+[66.27] Sasol. And the most important thing to remember is the fact that their use is limited because of the rare but very,
+[75.23] very serious complications that have resulted in fatalities.
+[80.99] The Sulphonamides have a really high liver toxicity, so one should take it with plenty of water,
+[89.15] and there will need to be blood taken periodically when the person is on those sulphonamides to
+[95.63] make sure that the liver enzymes and the kidney function tests are not showing excessive toxicity.
+[104.75] The sulphonamides have a really high rate of hypersensitivity reactions and also the GI side effects as well.
+[115.07] If you see the SQL or self.
+[121.27] A preface preface this time It's going to be one of the sulphonamides.
+[127.66] The other note about the sulphonamides is that there could be some folic acid hanging around inside the bacteria already.
+[136.74] Remember, what we're doing is preventing the synthesis of the active form of folic acid.
+[142.02] Well there could be some hanging around already.
+[145.62] And in that case, it's going to actually take some time for the sulphonamides to actually start controlling the population of bacteria.
+[155.26] So far, we've just taken a look at two different mechanisms the inhibition of cell wall synthesis and the inhibition of the metabolic processes.
+[166.10] Now we're down to our last two mechanism. And the first one that we're going to look at is the inhibition of protein synthesis.
+[174.50] That's a fairly big group of drugs.
+[177.58] The site of action is usually but it's not always on one of the ribosome units, the ribosome subunits where those proteins are manufactured.
+[187.89] Now we call them selective.
+[190.49] Toxicity to the microorganism, because they do exploit the differences between the structure of the prokaryotic cells and the eukaryotic cells.
+[200.69] But nonetheless, the drugs under this classification can inhibit our ribosomal processes as well.
+[210.41] That's especially possible in higher concentrations.
+[217.77] The four drug classes that I'd like you to remember under that classification are the aminoglycosides,
+[224.85] the amides, the macrolides, and the tetracyclines.
+[230.61] One of the first things to remember is that most of the tetracyclines will end with c clia n e, as does tetracycline.
+[242.29] So you should be able to recognise those new drugs as they come out by just looking for that suffix.
+[249.43] There are two specific tetracyclines that are in the top 300 most prescribed medications, and those are doxycycline and minocycline.
+[260.71] But the doxycycline is the most important and the one that I want you to remember.
+[266.79] It's an interesting note about the tetracyclines in the fact that they are effective against the Plasmodium species that causes malaria.
+[276.07] They are also effective against chlamydia and have a wide range of and, and have a fairly wide spectrum of activity.
+[286.95] However, they are bacteria static instead of bactericidal.
+[293.51] Tetracyclines do have an important side effect that I'd like you to remember, and it's the most important one.
+[300.67] So remember that they do bind to a number of different elements, including calcium.
+[307.47] So what this means is a number of different things.
+[311.62] When it's taken with food, it'll actually bind the calcium,
+[316.34] leading to a decrease in the absorption of the antibiotic and a decrease in the absorption of the calcium.
+[324.02] And also if it's taken with, for instance, a calcium supplement, there probably won't be any absorption of the antibacterial agent.
+[336.90] Another thing that is important to remember is that some of the antacids actually are calcium based antacids, as we've learned before.
+[347.86] So it's not to be taken with calcium based antacids.
+[351.98] And finally, the important thing is what happens inside.
+[357.62] So the tetracyclines have the ability to, like I say, bind that calcium, but it has the ability to do that in the body as well.
+[366.34] And as it binds the calcium in the body. This is especially important for little kids because of the fact that as the person takes that, uh,
+[378.05] it binds to the calcium and then that calcium, uh, tetracycline complex is deposited in bones and teeth.
+[387.09] So there would be potentially permanently stained teeth.
+[393.25] Therefore, the tetracyclines are not recommended for children under the age of eight, but also they could permanently stain teeth even over that age.
+[405.65] So that's the important thing I'd like you to remember about that, about the tetracyclines.
+[410.49] But they also cause photosensitivity and a number of, you know, pretty high percentage of people.
+[417.49] And as I've said before, what is photosensitivity sensitivity.
+[421.97] It's when components of the drug actually are deposited in the skin.
+[428.09] And then a couple days later that is going to respond to the UV radiation.
+[436.16] Another drug that you'll need to know about with respect to the inhibition of protein synthesis would be the group called the aminoglycosides.
+[446.72] The most important aminoglycoside is gentamicin,
+[451.32] and there isn't really a suffix that denotes that most of the aminoglycoside glycosides actually end in m,
+[460.36] I see I, n, or m y sin, but that suffix just tells us that it's derived from a fungus.
+[468.60] And there's many different antibacterial agents that have been derived from fungi, so they have that suffix as well.
+[480.72] Normally, antibiotics that decrease protein synthesis are only bacteria static,
+[487.96] but gentamicin and other aminoglycosides are bactericidal And the most important
+[495.23] thing I want you to remember about aminoglycosides is that they have toxicity,
+[500.35] a lot of documented toxicity. They are toxic to the kidneys.
+[505.43] They're toxic to the eighth cranial nerves. So they have auto toxicity, ear toxicity.
+[511.67] Uh, that'll decrease the the hearing quite substantially in some cases.
+[518.95] Uh, with respect to the kidneys. It'd be really wise if you make sure that the client is not taking any analgesics.
+[528.11] That affects the kidneys. Sometimes they don't put that on the label.
+[532.79] But the non-steroidal anti-inflammatory drugs like aspirin and ibuprofen, they affect the kidneys, they decrease the protective prostaglandins.
+[543.75] And as we know from history, uh, a combination of two things that adversely affect the kidneys can be really, really seriously affecting the kidneys.
+[556.10] So, uh, you know, try to avoid the non-steroidal anti-inflammatory drugs like ibuprofen because of this toxicity,
+[565.14] there is no examples of aminoglycosides that are in the top 300 most prescribed medications,
+[573.30] but they are very frequently used as topical antibacterial agents.
+[578.34] And they're also oftentimes combined with other antibiotics for skin and eye infections.
+[587.10] The last two antibiotics that decrease protein synthesis are the macrolides and the linked amides.
+[594.90] And these are really easy because there's very little you need to know about these.
+[600.74] The Lin cos amides such as clindamycin are effective against malaria when used in combination with another drug.
+[609.30] Look for the Lin affix somewhere in the generic name to identify a linked amide.
+[617.60] The macrolides, such as azithromycin and erythromycin, are good alternatives for clients who are allergic to the beta lactam antibiotics.
+[628.40] Those beta lactam antibiotics that we took. First are the penicillins and the cephalosporins,
+[635.12] and the final mechanism by which antibacterial agents will work is the prevention of bacterial DNA from unwinding the fluoroquinolones,
+[646.32] such as ciprofloxacin and levo fluxes in our broad spectrum antibiotics that I'd like you to remember in that group.
+[655.76] Look for the suffix again. The l flow a c I n is the suffix that's seen at the end of a quint alone or fluoroquinolone.
+[668.96] The fluoroquinolones are fairly well tolerated,
+[671.88] but the important thing that I want you to remember is that we're trying to save them for people who really need them,
+[677.60] because presently they're the best antibiotic for nosocomial infections.
+[682.75] So the hospital acquired infections, those ones that are really resistant to a lot of antibiotics.
+[690.07] And finally, the other medications that affect DNA are the nitro imidazole such as metronidazole.
+[700.15] Look for that da Azoulay suffix.
+[704.23] This is a frequently prescribed medication for women.
+[707.91] It is a pregnancy category B drug, so it can be used during pregnancy and lactation.
+[714.67] Clinically it's important because it treats chlamydia infections.
+[719.39] The chlamydia infections are the ones that cause the greatest amount of pelvic inflammatory diseases.
+[725.91] And it's also effective against bacterial vaginosis, which causes the vaginal discharge to have a fishy odour.
+[735.27] And it's also effective against Giardia,
+[738.27] which is a really common parasite in Australia that gives the client diarrhoea, constant nausea and weight loss.
+[747.54] Okay, that concludes the antibiotics portion of this module.
+[752.22] And since the antibiotics portion of the module was so large in comparison to other portions of the module,
+[757.94] you're well on your way to completing this module.
+[761.78] In this portion of the module, we learned about the very general information about nine different classes of antibiotics,
+[770.30] including one example from each one of those drug classes,
+[773.98] the suffix that denotes the drug class, and one important point about each one of the antibiotics that wasn't too much to remember.
+[783.50] But importantly, that's going to really be a good foundation, so you'll be able to build on top of that foundation in the future.
+[791.90] So in order to really cement things in, let's get on to the activities.
+[796.42] Let's do it. Let's go on to these activities and really cement in that information.
+[801.70] See in the next portion.

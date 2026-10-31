@@ -1,0 +1,25 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=4e6b5eb7-00c5-4213-b7e7-b47c00f9e139
+Type: captions, not an independently verified transcript
+
+[6.60] Hi there and welcome to our module. That's going to give you a really good picture of the medications exhibiting as selective toxicity.
+[14.40] As we know, most of our medications work on our own cellular receptors.
+[19.44] Or they work by inhibiting an enzyme that one of our normal cells produces.
+[25.68] But we don't target our normal cells when we're using anti-infective agents.
+[32.20] Instead, we administer a medication that exhibits a selective toxicity to that microbe,
+[38.60] or to the group of cells that have started to proliferate out of control.
+[43.08] For example, an antimicrobial agent must attack and disable some microbial process or structure that's characteristic of the microbe,
+[53.20] but not of human cells. An example of that is the penicillins and the cephalosporins,
+[59.72] and both of those act in a similar way to decrease the synthesis of the bacterial cell wall.
+[67.16] And since humans don't have a bacterial cell wall, that's a great mechanism because it exhibits a selective toxicity to the microorganism.
+[79.20] Another example of selective toxicity is an anti-cancer chemotherapeutic agent which will target the rapidly proliferating cells.
+[90.21] Or in other words, the cells going through the cell cycle.
+[94.45] So this portion of the module is dedicated toward the medications that exhibit a selective toxicity.
+[100.85] In part A, we're going to get a really good feel for the background information for antibiotics.
+[108.29] The information that you'll need to understand in order to understand the specific antibiotics in part B,
+[114.93] we're going to take those specific antibiotics, but just about nine of them.
+[119.17] And we'll learn just a good foundation for the antibiotics.
+[124.41] In part C we're going to take a look at the antifungal agents.
+[128.69] Really brief look on that one. Part D is going to be an investigation of the really important information on antiviral agents.
+[139.85] And then we'll wind up our discussions of the agents that deliver a selective toxicity by talking about the chemotherapeutic anti-cancer agents.
+[153.21] And we're going to have one other interesting topic in this module.
+[156.81] So stay tuned. We'll see you there.

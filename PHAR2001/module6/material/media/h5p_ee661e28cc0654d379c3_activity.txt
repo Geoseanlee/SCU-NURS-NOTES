@@ -1,0 +1,6 @@
+Source: https://scu.h5p.com/content/1291751582007159699
+Type: activity text extraction (full data in JSON)
+
+Since fungal cells and human cells are both eukaryotic cells, it is difficult to treat systemic fungal infections without resulting in high levels of toxicity to the host. The client will need to drink plenty of water, and you will need to spell out the reason for this saying that if they do not, they will encounter liver and kidney toxicity. In addition, there are other measures we can take. Complete the best practice instructions to the client taking systemic antifungal agents with this drag and drop excercise.
+
+Untitled Drag the Words

@@ -1,0 +1,110 @@
+{
+  "source": "https://scu.h5p.com/content/1291751582007159699",
+  "assetBase": "h5p_ee661e28cc0654d379c3_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_6_3_1_Antifungal agents",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>Since fungal cells and human cells are both eukaryotic cells, it is difficult to treat systemic fungal infections without resulting in high levels of toxicity to the host. <strong>The client will need to drink plenty of water</strong>, and you will need to spell out the reason for this saying that if they do not, they will encounter liver and kidney toxicity. In addition, there are other measures we can take. Complete the best practice instructions to the client taking systemic antifungal agents with this drag and drop excercise.&nbsp;</p>\n",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "Drink plenty of water, (providing an explanation of &#039;why&#039;); avoid NSAIDs and aspirin; along with frequent blood tests, specifically *UECs (urea electrolyte and creatinine)* will help to decrease the *renal toxicity* associated with antifungal agents.\nDrink plenty of water, (providing an explanation of &#039;why&#039;); Frequent blood tests, specifically *LFTs*, and avoidance of alcohol and paracetamol will help decrease the possibility of *hepatotoxicity*"
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "a50cbd72-22b1-4239-91d6-69d4a9cc0d6f"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

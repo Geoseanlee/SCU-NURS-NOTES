@@ -1,0 +1,50 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=413c5b51-5de1-4977-9bb4-b47b00a94d06
+Type: captions, not an independently verified transcript
+
+[7.28] Hi there and welcome back. And right now we're going to be talking about the anti-viral agents.
+[14.68] We knew very little about viruses and even less about treating viruses until the mid
+[20.88] 1980s when the human immunodeficiency virus gave the world a major health scare.
+[29.04] And since then, we've advanced our knowledge quite quickly.
+[32.40] And as a matter of fact, that area of pharmacology has advanced probably more quickly than any other area.
+[40.32] And because of that, I'm not going to make you learn too many specific drugs because they're likely
+[47.84] to change by the time you get out there into clinic or in the laboratory.
+[52.64] Instead, our overall goal should be to understand what a virus is, to what it, understand what it does,
+[61.51] and some of the specific features that viruses have that we can actually target with our drug therapy.
+[69.47] Of course, we will have a few drugs that will specifically need to know, as you saw from the objectives.
+[75.31] Basically just one example of an antiviral agent for the herpes virus,
+[81.07] the influenza virus, the hepatitis viruses and the human immunodeficiency virus.
+[88.43] And we'll keep our eyes peeled on new approved antiviral agents that are developed for the Covid 19 virus as well.
+[99.79] And this is another way to look at what we'll be learning as we investigate the antiviral medications.
+[106.39] We will get a pretty good feel for each one of these viruses,
+[110.31] and then we'll be able to briefly discuss the most important medication for each of the viruses.
+[117.27] So what is a virus? It's important to note that a virus is not a cell.
+[124.02] It's not a cell like a fungal cell or a bacterial cell.
+[128.58] Viruses actually invade fungi and bacteria, and in fact, they do not fit the normal description of life.
+[137.46] They're just an infectious agent. The entire infectious viral particle is termed a virion or virion,
+[146.70] and it contains a protein code or sometimes called a capsid, or other times it's called an envelope.
+[154.66] And those viruses do not have a cell membrane.
+[158.62] They don't have cytoplasm, but they do have a strand of RNA or DNA within the viral coat or capsid.
+[169.86] Now the viruses goal is to get that genetic information into the host cells DNA, and then use the host cell to create more viruses.
+[181.34] The process normally winds up with many more viruses and then the death of the host cell.
+[188.46] So how does the virus get that genetic information into our cells?
+[195.58] And this is an artist's depiction of the human immunodeficiency virus docking and fusing onto a T lymphocyte.
+[204.42] The virus has spike proteins that latch onto a specific protein on the surface of the host cells.
+[211.74] And when that binding and docking occur, there's a fusion onto the of the virus, onto the cell, onto the host cell.
+[221.14] And then the DNA or RNA is injected into the cell, where that host cell reproduces the genetic information to form new viral particles.
+[232.22] From what I've just said. Do you think that any virus is able to affect any cell?
+[241.38] You are correct. If you said no. The proteins on the surface of the virion need to match the proteins on the surface of the host cell.
+[251.29] So the viruses that affect the epithelial cells, like viruses that cause warts,
+[257.13] are not going to be able to bind to and infect, for instance, the T lymphocyte.
+[263.21] In. Conversely, the human immunodeficiency virus that causes Aids isn't going to be able to infect the epithelial cells.
+[273.73] The way in which our medications work is by targeting one of those processes involved in, for instance, viral docking,
+[281.93] fusion, integration of the viral genetic information into the host DNA, or the release of the new viral particles.
+[291.49] And then there's other mechanisms as well, which will discover in a little bit.
+[296.89] And that strategy has been fairly effective in keeping the viruses in check.
+[302.89] But for many viruses, that's not going to eliminate the virus completely.
+[308.68] This is because of the fact that there really needs to be one remaining virus in the host cells in order for an infection to reoccur,
+[319.28] and some of the viruses become dormant and hide within cells.
+[326.20] For instance, the varicella zoster virus that causes chickenpox in the first instance and then later it causes shingles.
+[334.60] The reason it can cause a new infection is because the virus has hidden in the dorsal root ganglion,
+[342.76] where the cell bodies of the peripheral nerves are. And when someone is stressed in their immune system, can allow the proliferation of the viruses.
+[353.20] The viral infection can return at any time, and different viruses hide in different places.
+[360.16] For instance, the human immunodeficiency virus hides in our immune cells as we'll.

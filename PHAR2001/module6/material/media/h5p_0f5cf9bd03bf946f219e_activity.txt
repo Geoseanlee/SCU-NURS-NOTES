@@ -1,0 +1,22 @@
+Source: https://scu.h5p.com/content/1291750993175390419
+Type: activity text extraction (full data in JSON)
+
+Place the type of infective agent, the proteins, small molecules and atoms into the appropriate box to demonstrate that you can picture the size of these compared to each other.
+
+Untitled Drag the Words
+
+Drag the words into the correct boxes
+
+false
+
+Finish ?
+
+Retry ?
+
+If you administer a larger dose of a time-dependent antibiotic, it will get the bacteria under control more quickly.
+
+Untitled True/False Question
+
+true
+
+A narrow-spectrum antimicrobial agent can actually be much more efficacious against a specific bacterium than a broad-spectrum antibiotic

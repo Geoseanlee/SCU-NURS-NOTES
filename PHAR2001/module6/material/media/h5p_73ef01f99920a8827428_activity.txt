@@ -1,0 +1,20 @@
+Source: https://scu.h5p.com/content/1291751474220652489
+Type: activity text extraction (full data in JSON)
+
+Match the antibiotic and drug class to the correct fact about the antibiotic
+
+Untitled Drag the Words
+
+true
+
+Finish ?
+
+Retry ?
+
+Gram negative bacteria are the ones that have comparatively little peptidoglycan, they are found mainly in the genitourinary and gastrointestinal tracts, they are harder to treat with antibiotics, and they often release endotoxins when dying.
+
+Untitled True/False Question
+
+false
+
+The specific immunity is quite effective at gram positive bacteria

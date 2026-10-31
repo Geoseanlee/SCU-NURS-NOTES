@@ -1,0 +1,174 @@
+{
+  "source": "https://scu.h5p.com/content/1291751655572433689",
+  "assetBase": "h5p_d24ec58d896133b1feca_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_6_5_1_Anticancer_Chemotherapy",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>The chemotherapy agent stops the proliferation of red blood cells, leading to anaemia, and as such the client should be instructed on how to rise from a seated position.&nbsp;</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>The chemotherapy agent stops the proliferation of white blood cells, leading to decreased immunity and as such the client should be instructed to avoid large gatherings, avoid contact with animal manure, and take precautions that help prevent their exposure to bacteria.&nbsp;&nbsp;</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>The chemotherapy agent stops the proliferation of platelets, leading to increased bleeding, and as such, rectal thermometers should not be used, stool softeners should be used, and electric razors should be used in place of hand held razors.&nbsp;</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>The chemotherapy agent stops the proliferation of epithelial cells which leads to weak skin and easy bruising, so it should be recommended the person takes extreme care with sharp objects such as knifes.&nbsp; &nbsp;&nbsp;</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>No, this statement is incorrect in two ways. The lining of the GIT is not able to be replaced but that leads to <strong>anorexia</strong>, which is defined as a decreased desire for food, and <strong>not anorexia nervosa </strong>which is a condition where the person chooses not to eat. Also, because many of the foods that the person eats at this time are later associated with the nausea and vomiting that the person experiences, many nutritionists recommend that the client does not eat their favourite foods.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Indeed, this statement is incorrect in two ways. The lining of the GIT is not able to be replaced but that leads to <strong>anorexia</strong>, which is defined as a decreased desire for food, and not <strong>anorexia nervosa</strong> which is a condition where the person chooses not to eat. Also, because many of the foods that the person eats at this time are later associated with the nausea and vomiting that the person experiences, many nutritionists recommend that the client does not eat their favourite foods.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>The chemotherapy agent stops the proliferation of the epithelial skin lining the entire GIT leading to anorexia nervosa. The person should be instructed to eat as much of their favourite foods as possible.&nbsp;</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Most chemotherapy drugs stop rapidly proliferating cells that are going through the cell cycle. This leads to the cancer cells being unable to replicate. But it also leads to other rapidly proliferating cells being unable to replicate the way they normally do, which in turn leads to some of the side effects of the medications. Which of the following statement(s) is/are correct?</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "2a58e021-1dc0-442f-b250-c26b66c548fe"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": true,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

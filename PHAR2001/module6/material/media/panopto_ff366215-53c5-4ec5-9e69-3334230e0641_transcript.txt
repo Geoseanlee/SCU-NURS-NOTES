@@ -1,0 +1,61 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=de92ea21-52a6-413d-8a89-b47c01211d73
+Type: captions, not an independently verified transcript
+
+[8.96] Welcome back. And in this part we're going to be talking about anti-fungal agents.
+[14.28] So the first question would have to be what is a fungus.
+[19.08] Fungi are nature's way of degrading things.
+[22.64] There are very diverse group of organisms. As a matter of fact, over 1 million species of fungi have been identified thus far.
+[34.96] Some of them are associated with systemic infections, and others only about a dozen or so are associated with superficial infections.
+[46.68] We always have fungi in our natural flora, but normally we have a ability to keep them under control because of two important things.
+[58.24] One is our immune system.
+[60.04] And the other thing is that we do have natural flora, including other fungi and their including bacteria as well, and the poisons from,
+[72.57] for instance, the bacteria actually keep the fungi in control and so forth, but you know, it can get out of control.
+[80.97] And when that happens, there is a potential for disease.
+[85.05] And that disease, a fungal infection, is also called a mycosis.
+[90.69] The plural form of mycosis is mycosis. And the mycosis are divided into four groups depending on which type of infection it is.
+[101.13] The worst of the infections, the ones that are almost invariably fatal if not treated, is a systemic or deep mycosis.
+[110.81] Normally, the causative agent for this type of mycosis is a sacrifice that lives in the soil
+[117.57] in susceptible people that normally gains access through the respiratory tract,
+[122.45] and then it disseminates all throughout the body.
+[126.09] Another type of mycosis that's almost always fatal if not treated with an antifungal agent, is a subcutaneous mycosis.
+[135.86] These are still fairly common in tropical countries. They normally gain access into the body through a wound.
+[144.10] The subcutaneous mycosis are very disfiguring because the fungus has infected living tissues.
+[153.14] The cutaneous mycosis involve the epidermis, the hair or the nails, and a good example is athlete's foot.
+[161.78] The fungus lives on the dead or dying top layers of the skin and doesn't really go deeper.
+[168.82] And finally, the superficial mycosis and those affect the very outermost layers of the epidermis or the hair.
+[179.58] Another term that's used to describe a type of fungal infection is an opportunistic infection.
+[186.26] One of the most common opportunistic infections is caused by Candida albicans.
+[192.50] This fungus is normally residing in the git and the vagina, and it's a normal resident.
+[199.75] And since it's a normal resident of the GI and the vagina, it's said to be part of the natural flora.
+[205.83] And as I was explaining during the time we were talking about broad spectrum antibiotics, as we decrease the population of the bacteria,
+[215.63] or when somebody is immunocompromised or someone has a severe diabetes, it has higher levels of blood sugar.
+[223.71] Well, those conditions are going to alter the environment to favour the fungal growth.
+[230.31] And the Candida can get out of control. When we're talking about bacteria and how to control bacteria.
+[239.43] We were saying that it's oftentimes not very difficult to control the bacteria because of the
+[245.55] fact that the bacterial cells are prokaryotic cells and human cells are eukaryotic cells.
+[251.51] There is so much difference between the bacterial cells and the human cells, and we can target those differences.
+[258.56] Now, what we're doing is talking about the fungi. And the fungal cells are eukaryotic cells just like our human cells.
+[267.76] The important thing to remember is that it's very hard to find those differences.
+[272.76] So there's going to be toxicity that's involved with antifungal agents.
+[279.24] And that toxicity is going to affect mainly the liver and the kidneys.
+[284.96] So the liver and kidney function should be monitored.
+[289.84] Will be taking the UCC, the urea electrolyte and creatinine.
+[295.96] That'll give us a pretty good idea of how the kidneys are holding up.
+[299.84] And the liver function tests.
+[301.88] The left liver function test is going to give us an idea of whether the liver, the cells in the liver are dying and how quickly they're dying.
+[314.00] So that along with possibly even a full blood count to make sure that the client Is um, is is coping with that medication fairly well.
+[326.37] Another thing that they need to do is make sure that they have plenty of water, a lot of water, uh, you know,
+[333.37] thoroughly hydrated and also making sure that they're not on any other drug that has a high level of nephron toxicity or hepatotoxicity.
+[346.25] So those are measures that we can do, you know, to decrease the toxic effects of the antifungal agents.
+[355.29] One of the things that a lot of fungi can do is exhibit a type of phenomenon called dimorphism.
+[362.85] They can switch from a mould like or mycelial or hyphal structure to a structure that's more like a yeast, as you see in this picture here.
+[374.09] Candida albicans has that ability to express in a dimorphism,
+[380.45] and this is important in the laboratory because the Infected tissue is going to be in the yeast form,
+[388.06] but when it's grown in cultures, it's going to be in the form that's more like a mould or the mycelial type.
+[397.42] As we get into the overview of the specific antifungal agents,
+[402.90] we need to start looking fairly closely at the fungus and saying, exactly what can we target?
+[408.06] What is the difference here? What's the difference between our cells and the fungal cells?
+[413.26] And the main difference between our cells and the fungal cells is that the human cell has a cell membrane containing cholesterol.
+[423.14] That's the main component of glial cells. Uh, that's that cholesterol is a sterile.
+[431.22] Now the fungal cells have a sterile called external.
+[435.58] And the first two and only mechanisms that we'll be looking at today have to do with targeting that sterile.

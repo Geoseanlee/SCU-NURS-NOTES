@@ -1,0 +1,34 @@
+Source: https://scu.h5p.com/content/1291751454913967149
+Type: activity text extraction (full data in JSON)
+
+In many cases, a physician will treat a bacterial infection by giving a broad-spectrum antibiotic that has been proven to be successful in that general type of infection. However, if there is a good possibility that the infection is being caused by resistant bacteria, a Microscopy, Culture and Sensitivity (MC&S) should be performed in a lab, and a narrow spectrum antibiotic may be prescribed based on the results of the MC&S. Match the definition of each portion of the MC&S with the appropriate name.
+
+Untitled Drag the Words
+
+Overuse, under dosage, poor compliance, Extended prophylaxis (taking antibiotics to prevent an infection)
+
+Physicians requesting a MC&S, and prescribing the most effective antibiotic based on the results.
+
+Use of non-suitable antibiotics, Self-administration of leftover drugs, Indwelling devices
+
+Prolonged hospitalisation, Previous treatment with a variety of antibiotics
+
+Finish ?
+
+Retry ?
+
+Please select the statement(s) that contribute to antibiotic resistance:
+
+Untitled Multiple Choice
+
+true
+
+Normally, the natural flora on the skin and GIT contains bacteria that release toxins which keep the fungi in check, and fungi that release toxins which keep the bacteria in check. Candida albicans infection (candidiasis), which is a fungal infection of the mouth, GIT and or vagina can occur due to antibiotic use because the antibiotics kill off many of the protective bacteria within the bacterial flora.
+
+Untitled True/False Question
+
+false
+
+If a person gets diarrhoea after commencing antibiotic therapy, they should be given loperamide or another antidiarrheal medication.
+
+Antibiotics can cause all four types of hypersensitivity reactions. A hypersensitivity type I reaction is the only type of hypersensitivity that is called a true allergy. It involves mast cell degranulation, histamine release, dilated blood vessels and constriction of the respiratory airways.

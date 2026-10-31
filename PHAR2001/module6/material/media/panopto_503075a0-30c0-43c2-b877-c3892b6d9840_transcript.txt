@@ -1,0 +1,114 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=830902d0-969e-4e64-884f-b47b01249e8f
+Type: captions, not an independently verified transcript
+
+[1.68] Welcome back to the Anti-Infective Pharmacology. And we're still talking about antibiotics or in other words antibacterial agents.
+[10.52] And now what we're going to do in the first instance,
+[13.92] we're going to kind of get an idea about the difference between gram positive and gram negative bacteria.
+[20.04] Then we're going to move on to the different mechanisms by which the antibiotics work.
+[26.52] So for instance, one of the mechanisms by which they work is by damaging or not allowing the synthesis of the bacterial cell wall.
+[36.84] And of course, since we don't have a bacterial cell wall, then that's a perfect mechanism and gives very little toxicity to the human.
+[47.04] After that overview of the mechanisms by which the drugs work, we're going to actually talk about the specific drugs,
+[54.04] and we're going to talk about them under the mechanism by which they work.
+[58.84] In this instance, it's not really that important to, uh.
+[65.86] We learn them by mechanism of action.
+[68.26] So if that doesn't work for you, if that class, if that grouping doesn't work for you, don't get too stressed about it.
+[76.02] The important thing is that you'll learn about different antibiotics the penicillins sulphonamides,
+[83.26] the aminoglycosides of fluoroquinolones, the tetracyclines and the cephalosporins.
+[89.78] And we'll also take a brief look at the amides, the macrolides, and the nitro dazzles.
+[98.06] But don't panic. We don't need to know too much about the nine classes of antibiotics.
+[103.98] We just need to know those nine classes of antibiotics.
+[107.22] One specific example of each drug, the suffix that denotes the drug class and one of the most important clinically relevant points.
+[118.22] And I'll even highlight the most important points for you.
+[122.68] So one of the most important distinctions between different bacteria is the classification of gram positive versus gram negative bacteria.
+[132.08] And if you work in a medical laboratory,
+[134.36] you'll need to know that the gram positive bacteria are the ones that get a positive result after staining, so they stain purple.
+[144.08] But there's other important differences, including the fact that the gram positive bacteria have a very thick layer of peptidoglycan.
+[154.52] As much as 95% of their cell wall contains peptidoglycan.
+[160.44] More importantly is how this translates into the human body and clinically, when in the body,
+[167.64] the innate immune system that non-specific portion of the immune system,
+[173.44] the one that doesn't latch onto anything, any proteins on the outside of allergens.
+[179.84] That portion of the immune system tries to dissolve the outer peptidoglycan layer of the gram positive bacteria with enzymes such as lysozyme.
+[192.18] That's our best protection against the gram positive bacteria,
+[195.90] because those just don't have the antigenic properties that the gram negative bacteria have.
+[202.10] In other words, the specific immune system isn't able to find anything to latch on to.
+[208.50] And the other important thing to realise is that gram positive bacteria are the ones that have that thick layer of peptidoglycan,
+[216.54] and they stain purple, are generally easier to kill with our antibiotics.
+[223.66] In a gram negative bacteria.
+[226.06] The thin layer of peptidoglycan is kind of sandwiched in between the inner cell membrane and a bacterial outer cell membrane.
+[236.22] As you see here, there's a lot of proteins on the surface of the gram negative bacteria.
+[242.10] And those proteins are going to contribute to the antigenic properties of the gram negative bacteria.
+[250.80] Simplistically speaking, there's something for the immune system to latch onto.
+[259.00] The gram negative bacteria are often more difficult to treat and often release endotoxins when they do die.
+[268.68] Here's a list of gram positive and gram negative bacteria along with their general structure, and you can return to that if you're interested.
+[277.80] As we start talking about these specific antibiotics,
+[281.12] you'll recall that one of the most common ways to group antibiotics is by their mechanism of action,
+[289.00] and one of the most important mechanisms by which antibiotics work is to inhibit the cell wall synthesis.
+[297.28] The osmotic gradient between the inside of the bacterium and the outside of the bacterium is really quite large.
+[304.86] And if we don't have an intact cell wall that's not compatible with life for that bacteria.
+[311.50] So this group of antibacterial agents are going to inhibit the cell wall synthesis in their prodigy.
+[320.26] So in other words, the new bacteria as they're being formed, they're not going to be viable.
+[326.94] The most important antibiotics that work by inhibiting the cell wall synthesis include the cephalosporins and the penicillins.
+[336.58] Another mechanism that's used by our antibacterial agents, but this one's fairly rare is the inhibition of DNA unravelling.
+[345.98] So the DNA, of course, has to unravel, as it does in humans before it's able to reproduce.
+[352.54] The Quin alone and the nitro imidazole are the ones that prevent the unravelling in the bacterial cells, but not in the host cells.
+[362.18] And there's a number of different drugs that are able to block the protein synthesis using mechanisms that are specific to the bacteria.
+[371.04] And of course, without proteins, the bacterial cells are not able to repair themselves,
+[376.04] and they're not able to grow when they're not able to divide the aminoglycosides.
+[382.68] Lyn Cosima reads the macrolides, and the tetracyclines are the ones that are most commonly used from this classification.
+[393.32] And finally, the antibacterial agents that inhibit metabolic processes normally target the synthesis of the active form of folic acid.
+[405.32] Because folic acid is necessary for the bacteria to reproduce,
+[410.08] we as humans can use the folic acid from our diet, so we don't need an enzyme to make it from inactive.
+[417.40] Precursors. Sulphonamides are the most important example of antibacterial agents that work by inhibiting metabolic processes.
+[429.63] I've grouped the following antibacterial agents into their respective mechanism of action for your convenience.
+[438.23] So let's take a look at that first mechanism of action the inhibition of cell synthesis.
+[444.47] The cell wall synthesis.
+[446.87] This group of antibiotics include all of the beta lactam antibiotics, including the cephalosporins, the penicillins, and the carbapenem.
+[459.35] It's probably best that you think of them as similar antibiotics, because the active portion of their structure is the beta lactam site,
+[470.67] and they have similar side effects like a really high percentage of hypersensitivity reactions.
+[477.91] So that whole group is very similar.
+[481.15] And one of the most important points about the beta lactam antibiotics is that the bacteria themselves often develop
+[489.65] a resistance to those antibiotics by synthesising an enzyme on that active portion on the beta lactam portion.
+[500.69] They they synthesise an enzyme called beta lactamase, which attacks the beta lactam ring and makes the antibiotic virtually useless.
+[513.77] We can overcome that resistance by administering another drug, a beta lactamase inhibitor, and we do that along with the beta lactam antibiotic.
+[527.09] Another important point about that group of antibiotics is that they oftentimes, as I said before, result in serious allergic reactions.
+[537.25] So they should be considered as very similar kinds of antibiotics in the first place.
+[545.89] And then you'll tease out some differences as you get to the finer points.
+[552.15] These agents are normally bactericidal, so sidle like genocide.
+[557.95] They will be killing the cells rather than just holding them in check.
+[562.43] There are a number of different antibiotics that fall under the classification of beta lactam antibiotics,
+[570.63] but we only really need to know about the two, which are penicillin and cephalosporin.
+[575.91] And we'll start out by talking about the penicillins. You can tell that a antibiotic is a penicillin by the suffix celyn.
+[587.95] So the drugs that are penicillins are going to be ending with that celyn suffix.
+[595.47] There are two antibiotics from the penicillin class of antibiotics that are in the top 300 most prescribed.
+[603.03] And those are amoxicillin and penicillin V.
+[607.39] It's not a penicillin five. Like a Roman numeral and penicillin V.
+[613.37] So remember the amoxicillin as the example of the penicillin.
+[618.85] And look for that silly n suffix.
+[623.65] One of the most important adverse effects of penicillin is that hypersensitivity reaction.
+[630.29] So about 10% of individuals taking penicillin are going to undergo a hypersensitivity reaction of some sort.
+[640.33] About only about 10% of that 10%. So in other words, about 1% of people actually have a true allergy.
+[649.41] So a type one hypersensitivity reaction involving the mast cell and the mast cell degradation granulation,
+[657.85] the shortness of breath and breath and the hypertension,
+[661.41] those kind of symptoms that we covered when we were talking about the antihistamines and anaphylaxis
+[669.71] or anaphylactic shock occurs in about 0.01 to 0.02% of individuals receiving the penicillin.
+[679.87] And also remember that a person who's allergic to penicillin can actually have a much greater risk
+[686.31] of being allergic to the carbapenem and the cephalosporins and some other antibiotics as well.
+[692.51] So normally we do not go there. We do not administer carbapenem or cephalosporins to the clients who are allergic to penicillin antibiotics.
+[704.99] The normal recommendation in the case of suspected allergy to penicillin is to one of these penicillin antibiotics would be the macrolides,
+[717.19] such as erythromycin and azithromycin.
+[723.67] These cephalosporins are the other group of antibiotics that you should know just a
+[727.75] little bit about under that classification of being able to inhibit the cell wall.
+[732.53] Synthesis. The prototype of the cephalosporins was originally derived from the antibiotic produced by cephalosporin M.
+[742.13] Acrimonious. There's some advantages over penicillin with the cephalosporins because the cephalosporins have a wider spectrum of activity,
+[753.49] and also they have a longer half life than the penicillins.
+[759.17] When you're looking at the name of a new drug and its beginning with the letters C, E, P, or C, E, f, it's probably a cephalosporin.
+[772.01] So just remember the the affix affix for cephalosporins are the cep h or the cf.
+[782.65] There are two cephalosporins that are in the top 300 most prescribed medications.
+[787.81] It's namely soft, linear, and cephalic skin.
+[791.91] Most cephalosporins need to be injected into a muscle, but left ear and cephalic skin are available orally.
+[801.87] The common adverse effects of cephalosporins include gastrointestinal tract disturbances, and the cephalosporins are pretty toxic to the kidneys.
+[812.39] But if you're going to choose any of the cephalosporins, the CF dinner has less renal toxicity than the others.
+[822.55] So the cephalosporins and the penicillins are two examples of the beta lactam group of antibiotics, and they work by the same mechanism of action.
+[833.23] They work by inhibition of cell wall synthesis.
+[837.91] Right now, let's do some activities to really make sure that we understand those first two antibiotics.
+[845.35] And then when we come back we're going to get to the remaining seven groups of antibiotics.

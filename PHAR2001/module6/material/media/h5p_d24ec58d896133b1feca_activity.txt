@@ -1,0 +1,20 @@
+Source: https://scu.h5p.com/content/1291751655572433689
+Type: activity text extraction (full data in JSON)
+
+The chemotherapy agent stops the proliferation of red blood cells, leading to anaemia, and as such the client should be instructed on how to rise from a seated position.
+
+The chemotherapy agent stops the proliferation of white blood cells, leading to decreased immunity and as such the client should be instructed to avoid large gatherings, avoid contact with animal manure, and take precautions that help prevent their exposure to bacteria.
+
+The chemotherapy agent stops the proliferation of platelets, leading to increased bleeding, and as such, rectal thermometers should not be used, stool softeners should be used, and electric razors should be used in place of hand held razors.
+
+The chemotherapy agent stops the proliferation of epithelial cells which leads to weak skin and easy bruising, so it should be recommended the person takes extreme care with sharp objects such as knifes.
+
+The chemotherapy agent stops the proliferation of the epithelial skin lining the entire GIT leading to anorexia nervosa. The person should be instructed to eat as much of their favourite foods as possible.
+
+Finish ?
+
+Retry ?
+
+Most chemotherapy drugs stop rapidly proliferating cells that are going through the cell cycle. This leads to the cancer cells being unable to replicate. But it also leads to other rapidly proliferating cells being unable to replicate the way they normally do, which in turn leads to some of the side effects of the medications. Which of the following statement(s) is/are correct?
+
+Untitled Multiple Choice

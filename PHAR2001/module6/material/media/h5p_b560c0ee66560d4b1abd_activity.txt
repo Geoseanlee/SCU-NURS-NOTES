@@ -1,0 +1,16 @@
+Source: https://scu.h5p.com/content/1291751630837019399
+Type: activity text extraction (full data in JSON)
+
+false
+
+Finish ?
+
+Retry ?
+
+Many viruses ‘hide’ in different portions of the body so that they are safe from immune surveillance. An example of this is the human immunodeficiency virus which hides in the dorsal root ganglion (where the cell bodies of the sensory nerves are)
+
+Untitled True/False Question
+
+true
+
+One of the most important recommendations about antiviral medications is that they need to be administered almost as soon as any symptoms are felt. The reason for this is the exponential replication of the virus. Nearly every time viral particles are released from host cells, the host cell dies, leading to many of the symptoms. By the time we notice symptoms, there is mass destruction of cells already.
