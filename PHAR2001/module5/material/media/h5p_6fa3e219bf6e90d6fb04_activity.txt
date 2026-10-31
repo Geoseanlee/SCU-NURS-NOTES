@@ -1,0 +1,32 @@
+Source: https://scu.h5p.com/content/1291747417785309039
+Type: activity text extraction (full data in JSON)
+
+Fentanyl
+
+Methadone
+
+Morphine
+
+Naloxone
+
+Loperamide
+
+Finish ?
+
+Retry ?
+
+Please tick the two opioids that are least effective for reducing pain:
+
+Untitled Multiple Choice
+
+The nausea and vomiting caused by opioids can be decreased by ‘…setron’ drugs like ondansetron or sometimes by lying down
+
+The respiratory depression caused by opioid consumption is caused by a decreased sensitivity of the brainstem to rising levels of carbon dioxide
+
+The itch caused by opioid consumption is due to components of the drug binding to epithelial cells
+
+The pinpoint pupils of a person with opioid overdose can be a valuable sign that points to opioid overdose rather than other drugs.
+
+Clients who have been taking opioids for over three weeks often come back complaining of increased pain.
+
+Which of the following statements is/are correct?

@@ -1,0 +1,58 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=66c1e685-deb9-4820-94a7-b47b00fb027b
+Type: captions, not an independently verified transcript
+
+[8.28] Non-steroidal anti-inflammatory drugs and aspirin are some of the most frequently used over-the-counter medications.
+[17.08] And the reason that these two drugs are oftentimes discussed together is because of the fact that they have the same general mechanism of action.
+[25.80] Specifically, they inhibit the actions of Cox two, which is necessary for the inflammatory prostaglandins.
+[34.20] But in order to understand many of the side effects of non-steroidal anti-inflammatory drugs,
+[40.40] it's important to note that they don't just inhibit Cox two,
+[47.08] they also inhibit cyclooxygenase one, which makes the prostaglandins that are constitutive in many organs.
+[57.16] In other words, aspirin and nonsteroidal anti-inflammatory drugs inhibit the enzyme that makes prostaglandins,
+[65.79] which are important in the function of many organs.
+[71.35] For instance, in our stomach, the prostaglandins formed by Cox one act on the parietal cells to inhibit the acid secretion.
+[81.83] They act on other cells in the stomach to increase protective mucus and to increase the bicarbonate secretion.
+[90.07] So think about that. If we blocked the Cox one enzyme in the stomach and basically took away that protective prostaglandin,
+[99.35] that decreased stomach acid, increased bicarbonate and increased protective mucus.
+[104.67] What's going to happen in the gut? Yes. It's going to be much more susceptible to developing peptic ulcers.
+[112.67] So our non-steroidal anti-inflammatory drugs that decrease Cox one and Cox two are going to have the side effect of damaging the stomach.
+[122.23] And interestingly, the medication itself also Permeates the cells in the stomach, making the damage much more severe.
+[132.62] So that's the reason that we always ask our clients who have been taking nonsteroidal anti-inflammatory
+[138.58] drugs or aspirin if they have any stomach irritation or if they have black and tarry stools.
+[146.10] The blood that is released from the stomach in the case of a peptic ulcer is going to oxidise, and it's going to result in black and tarry stools.
+[158.22] Another important example of how many of our adverse effects of non-steroidal
+[163.26] anti-inflammatory drugs comes from the inhibition of the Cox one enzyme involves the kidneys.
+[170.90] Cox one enzymes are involved in producing the prostaglandins that dilate the blood vessels in the kidneys,
+[180.10] allowing the optimum blood flow, and that is protective to the kidney function.
+[187.26] When we disturb that with our non-steroidal anti-inflammatory drugs, there's going to be short and long term damage.
+[195.61] Simplistically speaking, those medications are going to have some renal toxicity on their own,
+[201.37] but they're also going to result in a lot more toxicity to the kidneys if they're taken along with a drug that has some inherent nephron toxicity.
+[213.37] So when a client is prescribed a drug that has known nephron toxicity,
+[219.09] you'll be asking them not to take that drug with the non-steroidal anti-inflammatory drugs
+[225.09] because that nephron toxicity is going to increase without those protective prostaglandins.
+[232.85] And if you extrapolate that information out,
+[235.97] you can see how our non-steroidal anti-inflammatory drugs that pretty much damage the JIT and damage the kidneys,
+[244.77] they're going to be contraindicated in people who have peptic ulcer disease or renal disease.
+[252.77] Chronic use of non-steroidal anti-inflammatory drugs also correlates with an increased risk of hypertension and also myocardial infarction.
+[263.92] However, aspirin is not associated with that increased risk of myocardial infarction.
+[271.40] And finally, the non-steroidal anti-inflammatory drugs increase the risk of bronchospasm,
+[278.16] and they may be contraindicated in some asthmatics who are sensitive to the potential bronchospasm actions of those medications.
+[289.80] In conclusion to the non-steroidal anti-inflammatory drugs and aspirin, because of the fact that they're available over the counter,
+[297.68] a lot of your clients are going to assume that they're completely safe.
+[302.04] But as we just saw, they're not, especially when used long term.
+[307.52] Long term use of non-steroidal anti-inflammatory drugs are going to be associated with an increased risk of peptic ulcer disease.
+[316.23] Increased risk of renal failure and an increased risk of cardiovascular problems.
+[322.51] So, as we'll see in the case of any analgesic, using the smallest effective dose for the shortest period of time is most appropriate because of the
+[335.55] side effects that we're experienced with the drugs that blocked the Cox one and Cox two enzymes.
+[342.67] Drug companies were really keen to develop drugs that selectively blocked the Cox two enzyme and left the Cox one enzyme alone.
+[353.91] It was thought that all of the side effects were due to that Cox one enzyme,
+[359.35] and the hypothesis was that the Cox two inhibitors were going to be completely safe.
+[367.43] So the medications with the suffix Cox IB, Cox IIB were put out on the market.
+[376.35] That includes celecoxib, para Those are just a couple examples of the Cox two specific inhibitors.
+[385.38] They leave the Cox one enzyme pretty much alone.
+[390.14] Initially, aside from the theory that the Cox two specific drugs were going to be better, there were a few scandals involved in the research.
+[399.86] In other words, there was a lot of fabricated data that started, quote unquote,
+[405.82] confirming that Cox two specific drugs like celecoxib were safer and more effective than non-steroidal anti-inflammatory drugs.
+[416.06] And you may still hear that from some doctors or other sources.
+[420.54] But in reality, those drugs are no more effective than non-steroidal anti-inflammatory drugs.
+[427.50] And there's also a really high risk of developing serious cardiovascular complications, such as myocardial infarction or stroke.
+[437.46] So they're not recommended for more than a couple weeks duration.

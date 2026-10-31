@@ -1,0 +1,81 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=05b71d07-c457-4794-9506-b47b00e6cc1a
+Type: captions, not an independently verified transcript
+
+[9.36] And as I've said previously, morphine is the main active component of the opium poppy plant.
+[17.08] The poppy plant has other opioids, such as codeine,
+[21.32] but morphine is the main one and it was the first one to be isolated, was the first opioid to be isolated.
+[28.96] And it's also the mainstay analgesic.
+[34.32] We compare all of our doses to morphine. So if nothing else at this stage,
+[39.68] what you should probably aim to do is get a good idea of the dosing of morphine and get a general
+[46.48] idea of whether the other specific analgesics are significantly stronger or weaker than morphine.
+[56.16] Morphine has a short half life of only about 2 to 4 hours,
+[60.87] and one of the problems with morphine and morphine overdose has to do with the metabolites of morphine.
+[67.11] Some of those metabolites have a neuro excitability effect.
+[71.99] And even when you treat for morphine overdose, the treatment only knocks off the morphine substance off of those opioid receptors.
+[82.87] It doesn't take care of those active metabolites that have that neuro excitability effect.
+[91.11] Sometimes morphine comes in controlled release preparations, and those are often thought of for chronic pain.
+[98.87] But since morphine is not generally very effective for chronic non-cancer pain,
+[105.39] the patches have fairly limited applications, being most useful in the weeks after surgery.
+[111.71] For instance, morphine is also available in subcutaneous injections.
+[118.11] Intramuscular injections, oral preparations, and of course, intravenous administration is also possible.
+[127.67] One note about morphine.
+[129.35] Because of the fact that we compare all opioids to morphine, we normally compare it to ten milligrams of intramuscular morphine.
+[140.87] But importantly, morphine is metabolised quite extensively in the first pass.
+[146.59] So in order to get an oral dose equivalent to ten milligrams intramuscular, you'd have to administer 30mg.
+[157.55] And in comparison, a lot of the other opioids are not as extensively metabolised.
+[165.27] You won't see that drastic difference between the intramuscular and the oral preparations in most other opioids.
+[174.67] For instance, oxycodone has less of a hepatic first pass and a longer half life than morphine.
+[182.67] Oxycodone can be used as an alternative to morphine when compared to 30mg of morphine that
+[189.55] one would need to take in order to get the equivalent of ten milligrams intramuscular.
+[196.19] One only needs to take 15 to 20mg of oxycodone orally.
+[202.59] Oxycodone is generally less addictive than morphine,
+[206.11] but if there is an addiction possibility or if the patient is sensitive to the constipated effects of the oxycodone,
+[213.51] there are combinations of oxycodone and naloxone.
+[218.95] Now, this is an interesting combination because oxycodone is an opioid agonist and naloxone is an opioid antagonist.
+[229.79] The idea is that the naloxone actually reduces the opioid induced euphoria and reduces the
+[236.90] constipated effects while still retaining most of the pain relieving effects of the oxycodone.
+[245.58] Moving on to codeine. Codeine is a very weak opioid.
+[250.46] Codeine is one of the alkaloids in the opium poppy plant, so you can call it an opiate, but it's best to just stick with the umbrella term opioid.
+[261.22] It's much better absorbed than morphine, so subcutaneous or intramuscular injection needs to be about 12 times that of morphine.
+[270.50] But the oral dose only needs to be about seven times that of morphine.
+[276.82] The important thing to note about the codeine is that it's available with paracetamol,
+[281.78] and it's also available with some of the nonsteroidal anti-inflammatory drugs like ibuprofen and naproxen.
+[289.98] Approximately 10% of the population lacks the enzyme that's necessary to convert the codeine to the active form, which is morphine.
+[301.65] So one of the reasons that your client may say, well, I don't get any relief from coding is because they're not changing that drug to the active form.
+[311.41] Although codeine is a much weaker opioid than most other opioids, it does have a potential for abuse.
+[318.05] And therefore, as of the first portion of 2018, Australians do have to have a script for codeine containing products.
+[326.81] Until that time, you were able to go to the pharmacist and ask the pharmacist for the codeine containing products.
+[334.41] Fentanyl is not one of the ones that I've asked you to know much about, but it's a very potent synthetic opioid.
+[342.37] It has a very rapid onset and a short duration. Fentanyl is about 100 times as potent as morphine.
+[352.41] Tramadol is a synthetic opioid that has a couple actions.
+[356.33] First of all, it binds to the opioid receptors for pain.
+[360.21] But it also inhibits the reuptake of serotonin and noradrenaline.
+[365.89] And that's interesting because tramadol doesn't produce the euphoria that's associated with substance abuse.
+[373.65] And it also doesn't develop tolerance or dependence.
+[378.73] Tramadol has been found to be effective in reducing moderately severe pain.
+[384.89] It has not been found to be beneficial for neuropathic pain,
+[388.89] but it's definitely a medication that should be considered for people who have potential substance abuse.
+[396.21] People who abuse the opioids. And there's a much lower incidence of respiratory depression with tramadol.
+[404.81] The important drug interaction to remember about tramadol is that it's contraindicated with selective serotonin reuptake inhibitors,
+[413.89] tricyclic antidepressants, monoamine oxidase inhibitors, so all of the antidepressants as well as warfarin.
+[424.89] The reason, of course,
+[425.73] that it's contraindicated with depression medicine is because of the fact that it does in itself inhibit the reuptake of serotonin.
+[437.25] Finally, methadone is an opioid that's given to heroin and morphine addicts to help them overcome their addiction.
+[444.45] Now, methadone in itself is addictive, but it's got much weaker withdrawal symptoms than the other opioids.
+[452.85] And since the methadone binds very strongly to the receptors, if the heroin addict had another injection of heroin after methadone administration,
+[465.25] the heroin isn't going to bind to those receptors because they're already fully bound
+[471.37] with the methadone that concludes this portion of the lecture series on the analgesics.
+[477.36] We were just talking about the opioid narcotic analgesics.
+[482.24] Recall that one of the problems with the opioids is the fact that as a person takes them for a long period of time,
+[488.96] and it's not very long, about two weeks or so, they start developing a tolerance to the analgesic properties.
+[495.80] What starts to occur is that we have decreased numbers of opioid receptors,
+[501.52] and we also have decreased amount of production of our own endogenous opioids in our body.
+[509.68] Another problem with the opioids is that they all, or almost all of them have a euphoric effect.
+[517.48] And that euphoric effect is kind of beneficial in the first instance for a short period of time in coping with the pain.
+[527.60] But the problem is that that's the thing that makes the opioids addictive, so the person starts taking the opioids more and more frequently,
+[537.40] reduces the number of opioid receptors, reduces their endogenous opioids.
+[541.72] And then we've got a problem because of the fact that basically they've got more pain than they had when they started out.
+[550.88] So and at the same time, they are not actually reducing their sensitivity to the respiratory depression.
+[558.48] So the final portion of this lecture series is going to talk about the relief of chronic and neuropathic pain.
+[566.40] And there we're going to be using some medications which we wouldn't normally consider analgesics.
+[575.60] We'll see you there.

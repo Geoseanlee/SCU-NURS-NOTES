@@ -1,0 +1,367 @@
+{
+  "source": "https://scu.h5p.com/content/1291750715256529899",
+  "assetBase": "h5p_3fba8b6fa2005ec84d80_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_5_7_3_SNRIs_and_Atypical_Antidepressants",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Duloxetine (Cymbalta) and Venlafaxine (Effexor) are SNRIs in the SNRIs you were asked to learn because they are in the top 200 most prescribed medications in Australia.&nbsp;\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>Like other SNRIs Duloxetine (Cymbalta) and Venlafaxine (Effexor) block the reuptake of noradrenalin and serotonin (5HT)</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "SNRIs produce less sedation and fewer cardiovascular and antimuscarinic side effects as compared to TCAs\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>NO, THE CLIENT MUST BE WITHDRAWN SLOWLY!</div>\n",
+                    "tip": "",
+                    "notChosenFeedback": "<div>Your answer was correct. Always withdraw SNRIs and other antidepressants slowly.&nbsp;</div>\n"
+                  },
+                  "text": "<div>SNRIs have the advantage over other antidepressants that you can simply stop taking the medication after the depression has resolved.&nbsp;</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Please select the statements that are TRUE about S<strong>N</strong>RIs:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "1f923015-0775-4c98-b12f-377de409232e"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "Drag the words into the correct boxes",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "An MAOI that is a last-resort antidepressant that is plagued with side effects is *Phenelzine* \n*Sertraline (Zoloft)* is a SSRI that is effective for panic disorder, social anxiety disorder, generalized anxiety disorder, and obsessive–compulsive disorder (OCD) \n*Amitriptyline* is a TCA that treats major depressive disorder, neuropathic pain, fibromyalgia, migraine and tension headaches.\n*Duloxetine (Cymbalta)* is an SNRI that is used to treat major depressive disorder, generalized anxiety disorder, fibromyalgia, neuropathic pain\n*Trazodone* is an atypical antidepressant which can increase libido which is opposite to most antidepressants"
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "3135d5ba-382e-4028-b8cf-5d137d6a339f"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "taskDescription": "Drag the words into the correct boxes",
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+              "textField": "An SNRI that is used to treat major depressive disorder, generalized anxiety disorder, panic disorder, and social anxiety disorder is *Venlafaxine (Effector)*\n*Escitalopram (Lexapro)* is an SSRI that is mainly used to treat major depressive disorder and generalized anxiety disorder\n*Fluoxetine (Prozac)* is an SSRI that is for the treatment of major depressive disorder, obsessive–compulsive disorder (OCD), bulimia nervosa, panic disorder, and premenstrual dysphoric disorder.\n*Bupropion* is often an add-on medication and decreases the sexual dysfunction caused by other antidepressants and help clients stop smoking"
+            },
+            "library": "H5P.DragText 1.10",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Untitled Drag the Words"
+            },
+            "subContentId": "c4409ef2-ed2f-418f-8e4f-342bad574f7b"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Lithium has a very narrow therapeutic range\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Lithium is nephrotoxic, so as with all nephrotoxic medications, even if it is not indicated on the label, NSAIDs and other nephrotoxic agents must be avoided and the client must drink plenty of water\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "Plasma concentrations of lithium must be monitored closely to avoid toxicity, which includes cardiac dysrhythmias, convulsions and renal failure\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>No, lithium carbonate (lithium) is better for the mania than the depression.&nbsp;</div>\n",
+                    "tip": "",
+                    "notChosenFeedback": "<div>Your answer was correct; lithium carbonate (Lithium) is better for the mania than the depression.&nbsp;</div>\n"
+                  },
+                  "text": "<div>Lithium is better for the depressive portion of the client's disorder than the mania</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Clients who have manic depressive disorder will fluctuate between depression and mania, which in many ways is opposite that of depression and involves elevated mood and a much higher risk of suicide. The first line therapy for manic depressive disorder is lithium carbonate. Please tick the statement(s) that is/are TRUE about Lithium carbonate.</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "cbc4832b-ceaf-4af4-84a2-0127e1cda034"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

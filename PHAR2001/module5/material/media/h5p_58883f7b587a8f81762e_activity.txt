@@ -1,0 +1,18 @@
+Source: https://scu.h5p.com/content/1291750887781641249
+Type: activity text extraction (full data in JSON)
+
+Since the typical antipsychotic medications like Haloperidol and Chlorpromazine block all of the dopamine pathways about equally, predict (or recall from the lesson) what will happen as it blocks each of the pathways. Drag each of the pathways to the response elicited in that path when there is a decreased amount of dopamine.
+
+Untitled Drag the Words
+
+true
+
+Finish ?
+
+Retry ?
+
+Tardive dyskinesia is a condition that results in excessive or distorted facial movements like lip smacking and tongue thrusts, and can occur with long term use of (especially) the first generation (typical) antipsychotic agents due to dysregulation of the basal ganglia.
+
+Untitled True/False Question
+
+Quetiapine, Aripiprazole, Risperidone and Olanzapine are second generation (atypical) antipsychotic medications in the top 200 most prescribed medications. They differ by the strength of binding to each of the dopamine receptors (and other receptors). There are ratings for efficacy and tolerability that help the prescriber choose the exact antipsychotic agent that is best for the individual client.

@@ -1,0 +1,28 @@
+Source: https://scu.h5p.com/content/1291747252439317639
+Type: activity text extraction (full data in JSON)
+
+Paracetamol has anti-inflammatory effects and is generally about as effective at reducing pain as NSAIDs
+
+Paracetamol toxicity in the number one cause of acute liver failure in Australia, UK, USA, NZ and Canada.
+
+Paracetamol dose should NEVER be increased because the increased dose has no effect on reducing pain, but results in greater side effects.
+
+Paracetamol has a very variable half life between clients and is found in many types of medication including cold and flu meds.
+
+Finish ?
+
+Retry ?
+
+Choose the correct statement(s) about Paracetamol:
+
+Untitled Multiple Choice
+
+Paracetamol toxicity includes extremely painful acute liver failure
+
+There is an antidote for paracetamol toxicity, but there is a very short (two hour) window where the client can be given N-acetylcysteine
+
+Paracetamol toxicity only occurs when the person is trying to commit suicide
+
+Paracetamol toxicity may result in abdominal pain but the alarming thing about paracetamol overdose is that there may not be any symptoms for up to 12 days after ingestion.
+
+Which of the following statements about Paracetamol toxicity is correct?

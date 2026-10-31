@@ -1,0 +1,34 @@
+Source: https://scu.h5p.com/content/1291750055963950539
+Type: activity text extraction (full data in JSON)
+
+Diazepam (Valium)
+
+Alprazolam (Xanax)
+
+Buspirone
+
+Clonazepam
+
+Lorazepam
+
+Hydroxyzine
+
+Finish ?
+
+Retry ?
+
+Most benzodiazepines end in the suffix …zepam or …zolam. Which of the following is NOT a benzodiazepine?
+
+Untitled Multiple Choice
+
+Benzodiazepines potentiate the action of the inhibitory neurotransmitter GABA at the interneurons in the brain, meaning that they increase the amount of inhibition in the brain.
+
+Generally, the benzodiazepines that come on quickly and have a short half life are better as hypnotics (sleep inducing medications) while those that are long lasting are better for muscle spasm
+
+Diazepam, first sold as Valium has a very long half life (50 hours) and is commonly used to treat anxiety, panic attacks and muscle spasms
+
+Long term administration of benzodiazepines increases the risk of developing Alzheimer’s disease and there is a potential for addiction and abuse
+
+While treatment with benzodiazepines is associated with the development of Alzheimer disease, dose or duration of use are not factors in this correlation.
+
+Select the statement(s) that is/are correct about the Benzodiazepines

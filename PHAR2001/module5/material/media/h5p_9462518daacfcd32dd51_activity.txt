@@ -1,0 +1,34 @@
+Source: https://scu.h5p.com/content/1291747292390438149
+Type: activity text extraction (full data in JSON)
+
+Chronic non-cancer pain
+
+Severe, acute pain
+
+Suppression of cough
+
+Diarrhoea
+
+Neuropathic pain like that from diabetic neuropathy
+
+Finish ?
+
+Retry ?
+
+Opioids are frequently indicated for:
+
+Untitled Multiple Choice
+
+Tolerance (they become less effective and more dangerous with continued use)
+
+Addiction due to the euphoric effects
+
+Constipation
+
+Respiratory depression
+
+A rash
+
+Sleep apnoea
+
+Very common side effects associated with opioids include:

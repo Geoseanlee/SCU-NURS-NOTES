@@ -1,0 +1,260 @@
+{
+  "source": "https://scu.h5p.com/content/1291747546584245529",
+  "assetBase": "h5p_0ae7491a1fa3167da439_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_5_4_1_Chronic_and_Neuropathic_Pain",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Good work, this type of peripheral neuropathy is very painful, despite the fact that the person normally has a decreased ability to recognise touch stimuli.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>You should have selected this because this type of peripheral neuropathy is very painful, despite the fact that the person normally has a decreased ability to recognise touch stimuli.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Alcoholic or diabetic neuropathy</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Yes, shingles damages nerve endings and leads to chronic neuropathic pain.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Next time, select this, because shingles damages nerve endings and leads to chronic neuropathic pain.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>The pain after a bout of shingles</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "<div>This type of acute pain normally resolves after a short amount of time, while neuropathic pain occurs after long term damage to the nerve endings.&nbsp;</div>\n",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>The throbbing pain after a paper cut.&nbsp;</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Choose the type(s) of pain that would be considered 'neuropathic pain'</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "97ad2bbe-5292-4f38-913e-b62758a987ec"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>You are correct. The problem is that neural impulses are not supposed to start there!</div>\n",
+                    "notChosenFeedback": "<div>You should have chosen this answer. It happens in wind up even though neural impulses are not supposed to start there.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Inflammation of the dorsal root ganglion, resulting in initiation of neural impulses&nbsp;</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Yes, and if the longer lasting neurotransmitter is being used to transmit pain, the pain lasts longer.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>This is one of the correct answers, and the result is that the pain lasts longer.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Increased use of the neurotransmitter glutamate that has a longer half life than the other neurotransmitter, substance p</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>Fewer inhibitory signals and fewer inhibitory neurons in the \"gate\", which is the area between the first and second order of neurons.&nbsp;</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Actually, serotonin and noradrenaline are inhibitory neurons at the gate, and we WANT more of those there to decrease the pain.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Correct,&nbsp;serotonin and noradrenaline are inhibitory neurons at the gate, and we WANT more of those there to decrease the pain.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Increased serotonin and noradrenaline in the area of the 'gate'</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>When a client experiences chronic, neuropathic pain or other types of chronic pain, there are changes in all three orders of neurons, which magnify the pain. The term used for these changes is central sensitisation or wind-up phenomenon or simply 'wind up'. Example(s) of wind up include:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "244c80e4-d1b4-4ebb-962d-2fae61ff4ca3"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

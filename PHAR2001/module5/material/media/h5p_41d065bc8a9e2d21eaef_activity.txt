@@ -1,0 +1,20 @@
+Source: https://scu.h5p.com/content/1291750617218392529
+Type: activity text extraction (full data in JSON)
+
+Manic depression means severe depression
+
+People with depression normally have a decreased level of serotonin and or noradrenaline in the areas of their brain associated with mood
+
+The term 5HT is synonymous with serotonin
+
+The antidepressants that are plagued with the most side effects and interactions with other drugs and even food are the Monoamine oxidase inhibitors (MAOIs; phenelzine)
+
+Clients should expect that their depression will resolve with one of the antidepressants within a couple weeks.
+
+Finish ?
+
+Retry ?
+
+Choose the correct statement(s) about depression
+
+Untitled Multiple Choice

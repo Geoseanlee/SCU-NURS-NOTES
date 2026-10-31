@@ -1,0 +1,65 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=e5a3aaf4-28e2-46f7-8adb-b47c014bba06
+Type: captions, not an independently verified transcript
+
+[1.80] So with that is a brief overview of inflammation and where our anti-inflammatory drugs work.
+[9.08] We can move on to the review of the pain pathway as a really broad overview.
+[15.16] Let's just see what happens when we experience a cut on the finger.
+[19.40] Within the finger there is peripheral sensory neurones that detect this.
+[25.60] Specifically, there will be a propagation of impulses that starts at the injury and then goes up the nerve to the spinal cord.
+[36.76] Now that first nerve is oftentimes referred to as the first order of neurones.
+[43.92] And that information is going to be transmitted to the second order of neurones, specifically that neurone is a spinal cord neurone.
+[55.36] But in this area between the first order of neurones, in the second order of neurones.
+[61.38] That's a really important area to note, because that's the area that we'll be referring to as the gate.
+[70.94] That's an area where some of our medications work, and it's also the area where our endogenous analgesic system works.
+[81.90] In other words, we have a natural area that is there to decrease the transmission of pain when it's not in our best interest to feel pain.
+[93.66] The impulses that get through that gate travel onto the second order of neurones and crossover, or we call it decussate,
+[103.90] over to the contralateral side of the spinal cord, and then it goes up to the thalamus and the associated areas from the thalamus.
+[114.50] The impulses go via the third order of neurones to the primary sensory cortex And also
+[121.73] the limbic area of the brain where we get that emotional influences of the pain.
+[128.65] So if you understood that brief overview of how pain is transmitted, we can take a closer look at the most important points along that pathway.
+[139.09] Let's start out with the first order of neurones. In that sensory pathway there are actually three different types of peripheral nerve fibres.
+[150.37] There's the a delta fibre. Those are myelinated fibres.
+[155.65] And they transmit the impulses really quickly.
+[159.57] And that's the pathway that we use for acute pain.
+[163.29] For instance, if you prick yourself on the finger with a needle, that's going to be felt really, really quickly and just recall the feeling,
+[173.45] the difference in feeling that you would have with that kind of pain in comparison to something like a deep pain from the joint of the same finger.
+[186.59] The acute pain is almost stimulating, and the deep, aching pain is almost depressing, so that deep, aching pain is carried by the C fibres.
+[198.35] Those are not myelinated. They travel much slower and they're also dropped off at different points as well.
+[206.87] So a lot of that type of pain, in fact, would be able to be felt in the absence of brain involvement.
+[214.43] And the final fibre that we need to look at in this first order of neurones is this purple pathway, which is a sensory pathway.
+[223.43] It's not going to transmit the pain, but it is used, for instance, when you're rubbing that painful area.
+[231.67] The most important thing to note about that pathway is that it initially drops off the
+[237.39] information about the same level of the spinal cord just at that gait that we are talking about.
+[244.70] And very simplistically speaking, it can to some extent override some of the painful stimuli.
+[253.10] That's the reason that the first thing that you do when you hit your finger with the hammer is to rub that area.
+[260.22] That rubbing of the area can act as a natural analgesic.
+[265.86] So all of this information from the periphery goes from that periphery through the cell bodies called the dorsal root ganglion.
+[274.46] And then on to this area that we called the gate.
+[279.74] What I'm going to do right now is to overview that area between the first order of neurones and the second order of neurones.
+[288.30] And then I'm going to zoom into the area to get a little bit closer look, because most of our analgesics actually work at that gait.
+[298.54] This fibre right here is the first order of neurones.
+[302.80] This is the second order of neurones, and this red neurone is the one that we call the natural inhibitory pathway.
+[311.44] So it's our natural analgesic area. Okay.
+[316.12] Zooming into that area we find once again the first order of neurones is right here.
+[321.60] The second order of neurones is here. And the inhibitory pathway is right here.
+[328.92] Have you ever injured yourself during, for instance, a really important game?
+[335.72] You were playing some sort of a game and it was really important to you.
+[339.52] You injured yourself and then you just put it out of your mind until you were finished.
+[343.80] And then when you finished, you realised how painful it really was.
+[349.40] Well, the reason that that happens is because we have a natural analgesic area.
+[356.40] That natural analgesic area has different Neurotransmitters.
+[363.47] For instance, it has the opioids, it has the cannabinoids, and it has the noradrenaline or sometimes called norepinephrine.
+[374.59] So NE is the abbreviation for noradrenaline or norepinephrine.
+[380.91] That is also the area where our analgesics will be working.
+[387.95] So for instance our opioids will be working on these opioid receptors.
+[393.71] Our cannabinoids, which are the active chemical compounds in marijuana, are going to be working on these cannabinoid receptors.
+[402.87] And our tricyclic antidepressants are going to be working on the five that serotonin and also the any the noradrenaline or norepinephrine receptors.
+[419.63] So pulling out to get the bigger picture, so that we can get a broad idea of where our analgesics will be working.
+[427.13] We find that aspirin and other nonsteroidal anti-inflammatory drugs are going to be working out in the peripheral nerve,
+[435.05] decreasing the propagation of impulses at the site of inflammation and pain.
+[441.01] So at that very first portion, we find that the opioids,
+[446.09] tricyclic antidepressants and the selective serotonin reuptake inhibitors are going to be working just inside the spinal cord,
+[455.17] just at between that first order of neurones and the second order of neurones, the place that we call the gate.
+[462.69] In the next portion of the lecture series, we're going to be looking at the nonsteroidal anti-inflammatory drugs,
+[469.49] the antipyretic and the over-the-counter analgesics.
+[474.53] We'll see you there.

@@ -1,0 +1,14 @@
+Source: https://scu.h5p.com/content/1291746705297009119
+Type: activity text extraction (full data in JSON)
+
+true
+
+Finish ?
+
+Retry ?
+
+The perception of pain is client-specific and we must take note of the individual’s perception of the pain when administering analgesics.
+
+Untitled True/False Question
+
+The sub-acute phase of pain, which occurs a few days to four months after the initial development of pain is the time that the changes begin to occur along the pain pathway, called wind up, that magnify the pain. These changes make the pain worse, so aggressive treatment of the pain during that time is warranted.

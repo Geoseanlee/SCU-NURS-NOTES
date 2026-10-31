@@ -1,0 +1,24 @@
+Source: https://scu.h5p.com/content/1291747277090580939
+Type: activity text extraction (full data in JSON)
+
+Both children and the elderly metabolise analgesics at about the same rate as other humans
+
+The dose of analgesics in children is based on mg of drug per kg in child weight and NEVER should be x% of the adult dose
+
+Aspirin is not to be used in children who have a fever /viral infection because it can (rarely) cause Reye’s syndrome, which is a life threatening
+
+Codeine is contraindicated in children younger than 12 because it is generally ineffective and can cause respiratory depression.
+
+Finish ?
+
+Retry ?
+
+Select the true statement(s) about analgesics
+
+Untitled Multiple Choice
+
+true
+
+Elderly clients are often taking several different medications at the same time and one of them is likely to be nephrotoxic. Since NSAIDs decrease the blood flow through the kidneys, it should never be taken with other medications that have nephrotoxicity as the two mechanisms of toxicity could do much more harm than just one.
+
+Untitled True/False Question

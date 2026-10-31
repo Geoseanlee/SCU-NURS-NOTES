@@ -1,0 +1,73 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=0319c592-9c39-4a0d-90cf-b47c01185fbc
+Type: captions, not an independently verified transcript
+
+[14.88] Antipsychotic agents can be arranged in two broad classes the first generation or typical antipsychotic agents,
+[23.84] and the second generation or atypical antipsychotic agents.
+[30.28] The first generation antipsychotic agents are being used less and less frequently, and none of those agents are in the top 300 most prescribed drugs.
+[40.80] But there is still a lot of clients who are stabilised on these medications, and therefore we need to know a bit more about them.
+[49.68] Also, as you get to understand the common side effects of those medications, the first generation ones,
+[57.40] you can apply that to the similar but lesser side effects experienced with the second generation antipsychotic agents.
+[67.17] The first generation antipsychotic medications all share the same main therapeutic goal, which is to block the D2 receptors.
+[79.45] They're not specific to any of those four pathways, and thus they block the dopamine in each pathway equally.
+[89.45] So let's predict what's going to happen as a person takes a typical first generation
+[95.45] antipsychotic agent that blocks the four D2 pathways that we just mentioned.
+[102.53] Blockage of the dopamine in the mesolimbic pathway blocks the positive symptoms, such as delusions and hallucinations.
+[111.93] That's good. Fewer delusions and hallucinations. However, blockage of the dopamine in the meso cortical pathway,
+[122.13] which is thought to be Underactive in schizophrenia already is thought to cause a worsening of the negative.
+[130.15] Psychotic symptoms such as loss of emotion, diminished energy, inability to express emotions, and social withdrawal.
+[140.27] Blockage of the dopamine. In the third pathway, the Nigro striatal pathway, results in Parkinsonian symptoms such as muscle rigidity,
+[150.27] difficulty in starting and stopping movements, and in tremors.
+[156.27] Recall in Parkinson's disease, we aimed to get more dopamine in that area, not less.
+[163.23] Lastly,
+[164.19] the blockage of the dopamine in the final pathway the two Barot in funded Buehler pathway leads to increased levels of prolactin and galactose,
+[175.07] which is a milk production, and also gynaecomastia, which is breast development in males and also sexual dysfunction.
+[184.83] There are two first generation antipsychotic agents that you should be aware of.
+[190.68] Haloperidol and chlorpromazine. Typical antipsychotics are divided into high potency and low potency.
+[201.00] High potency examples include. Haloperidol. High potency ones generally give more extrapyramidal symptoms and more galactic area.
+[214.64] A low potency example is chlorpromazine.
+[218.48] The low potency ones don't have as much affinity for the D2 receptors, so the extrapyramidal symptoms are less,
+[227.84] but they do bind to and partially block other receptors, resulting in a variety of side effects.
+[236.40] When they block the alpha adrenergic receptors, they cause orthostatic hypotension as they block the acetylcholine receptor.
+[246.60] They have anticholinergic symptoms, and as they block the histamine one receptor, they cause drowsiness, sedation, and weight gain.
+[259.02] Finally, there is one important complication of haloperidol and chlorpromazine,
+[265.46] as they may cause a dysregulation of the basal ganglia, resulting in a disorder termed tardive dyskinesia.
+[276.10] Tardive dyskinesia is a condition of excessive or distorted facial movements like tongue thrusts,
+[284.54] lip smacking, and exaggerated eye blinking, and it's often a permanent condition.
+[292.66] So once we have that picture in our mind about the first generation antipsychotic agents blocking the D2 receptors and their associated side effects,
+[302.90] we can compare them to the second generation antipsychotic agents,
+[309.18] while the second generation atypical antipsychotic agents blocked the dopamine two receptors as well.
+[317.32] But they do this transiently and disassociate quickly, leading to a more normal dopamine transmission.
+[326.48] These agents also block the serotonin receptor type two A,
+[331.12] which helps lower the extrapyramidal side effects and decreases the negative symptoms in comparison to the first generation medications.
+[344.08] The second generation antipsychotic medications in the top 200 most prescribed medications include quetiapine,
+[352.60] aripiprazole, risperidone, and olanzapine.
+[359.16] So the bottom line is that these agents normalise the dopamine pathways much better than the first generation antipsychotics,
+[368.60] so they are more efficacious and also have fewer side effects,
+[374.21] but they do have a varying affinity for other receptors in the brain, and that's the reason that the side effect profile differs from one to another.
+[387.13] For instance, olanzapine binds to the serotonin two C strongly and therefore causes metabolic symptoms such as weight gain and high glucose levels.
+[401.05] Agents like Quinn Tippin and olanzapine that block the histamine one receptor also cause drowsiness.
+[411.77] Risperidone binds strongly to the alpha one receptor, so it causes orthostatic hypotension.
+[420.17] Risperidone also binds strongly to the D2 receptor and therefore causes the highest amount of extrapyramidal side effects,
+[430.49] as well as the effects associated with high levels of prolactin.
+[436.62] So in summary of what we've just learned. Psychosis is a condition that is difficult to live with, but in many cases,
+[445.10] the client will choose to live with the psychosis rather than the side effects from the treatment.
+[451.78] So it's important to find the right antipsychotic agents for the individual.
+[460.10] First generation antipsychotics will generally have the greatest amount of side effects,
+[465.14] and generally be the least tolerated due to the profound Parkinsonian symptoms.
+[471.78] The excesses in prolactin and the increase in negative symptoms.
+[477.70] But those same symptoms oftentimes happen in people who are on the second generation antipsychotic agents, usually to a lesser degree.
+[487.82] There are ratings for each of the antipsychotic agents, so they rate, for instance, aripiprazole as the fourth best for weight gain,
+[497.84] the fifth best for extrapyramidal symptoms, the best for prolactin elevation, and the fifth best for sedation.
+[507.72] And the prescriber can use those ratings to work with the client's specific needs.
+[514.84] So if the client's main concern about their current medication is the symptoms associated with prolactin elevation,
+[522.96] aripiprazole is probably the best medication for that individual.
+[528.12] But remember that it'll vary with each client.
+[532.32] And that's all for this portion of the Central Nervous System Pharmacology lecture series.
+[537.72] As we saw, the antipsychotics are sometimes called major tranquilliser and also sometimes called neuroleptic,
+[547.84] are fairly effective for relieving the psychosis in the short term.
+[555.08] The first generation antipsychotics were known as typical antipsychotics,
+[560.58] and those were developed way back in the 1950s, and most of the second generation are called atypical antipsychotics.
+[571.30] And those were most of those were developed. More recently,
+[576.66] both generations of the antipsychotic medications tend to block the receptor in the in the brain of the dopamine pathway and the atypical ones,
+[590.18] the ones that were second generation. Those seem to block the dopamine pathways, but they also have an effect on the serotonin receptors as well.
+[602.74] So in the next and final portion of the lecture series, we're going to talk about the seizures and the anti-seizure medications.

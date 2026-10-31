@@ -1,0 +1,26 @@
+Source: https://scu.h5p.com/content/1291747546584245529
+Type: activity text extraction (full data in JSON)
+
+Alcoholic or diabetic neuropathy
+
+The pain after a bout of shingles
+
+The throbbing pain after a paper cut.
+
+Finish ?
+
+Retry ?
+
+Choose the type(s) of pain that would be considered 'neuropathic pain'
+
+Untitled Multiple Choice
+
+Inflammation of the dorsal root ganglion, resulting in initiation of neural impulses
+
+Increased use of the neurotransmitter glutamate that has a longer half life than the other neurotransmitter, substance p
+
+Fewer inhibitory signals and fewer inhibitory neurons in the "gate", which is the area between the first and second order of neurons.
+
+Increased serotonin and noradrenaline in the area of the 'gate'
+
+When a client experiences chronic, neuropathic pain or other types of chronic pain, there are changes in all three orders of neurons, which magnify the pain. The term used for these changes is central sensitisation or wind-up phenomenon or simply 'wind up'. Example(s) of wind up include:

@@ -1,0 +1,89 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=662dba59-a908-41c9-a396-b47c015a6794
+Type: captions, not an independently verified transcript
+
+[2.68] As you have that overview of pain in your mind, what we're going to do now is to review the inflammatory and the pain pathways,
+[12.00] placing our various medications into the context of that review.
+[17.00] We're going to start out with inflammation.
+[19.96] The Merriam-Webster dictionary defines inflammation as a local response to cellular injury that's marked by capillary dilation,
+[29.68] leukocyte infiltration, redness, heat and pain.
+[34.72] They further say that it serves as a mechanism to initiate the elimination of noxious agents and of damaged tissue.
+[44.28] So our goal in inflammation is to begin the elimination of noxious agents in damaged tissue.
+[53.96] As we begin to picture what occurs in inflammation, we first need to understand where it occurs.
+[62.46] Inflammation occurs in the interstitial spaces of the sinuses and conditions like sinus congestion in the bronchi.
+[70.66] In conditions like asthma, in different organs, like the joints of our fingers and knees, and conditions like arthritis.
+[78.58] So where is the interstitial space? I don't see it in this diagram.
+[84.34] In this diagram of the skin, it's almost impossible for an artist to depict the interstitial space, so they simply don't.
+[93.18] The interstitial space is not really a space at all. It's what's happening in between all of those cells that are visible in this diagram.
+[104.18] And it's totally missing from the diagram. In this diagram you can start to visualise the interstitial space with those green arrows.
+[113.46] So it's the area between the functional cells where the green arrows are that is the interstitial space.
+[123.51] And in this next diagram we're going to do the exact opposite thing that we did in the first diagram.
+[129.79] We're going to eliminate all of the cells of the tissues except the blood vessels.
+[134.87] And we're just going to look at what is happening in the interstitial spaces when there's inflammation.
+[141.83] In this case there is bacteria that are entering the skin and prompting the inflammation.
+[147.19] But we can apply the same process to inflammation from any cause.
+[152.95] In the interstitial space. There's resident cells like macrophages and mast cells.
+[160.59] When there is some type of microorganism allergen or one of our cells dies, those particles need to be eliminated from the area.
+[170.75] If, for instance, it was just one dead cell, the macrophage would just eliminate it by engulfing the debris.
+[177.67] But if it's hundreds of particles that we need to remove from the area those
+[183.41] resident mast cells and macrophages start signalling for help in a number of ways.
+[189.53] The first thing that they do is to release pre-formed mediators of inflammation.
+[197.21] Now those are substances that have a long half life.
+[202.25] They can be made before they're actually needed and just stored in the cells.
+[209.45] Those are substances like histamine and histamines going to be kept in the cell until it's needed.
+[216.37] When it's needed, it goes out into the blood vessels, dilates the blood vessels,
+[221.57] and that dilation of the blood vessels is necessary for more blood cells to come to the area,
+[228.09] like the neutrophils and other cells like the T cells to come to that area.
+[234.65] Other mediators of inflammation will be made over the next few minutes to the next few hours.
+[241.79] Leukotrienes are really important in the lungs.
+[245.43] They're synthesised using an enzyme that the mast cell has, and they're mediators of inflammation that have a long acting broncho constriction.
+[255.79] Leukotrienes are not as important in inflammation that's outside of the respiratory system.
+[263.15] Probably the most important mediators of inflammation are the prostaglandins.
+[269.07] Some of the prostaglandins, such as the prostaglandin D2, are synthesised by the mast cell.
+[277.07] So that's D2 by the mast cell. And they exert potent stimuli for other immune cells like the T cells the
+[285.55] neutrophils the basophils to come to the area they attract all of those cells.
+[292.31] Those are the prostaglandins that initiate and perpetuate the inflammatory response.
+[298.31] And then there's other prostaglandins like the prostaglandin E2 that's released mostly from the macrophages, the T cells and the neutrophils.
+[309.09] Those are directly related to what we call the cardinal signs of inflammation.
+[315.57] That heat, that redness and that pain. Those prostaglandins dilate the blood vessels leading to oedema in the redness in the area.
+[325.85] And they also act directly on the nerves increasing the level of pain.
+[332.45] Remember, though, that the prostaglandins need to be made.
+[337.21] They're not preformed. They need an enzyme called cyclooxygenase two.
+[344.73] We abbreviate that as Cox two. The other important inflammatory mediators to note in this picture are the cytokines.
+[354.33] The cytokines are messenger molecules basically the way one cell speaks to another.
+[360.85] Now it can speak to the other cell.
+[363.34] That's like pretty much really close to it, or it can actually go systemically and speak to the cells, for instance, in the bone marrow.
+[374.22] Two of the most important inflammatory cytokines include interleukin one and tumour necrosis factor.
+[384.34] So with that as an overview, let's take a look at where our medications work.
+[391.50] These steroidal anti-inflammatory drugs are very similar to cortisol and other glucocorticoids that we make in the adrenal cortex.
+[404.38] Those anti-inflammatory agents are like prednisone prednisolone hydrocortisone.
+[412.06] Those are the corticosteroids. They decrease all of this every aspect of the inflammation.
+[421.82] They're going to be decreasing that inflammation. And overall,
+[426.88] the steroidal anti-inflammatory drugs yields the most profound decrease in
+[433.20] inflammation that can be seen with any of our anti-inflammatory medications.
+[439.20] Unfortunately, those steroidal anti-inflammatory drugs are plagued with side effects because the person who's taking those
+[448.40] is taking a pharmacological dose of one of the most important and potent agents that our body makes.
+[458.56] Therefore, the glucocorticoids are oftentimes reserved for extreme inflammation that's unresponsive to other medications.
+[469.20] Our other anti-inflammatory agents will focus pretty much on just one of those things that's occurring in this inflammatory cascade.
+[479.08] Remember the prostaglandins.
+[481.40] There's the Prostaglandin D2 that's released from the mast cell, and the prostaglandin E2 that's released from the macrophages.
+[491.02] Well, we can target the enzyme that's responsible for the production of those prostaglandins
+[497.78] with the non-steroidal anti-inflammatory drugs like aspirin and ibuprofen.
+[504.98] And obviously the reason they're called nonsteroidal anti-inflammatory drugs is that
+[511.58] they give profound anti-inflammatory effects without being one of the glucocorticoids.
+[519.58] So if we can decrease prostaglandin D2 from the mast cells, we're going to temporarily decrease the perpetuation of the inflammatory cascade.
+[530.90] And also if we can decrease prostaglandin E2 from the macrophages, then we can decrease the amount of capillary dilation.
+[541.14] So that that decreases the redness and the heat in the area.
+[544.92] We can also decrease the pain by decreasing that level of E2,
+[550.68] because remember that it's prostaglandin E2 that acts directly on the nerve endings, sensitising the nerve endings to the pain.
+[561.96] So we do all that with our non-steroidal anti-inflammatory drugs like aspirin, ibuprofen and Nurofen.
+[572.72] Another group of anti-inflammatory drugs includes the tumour necrosis factor antagonists.
+[579.84] Those have a lot of side effects at this point, so we won't spend too much time on those.
+[585.00] Remember, the tumour necrosis factor is one of the most active inflammatory cytokines, and as such,
+[592.84] the tumour necrosis factor antagonists are useful in severe inflammatory disorders such as rheumatoid arthritis and Crohn's disease.
+[603.93] In the respiratory system, we discuss other drugs like leukotriene receptor antagonists.
+[611.13] Those are drugs like Monte Lucas. And also we discuss the mast cell stabilisers.
+[619.01] And finally, there is a couple of other medications that we should just be aware of that act on this cascade.
+[628.01] But they're not actually considered anti-inflammatory agents, for instance, the antihistamines,
+[635.05] they're not really considered an anti-inflammatory agent because they just decrease that first aspect of the inflammatory cascade.
+[643.37] And then there's also in the respiratory system, we see the beta two agonists,
+[650.17] those puffer drugs, those actually have a stabilising effect on these mast cells.

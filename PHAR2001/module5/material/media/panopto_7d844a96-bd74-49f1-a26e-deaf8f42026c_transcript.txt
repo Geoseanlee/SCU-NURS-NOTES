@@ -1,0 +1,69 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=58ae9b45-6271-42fd-bec5-b47c0050a5cb
+Type: captions, not an independently verified transcript
+
+[15.76] Welcome back to the lecture series on the pharmacology of the central nervous system.
+[20.56] In this portion of the lecture series, we're going to talk about psychosis and also the antipsychotic medications.
+[29.72] Psychosis is an abnormal condition of the mind.
+[34.00] It's going to involve a lot of different things for a lot of different people.
+[39.80] Some of them are personality changes. Some are hallucinations, delusions.
+[46.84] Sometimes people engage in repetitive movements or exaggerated movements that are purposeless, or some types of overactivity in their movements.
+[61.80] In general,
+[62.84] people with psychosis oftentimes have a difficulty in their social interactions and also an impairment in the carrying out of their daily activities.
+[73.96] So it's important to be able to treat psychosis.
+[78.56] But the problem is that our antipsychotic drugs will oftentimes have so many and so powerful adverse effects that
+[89.00] the person who's receiving the medication oftentimes prefers the psychotic episode over the treatment itself.
+[99.04] We'll see that in a second. The objectives for this portion of the video series will generally include to briefly explain the hypothesised
+[109.16] neurologic abnormalities that are found in individuals with schizophrenia and other forms of psychosis.
+[116.84] To explain the four major pathways for dopamine two in the brain and relate those to the actions of our antipsychotic medications.
+[126.76] And then we will compare the typical antipsychotic agents to the atypical antipsychotic agents identified in these specific objectives.
+[138.84] So since we're talking about antipsychotic agents, we need to know a bit more about what psychosis is.
+[147.04] You can simplistically think of psychosis as a loss of contact with reality.
+[153.08] Psychosis can be accompanied by unusual or bizarre behaviour, and difficulty with social interaction.
+[160.28] And psychosis can make just the normal daily activities nearly impossible.
+[168.20] There's a wide range of behavioural patterns that would fall under the umbrella term of psychosis.
+[175.60] For instance, a person might be considered psychotic simply because they have extreme paranoia
+[181.92] that prohibits them from accomplishing their normal everyday activities,
+[187.12] and other people with psychosis may experience hallucinations, and still others may simply have a depression.
+[195.92] But such an extreme depression that their sense of reality is distorted.
+[202.24] A person can develop psychotic behaviour by simply doing something like too much alcohol or psychotropic drugs like marijuana or LSD,
+[211.68] but that's a drug induced psychotic behaviour.
+[216.20] A person is considered to have psychosis when that situation becomes their normal behaviour.
+[223.96] The most common type of psychosis is schizophrenia. Schizophrenia affects 1% of the population.
+[231.24] But interestingly, if you took all of the homeless people in Australia, over 20% of those people are affected by schizophrenia.
+[243.00] A lot of times we think of those affected by schizophrenia as having dual personalities.
+[249.32] This may be partly due to the fact that the word schizophrenia comes from the Greek words meaning splitting of the mind,
+[257.52] but it's not a split personality or multiple personality disorder.
+[263.24] The splitting of the mind has to do with the fact that the incoming stimuli do not match the responses.
+[271.80] People with schizophrenia. People with schizophrenia might have information coming into their minds that they simply don't process correctly.
+[281.48] For instance, they may hear of a very sad story like the death of a child and feel great emotion, but then start laughing.
+[290.68] Normally, schizophrenia starts becoming obvious in young adulthood around the ages of 16 to 21.
+[300.11] And although we don't know too much about why schizophrenia develops, we have found correlations with genetics,
+[309.35] different adverse conditions during in uterus stages, and also in the consumption of psychotropic drugs before the age of about 22.
+[322.47] Schizophrenia is commonly divided into positive and negative symptoms.
+[328.71] Positive symptoms are generally the ones that are easier to treat.
+[333.15] Positive symptoms include things like delusions, disorganised speech and thought, disordered perception, disordered emotion, and hallucinations.
+[344.59] For instance,
+[345.67] someone with positive symptoms might be listening to a band and absolutely be convinced that despite the fact that the band is on television,
+[355.67] that the band members are actually singing to them.
+[359.79] Negative symptoms include things like toneless speech, social withdrawal,
+[367.07] lack of enjoyment, apathy and there would be normally extremes of those conditions.
+[375.91] People with schizophrenia are thought to have irregularities in their dopamine pathways,
+[382.39] and therefore most of our antipsychotic medications work primarily on those pathways, antagonising the dopamine pathway.
+[393.15] In other words, decreasing the amount of dopamine in the dopamine pathways in order to understand
+[401.11] how our medications work and why they cause the side effects that they do.
+[405.91] We are going to need to understand a brief overview of the dopamine pathways in the brain.
+[413.19] Dopamine has four major pathways by which it affects the brain the mesolimbic pathway,
+[420.23] which is thought to be hyperactive in schizophrenia and it mediates the positive symptoms in psychosis such as delusions and hallucinations.
+[432.95] So think about that for a second.
+[435.27] If the person complained about delusions and hallucinations and they were given a dopamine two antagonist, something that decreases dopamine,
+[447.15] you can see how that's going to decrease the hyperactive mesolimbic pathway and lead to a decrease in those symptoms.
+[457.03] But dopamine also affects the other pathways.
+[461.43] The three other pathways the mezzo cortical pathway, which is thought to be underactive in schizophrenia already,
+[471.15] and that's thought to contribute to the negative psychotic symptoms such as loss of motivation and social withdrawal.
+[481.03] The third pathway is the Nigro striatal pathway, which is part of the extrapyramidal system and controls movement.
+[491.75] Deficiencies in dopamine in this pathway contributes to the Parkinsonian symptoms.
+[498.55] Excesses of dopamine can lead to hyperkinetic movements.
+[505.03] The final pathway is the Tiberio in funda Bühler pathway, which controls prolactin release.
+[513.15] Dopamine in this pathway inhibits prolactin release.
+[518.07] Prolactin is a hormone that enables milk production and controls sexual desire.
+[525.59] So right now, let's take a brief break to make sure that you understand what psychosis is and the four major dopamine pathways.

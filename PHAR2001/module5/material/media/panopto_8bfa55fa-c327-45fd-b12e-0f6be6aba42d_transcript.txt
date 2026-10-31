@@ -1,0 +1,99 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=705a871f-b898-475c-8b9a-b47c012899a2
+Type: captions, not an independently verified transcript
+
+[11.20] Welcome to the Central Nervous System Pharmacology Lecture Series.
+[16.12] In this portion of the series, we're going to be talking about the neurodegenerative disorders and the drugs that are used to treat those disorders.
+[27.32] With respect to the neurodegenerative disorders, there are a few of them, but some of them, like Huntington's disease, they're not very prevalent.
+[38.84] So what we're going to do is we're going to concentrate on the two most prevalent disorders, the degenerative disorders.
+[47.36] And those are Alzheimer's disease and Parkinson's disease.
+[51.56] And in that way, we'll cover well over 90% of the degenerative disorders.
+[57.76] So the objectives for this portion of the lecture include.
+[61.44] To describe Parkinson's disease and Alzheimer's disease with respect to the neurologic changes that occur.
+[70.60] Briefly explain the mechanism by which the following drugs exert their therapeutic
+[76.12] effects and the major indications and side effects for Parkinson's disease.
+[82.52] There's a combination of two drugs, Dopa, Dopa and levodopa, which is called cinematic, and also Ben's tropane for Alzheimer's disease.
+[96.76] The drugs are donepezil and memantine.
+[102.04] Let's begin by talking about Parkinson's disease as a very broad overview.
+[107.40] Parkinson's disease results in a decrease in dopamine neurones.
+[112.48] So dopaminergic neurones and that results in abnormal movements.
+[118.91] In order to understand Parkinson's disease, we need to simplistically understand the process of movement.
+[126.11] Most movement, about 80% of neurologic pathways involved in movement,
+[131.91] involves pathways that go from the primary and secondary motor cortex in the brain,
+[139.27] through the pyramids, in the brain, and to the effectors out in the periphery.
+[146.27] The movements that result from those 80% of neurones are not really refined.
+[152.43] They are gross movements. The other 20% of neurones involved in movement go through the extrapyramidal pathway involving the basal ganglia.
+[166.31] That pathway controls involuntary movements.
+[170.47] It maintains posture and it initiates movement.
+[175.63] And that's important. So please think about it. The pathway that's involved in the basal ganglion controls involuntary movements.
+[184.83] It maintains posture and it initiates movement.
+[190.47] Since Parkinson's disease dis regulates the basal ganglia.
+[195.19] What do you think the signs and symptoms of Parkinson's would be?
+[200.63] Remember that the area affected maintains posture.
+[204.55] So what's the person going to look like. Well they're going to lose their balance fairly easily.
+[211.19] They fall backwards. And in order to compensate for that they're stooped over.
+[217.63] So to make sure that they won't fall backwards, the basal ganglion controls involuntary movements.
+[224.47] So the person with Parkinson's disease is going to develop what we call a pill rolling tremor.
+[231.63] Now, that term was originally developed when people used to roll medicines into pills with their thumb and their index finger.
+[242.35] So think about what that's going to look like.
+[245.03] The person is going to look like they're taking a piece of sticky cork or something off of their thumb with their index finger.
+[255.59] So they're going to try to get that cork off of their index finger.
+[259.51] And that normally happens when the person is at rest.
+[263.27] So it's not going to happen immediately as they sit down in front of you.
+[266.91] But as they become at rest, that's going to start to occur as a pill rolling tremor.
+[274.35] And by the way, whenever you hear about a tremor, make sure that you find out exactly what kind of tremor it is,
+[282.39] because each kind of tremor is going to suggest a different disorder.
+[289.19] And finally, the basal ganglia Is involved in initiation of movement.
+[297.14] So if you take a look at the way that the person starts, they're walking toward you.
+[303.10] And as they're turning a corner, that's going to really suggest that they have Parkinson's disease,
+[310.70] it will be very difficult for them to take that first movement.
+[314.86] And then once they get going, it's okay.
+[317.78] But then as they need to make another turn or initiate another movement, it's going to be very difficult again.
+[325.94] And if you help the person to a chair, for instance, putting your hand on their shoulder,
+[333.70] you kind of immediately feel that they have a lot of muscle rigidity and you just kind of feel like you want to say, just lighten up.
+[343.14] So that's how a person with Parkinson's disease would present.
+[348.10] But what are the neurologic abnormalities in a person with Parkinson's disease, there's a decreased level of dopaminergic neurones.
+[359.30] So originally when we found that there was a decreased level of dopamine.
+[364.26] What we thought was, well, why don't we just address the other neurotransmitter in that area, the opposite neurotransmitter in that particular area.
+[374.54] In other words, acetylcholine does the exact opposite thing that dopamine does in that area.
+[381.22] So what we were thinking was we're going to just decrease the amount of acetylcholine in proportion to the amount of decrease of the dopamine.
+[392.70] So for that, of course, what we would use is the anticholinergic drugs that break into the blood brain barrier the anti muscarinic drugs.
+[403.14] And we found that those types of medications had a little bit of improvement.
+[410.18] You know, you kind of rebalance that seesaw kind of effect of the two opposing neurotransmitters.
+[420.54] But it was a fairly short period of decreased Parkinsonian like symptoms.
+[427.94] Originally, atropine, a compound from a plant called belladonna, was used in the treatment of Parkinson's disease.
+[435.18] But since then we've been using synthetic anti muscarinic drugs for that purpose.
+[441.10] Benz tropane is the anticholinergic drug that I'd like you to know.
+[448.46] They do help with the tremor, the resting tremor that I was talking about.
+[453.18] And they do help with the rigidity in the early stages.
+[457.22] And they also are fairly helpful at the point at which the other drugs, the current drugs,
+[464.74] the most, the primary drugs that we use are actually stop becoming as effective.
+[472.29] So there's two times that Benz tropane would be able to help the person with Parkinson's disease.
+[481.33] The trouble with anti muscarinic or anticholinergic drugs is that they do have those troublesome side effects that we've already learned about.
+[491.05] Remember we're going against the parasympathetic nervous system the rest and digest system.
+[498.09] In other words, what we're doing is allowing the sympathetic nervous system to dominate.
+[503.73] And most people with Parkinson's disease are already older or elderly.
+[509.89] And you think about those anti muscarinic effects that's decreasing the parasympathetic rest and digest system,
+[517.49] decreasing the secretions in the in the GI. So there's dry mouth possible constipation a decrease ability to urinate,
+[527.49] and they predispose the person to a higher risk of the development of Alzheimer's disease and other forms of dementia.
+[539.65] So after it was discovered that the anti muscarinic drugs were only going to
+[545.05] last a short amount of time before the patient degraded a little bit further,
+[550.21] and they were not able to really find any value in those anymore.
+[553.97] We started thinking of another way to address that problem.
+[557.97] How can we balance those two neurotransmitters so that the person doesn't feel all of those negative side effects of the disorder?
+[569.73] Well, the obvious solution is to administer dopamine, but there's a couple problems with that.
+[575.37] We're not able to just administer dopamine. Dopamine. First of all doesn't cross into the blood brain barrier very well.
+[582.89] So the very first thing that we did is found the precursor to dopamine, which is levodopa.
+[590.81] We did find that the combination of levodopa and dopa, which is cinema, is able to get into the brain and be converted into dopamine in the brain.
+[604.85] Some of the side effects of cinema include nausea, depression, agitation and confusion.
+[612.73] There's other side effects as well, including like involuntary movements of the extremities, the lips, the tongue.
+[622.49] So those facial movements with the lips and the tongue.
+[627.13] And that results from an increase in the amount of dopamine in a nearby area in the brain.
+[634.25] So those are dyskinesia as they're their movements that are associated with excess amounts of dopamine.
+[642.41] The other medications that are used to treat Parkinson's involve inhibition of two enzymes in the brain that break down the dopamine.
+[651.60] So when the dopamine is released into the synaptic cleft, it's broken down fairly quickly in that synaptic cleft.
+[659.56] And those medications listed here are the ones that act in that way.
+[665.40] Decreasing the the dopamine that's broken down.
+[669.08] And then just allowing the dopamine to be in the synaptic cleft a bit longer.
+[673.60] And then finally there are dopamine agonists and also dopamine reuptake inhibitors, all of which increase the amount of dopamine in the basal ganglia.
+[686.80] But it's important to understand that Parkinson's disease is a progressive disorder,
+[692.64] and these drugs will decrease the symptoms, but they're not going to cure the patient.

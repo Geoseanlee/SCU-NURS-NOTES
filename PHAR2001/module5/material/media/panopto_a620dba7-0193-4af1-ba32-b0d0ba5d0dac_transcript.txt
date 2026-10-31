@@ -1,0 +1,52 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=d26b0a58-cffa-4220-ba09-b47b01313c68
+Type: captions, not an independently verified transcript
+
+[9.96] The adverse effects of opioids appears on this slide.
+[14.28] The reason that people experience nausea and vomiting with the opioids is because
+[18.44] it stimulates the chemo receptor trigger zone that's located in the medulla.
+[25.00] The nausea and vomiting associated with the opioids is listed as the number one reason for patients not being compliant with their medication.
+[33.92] So if you find that a client isn't taking the medication because of the nausea and vomiting, antiemetic may be of some benefit.
+[42.16] The antiemetic that would be most beneficial would be those that work in the chemo receptor trigger zone,
+[49.00] and therefore the citron drugs like ondansetron and the dopamine two antagonists like pro pyridine should be helpful in decreasing that nausea.
+[62.00] Also, in some cases, the nausea and vomiting is decreased slightly by lying down.
+[68.91] Constipation is another significant adverse effect, and that occurs because the gastrointestinal tract has opioid receptors,
+[78.15] and those opioid receptors decrease the peristaltic movement in the JIT that leads to an increase in water absorption.
+[90.67] In other words, the opioids will allow a lot of the water, a lot of the fluid in the GI t to be absorbed into the system.
+[102.11] Respiratory depression is probably the main side effect that you should be concerned with,
+[107.95] because it's the one that can result in death of the person taking the opioids or abusing the opioids.
+[116.15] Opioids actually decrease the sensitivity of the brainstem to carbon dioxide.
+[122.23] Normally, our impulse to breathe is determined by the carbon dioxide levels,
+[127.03] and the opioids exert a dose dependent decrease in that sensitivity of the brain stem to the carbon dioxide.
+[136.82] So the brain is just not getting the message to breathe.
+[141.78] Pethidine is a synthetic opioid, and it's one of the exceptions to the rule because it results in very little respiratory depression.
+[151.90] But at the same time, pethidine wouldn't be useful as a cough suppressant.
+[157.90] Pruritus is commonly known as an itch, and it's seen because of the fact that the opioids stimulate the release of histamine.
+[167.30] Remember what that histamine does? Histamine goes on to the nerve endings, and it doesn't really cause pain, but it causes an itchy sensation instead.
+[179.54] And that same action results in a vaso dilating property in the skin.
+[184.54] And that might contribute to the itchy sensation as well.
+[189.42] The pupil constriction found with consumption of opioids may result in a decrease in night vision.
+[197.61] But importantly, the pinpoint pupils are going to make it easier for clinicians to determine that the person is on opioids,
+[206.01] and that may help investigations into cases of suspected overdose.
+[212.09] Narcotic analgesics constrict the ureters and the biliary smooth muscle,
+[217.09] so it's not a good idea to administer the opioids to patients who have already got problems with the gallstones or with retention of urine.
+[228.21] I have already talked about the dependence or tolerance.
+[232.49] Narcotic analgesics are associated with a downregulation of the receptors that are responsible for the analgesia.
+[239.65] So long term opioid use will actually lead to an exacerbation of the pain.
+[245.85] If a person becomes dependent on the opioids and has used them for a long period of time,
+[251.01] that person is probably going to experience some withdrawal symptoms when they try to get themselves off of the opioids and those
+[258.89] withdrawal symptoms from the narcotic dependence aren't as severe or as dangerous as withdrawal symptoms from alcohol dependence,
+[268.21] but it can lead to cardiac abnormalities, and the person also experiences severe psychological disturbances.
+[278.81] As far as the opioid pharmacology is concerned,
+[282.21] we've already taken a look at the release of the opiates from the first order of neurones and the second order of neurones, and of course,
+[290.21] that decreases or even prevents the transmission of impulses from that first order of neurones
+[296.77] to the second order of neurones and ultimately decreases the perception of pain at the brain.
+[303.69] But opioids are used throughout the whole pain pathway to decrease the transmission of those impulses,
+[311.61] and the narcotic analgesics mimic the endogenous opioids binding to one or more of the opioid receptors in the central nervous system.
+[323.13] I've included a couple of tables that will give you a better idea of the receptor affinity associated with different opioids.
+[331.80] Naloxone is an opioid antagonist, and as such, of course, it's going to be used as the medication to reverse narcotic overdose.
+[342.24] One last point that's important before we get on to the specific narcotic analgesics,
+[347.72] is the fact that there's a big difference between the amount of medication that's necessary between different patients.
+[356.64] In fact, it can vary as much as about ten times. And that has to do with a lot of different factors.
+[363.76] For instance, the different absorption rates between different people, the different perception that people have about their pain,
+[371.20] and things like whether the person is narcotic naive or whether they've taken narcotics recently.
+[379.20] Therefore, it's generally a good idea to start out with a slightly lower dose than you'd normally expect to give a patient of that age and gender.

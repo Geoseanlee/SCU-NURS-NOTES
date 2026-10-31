@@ -1,0 +1,25 @@
+Source: https://scu.h5p.com/content/1291749980679377829
+Type: activity text extraction (full data in JSON)
+
+Donepezil blocks the enzyme that degrades acetylcholine, leading to more acetylcholine in the brain. It delays the deterioration of the brain by about 6 months. Common side effects include GIT symptoms while serious adverse effects include hepatic damage.
+
+Memantine improves neural degeneration in humans
+
+Memantine decreases the glutamate-mediated overexcitation by blocking the NMDA receptors but comes along with agitation, insomnia, drowsiness, dizziness and GIT disturbances.
+
+Memantine is nephrotoxic, and as such should be taken with plenty of water and should never be taken with other nephrotoxic drugs, for instance NSAIDs.
+
+Finish ?
+
+Retry ?
+
+Presently, the treatment of Alzheimer’s disease mainly involves increasing the acetylcholine in the brain or decreasing the excitation. Select the statement(s) that are true about the treatment of Alzheimer's disease:
+
+Untitled Multiple Choice
+
+false
+
+Acetylcholinesterase is the enzyme that degrades acetylcholine in the brain. Acetylcholine esterase inhibitors therefore increase the amount of acetylcholine in the brain. (all of that is true)
+T/F: Memantine is the most widely used acetylcholinesterase inhibitor.
+
+Untitled True/False Question

@@ -1,0 +1,72 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=67878468-79ee-4c5d-bd8a-b47b0173b47c
+Type: captions, not an independently verified transcript
+
+[15.44] Welcome back to the lecture series on the medications of the central Nervous System.
+[20.36] In this portion of the lecture series, we're going to be talking about the anxiolytic and hypnotics.
+[26.24] So what is an anxiolytic and what is a hypnotic.
+[30.88] The term anxiety lytic is a medication that reduces anxiety.
+[36.84] And a hypnotic is a agent that induces sleep.
+[41.64] And many of these overlap. So for instance a lot of our anxiolytic will help us go to sleep and vice versa.
+[52.68] So let's take a look at the objectives for this portion of the lecture series.
+[58.12] It's so our specific objectives for this portion of this series include for each of the anxiolytic that I'm about to mention.
+[65.49] Give an example of the drug class. The general mechanism by which it exerts its therapeutic effects.
+[72.09] The indications and the most important side effects as far as the benzodiazepines are concerned.
+[79.69] Diazepam, alprazolam, clonazepam, and lorazepam are the most important.
+[87.65] They're very highly prescribed medications. And as far as the as a Pi runs are concerned, the one you need to remember is abuse by Rone.
+[100.09] Currently, the benzodiazepines are the most commonly prescribed anxiolytic and hypnotics.
+[107.53] Remember the definition of hypnotics is something that induces sleep.
+[113.73] They're almost always ending in the suffix zo lam or za Pam.
+[119.57] So remember that suffix and you'll be able to identify most of the benzodiazepines zo lam or za Pam.
+[128.81] So how does this group of medications work?
+[132.90] As a very broad overview. Recall that in the brain, over 75% of our neurones are interneurons.
+[141.74] The inner neurones are found throughout the brain.
+[144.18] And those inner neurones are inhibitory neurones because they release the inhibitory neurotransmitter Gaba.
+[152.94] Now, the Gaba interneurons are especially prevalent in the limbic system,
+[159.46] especially the amygdala, which is the area of the brain that's responsible for fear and anxiety.
+[167.26] To be clear, we have interneurons in the spinal cord and their function is a bit different.
+[172.38] What we're talking about is the interneurons in the brain.
+[177.18] So once you have that picture in your mind about the interneurons and how prevalent they are, we can go on to a more complicated picture.
+[187.42] Here we have the presynaptic neurone releasing its excitatory Neurotransmitter, which is oftentimes glutamate.
+[198.20] Glutamate is an excitatory. Neurotransmitter, and that glutamate is released into the synaptic cleft of the neurones.
+[206.12] And we also have the postsynaptic neurones which have receptors for the glutamate or the excitatory neurotransmitters.
+[215.72] And as the glutamate binds to the postsynaptic neurones, it allows calcium or sodium to flow in.
+[225.68] And those are positive ions. And of course, that makes the cell more positive, closer to depolarising, closer to initiating another action potential.
+[240.72] The inhibitory neurones are the ones that are on the bottom of the diagram and those released Gaba,
+[248.04] that's an inhibitory neurotransmitter, and the postsynaptic neurone also has Gabaa Receptors, which will accept that Gaba.
+[259.85] And when the receptor is bound by Gaba, there's going to be a flow of chloride, which is a negative ion, into the cell.
+[272.69] And with that negative ion actually takes the cell further away from depolarising.
+[279.81] Benzodiazepines like lorazepam and alprazolam bind onto the Gabaa receptor, and they potentiate the action of Gaba.
+[292.49] They don't actually act like Gaba.
+[295.17] They bind onto the receptor and then allow the Gaba to bind stronger, to have a greater affinity to its own receptor.
+[305.53] And that means that more chloride flows into the cells.
+[310.13] And when you have more chloride in the cells, the cell is more negative.
+[314.69] And of course, it's further away from Depolarising. And here is one more diagram of the Gabaa receptors.
+[325.10] As you see, when the Gabaa receptor is bound with that neurotransmitter, Gaba, there's going to be more chloride that flows into that cell,
+[336.14] that's more negative charge, and therefore it's further away from depolarising.
+[343.10] It's harder to initiate an action potential. And that's happening everywhere in the brain, but especially in the areas that control fear and anxiety.
+[355.10] So in summary, the benzodiazepines potentiate the action of Gaba, increasing the affinity for the neurotransmitter on its receptor,
+[366.02] and that allows more chloride to flow into the cell and decreasing the action potentials in all areas of the brain,
+[375.46] but especially those involved in fear and anxiety. There are a number of benzodiazepines, and they differ in a lot of ways,
+[384.54] but the most important differentiation between the benzodiazepines has to do with the half life and its onset.
+[392.83] Generally, the benzodiazepines that come on very quickly have a very short half life, and those are better to be used as hypnotics,
+[403.79] and the ones that have a bit longer half life are very generally good for decreasing anxiety.
+[411.75] And then finally, the ones that have a very long half life would be best for reducing the symptoms of addiction and alcohol withdrawal.
+[421.79] You should know a bit about diazepam.
+[424.55] Diazepam was first marketed as Valium, and it can be taken in a number of different ways for instance intramuscularly,
+[433.03] orally and it's also available as a suppository.
+[437.99] One of the problems with diazepam is that it has a very long half life,
+[444.15] generally about 50 hours, five zero hours, and therefore clients with liver problems,
+[451.25] for instance, or clients who are elderly would have a difficulty eliminating that, and it can build up in the system.
+[460.41] While the benzodiazepines are generally fairly free of toxicity, they have a potential of causing respiratory depression,
+[469.45] and it can get so intense that the person ends up needing to be on a breathing apparatus in order to be kept alive.
+[479.41] The antidote for benzodiazepine overdose is to administer flu mainly, which reverses the actions of the benzodiazepines.
+[489.69] The problem with flu and ill is that it does have a short duration of activity,
+[495.89] and therefore it may need to be administered a number of times while the benzodiazepines are broken down in the system.
+[504.53] Especially, of course, if the person has overdosed on one of those longer acting benzodiazepines.
+[512.29] Another problem with the benzodiazepines is that long term administration is associated
+[518.94] with an increased risk of developing Alzheimer's disease and other forms of dementia.
+[526.86] Benzodiazepines are oftentimes abused and are also addictive.
+[532.74] Therefore, the benzodiazepines are a schedule eight drug.
+[537.46] So in summary, the benzodiazepines are one of the safest central nervous system agents with respect to toxicity.
+[545.22] But they do, as I said before, have the potential for respiratory depression and addiction and also a potential for abuse.
+[555.34] There is also a potential for a rebound increase in anxiety after the person has been on them for more than a week or so.

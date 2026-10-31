@@ -1,0 +1,76 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=fded35ca-692c-4565-978f-b47c007ba053
+Type: captions, not an independently verified transcript
+
+[21.60] The other major degenerative disorder that I'd like to talk about is Alzheimer's disease.
+[27.96] And once again, it's a chronic progressive degenerative disorder.
+[32.84] And as such, our medications are not going to cure the client.
+[38.12] They're not going to replace the neurones that have degenerated.
+[42.52] And unfortunately, our medications don't really do a good job of slowing down the progress of the disorder.
+[49.76] But nonetheless, our medications can, in many instances,
+[54.84] make the client a bit more comfortable and perhaps give a bit more time before the client needs to totally rely on a carer.
+[66.02] So Alzheimer's disease is a progressive degenerative disorder and it's a form of dementia.
+[73.22] What happens is that there's a couple processes included, including what we call neurofibrillary tangles and plaques.
+[82.46] And basically those destroy the neurones.
+[86.54] So there is a degeneration of the acetylcholine neurones.
+[92.66] The actual neurone mass is going to be decreased.
+[97.18] And as the neurone mass decreases, there's going to be a shrinkage of the brain in order to compensate for the shrinkage of the brain.
+[106.02] What are we going to do? We need to fill that space in some way.
+[110.58] So the ventricles are going to fill with more fluid.
+[115.90] And as a health care worker, you're going to be looking at an MRI of a client.
+[121.38] And the comments with respect to the MRI are going to have something to do with the enlargement of the ventricles?
+[132.04] They're not going to say that the brain mass has shrunk.
+[136.16] They're going to say significantly enlarged ventricles or something to that effect.
+[143.72] Since it is the acetylcholine neurones in the brain that are affected, the one of the primary therapies is the acetylcholine esterase inhibitors.
+[159.20] So the enzyme that degrades acetylcholine is acetylcholine esterase.
+[166.28] And we're going to inhibit that. And therefore we're going to decrease the destruction double negative.
+[174.36] We're going to in effect increase acetylcholine. Donepezil is an acetylcholine esterase inhibitor.
+[184.52] And it does have a little bit of a delay in the deterioration of cognition.
+[190.53] on average just about six months. Donepezil has some common side effects, and those include.
+[198.29] Nausea and vomiting. But probably the most important one is that there's oftentimes an elevation of the liver enzymes.
+[206.61] And when you hear that that the liver enzymes are elevated remember what that means.
+[213.53] The liver enzymes are going to be elevated because there is death of cells.
+[219.41] That's the way that those enzymes from the liver get into the blood so that we can test it.
+[225.53] And if there's a lot of death in the cells, the liver enzymes are going to be raised.
+[231.61] Normally when the liver enzymes increase because the person is on a certain medication, that medication needs to be withdrawn.
+[241.85] The other medication that's used for clients with Alzheimer's disease and has
+[247.41] been found to have some improvements in cognitive function in daily activities,
+[252.81] is the glutamate receptor antagonist, especially memantine.
+[260.11] First of all, let's take a look at glutamate. Glutamate is the main excitatory neurotransmitter in the nervous system.
+[270.35] Now we've got a number of ways in which it can act as an excitatory neurotransmitter, depending on which receptor it binds to in the brain.
+[281.59] So for instance it's going to increase the sodium, it's going to increase the calcium or it's going to decrease the chloride.
+[290.99] And if you look at each one of those mechanisms, that's all going to result in a net positive charge, which is of course closer to threshold.
+[302.27] And therefore we call glutamate an excitatory neurotransmitter.
+[307.75] In Alzheimer's disease, what we've been observing is that there is an increased level of glutamate.
+[314.19] And at this point we actually believe that that increased level of glutamate in some clients with
+[320.73] Alzheimer's disease over excites the neurones and contributes to nerve death through that over excitation.
+[329.89] Memantine is probably a lot more effective in animal studies than it is in humans.
+[336.21] In animal studies, it inhibits neurodegeneration, whereas in humans it doesn't really inhibit the neurodegeneration.
+[344.85] But it does have some improvements in cognition and improvements into the ability of the person to cope with the daily living activities.
+[357.21] Clients taking memantine should have their kidney function tested.
+[362.93] Memantine is excreted unchanged in the urine, and therefore the kidneys are quite vulnerable to the toxic effects.
+[373.33] A lot of people get drowsy or dizzy when they take this drug, and therefore operation of a motor vehicle or heavy machinery is not advisable.
+[383.83] And that concludes this portion of the Central Nervous System Pharmacology lecture series.
+[388.95] In this portion, we just talked about the two most prevalent types of degenerative disorders, those being Parkinson's disease and Alzheimer's disease.
+[399.59] We learned that our medications are not going to stop the progression of the disorder, but the medications might.
+[405.95] You be used to have the person live independently a little bit longer, or to just improve their quality of life for a while?
+[418.55] So for Parkinson's disease, the problem is that the basal ganglion is not getting the amount of dopamine that it really needs,
+[427.79] and it was a bit problematic to kind of get the dopamine there without affecting all of the
+[434.87] dopamine receptors and the other portion of the brain in the other portion of the body.
+[439.31] And the way that we went about it was to get a precursor.
+[443.84] So we took the precursor and then allowed it to go up into the blood brain barrier,
+[450.04] allowed the precursor of dopamine to be changed in the blood brain,
+[455.48] in the in the brain, and then prevented the change of the precursor in the rest of the body.
+[463.08] So it was a bit complicated and a bit difficult to get to.
+[467.24] But we did succeed in allowing to get more dopamine into the basal ganglion.
+[473.88] And for Alzheimer's disease, we saw that the problem is not dopamine, but rather acetylcholine.
+[481.00] Now it's not really the acetylcholine that's the problem.
+[484.80] It's the problem is that the neurones that use acetylcholine are degenerating.
+[490.60] And our solution to that is of course we're not able to regenerate neurones at this point.
+[498.52] So what we started to do is increase the amount of time that the acetylcholine would remain there,
+[506.46] They're at the synaptic cleft, and that's worked fairly well to help.
+[513.18] But for a short period of time, it's not really going to, uh, delay the, uh, the degenerative degeneration of the neurones.
+[524.78] The other thing that we do, though, in Alzheimer's disease is something that slightly delays the degenerative process,
+[532.98] and that's in, uh, blocking the n D receptors and in blocking those receptors, what we're doing is decreasing the neuro excitation.
+[547.58] And that seems to have a little bit of a delay in the decrease of the cognitive functions.
+[557.10] So in the next portion of the lecture series we're going to take a look at the drugs that reduce anxiety.
+[564.10] We'll see you there.

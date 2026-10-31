@@ -1,0 +1,67 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=47847693-3d7d-4913-84b9-b47b00fe6a4e
+Type: captions, not an independently verified transcript
+
+[15.52] Welcome back to the Analgesic Lecture. In this part we're going to be talking about the opioid narcotic analgesics.
+[24.92] The opioid analgesics are very variable with respect to their actions and also with respect to their side effects.
+[33.56] And one of the big reasons for that is because there is four different opioid receptors,
+[39.80] and each one of the opioids have a varying amount of affinity for each one of those receptors.
+[46.80] So we've got the mu, the mu, the delta, the kappa and the epsilon, and it's the mu and the kappa that are most involved in pain.
+[60.88] And then it's followed by Delta. So there is a little bit of an effect with the delta as well.
+[66.55] And then meanwhile, the opioids also have a varying amount of affinity for those other receptors as well.
+[73.63] So they've got a varying amount of, uh, euphoric effect.
+[77.95] They've got a varying amount of respiratory depression, they've got a varying amount of constipated effect and so forth.
+[86.47] So we could spend quite a while on the opioids and trying to get a really good idea of each one of the opioids,
+[94.63] but we're going to take it fairly simple.
+[97.75] So our specific objectives for this portion of the lecture series include to define the terms narcotic and opioid,
+[107.63] and for each of the following opioids name the most significant contraindications and side effects,
+[114.67] the approximate duration of action and the approximate strength relative to each other.
+[121.51] But importantly, the way we do that is by comparing each of the opioids to morphine.
+[129.63] And we need to know a bit about the opioid antagonist as well, which is naloxone, because naloxone is a drug that saves many lives per year.
+[142.14] Before I go on, I should define some of the terms we'll be using.
+[146.58] Firstly, opiate opiate is a natural substance.
+[153.78] It's the word that designates the natural alkaloids that are found in the opium poppy plant, or the natural opioids that are found in the human body.
+[166.18] And the term opioid encompasses all of the natural, semi-synthetic, and synthetic drugs that have pharmacological activities similar to the opiates.
+[179.58] The term narcotic, when it's used in the way that it was originally intended, refers to any psychoactive component with sleep inducing properties.
+[190.78] Then the word narcotic evolved into pertaining to mostly the Opioids.
+[197.05] Now it's imprecisely defined and oftentimes used to denote a.
+[202.17] Illegal substance. So if you're using the term narcotic in order to denote a opioid, then it's a good idea to use the entire term narcotic analgesic.
+[215.37] Narcotic analgesics originated from the plant Papaver some nephron.
+[221.25] If you notice the accident coming out of that slit in the opium poppy plant, that exudate is actually termed opium.
+[231.49] So opium is that dried latex as you see here.
+[235.41] It just needs to be scraped off to be termed opium.
+[239.93] And the opium consists of morphine, codeine and another alkaloid that we don't use directly as an analgesic.
+[250.05] Heroin is prepared in the lab by acetylation of morphine.
+[255.25] So you can think of it as a semi-synthetic or partially synthesised opioid narcotic analgesics have been used for thousands of years.
+[265.40] Currently, Tasmania produces about 27% of the world's legal opium,
+[272.28] but the legal market of opium is a very small percentage of the world's total market.
+[279.68] Back in the 1980s,
+[281.76] the World Health Organisation made an analgesic letter to help practitioners decide what type of painkiller to prescribe at the bottom of the letter.
+[292.04] The client is experiencing mild to moderate pain,
+[295.28] and they're given one of the over-the-counter painkillers, such as ibuprofen, aspirin or paracetamol.
+[304.24] The person experiencing moderate to severe pain would continue taking those mild analgesics combined with one of the weak opioids,
+[314.04] such as codeine, and the person experiencing severe pain,
+[318.60] will be given one of these strong opioids like morphine or even one of the synthetic opioids like fentanyl,
+[326.27] which can be over 100 times as potent as morphine.
+[330.87] But importantly, although the analgesic ladder is still referred to, our understanding of pain has evolved a lot since that time,
+[342.55] and now we realise that opioids are oftentimes not the treatment of choice, especially in chronic non-cancer pain or in neuropathic pain.
+[353.71] In fact, as we've said before, some types of chronic pain and neuropathic pain oftentimes don't respond to any of the classic analgesics.
+[363.95] And then in other cases, for instance, in bone pain,
+[367.75] analgesics that work out in the periphery are sometimes a lot more effective pain relievers than those narcotic analgesics.
+[376.67] Nevertheless, opioids do have a place in our medical system,
+[382.31] especially in relieving some cases of extreme pain and in some types of chronic pain that don't involve a skewed perception of pain,
+[392.18] for instance, in cancer pain. And they're oftentimes the most effective.
+[397.62] Cough suppressants that we have and a very effective medication for treating diarrhoea.
+[404.82] One of the problems that's experienced with the opioids is that a patient will develop tolerance to the analgesic effect of the medication,
+[413.42] but at the same time they don't develop an equal tolerance to the constipated effects of the medication.
+[419.66] And they don't develop a tolerance to the respiratory depression that's experienced with the medication,
+[427.66] depending on the affinity to the specific opioid receptors.
+[432.34] Opioids give varying degrees of euphoria,
+[436.14] and it's that euphoria that the person is going to be trying to achieve as the person begins to abuse the substance.
+[444.50] There has been a major shift in Western countries recently regarding the prescription of opioids, but they're probably still over prescribed.
+[455.34] So let's expand a little bit on the fact that the opioids become less effective and more dangerous with continued use.
+[464.41] Specifically, after just a few weeks of being on the opioids, the body responds by removing some of those opioid pain receptors on the cell surface,
+[475.69] and it also responds by decreasing the number of endogenous opioids, those opioids that were producing within the body to decrease the pain.
+[487.93] And the combination of those two things means that after just a couple to a few weeks of being on opioid medication,
+[496.37] the client is going to experience more pain with the same insults instead of less pain.
+[502.25] So there's a tolerance that develops with the pain relieving properties, and at the same time,
+[509.21] the person on opioids begins to become addicted to the euphoric effects.

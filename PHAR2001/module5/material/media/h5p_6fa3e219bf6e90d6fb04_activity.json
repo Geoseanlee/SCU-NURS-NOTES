@@ -1,0 +1,287 @@
+{
+  "source": "https://scu.h5p.com/content/1291747417785309039",
+  "assetBase": "h5p_6fa3e219bf6e90d6fb04_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_5_3_2_Opioid_Mechanisms",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Fentanyl is about 100 times as potent as morphine and sometimes sugar pills laced with a light spray of fentanyl are illegally sold as counterfeit perscription pills. This can be very dangerous because a small over-spray can be deadly.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Fentanyl is about 100 times as potent as morphine and sometimes sugar pills laced with a light spray of fentanyl are illegally sold as counterfeit perscription pills. This can be very dangerous because a small over-spray can be deadly.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Fentanyl</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Methadone is about as potent as morphine but has a longer half life</div>\n",
+                    "notChosenFeedback": "<div>Methadone is about as potent as morphine but has a longer half life</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Methadone</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>Morphine</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Indeed, Naloxone is an opioid ANTAGONIST so it has no analgesic effects</div>\n",
+                    "notChosenFeedback": "<div>Naloxone is an opioid ANTAGONIST so it has NO analgesic effects.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Naloxone</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Indeed, very little loperamide is absorbed, and less crosses the blood brain barrier, so it has very little pain relieving properties.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Very little loperamide is absorbed, and less crosses the blood brain barrier, so it has very little pain relieving properties.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Loperamide</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Please tick the two opioids that are least effective for reducing pain:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "f7000d01-de70-4de2-8713-1e15f404cab1"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "The nausea and vomiting caused by opioids can be decreased by ‘…setron’ drugs like ondansetron or sometimes by lying down\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "The respiratory depression caused by opioid consumption is caused by a decreased sensitivity of the brainstem to rising levels of carbon dioxide \n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Incorrect, the itch after opioid consumption is caused by a release of histamine&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>That is right, the itch after opioid consumption is caused by a release of histamine</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>The itch caused by opioid consumption is due to components of the drug binding to epithelial cells</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": "<div>The combination of pinpoint pupils and respiratory depression is invaluable in indicating the use of Naloxone, the opioid antagonist (the antidote for opioid overdose)</div>\n"
+                  },
+                  "text": "<div>The pinpoint pupils of a person with opioid overdose can be a valuable sign that points to opioid overdose rather than other drugs.&nbsp;</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Indeed, this is due to the fact that opioids decrease the body's natural opioids and decreases the receptors for opioids.&nbsp;</div>\n",
+                    "tip": "",
+                    "notChosenFeedback": "<div>Actually this is true, and this is due to the fact that opioids decrease the body's natural opioids and decreases the receptors for opioids.&nbsp;</div>\n"
+                  },
+                  "text": "<div>Clients who have been taking opioids for over three weeks often come back complaining of increased pain.&nbsp;</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Which of the following statements is/are correct?</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "7e62af86-c3d1-4c02-b01f-cfb2d1183076"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

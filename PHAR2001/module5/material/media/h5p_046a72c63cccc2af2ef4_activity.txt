@@ -1,0 +1,6 @@
+Source: https://scu.h5p.com/content/1291750743784959669
+Type: activity text extraction (full data in JSON)
+
+Most of our antipsychotic medications involve decreasing dopamine in the brain, and that is good because as we decrease the dopamine in the mesolimbic pathway, the positive symptoms such as delusions are lessened. But the problem is that there are three other main pathways that use dopamine, and decreasing those pathways results in the side effects of antipsychotic medications. The mesocortical pathway, the nigrostriatal pathway, and the tuberoinfundibular pathway are all affected. Drag the pathway to the proper box.
+
+Untitled Drag the Words

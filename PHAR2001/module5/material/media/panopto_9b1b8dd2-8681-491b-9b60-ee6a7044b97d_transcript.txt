@@ -1,0 +1,97 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=e067a8f2-455f-412b-a4b7-b47b010c3ffb
+Type: captions, not an independently verified transcript
+
+[12.64] Welcome back to the lecture series on the analgesics.
+[17.04] And this is the final portion of the lecture. And we're going to be talking about chronic pain neuropathic pain and anaesthesia.
+[27.12] These specific objectives for this portion of the lecture include.
+[31.20] Firstly, to define chronic pain, define neuropathic pain.
+[36.76] To briefly describe the various medications that are used to treat the chronic pain and neuropathic pain,
+[44.72] including firstly the tricyclic antidepressants,
+[48.44] the anti convulsive medications, and the medications with NMDA receptor antagonistic actions like ketamine,
+[59.20] and also to briefly describe the four stages of anaesthesia.
+[64.28] And finally to briefly explain the indications and mechanisms of actions of stupefaction.
+[79.84] Neuropathic pain is a type of quite complex pain that's very different from acute pain in a number of different ways.
+[87.00] With neuropathic pain, the nerve fibres themselves have become damaged, and with that damage the nerve fibres are sending incorrect signals.
+[98.36] One of the examples of neuropathic pain is a phantom limb syndrome, when a person has had their limb removed.
+[106.20] The portions of the brain and the brain stem that had been receiving the information coming in from those now absent sensory fibres are still there.
+[115.92] So just because the leg or arm is missing, it doesn't mean the person will no longer feel that pain.
+[124.29] Obviously they don't have that other sensory information from that limb that would tell them, for instance, what's happening down there.
+[131.61] But there is a burning, aching, chronic pain that develops, suggesting that the now absent limb is in extreme pain in a similar way.
+[144.61] Long standing diabetics oftentimes have a neuropathic pain.
+[150.13] In diabetes,
+[151.29] what occurs is that the high levels of glucose damage the neurones to such an extent that it leads to the destruction of the peripheral nerves.
+[161.81] The person with uncontrolled diabetes is, in effect, slowly destroying those nerve endings.
+[168.37] That person will no longer be able to detect that their food is becoming swollen or even infected.
+[175.73] But at the same time, because of the fact that those A fibres and the C fibres are being destroyed,
+[183.09] it will result in a neuropathic pain that is once again a burning, aching pain in that area.
+[190.53] A similar process occurs with the person who is a long standing alcoholic.
+[196.49] The difference, of course, is that the damage to the nerves is due to the alcohol itself,
+[201.97] along with the first metabolites of the alcohol, which is also a neurotoxin.
+[207.69] And later, as the alcoholic continues to drink, they may very well develop liver failure,
+[213.97] which contributes further to the neurotoxins such as ammonia.
+[218.65] The person with alcoholic neuropathy is of course damaging the nerves in the brain as well, which further complicates the condition.
+[227.93] And the final example I'd like to point out is shingles.
+[232.69] Shingles is another example of neuropathic pain.
+[237.25] Shingles occurs in a person who's already had chickenpox.
+[241.61] The varicella zoster virus is responsible for the shingles and then the chickenpox after a person is recovered from the initial chickenpox,
+[251.25] they don't actually get rid of the virus itself.
+[254.45] Instead, the virus hides in the dorsal root ganglion of the nerves, and then when someone's immune system has decreased,
+[263.45] it becomes possible that there's a resurgence of that viral activity.
+[269.61] The difference between chickenpox and shingles is that the viral attack does not happen all through the body,
+[276.61] as it did in the first time, but rather it happens in just one derma tone.
+[282.05] And normally it's a unilateral presentation. The neurologic condition this creates is called post-hypnotic neuralgia.
+[292.69] There's other examples of neuropathic pain as well. But in almost all instances of neuropathic pain there's some sort of peripheral involvement.
+[303.57] One of the things that happens with neuropathic pain is that there are changes that occur all along the pain pathway in all three orders of neurones,
+[314.45] and those changes magnify the pain and increase the pain.
+[319.49] The actual term for this is called wind up. Examples of wind up include an inflammation of the neural cell bodies.
+[329.49] Those neural cell bodies are in the dorsal root ganglion, and when those inflame, they initiate more neural impulses.
+[339.97] Remember, we're not supposed to initiate neural impulses from the dorsal root ganglion.
+[347.05] But now there's an initiation of neural impulses, simplistically speaking, making more pain.
+[354.45] And another example of the changes include an increased use of the neurotransmitter glutamate,
+[360.61] which is a much longer half life than the other neurotransmitter substance, P.
+[365.53] So in effect, we're once again sending more messages that are interpreted by the brain as pain.
+[373.06] Another change that occurs is that there are fewer inhibitory signals and fewer inhibitory
+[381.02] neurones between this first order of neurones and the second order of neurones.
+[387.58] Those are just a few examples of the changes that will occur all along this pain pathway with neuropathic pain.
+[395.14] And those changes are very similar to the changes that occur in chronic pain.
+[401.54] So chronic pain and neuropathic pain deregulate this endogenous analgesic area right here quite extensively.
+[410.98] And opioids are generally ineffective for that type of pain.
+[415.82] Conversely, the tricyclic antidepressants are much more effective and they seem to rebalance this endogenous analgesic area.
+[426.34] Recall that those antidepressants allow serotonin and noradrenaline to be in this synaptic cleft longer and
+[435.06] as such they help close off the gate between the first order of neurones and the second order of neurones.
+[443.26] They also seem to normalise many of those changes that we find all along the pain pathway.
+[450.78] So in the case of neuropathic pain and chronic pain, if a person is not responding to other analgesics in the analgesic ladder,
+[459.98] they may be put on one of the tricyclic antidepressants or the serotonin noradrenaline reuptake inhibitors.
+[468.22] Right now, I will highlight some of the important points about the various medications that are used in neuropathic pain.
+[475.34] First of all, if it is neuropathic pain, it's best to treat the neuropathic pain as quickly as possible.
+[482.94] And this is because of the fact that further deregulation of the pain pathway will occur if it's not treated aggressively.
+[491.34] Usually we start out with tricyclic antidepressants or these serotonin noradrenaline reuptake inhibitors, the snake eyes.
+[501.90] Some selective serotonin reuptake inhibitors may be tried, but you'd have to use a larger dose for those to be effective.
+[511.10] Amitriptyline and nor tryptophan are the tricyclic antidepressants that at this stage have been found to be most useful.
+[520.62] Another medication that's been found to be quite useful in treating neuropathic pain is the anticonvulsant medication called carbamazepine.
+[532.22] Remember the Gabaa receptor?
+[534.86] It's an inhibitory receptor, and carbamazepine blocks sodium ions, allowing the chloride ions to flow back into the neurone.
+[547.10] Gabapentin, which is another anticonvulsant that works at the Gabaa receptor, is also used as well as pregabalin,
+[555.06] but the anticonvulsant medications are associated with a number of adverse effects.
+[562.06] Over 10% of people who are on those medications will experience dizziness and drowsiness.
+[570.86] The evidence that we have today regarding marijuana is that marijuana is definitely good for many types of neuropathic pain and chronic pain.
+[580.98] We have cannabinoid receptors in the body,
+[584.18] including many cannabinoid receptors in the inhibitory pathway from the brain to the area of the gate and also in the brain.
+[593.54] And the active component of marijuana is tetrahydrocannabinol, abbreviated as THC.
+[602.34] And that's a cannabinoid. The cannabinoids are very water insoluble, and the water soluble components would not get past the blood brain barrier.
+[612.70] So teas that are made from marijuana are pretty much ineffective.
+[618.46] However, smoking the marijuana does get those oil soluble substances into the bloodstream.
+[624.79] But of course, the local governmental restrictions must be abided by even if the medication is used medicinally.
+[633.67] The most important point about marijuana is that it's strictly contraindicated in people under the age of 21,
+[641.51] because of the fact that it increases the risk of developing schizophrenia and other psychoses in that cohort.
+[650.07] And also, I've mentioned this before in other contexts, but it is worth mentioning again,
+[655.59] there are synthetic cannabinoids that for a short time around 2010, were legal simply because of the fact that they did not exist before that.
+[665.63] So those synthetic cannabinoids are extremely dangerous because they bind to the cannabinoid receptors,
+[672.55] but they also bind to just about every other receptor in the brain.
+[676.59] And that leads to severe psychoses. And if we ever did any work on those cannabinoids?
+[684.31] Uh, we'd find that it is probably very strongly associated with the development of schizophrenia.
+[690.75] And that's about all that we need to say about chronic pain and neuropathic pain.
+[697.23] Probably the main thing to get an idea of in your mind is that there's the pain ladder that includes paracetamol, aspirin, ibuprofen and the opioids.
+[709.07] But in addition, there's also a group of medications that would be useful in chronic pain and neuropathic pain.
+[717.07] And while those types of pain may be aided a bit by peripheral analgesics or opioids,
+[724.55] the main portion of the therapy is not going to involve any of the analgesics from the pain ladder.

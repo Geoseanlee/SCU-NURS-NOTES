@@ -1,0 +1,251 @@
+{
+  "source": "https://scu.h5p.com/content/1291747485994136509",
+  "assetBase": "h5p_7fa1e8de0b18c6a6254a_assets/",
+  "contents": [
+    {
+      "title": "PHAR2001_5_3_3_Specific_Opioids",
+      "library": "H5P.QuestionSet 1.21",
+      "params": {
+        "introPage": {
+          "showIntroPage": false,
+          "startButtonText": "Start Quiz",
+          "introduction": ""
+        },
+        "progressType": "dots",
+        "passPercentage": 50,
+        "questions": [
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>Oxycodone is a good substitute for morphine, as it is less addictive. Additionally, oxycodone has the advantage that not much of the drug is lost in the first pass.&nbsp;</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Indeed, and as such, we should always ask the caucasian client who is being prescribed codeine if they get relief from codeine.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>This one is true and as such, we should always ask the caucasian client who is being prescribed codeine if they get relief from codeine.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Codeine is a weak opioid that 10% of Caucasians do not have the enzyme to metabolise to the active form</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Both portions of that question are incorrect, as fentanyl is very well absorbed by just about any route. It is 100 times as potent as morphine and 50 times as potent as heroin. Fentanyl is commonly used to create counterfeit pills disguised as OxyContin, Xanax, Adderall, among others, and is the cause of many overdoses and deaths.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>Good work because both portions of that question are incorrect, as fentanyl is very well absorbed by just about any route. It is 100 times as potent as morphine and 50 times as potent as heroin. Fentanyl is commonly used to create counterfeit pills disguised as OxyContin, Xanax, Adderall, among others, and is the cause of many overdoses and deaths.</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Fentanyl needs to be injected and is about 20 times as potent as morphine.&nbsp;</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Select the statement(s) that is (are) true about the specific opioids:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "22fc7328-7bc6-4a58-b218-3063a64551c6"
+          },
+          {
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "chosenFeedback": "<div>Indeed, only 20–40% (by mouth), 36–71% (rectally), 100% (IV/IM) is absorbed, compared for instance to oxycodone, of which 60-85% is absorbed by mouth.&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>This statement is correct. Only 20–40% of morphine is absorbed by mouth, 36–71% (rectally), 100% (IV/IM) is absorbed, compared for instance to oxycodone, of which  60-85% is absorbed orally.&nbsp;</div>\n",
+                    "tip": ""
+                  },
+                  "text": "<div>Morphine is the opioid that we compare all other opioids to (10mg intramuscular). But the problem with that is that morphine is inefficiently absorbed (much is lost in the first pass)&nbsp;</div>\n"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "<div>Indeed, methadone is given to heroin addicts to help withdrawal. It is one of the few opioids that may have some effect in reducing neuropathic pain because it has some effects on the NMDA receptors.&nbsp;&nbsp;</div>\n",
+                    "notChosenFeedback": "<div>You would have been right to choose this one, because methadone is given to heroin addicts to help withdrawal. It is one of the few opioids that may have some effect in reducing neuropathic pain because it has some effects on the NMDA receptors.</div>\n"
+                  },
+                  "text": "<div>Methadone is given to heroin and morphine addicts to help them withdraw from opioids</div>\n"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "<div>No, tramadol is less addictive&nbsp;</div>\n",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div>Tramadol is much more addictive than most of the other opioids.&nbsp;</div>\n"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Select the comment(s) about specific opioid medications that you believe is(are) true:</p>\n"
+            },
+            "library": "H5P.MultiChoice 1.16",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "Untitled Multiple Choice"
+            },
+            "subContentId": "7f124815-01ac-4c93-ae97-d05c3c05a579"
+          }
+        ],
+        "disableBackwardsNavigation": false,
+        "randomQuestions": false,
+        "endGame": {
+          "showResultPage": true,
+          "showSolutionButton": true,
+          "showRetryButton": true,
+          "noResultMessage": "Finished",
+          "message": "Your result:",
+          "scoreBarLabel": "You got @finals out of @totals points",
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100
+            }
+          ],
+          "solutionButtonText": "Show solution",
+          "retryButtonText": "Retry",
+          "finishButtonText": "Finish",
+          "submitButtonText": "Submit",
+          "showAnimations": false,
+          "skippable": false,
+          "skipButtonText": "Skip video"
+        },
+        "override": {
+          "checkButton": true
+        },
+        "texts": {
+          "prevButton": "Previous question",
+          "nextButton": "Next question",
+          "finishButton": "Finish",
+          "submitButton": "Submit",
+          "textualProgress": "Question: @current of @total questions",
+          "jumpToQuestion": "Question %d of %total",
+          "questionLabel": "Question",
+          "readSpeakerProgress": "Question @current of @total",
+          "unansweredText": "Unanswered",
+          "answeredText": "Answered",
+          "currentQuestionText": "Current question",
+          "navigationLabel": "Questions"
+        }
+      }
+    }
+  ]
+}

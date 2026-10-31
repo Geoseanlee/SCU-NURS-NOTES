@@ -1,0 +1,6 @@
+Source: https://scu.h5p.com/content/1291750920172046539
+Type: activity text extraction (full data in JSON)
+
+Drag the name(s) of the antiseizure medications to the box that explains important information about that/those medication(s)
+
+Untitled Drag the Words

@@ -1,0 +1,66 @@
+Source: https://scu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=75eba0b5-a740-42dc-84af-b47c000ab5ce
+Type: captions, not an independently verified transcript
+
+[15.20] Hi there, and welcome to Southern Cross University's introductory Pharmacology.
+[21.24] We're going to be talking about a couple of the most important topics in pharmacology.
+[26.92] We're going to be talking about the analgesics and anti-inflammatory agents.
+[32.64] But just as importantly, we're going to try to get a really good understanding of pain and inflammation.
+[40.88] So why are these two topics so important?
+[45.08] Well, firstly, 20% of Australians live in chronic pain.
+[50.40] And oftentimes it's inflammation that perpetuates that pain.
+[56.04] As a matter of fact, chronic pain is now recognised as a disorder in its own right.
+[63.60] But another reason that it's important to understand pain and inflammation.
+[68.36] And the treatment is because there's different types of pain that are treated best at different portions along the pain pathway.
+[80.36] So one analgesic may be really, really effective for one type of pain, but it might be totally ineffective for another type of pain.
+[90.16] And just as importantly, I mean the pain is very patient specific.
+[95.88] And the the treatment of pain is very patient specific.
+[100.12] So a person with the same disorder, two people with the same disorder,
+[105.08] 1st May respond really well to one type of analgesic and another may respond not at all.
+[112.56] And to make things even more complicated.
+[116.20] The pain pathway itself is going to experience changes along that pain pathway, that magnify the pain as the pain becomes chronic or longstanding.
+[128.48] So all of that makes it particularly important that we address pain as quickly as possible in an efficient and effective manner,
+[136.36] so that we can prevent those changes from occurring.
+[141.12] And in order to do that, we need to really understand the material in this lecture series as a broad overview
+[149.00] of the way in which we're going to be learning about pain and inflammation,
+[152.08] we're going to start out this portion of the lecture series by attempting to get a good review of the mechanisms of inflammation and pain,
+[160.96] and generally noting where our medications fit into those processes.
+[167.44] In the second part, we're going to be discussing anti-inflammatory agents, antipyretic agents, and the over-the-counter analgesics.
+[179.84] In the third portion, we're going to be discussing the opioids, which are really good in addressing acute pain.
+[186.48] And in the fourth section we'll be talking about chronic pain and its treatment.
+[198.28] This section has to do with analgesics, and the definition of analgesic is a drug that decreases pain.
+[206.04] The term analgesic is a broad term, and it doesn't have any specific reference to certain kinds of pain.
+[214.36] So what is pain? The International Association for the Study of Pain has described pain as an unpleasant sensory and emotional experience.
+[227.28] The neural impulses that indicate pain are taken from the body tissues, up the spinal cord, and into the thalamus.
+[236.40] From that point, the information is going to go up to the primary sensory cortex and the associated portions of the brain in the limbic system,
+[247.80] and it's the limbic system that's involved in the emotional experience.
+[254.08] You may be wondering, why do we even have pain? What's it good for?
+[259.16] The best way to get a good idea of why pain is experienced is to look at a cohort of individuals who have a decreased pain sensation,
+[268.72] beginning in their extremities. Diabetic patients lose the ability to sense that painful stimuli in their toes and feet.
+[278.32] That indicates damage to their tissues. Don't get me wrong, because diabetic patients do have a lot of pain in their periphery.
+[287.00] It's a burning and aching pain, which is a type of neuropathic pain,
+[293.64] but they don't have the ability to sense things like a cut on their toes or the fact that their feet are becoming infected.
+[301.68] And because of that and other factors. Diabetics commonly have their toes foot or leg amputated.
+[311.20] So pain is a protective mechanism. It identifies the tissues being damaged.
+[318.24] Pain is also a subjective experience, and it varies between individuals and even within the same individual under different circumstances.
+[328.73] So, for instance, someone may be playing rugby and may break a bone, but continue to play until the end of the game,
+[336.09] at which time that person really realises that they have an incredibly sore and painful bone.
+[343.45] And that same person may go to have their blood taken, for instance, and then find it very painful because of their previous experience with needles.
+[354.21] So that brings us to the different types of pain.
+[358.25] Acute pain occurs suddenly, and it's most often due to some sort of a tissue damage combined with the inflammatory cascade.
+[368.45] When acute pain is existed for a length of time, it's oftentimes referred to as the subacute phase of pain.
+[376.85] And that phase is very important. If we can successfully treat the subacute pain before it turns into a chronic pain,
+[388.89] then we can prevent the changes that will occur along the pain pathway that magnify the pain and make it worse.
+[397.65] So the subacute phase of the pain is the most important time.
+[402.41] It's the time that you really need to treat the pain aggressively so it doesn't become chronic pain.
+[409.21] And chronic pain is a long standing pain. It results in a number of changes all along the pain pathway that magnify the pain.
+[419.05] In this slide, I've chosen just a few of the many changes that occur along the pain pathway.
+[426.17] For instance, the body's own analgesic system will decrease in function as the pain becomes chronic.
+[434.09] There's inflammatory changes in the cell body of the neurones, then increase the transmission of pain,
+[441.17] and the neurotransmitters that are used more frequently in chronic pain have a much longer half life than the ones that are used in the acute pain,
+[453.01] so that neurotransmitter is there for a lot longer, sending many more messages that indicate pain.
+[461.53] We'll talk about some of those changes as we discuss chronic pain and neuropathic pain later in this series.
+[469.65] So to summarise our overview of pain. Pain is an unpleasant sensory and emotional experience.
+[477.93] The treatment of pain is going to need to vary with respect to the type of pain,
+[483.13] as well as the individual's response to the pain killers, and the person with pain is going to need to be treated,
+[492.53] especially when that pain is in the subacute stage of pain,
+[497.53] so that we can prevent those changes that will occur all along the pain pathway that have the ability to magnify and perpetuate the pain.

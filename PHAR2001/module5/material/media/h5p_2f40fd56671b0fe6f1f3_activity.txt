@@ -1,0 +1,34 @@
+Source: https://scu.h5p.com/content/1291750621497162299
+Type: activity text extraction (full data in JSON)
+
+SSRIs include Sertraline (Zoloft), Escitalopram (Lexapro) and Fluoxetine (Prozac) in the top 20 medications most prescribed.
+
+They take 4-6 weeks to be effective
+
+They may increase the risk of suicide
+
+They are the first line agents in the treatment of major depression
+
+They generally increase libido
+
+Finish ?
+
+Retry ?
+
+Which of the following is correct about Selective Serotonin Reuptake Inhibitors (SSRIs)?
+
+Untitled Multiple Choice
+
+Amitriptyline is a relatively common example of TCAs that has been found to be useful in chronic pain, neuropathic pain, and fibromyalgia.
+
+They generally have some antimuscarinic actions resulting in side effects including dry mouth, blurred vision, constipation
+
+They generally have antihistamine effects resulting in side effects including mental confusion and sedation
+
+TCA's generally have some antiadrenergic activity resulting in side effects including postural hypotension.
+
+TCA's are generally recommended to take in the morning.
+
+TCAs are the only antidepressant that significantly blocks BOTH the reuptake of serotonin AND noradrenaline
+
+Tricyclic antidepressants (TCA's) are an older group of medications that block both the reuptake of serotonin and also noradrenaline. Select the correct statements about TCA's.

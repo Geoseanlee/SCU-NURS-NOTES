@@ -1,0 +1,24 @@
+Source: https://scu.h5p.com/content/1291747485994136509
+Type: activity text extraction (full data in JSON)
+
+Oxycodone is a good substitute for morphine, as it is less addictive. Additionally, oxycodone has the advantage that not much of the drug is lost in the first pass.
+
+Codeine is a weak opioid that 10% of Caucasians do not have the enzyme to metabolise to the active form
+
+Fentanyl needs to be injected and is about 20 times as potent as morphine.
+
+Finish ?
+
+Retry ?
+
+Select the statement(s) that is (are) true about the specific opioids:
+
+Untitled Multiple Choice
+
+Morphine is the opioid that we compare all other opioids to (10mg intramuscular). But the problem with that is that morphine is inefficiently absorbed (much is lost in the first pass)
+
+Methadone is given to heroin and morphine addicts to help them withdraw from opioids
+
+Tramadol is much more addictive than most of the other opioids.
+
+Select the comment(s) about specific opioid medications that you believe is(are) true:

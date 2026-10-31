@@ -1,0 +1,1872 @@
+                                                                              19/06/2025
+
+
+
+
+    Psychotropic medications
+    (CNS pharmacology)
+
+
+
+
+    Dr Ken Wojcikowski
+
+
+
+
+1
+
+
+
+
+2
+
+
+
+
+        Overall objectives for psychotropic medications
+     • For each of the disorders listed below, briefly explain the clinical
+       manifestations of the disorder, the hypothesised neurologic
+       abnormalities, and the mechanisms by which the commonly
+       prescribed medications help correct the neurologic abnormality.
+           • Parkinson’s disease
+           • Alzheimer’s disease
+           • Anxiety disorders,
+           • Depression,
+           • Schizophrenia and other psychotic disorders and
+           • Seizure syndromes
+
+
+     • And for each of the medications discussed, note any associated
+       suffix, and explain the side effects and contraindications
+
+
+
+3
+
+
+
+
+                                                                                      1
+                                                                     19/06/2025
+
+
+
+
+            Medications that treat
+         Neurodegenerative disorders:
+             Parkinson’s disease
+
+
+
+
+4
+
+
+
+
+                  Objectives for Part 1:
+              Neurodegenerative Medicines
+
+      • Describe Parkinson’s and Alzheimer’s disease with
+        respect to the neurologic changes that occur.
+      • Briefly explain the mechanism by which the following
+        drugs exert their therapeutic effects, and the major
+        indications, contraindications and side effects.
+        • Parkinson’s: carbidopa/levodopa (Sinemet); *Benzatropine
+          (Benztropine)*
+        • Alzheimer’s: *donepezil*; *memantine*
+
+
+
+
+5
+
+
+
+
+    Parkinson’s disease results in a decrease in
+      dopamine-neurons in the basal ganglia
+
+
+
+
+6
+
+
+
+
+                                                                             2
+                                                                                 19/06/2025
+
+
+
+
+      Parkinson’s disease
+      Affects part of the extrapyramidal
+      system
+      • The part of brain involved is
+        basal ganglia
+           • Controls involuntary movements
+           • Initiation of muscular movement
+           • Fine muscle movement
+           • Muscle tone
+
+      • Characterised by pill-rolling
+        tremor, hypokinesia, shuffling
+        gate, muscle rigidity.
+
+
+
+7
+
+
+
+
+      Parkinson’s disease
+    Affects part of the _______________
+    system
+    • The part of brain involved is
+      _________, which has these actions:
+      1.   ____
+      2.   ____
+      3.   ____
+      4.   ____
+
+    • Characterised by:
+
+
+
+
+8
+
+
+
+
+                                                     We start with this:
+      Parkinson’s disease
+                                               Acetylcholine      Dopamine
+      • Balance between cholinergic
+        and dopaminergic nerve
+        activity is upset by too little
+        dopamine                                 Parkinson’s results in this:
+           • Too much cholinergic activity      Acetylcholine         Dopamine
+             relative to dopamine
+      • Two solutions:
+           • Increase dopamine
+               • Carbidopa/Levodopa
+           • Decrease cholinergic activity        We compromise with this:
+               • Antimuscarinics
+                  • *Benztropine*              Acetylcholine       Dopamine
+
+
+
+
+9
+
+
+
+
+                                                                                         3
+                                                                        19/06/2025
+
+
+
+
+         Antimuscarinic / anticholinergic medications
+           These drugs restore the balance between
+           acetylcholine and dopamine (the ultimate result is
+           that both are decreased)
+           • Only useful in the initial stages and when the
+             dopaminergic drugs begin to be ineffective
+           • Recall the side effects of drugs that decrease the
+             parasympathetic (rest and digest) system
+              • Dry mouth, blurred vision, difficulty in micturition,
+              • Confusion and
+              • Hallucinations
+           • Example: *Benzatropine* (benztropine in US texts)
+
+
+
+10
+
+
+
+
+                 *Benzatropine*
+
+     Recall that the anticholinergic drugs
+     will make the sympathetic nervous
+     system dominate:
+
+     Dry mouth, constipation,
+     blurred vision,
+     difficulty in micturition, tachycardia
+
+
+
+11
+
+
+
+
+                         Increasing dopamine
+     • Dopamine cannot cross the blood–brain barrier.
+     • Levodopa, or L-dopa (precursor to dopamine) can cross the BBB
+       • Converted into dopamine in brain
+     BUT too much levodopa causes peripheral side effects
+     • The enzyme that converts levodopa to dopamine is a DOPA
+       decarboxylase.
+     • Carbidopa inhibits this enzyme
+
+
+
+
+12
+
+
+
+
+                                                                                4
+                                                                     19/06/2025
+
+
+
+
+     Carbidopa and Levodopa (Sinemet)
+     • Many common adverse effects
+       • Nausea, depression, agitation and confusion (although
+         these are sometimes due to the disease itself), increased
+         sexual activity, hypotension, delusions, dysrhythmias, as
+         well as involuntary movements of the extremities, head,
+         lips and tongue (dyskinesias).
+     • On-off phenomenon
+       • Characterised by the affected person enjoying near-
+         normal movement until severe disease symptoms
+         suddenly develop.
+
+
+
+
+13
+
+
+
+
+                Newer medications
+         All of the following aim to increase dopamine
+                         (no need to learn)
+     • Selegiline, rasagiline and entacapone inhibit the
+       breakdown of the enzymes that break down
+       dopamine
+     • Amantadine inhibits the reuptake of dopamine
+       from the synaptic cleft back into the first neuron
+     • Bromocriptine, pramipexole and ropinirole are
+       dopamine agonists that can cross into the brain
+      None of the medications reverse the changes that
+          occur in this chronic progressive disorder
+
+
+14
+
+
+
+
+          Medications that treat
+       Neurodegenerative disorders:
+           Alzheimer’s disease
+
+
+
+
+15
+
+
+
+
+                                                                             5
+                                                                 19/06/2025
+
+
+
+
+16
+
+
+
+
+                                Alzheimer’s disease
+ • Alzheimer’s disease is a form of dementia
+   characterised by profound brain shrinkage
+     • Progressive deterioration of intellectual and cognitive
+       functioning.
+ • Two observations that have led to the current
+   therapy
+     • Acetylcholine is reduced early in the course of the
+       disease
+     • Glutamate levels have been found to be raised
+ • The acetylcholinesterase inhibitors are used to
+   enhance cholinergic transmission, while the use
+   of the glutamate receptor antagonist memantine
+   reduces the excitotoxic effects of glutamate.
+
+
+
+17
+
+
+
+
+18
+
+
+
+
+                                                                         6
+                                                                                            19/06/2025
+
+
+
+
+       Acetylcholinesterase inhibitors (*donepezil*)
+
+     By blocking the enzyme that degrades acetylcholine, more
+     neurotransmitter will be available and its action prolonged.
+     • Common adverse effects
+        • Donepezil produces a number of common adverse effects, which
+          include nausea, vomiting, elevated liver enzyme levels, diarrhoea,
+          dizziness, anorexia, myalgia and dyspepsia
+
+          These drugs may reduce deterioration in cognition but do not stop
+                      the pathological process or yield a cure
+
+
+
+
+19
+
+
+
+
+                                Glutamate
+ • Glutamate is the most
+   abundant excitatory
+   neurotransmitter in the
+   nervous system
+ • Glutamate binding results in
+   increased Na+, Ca2+ or
+   decreased Cl- , depending on
+   the receptor to which it binds.
+   (In each case, that leads to
+   excitation.)
+ • For instance, glutamate binds
+   to the NMDA receptor,
+   allowing more calcium to flow
+   in (more excitation)
+
+
+
+20
+
+
+
+
+                                              2. Glutamate
+                                              binding
+
+                                                                           3. EXCITATION
+                                                                           of next neuron
+
+
+
+                                     1. Glutamate
+                                     release
+
+
+
+
+21
+
+
+
+
+                                                                                                    7
+                                                                                  19/06/2025
+
+
+
+
+     Memantine blocks glutamate at the NMDA receptor
+                 • The brain is very vulnerable to glutamate-
+                   mediated overexcitation; this results in
+                   excitotoxicity.
+                 • Ultimately, with this overexcitation, cell integrity
+                   is disrupted and the nerve cell dies.
+                 • Part of the process of Alzheimer's disease may
+                   have to do with this excitotoxicity from excess
+                   glutamate.
+                 • The psychotropic agent memantine is a selective
+                   NMDA receptor antagonist.
+                      • This decreases calcium influx and decreases excitation
+
+
+
+22
+
+
+
+
+                          Glutamate receptor antagonists
+                 Memantine is indicated in the management of
+                 moderate to severe Alzheimer’s disease.
+                 • Mechanism of action
+                      • Memantine is an NMDA receptor antagonist that
+                        selectively restores the ungated receptors to the gated
+                        state and inhibits prolonged calcium ion influx without
+                        affecting normal glutamate neurotransmission.
+                 • Common adverse effects
+                      • Agitation, insomnia, drowsiness, dizziness, headache,
+                        gastrointestinal disturbances and coughing.
+
+
+
+
+23
+
+
+
+
+     Psychotropic medications (part 2):
+     Anxiolytics and hypnotics
+
+
+
+
+     Dr Ken Wojcikowski
+
+
+
+
+24
+
+
+
+
+                                                                                          8
+                                                                         19/06/2025
+
+
+
+
+                Anxiolytics and hypnotics:
+                    Benzodiazepines
+
+
+
+
+25
+
+
+
+
+                        Anxiolytics and hypnotics
+
+ • Anxiolytics, minor tranquiliser and sedative are often used
+   interchangeably and are described as a substance that diminishes
+   the activity of the CNS. Sedatives calm a person receiving therapy,
+   and moderate excitability.
+ • ‘Hypnotic’ is the term used to describe a substance that induces
+   sleep
+     • Often difficult to distinguish
+ • Many of the medicines in these categories can induce
+   psychological dependence
+
+
+
+
+26
+
+
+
+
+                       Objectives for Part 2
+                     Anxiolytics and Hypnotics
+            For each of the anxiolytics listed below, give an
+            example of the drug class, the general mechanism
+            by which it exerts its therapeutic effects, the
+            indications, contraindications and most important
+            side effects.
+            • Benzodiazepines (*Diazepam* , *Alprazolam*,
+              *Clonazepam* and *Lorazepam* )
+            • Azapirones (*Buspirone*)
+
+            Make sure you know the ZEPAM and ZOLAM SUFFIXES!
+
+
+27
+
+
+
+
+                                                                                 9
+                                                                                              19/06/2025
+
+
+
+
+     Interneurons vs neurons
+     • Over 75% of the neurons in the
+       brain are interneurons
+     • Especially important in the
+       portion of the brain
+       responsible for anxiety
+
+
+
+
+                                                                Principal neuron
+
+
+
+
+28
+
+
+
+
+                    Presynaptic
+                      neuron
+                                                                               Postsynaptic
+                                                 Glutamate                       neuron
+                                                  release
+
+
+
+
+                                                             GABA release
+
+        Neurons in the brain
+
+                                                     Inhibitory interneurons
+
+
+
+
+29
+
+
+
+
+                                                                        Postsynaptic neuron
+                                                                        with GABA receptors
+
+
+
+
+     Benzodiazepines
+                                   Benzodiazepines potentiate the
+                                      actions of the inhibitory
+                                      neurotransmitter GABA
+
+
+
+
+30
+
+
+
+
+                                                                                                     10
+                                                                                                        19/06/2025
+
+
+
+
+                GABA
+      • GABA is the main inhibitory
+        neurotransmitter –
+        interneurons use GABA
+      • When GABA binds to                                 Chloride flows into cell
+
+        receptor, chloride flows into
+        the cell, making it more
+        negative
+         • This decreases the firing of
+           those neurons
+      • Anxiety states are treated
+        with drugs that potentiate the
+        inhibitory actions of GABA or
+        to open the GABA channels.                                                      Chloride flow
+                                                                                      on GABA binding
+
+
+                Opening chloride channels cancels the excitatory
+                      effect of opening sodium channels
+
+
+
+31
+
+
+
+
+                               Benzodiazepines
+
+     • Benzodiazepines are the most commonly prescribed
+       anxiolytics/hypnotics.
+     • Most of the benzodiazepines have the suffix –ZEPAM or
+       ZOLAM
+       • (*Diazepam* , *Alprazolam*, *Clonazepam* and *Lorazepam*)
+
+
+     Mechanism of action
+     • This group of medicines acts on gamma-aminobutyric acid
+       (GABA) receptors in the CNS to potentiate its inhibitory action
+       throughout the CNS
+
+
+32
+
+
+
+
+                Diazepam, Alprazolam and other
+                   …zepam and …zolam drugs
+          Diazepam first marketed as Valium
+          • Commonly used to treat anxiety, panic attacks,
+            muscle spasms,
+          • Can be given parenterally
+          • LONG half life (50-100 hours)
+          Alprazolam is unique among the benzodiazepines, as it
+          possesses antidepressant activity
+          • Addictive
+          • Half-life of 11.2 hours
+          • Caution in the elderly and those with hepatic disease
+          • Flumazenil (romazicon) is used in overdose
+
+33
+
+
+
+
+                                                                                                               11
+                                                                19/06/2025
+
+
+
+
+     Further information about benzodiazepines will be
+      presented as we discuss the anti-seizure drugs
+
+
+             Anxiolytics and hypnotics:
+          Alternatives to benzodiazepines
+
+
+
+
+34
+
+
+
+
+             Anxiolytics and hypnotics:
+          Alternatives to benzodiazepines
+
+
+
+
+35
+
+
+
+
+                  Azapirones (*Buspirone*)
+          • Buspirone is an anxiolytic psychotropic drug
+          • It is primarily used to treat generalized anxiety
+            disorder (GAD).
+          • It is not related to benzodiazepines or
+            barbiturates
+          • No addiction potential
+          • Mechanism: serotonin receptor partial agonist
+          • Common adverse effects (>10%) Dizziness,
+            Headache, sleepiness
+
+
+
+
+36
+
+
+
+
+                                                                       12
+                                                                                      19/06/2025
+
+
+
+
+     Other drugs with sedative and hypnotic effects
+                 The FIRST GENERATION H1-antihistamines
+                 • Available as over-the-counter sedative/hypnotic
+                   medicines.
+                      • *Hydroxyzine*
+                      • Half life in adults 20 hours; half life in children 7 hours
+                      • Drowsiness may remain the next day
+                      • Tolerance to the anti-anxiety and hypnotic effects may
+                        develop over time.
+
+                      NOT suitable for elderly clients as the half-life increases
+                      to 30 hours and is associated with increased risk of
+                      developing Alzheimer’s disease.
+
+
+
+37
+
+
+
+
+     Other drugs with sedative and hypnotic effects
+                 α2-adrenoceptor agonists *Clonidine*
+                 • Off-label treatment of anxiety
+                 • Inhibits the release of norepinephrine
+                   (noradrenaline) in a form of negative feedback.
+                 • Also treats drug withdrawal (alcohol and opioids)
+
+
+
+
+                      Many antidepressants have anxiolytic effects
+                                (see following section)
+
+
+38
+
+
+
+
+     Psychotropic medications: Part 3
+     Antidepressants
+
+
+
+
+     Dr Ken Wojcikowski
+
+
+
+
+39
+
+
+
+
+                                                                                             13
+                                                                                             19/06/2025
+
+
+
+
+               Antidepressants:
+     Definition and mechanisms of action
+
+
+
+
+40
+
+
+
+
+                   Objectives for Part 3:
+                   CNS Antidepressants
+      • Briefly state the definition and most common theory of
+        depression.
+      • Depression can be pharmaceutically treated using:
+         1. Selective serotonin reuptake inhibitors (SSRI;
+              *Sertraline*, *Escitalopram*, *Fluoxetine*).
+         2. Serotonin noradrenaline reuptake inhibitors (SNRI’s;
+              *Duloxetine*, *Venlafaxine*)
+         3. Tricyclic antidepressants (TCAs; *Amitriptyline*),
+
+         • Also consider: Atypical (*Bupropion*, *Trazodone*)
+
+      • For each of the drug classes listed above, state one or more
+        specific drugs that fall under that class, the general
+        postulated mechanism by which it exerts its therapeutic
+        effects, and the major side effects.
+
+
+
+41
+
+
+
+
+                   Objectives for Part 3:
+                     Antidepressants
+                                        • Briefly state the definition and most common
+                                          theory of depression.
+                                        • Depression can be pharmaceutically treated
+                                          using:
+                                            1. Selective serotonin reuptake inhibitors
+                                                 (SSRI; *Sertraline*, *Escitalopram*,
+                                                 *Fluoxetine*).
+                                            2. Serotonin noradrenaline reuptake
+                                                 inhibitors (SNRI’s; *Duloxetine*,
+                                                 *Venlafaxine*)
+                                            3. Tricyclic antidepressants (TCAs;
+                                                 *Amitriptyline*),
+
+                                            • Also consider: Atypical (*Bupropion*,
+                                              *Trazodone*)
+
+                                        • For each of the drug classes listed above, state
+                                          one or more specific drugs that fall under that
+                                          class, the general postulated mechanism by
+                                          which it exerts its therapeutic effects, and the
+                                          major side effects.
+
+
+42
+
+
+
+
+                                                                                                    14
+                                                                         19/06/2025
+
+
+
+
+              Depression and bipolar disease
+           • Depression is a state of profound sadness or
+             melancholy. Common manifestations of this state
+             include lethargy, apathy, loss of appetite,
+             insomnia, feelings of unworthiness
+             • Biogenic amine hypothesis does not explain everything
+           • In Bipolar disease, the patient experiences
+             episodes of depression and mania, where the
+             affected person cycles between the two extreme
+             mood states.
+           • Mania/manic - abnormally elevated arousal
+             energy level
+
+
+
+43
+
+
+
+
+       DEPRESSION:
+
+      Abnormalities are
+     commonly found in
+          the lateral
+       prefrontal cortex
+      that is involved in
+       the regulation of
+            emotion
+
+
+
+
+44
+
+
+
+
+                                                   In the areas of the
+                                                    brain associated
+                                                   with mood, we use
+                                                     serotonin and
+                                                     noradrenaline
+                                                          (NA)
+
+
+
+
+45
+
+
+
+
+                                                                                15
+                                                                        19/06/2025
+
+
+
+
+46
+
+
+
+
+      Monoamines are neurotransmitters that include:
+      • Serotonin (5HT),
+      • Dopamine,
+      • Noradrenaline (NA or NE for norepinephrine) and
+      • Adrenaline
+      • Histamine
+
+          The deficit (or relative deficit) of serotonin or
+         noradrenaline may be responsible for depression
+
+
+
+47
+
+
+
+
+               Monoamine oxidase inhibitors
+                  (MAOIs; phenelzine)
+
+     • MAO is responsible for the degradation of the released
+       noradrenaline.
+     • In people taking MAOIs, the ingestion of food rich in tyramine
+       has the potential to precipitate a widespread release of
+       noradrenaline in the periphery that is unable to be broken
+       down because MAO is inhibited.
+     • Possible life-threatening cardiovascular stimulation.
+
+
+
+
+48
+
+
+
+
+                                                                               16
+                                                                             19/06/2025
+
+
+
+
+                                                Why are some
+                                               antidepressants
+                                                good for pain?
+
+                                                  A: there are
+                                                 serotonin and
+                                                 noradrenaline
+                                               receptors in the
+                                                “gate” that can
+                                               block incoming
+                                                     stimuli
+
+49
+
+
+
+
+                                Antidepressants:
+                                SSRIs and TCAs
+
+
+
+
+50
+
+
+
+
+             Selective serotonin reuptake inhibitors
+                             (SSRIs)
+ • *Sertraline* (Zoloft) is the most widely
+   used, followed by *Escitalopram
+   (Lexapro)* and *Fluoxetine (Prozac)*.
+ • No common suffix but most antidepressants
+     end with -pram, -mine, -tine, -line
+ • They are considered the first-line
+   agents in the treatment of major
+   depression.
+ • Take 4-6 weeks to be effective
+ • May increase risk of suicide especially
+   in people under 18y/o                        The above depicts the most
+                                                common SSRIs and SNRIs
+
+
+51
+
+
+
+
+                                                                                    17
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                19/06/2025
+
+
+         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOIAAADfCAMAAADcKv+WAAAAh1BMVEX///8AAAD7+/v29vbu7u74+Pjr6+vx8fHm5uYKCgrp6eni4uI+Pj43Nzfz8/MYGBhXV1fU1NTb29t/f38TExOsrKxoaGhdXV3Ly8tSUlJiYmK9vb2Hh4fExMSamppOTk6SkpKysrJxcXGkpKRGRkZtbW17e3spKSmlpaUlJSUwMDCcnJwfHx+NBTcuAAAgAElEQVR4nO1dCZeyOLMmCAiyhjUQdpD9//++WwG1XbBbbXq+e+ZMzbytIkKeVKW2VAJnusp2ZG54rY3IdTlXEMXdOwSnP/uBaBvvXWv18r++xM3lDJ1TRG47cja4Bt1tcJEv4gHihlcU/Q0uEqsbXOSLNoZolxtcJKcbXOSLNoZImw0uMo4bXOSLNoZYxRtcxNuin75oY4hxusFFaLjBRb5oY4hRt8FFiLapSt0YYl2c3ohVVSUvNUDmcHF7CA+H7Vq0NUTePcOS0LFB1fz2fHnj67TzUXhjI5UA669tsz3Zm7WI2xqigfDpnQDvyigvdRINJbuBbGU10WS1L8JsInJW67ITaq0QobAr+bgd8OUqsvkS/1+lbSECS07vBGT5qACEpWVPnZ1gD9FUrb0qTFrbb/CIta4MD2VJJlwFZLK7L11sDFsorQttC5Gi/emdgGKPcFHMBZofefEQCHmtYU+zCtCXcYmjY+uVMUd1PEmd34EOvRp/9RYOxIW2hdih8zsJEfgbxFycY
+
+
+
+
+52
+
+
+
+
+         Selective serotonin reuptake inhibitors
+                         (SSRIs)
+      • *Sertraline* (Zoloft) is the most widely used, followed by
+        *Escitalopram (Lexapro)* and *Fluoxetine (Prozac)*.
+      • Many are indicated in major depression, panic disorder,
+        social anxiety disorder, generalized anxiety disorder, and
+        obsessive–compulsive disorder.
+      • Sexual dysfunction and decreased libido are among the
+        most commonly reported side effects.
+      • Not to be withdrawn suddenly
+
+
+
+
+53
+
+
+
+
+                 Tricyclic antidepressants (TCAs)
+     TCAs are still important in the
+     management of depression but
+     are not always the
+     antidepressants of choice.
+     *Amitriptyline*
+     • Mechanism of action
+       • These drugs act primarily by
+         blocking the amine reuptake
+         pumps on the presynaptic
+         terminal in the brain.
+       • The effect of decreasing pain
+         occurs at ‘the gate’ of the spinal
+         cord
+
+
+
+54
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              18
+                                                                                       19/06/2025
+
+
+
+
+            Tricyclic antidepressants (TCAs)
+            • Common adverse effects of TCAs
+               • Adverse effects derive from the fact that the TCAs have
+                 secondary actions:
+               • Antimuscarinic actions: dry mouth, blurred vision,
+                 constipation, urinary retention and tachycardia**.
+               • Central antihistamine actions: Mental confusion and
+                 sedation
+               • Antiadrenergic activity: postural hypotension
+
+
+                Contraindicated in patients with history of
+                  cardiovascular problems or epilepsy
+             (remember they block reuptake of noradrenaline)
+
+
+55
+
+
+
+
+         SNRIs and Atypical Antidepressants
+
+
+
+
+56
+
+
+
+
+                                     SNRIs
+      Serotonin and noradrenaline
+       reuptake inhibitors (SNRIs)
+     Mechanism of action
+     • Block the reuptake of
+       noradrenaline, serotonin
+       and, to some extent,
+       dopamine from the synaptic
+       gap. This action enhances
+       neurotransmission
+     • *Duloxetine* (Cymbalta) and
+       *Venlafaxine* (Effexor)
+
+                                                          The above depicts the most
+                                                          common SSRIs and SNRIs
+
+
+57
+
+
+
+
+                                                                                              19
+                                                                                 19/06/2025
+
+
+
+
+                                    SNRIs
+             Serotonin and noradrenaline reuptake inhibitors
+                                 (SNRIs)
+           Mechanism of action
+           • Block the reuptake of noradrenaline, serotonin
+             and, to some extent, dopamine from the synaptic
+             gap. This action enhances neurotransmission
+           The SNRIs produce less sedation, as well as fewer
+           cardiovascular and antimuscarinic side-effects
+           compared to the TCAs.
+           • Always withdraw antidepressants slowly
+           • All antidepressants may increase risk of suicide
+
+
+58
+
+
+
+
+                   Atypical antidepressants
+     *Bupropion* and *Trazodone* are atypical antidepressants.
+     Bupropion is a weak noradrenaline and dopamine inhibitor
+     • Does not cause sexual dysfunction, weight gain or sleepiness
+     • Can be used as an add-on to SSRIs
+     • Is effective for reducing nicotine cravings
+     Trazodone blocks the reuptake of serotonin but it also blocks the
+     postsynaptic serotonin receptors of subtype 2 A which are thought to
+     contribute to depression.
+     • Indicated for depression, alcohol withdrawals and anxiety disorders
+     • Doesn’t have anticholinergic effects
+
+
+
+
+59
+
+
+
+
+               Bipolar disorder (manic-depressive)
+
+     • Alternates between mania (euphoria) and depression
+     • Note that mania is the opposite to depression and is not
+       another term for extreme or acute
+     • Treatment:
+        • Lithium carbonate,
+        • The antiseizure agents (carbamazepine, sodium valproate, lamotrigine
+          and clonazepam)
+        • Second generation antipsychotic agents olanzapine, quetiapine,
+          asenapine, risperidone or ziprasidone.
+
+
+
+
+60
+
+
+
+
+                                                                                        20
+                                                                                    19/06/2025
+
+
+
+
+                              Lithium carbonate
+      • Lithium carbonate is the first-line therapy for the treatment and
+        prevention of acute mania. It is a mood stabilizer.
+
+
+      Adverse effects
+      • Gastrointestinal irritation, tremor, muscle weakness and polyuria...
+      • Lithium has a very narrow therapeutic range. Toxicity results in
+        exacerbation of above plus cardiac dysrhythmias, convulsions and renal
+        failure.
+      • Plasma concentrations to be monitored closely
+
+           Drink plenty of water, check lithium and UEC levels frequently, do not
+                            consume other nephrotoxic agents
+
+
+61
+
+
+
+
+     Psychotropic medications: Part 4
+     Antipsychotics
+
+
+
+
+     Dr Ken Wojcikowski
+
+
+
+
+62
+
+
+
+
+      General information
+
+
+
+
+                              Antipsychotics
+
+
+
+
+63
+
+
+
+
+                                                                                           21
+                                                                          19/06/2025
+
+
+
+
+                       Objectives for Part 4:
+                       Antipsychotic agents
+          • Briefly explain the hypothesised neurologic abnormalities
+            that are found in individuals with schizophrenia and other
+            forms of psychosis.
+          • Explain the four major pathways for dopamine 2 in the
+            brain and relate those to the actions of our antipsychotic
+            medications
+          • For each of the drugs noted below, be able to identify the
+            drug class to which it belongs. (Simply identify it as a
+            typical first class antipsychotic or atypical.)
+             • Typical antipsychotic agents include Haloperidol and
+               Chlorpromazine, and
+             • Atypical antipsychotic agents include *Quetiapine*,
+               *Aripiprazole*, *Risperidone*, and *Olanzapine*
+          • For both of the drug classes above, briefly describe the
+            mechanism by which drugs of that broad class exert their
+            therapeutic effect, the general indications,
+            contraindications and major side effects.
+
+
+
+64
+
+
+
+
+                        Antipsychotic agents
+     • Psychoses: mental health
+       disorders characterised by
+       aberrant behaviour and disturbed
+       emotional states.
+        • Schizophrenia, severe agitation
+          and some forms of dementia
+
+     • The most effective medicines in
+       the treatment of the psychoses are
+       the central dopamine receptor
+       antagonists
+
+
+
+
+65
+
+
+
+
+                             Schizophrenia
+          • Schizophrenia is relatively common, affecting 1
+            per cent of the population,
+             • Increased dopaminergic activity in certain parts of the
+               brain, particularly the prefrontal cortex, limbic
+             • Onset 15 and 25
+          Symptoms of schizophrenia are described as either
+          negative or positive.
+          • Positive symptoms
+             • delusions, disorganised speech and/or thought, distorted
+               perceptions and emotions, hallucinations and the belief
+               that one is under the control of an external agency.
+          • Negative symptoms
+             • toneless speech, vacant eyes, social withdrawal,
+               anhedonia (lack of enjoyment) and apathy.
+
+
+
+66
+
+
+
+
+                                                                                 22
+                                                                  19/06/2025
+
+
+
+
+                          Dopamine pathways
+              • Mesolimbic pathway – hyperactive in
+                schizophrenia – yields positive symptoms like
+                delusions
+              • Mesocortical pathway - underactive in
+                schizophrenia – contributes to negative
+                symptoms
+              • Nigrostriatal pathway – decreases in dopamine
+                here result in Parkinsonian symptoms
+              • Tuberoinfundibular pathway – controls prolactin
+                release
+
+
+
+67
+
+
+
+
+RED paths are serotonin
+
+
+
+
+BLUE paths are DOPAMINE
+
+
+
+
+      Mesolimbic pathway – hyperactive in schizophrenia –
+            yields positive symptoms like delusions
+
+68
+
+
+
+
+RED paths are serotonin
+
+
+
+
+BLUE paths are DOPAMINE
+
+
+
+       Mesocortical pathway - underactive in schizophrenia
+              – contributes to negative symptoms
+
+69
+
+
+
+
+                                                                         23
+                                                                                                  19/06/2025
+
+
+
+
+ RED paths are serotonin
+
+
+
+
+ BLUE paths are DOPAMINE
+
+
+
+                Nigrostriatal pathway – decreases in dopamine
+                    here result in Parkinsonian symptoms
+
+
+70
+
+
+
+
+ RED paths are serotonin
+
+
+
+
+ BLUE paths are DOPAMINE
+
+
+
+                               Tuberoinfundibular pathway –
+                                 controls prolactin release
+
+
+71
+
+
+
+
+     RED paths are serotonin
+
+
+
+
+     BLUE paths are DOPAMINE
+
+
+         Mesocortical pathway - underactive in schizophrenia – contributes to negative symptoms
+
+         Nigrostriatal pathway – decreases in dopamine here result in Parkinsonian symptoms
+
+         Tuberoinfundibular pathway – controls prolactin release
+
+
+
+72
+
+
+
+
+                                                                                                         24
+                                                                               19/06/2025
+
+
+
+
+     Specific medications
+
+
+
+
+                               Antipsychotics
+
+
+
+
+73
+
+
+
+
+                  First generation antipsychotics
+      • First generation antipsychotics
+         • Also termed ‘typical’ ‘neuroleptics’ or ‘major tranquillisers’
+      • Haloperidol (Serenace) and Chlorpromazine (Largactil)
+      • Similar mechanisms of action on the CNS
+      • Main action is to antagonise dopamine receptors
+         • Numerous adverse effects
+
+
+
+
+74
+
+
+
+
+        Adverse effects of Haloperidol, Chlorpromazine and
+            other first generation antipsychotic agents
+
+     • Worsening of the negative symptoms (lack of motivation, diminished
+       energy, inability to express emotions, social withdrawal)
+     • Parkinsonian symptoms
+     • Excess prolactin (milk production, breast development in males and
+       sexual dysfunction)
+
+
+     • Long term effects include the opposite of parkinsonian symptoms, that
+       being tardive dyskinesia (smacking of lips, etc)
+
+
+
+
+75
+
+
+
+
+                                                                                      25
+                                                                                    19/06/2025
+
+
+
+
+                         Additional adverse effects
+                 of first generation antipsychotic agents
+
+         High potency agents                         Low potency agents
+     Example: Haloperidol                    Example: chlorpromazine
+     Cause more profound                     • Bind to alpha adrenergic receptors
+     extrapyramidal symptoms and                 • cause orthostatic hypotension
+     more galactorrhoea                      • Bind to the acetylcholine receptor
+                                                 • Cause eye pain
+                                                 • Dry mouth
+                                                 • Constipation
+                                             • Bind to histamine 1 receptor
+                                                 • Drowsiness,
+                                                 • Sedation,
+                                                 • Weight gain
+
+
+
+
+76
+
+
+
+
+               Second generation antipsychotics
+     Second-generation (atypical) antipsychotics
+     • *Quetiapine* (Seroquel), *Aripiprazole* (Abilify),
+       *Risperidone* (Risperdal), and *Olanzapine* (Zyperxa)
+     • The most important difference between the first and second
+       generation antipsychotics is the tendency of the latter to
+       induce fewer extrapyramidal disturbances.
+     • Differences in their affinities for various central receptors may
+       explain why the second generation antipsychotics are less
+       prone to producing these adverse effects.
+
+
+
+
+77
+
+
+
+
+     Second generation antipsychotic agents
+            • *Quetiapine*
+                • Binds to Histamine 1 receptors and cause drowsiness
+            • *Aripiprazole*
+            • *Olanzapine*
+                • Binds to Serotonin 2c strongly and causes metabolic
+                  symptoms such as weight gain and high glucose
+                • Bind to Histamine 1 receptors and cause drowsiness
+            • *Risperidone*
+                • Binds strongly to alpha 1 receptors (orthostatic
+                  hypotension)
+                • Highest amount of extrapyramidal symptoms and
+                  galactorrhoea
+
+
+
+78
+
+
+
+
+                                                                                           26
+                                                                                19/06/2025
+
+
+
+
+                   First generation vs second generation
+                           antipsychotics: review
+      • Antipsychotic agents can be classified as either typical (first
+        generation) or atypical agents (second generation).
+      • Typical are much more active on the D2 receptors than are the
+        atypical ones.
+      • The atypical agents, have less affinity for the D2 receptors, usually
+        have a lower incidence of debilitating motor disturbances
+
+        The goal is to find the right antipsychotic agent for the person: an
+       agent that addresses the most disturbing symptoms without the side
+        effects that may prompt the person to stop taking the medication.
+
+
+
+
+79
+
+
+
+
+     Psychotropic medications: Part 5
+     Antiseizure medications
+
+
+
+
+     Dr Ken Wojcikowski
+
+
+
+
+80
+
+
+
+
+                           Anti-seizure medications
+
+
+
+
+                          Antiseizure medications
+
+
+
+
+81
+
+
+
+
+                                                                                       27
+                                                                                                    19/06/2025
+
+
+
+
+                       Objectives for Part 5
+                      Anti-seizure Medicines
+     • Define the terms seizure, partial or focal seizure,
+       generalized seizure, epilepsy, and status epilepticus.
+     • For each of the following drugs, briefly explain the
+       mechanism of action, and the major indications and
+       side effects.
+         • Clonazepam and diazepam (the benzodiazepines)
+         • Gabapentin and Pregabalin,
+         • Carbamazepine and valproic acid (valproate)
+
+
+
+
+82
+
+
+
+
+                     Terms regarding seizures*
+                                                  *
+     *The term anticonvulsant is misleading because some seizures do not manifest as convulsions.
+
+
+        • Partial seizures – begin in one hemisphere at a single
+          cortical focus
+         Generalised seizures form across both hemispheres
+              Consciousness is always lost
+        • Epilepsy is a term used to indicate a condition of
+          recurrent seizures
+             • It does not describe the nature of the seizure itself.
+        • Status epilepticus: the affected person moves
+          immediately from one seizure into another.
+             • Very dangerous unless treated immediately
+
+
+
+
+83
+
+
+
+
+     How do you treat or prevent a seizure?
+
+          1. Increase chloride anions (the negative charge
+             will decrease brain over activity)
+          2. Decrease sodium ions (the decrease in positive
+             ions will decrease brain over activity)
+          3. Decrease calcium ions (the decrease in positive
+             ions will decrease brain over activity)
+
+
+
+
+84
+
+
+
+
+                                                                                                           28
+                                                                                                      19/06/2025
+
+
+
+
+                       Presynaptic
+                         neuron
+                                                                                       Postsynaptic
+                                                        Glutamate                        neuron
+                                                         release
+
+
+
+
+                                                                     GABA release
+
+           Neurons in the brain
+
+                                                             Inhibitory interneurons
+
+
+
+
+85
+
+
+
+
+ Antiseizure medications
+     General
+     mechanisms
+
+     • Inhibitory interneurons
+       release GABA
+     • Gaba binds to GABA
+       receptor                         If a drug acts like GABA or
+                                     potentiates the action of GABA, it
+     • Chloride anion travels into    can decrease brain over activity
+       the cell
+     • More inhibition
+
+
+
+
+86
+
+
+
+
+ Antiseizure medications
+
+     Benzodiazepines
+
+     • Intravenous diazepam or
+       lorazepam are first-line
+       treatments for status
+       epilepticus
+                                         Benzodiazepines potentiate the
+     • Should not be used to                actions of the inhibitory
+                                            neurotransmitter GABA
+       prevent seizures because
+       tolerance develops
+     • (refer to anxiolytics for
+       further information)
+
+
+87
+
+
+
+
+                                                                                                             29
+                                                                           19/06/2025
+
+
+
+
+  Antiseizure medications
+     Gabapentin and
+     Pregabalin
+                                        X                        LESS
+ • Decrease activity of                                     Glutamate
+   calcium channels                                          released
+                                  Calcium
+ • Treat partial seizures and
+   neuropathic pain             Gabapentin and pregabalin inhibit
+ • Gabapentin is the first-line the calcium into the presynaptic
+   medication for the             neurons which results in less
+                                 excitation throughout the brain
+   treatment of neuropathic
+   pain
+ • Side effects: sleepiness
+   and dizziness are the most
+   common.
+
+
+88
+
+
+
+
+  Antiseizure medications
+     Carbamazepine
+     and valproic acid
+                                        X                         LESS
+     • Decrease sodium into                                    Glutamate
+                                                                released
+       the presynaptic neuron         Sodium
+
+                               Carbamazepine and valproic acid decrease
+                                the sodium into the presynaptic neurons.
+                                This decreases the amount of glutamate
+                                    released = decreased excitation
+
+
+
+
+89
+
+
+
+
+                                 Carbamazepine
+             Carbamazepine (CBZ) is an anti seizure and mood-
+             stabilizing drug used primarily in the treatment of
+             epilepsy and neuropathic pain.
+             •   Generalized seizures
+
+             CBZ is a sodium channel blocker .
+
+             Adverse effects may include nausea and
+             drowsiness
+
+             Bone marrow dysfunction is possible
+             •   Check LFTs and FBCs periodically!
+
+
+90
+
+
+
+
+                                                                                  30
+                                                           19/06/2025
+
+
+
+
+                      Valproic acid
+     Valproic acid is an anti seizure and mood-
+     stabilizing drug used primarily in the treatment of
+     epilepsy and bipolar disorder.
+
+     Partial and generalized seizures
+
+     Valproic acid is a sodium channel blocker (and may
+     increase GABA).
+
+     Side effects include nausea, sleepiness, dry mouth
+
+
+
+
+91
+
+
+
+
+             Anti-seizure medications
+
+
+
+
+           Antiseizure medications
+
+
+
+
+92
+
+
+
+
+                                                                  31
+

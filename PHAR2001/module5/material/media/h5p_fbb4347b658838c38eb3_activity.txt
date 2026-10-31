@@ -1,0 +1,30 @@
+Source: https://scu.h5p.com/content/1291749900582000989
+Type: activity text extraction (full data in JSON)
+
+Benzatropine side effects include the common peripheral anticholinergic side effects including dry mouth, blurred vision, difficulty in micturition and constipation.
+
+Benzatropine may help in the management of Parkinson’s disease in the early stages, decreasing the imbalance between the neurotransmitters acetylcholine and dopamine
+
+Benzatropine may help as an additional drug later in the course of the disease when Sinemet becomes less effective on its own
+
+Benzatropine is very useful as a single drug therapy in the middle stages of the disorder.
+
+Benzatropine reverses changes in Parkinson's disease.
+
+Finish ?
+
+Retry ?
+
+Parkinson’s disease results in a decrease in dopamine neurons in the basal ganglia. The opposing neurotransmitter in that area is acetylcholine and as such, we can treat Parkinson’s by increasing dopamine or decreasing acetylcholine. Please choose the correct statement or statements about Benzatropine (Benztropine), the commonly used antiCHOLinergic drug:
+
+Untitled Multiple Choice
+
+Sinemet It has many common side effects including nausea, depression, agitation and confusion, and involuntary movements of the extremities, head, lips and tongue called dyskinesias
+
+Levodopa or L-dopa within Sinemet is the precursor to dopamine, and easily crosses into the blood brain barrier
+
+Carbidopa inhibits the enzyme that converts levodopa to dopamine but stays out in the periphery
+
+The Levodopa within the Sinemet provides the dopamine needed and carbidopa decreases the nausea and other side effects
+
+As stated previously, Parkinson’s disease results in a decrease in dopamine neurons in the basal ganglia. The opposing neurotransmitter in that area is acetylcholine and as such, we can treat Parkinson’s by increasing dopamine or decreasing acetylcholine. Currently, the main medication that increases dopamine is Sinemet, which is a combination of Carbidopa and Levodopa. Please select the statement(s) that is/are true about Sinemet:
