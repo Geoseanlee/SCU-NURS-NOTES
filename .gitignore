@@ -24,3 +24,34 @@ tmp_extract_m3.txt
 *.pem
 *.key
 gpg.config
+
+# LaTeX build artifacts
+build/
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# Word temporary files
+~$*.docx
+~$*.doc
+
+# Raw SCU course material (copyright; local only)
+PHAR2001/*/material/
+PHAR2001/*/html/
+PHAR2001/*/files/
+INDG6002/*/material/
+INDG6002/*/html/
+INDG6002/*/files/
+videos/
+notes/corpora/
+notes/reviews/
+notes/embedded_manifest.json
+notes/new_youtube_ids.txt
+video_jobs.json
+resolved.json
