@@ -1,0 +1,50 @@
+# Unit orientation
+
+  - Getting Started with the new MySCU `x-bb-blti-link`
+  - Welcome to the unit `x-bb-folder`
+    - Welcome to the unit `x-bb-document`
+  - Unit Outline `x-bb-file`
+  - Unit Outline `x-bb-file`
+  - Meet your teachers `x-bb-folder`
+    - Meet your teachers `x-bb-document`
+  - Additional readings  & resources for INDG6002 `x-bb-folder`
+    - You have to feel safe to be unsafe and to be able to express feelings is unsafe ... Darnett Hudson-Buhagiar Pengilly Gee Thielking Schultz 2026.PDF `x-bb-file`
+    - national-aboriginal-and-torres-strait-islander-health-plan-2021-2031 Aus Govt Dept Health 2021.pdf `x-bb-file`
+    - Partnership for justice in health Scoping paper on race racism and the Australian health system Watego Singh Macoun 2021 Lowitja.PDF `x-bb-file`
+    - Yarning about yarning Bessarab Ng'andu 2010.pdf `x-bb-file`
+    - Ways of Knowing Being & Doing A theoretical framework and methods for Indigenous & Indigenist re-search Martin 2003.PDF `x-bb-file`
+    - Yarning about Yarning Barlo 2019.pdf `x-bb-file`
+    - 'Yarn with me' Appling clinical yarning to improve clinician-patient communication Lin Green Bessarab 2016.PDF `x-bb-file`
+    - The importance of Aboriginal history for practitioncers Ch 1 Bennett 2019.PDF.pdf `x-bb-file`
+    - Reflexivity in health promotion A typology for training Alexander et al. 2020.pdf `x-bb-file`
+    - Overview of Aboriginal and Torres Strait Islander health status 2024 Aus Indigenous Healthinfonet.pdf `x-bb-file`
+    - Making-two-worlds-work-health-promotion-framework Mungabarena Aboriginal Corporation 2008.pdf `x-bb-file`
+    - NSW Aboriginal health governance-and-accountability-framework NSW Health 2024.pdf `x-bb-file`
+    - Close-the-Gap-Campaign-Report-2025 Lowitja Institute.pdf `x-bb-file`
+    - More than an ally  becoming an accomplice to cultural safety for Australian First Nations people and Indigenous knowledge Rix et al 2026.PDF `x-bb-file`
+    - Family-Matters-Report-2025 SNAICC.pdf `x-bb-file`
+    - Cultural-safety-in-health-care-for-Indigenous-Australians-monitoring-framework 2023.pdf `x-bb-file`
+    - Inquiry-into-Missing-and-Murdered-First-Nations-Women-and-Children ANTAR ALA 2022.pdf `x-bb-file`
+    - Identifying White Race Privilege Aus Article by Jenny Tannoch-Bland 1998.pdf `x-bb-file`
+    - Decolonisation for social work practice.docx `x-bb-file`
+    - Dadirri Inner Deep Listening Ungunmerr 2002.PDF.pdf `x-bb-file`
+    - Bringing Them Home Report 1997.pdf `x-bb-file`
+    - Call-It-Out-Annual-Report-2024-2025 Jumbunna.pdf `x-bb-file`
+    - Culture is key Towards Cultural Determinants-driven health policy Lowitja Institute Policy Brief 2021.pdf `x-bb-file`
+    - Critical Self-Reflection Fisher 2011.pdf `x-bb-file`
+    - Aboriginal and Torres Strait Islander Health-performance-framework-report 2017.pdf `x-bb-file`
+    - Close-the-Gap-Strategy-measures Productivity Commission 2026.pdf `x-bb-file`
+    - Close-the-Gap- vs Closing the Gap ANTaR.pdf `x-bb-file`
+    - Are-you-waiting-for-us-to-die The unfinished business of Bringing Them Home Healing Foundation 2025.pdf `x-bb-file`
+    - BlacklivesMatter in Healthcare Racism and Implications for health ... Gatwiri Rotumah Rix 2021.pdf `x-bb-file`
+    - Aboriginal and Torres Strait Islander Organisations list.pdf `x-bb-file`
+  - Materials, equipment & technology `x-bb-folder`
+    - Materials, equipment & technology `x-bb-document`
+  - Mandatory Modules at SCU `x-bb-folder`
+    - Mandatory Modules at SCU `x-bb-document`
+  - Accessibility & technology support `x-bb-folder`
+    - Accessibility & technology support `x-bb-document`
+  - Your feedback `x-bb-folder`
+    - Your feedback `x-bb-document`
+  - Get ready for week 1 `x-bb-folder`
+    - Get ready for week 1 `x-bb-document`

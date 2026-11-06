@@ -1,0 +1,23 @@
+# Module 6: Working with Indigenous communities
+
+  - Module overview `x-bb-folder`
+    - Module overview `x-bb-document`
+  - Introduction `x-bb-folder`
+    - Introduction `x-bb-document`
+  - Why Primary Health Care? `x-bb-folder`
+    - Why Primary Health Care? `x-bb-document`
+  - Activity: Watch - Aboriginal and Torres Strait Islander Health Workers `x-bb-folder`
+    - Activity: Watch - Aboriginal and Torres Strait Islander Health Workers `x-bb-document`
+  - Activity: Reflect and prepare for your final Tutorial `x-bb-folder`
+    - Activity: Reflect and prepare for your final Tutorial `x-bb-document`
+  - Aboriginal Community Controlled Health Organisations `x-bb-folder`
+    - Aboriginal Community Controlled Health Organisations `x-bb-document`
+  - Activity: Quiz - Indigenous Perspectives on Quality and Cultural Safety in Primary Health Care `x-bb-folder`
+    - Activity: Quiz `x-bb-document`
+    - Knowledge Check Question - aedbbd24-5c86-40ff-85f2-1c52bbec0c49 `x-bb-asmt-test-link`
+    - Knowledge Check Question - cf12943c-c50b-4e6c-95f6-f03c02898de1 `x-bb-asmt-test-link`
+    - Knowledge Check Question - dcbbd211-a98b-44e3-8727-7463f2bcc755 `x-bb-asmt-test-link`
+  - Reminder: Assessment 2 - due Week 6 Friday (4th December) `x-bb-folder`
+    - Activity: Assessment 2 Reminder due Friday Week 6 `x-bb-document`
+  - Summary `x-bb-folder`
+    - Summary `x-bb-document`

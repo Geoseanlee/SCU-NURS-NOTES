@@ -1,0 +1,24 @@
+# Tutorial & Workshop Slides
+
+  - Workshops - Ros & Coral `x-bb-folder`
+    - Week 1 - workshop.pptx `x-bb-file`
+    - Week 3 - workshop.pptx `x-bb-file`
+    - Week 4 - workshop.pptx `x-bb-file`
+    - Week 5 - workshop.pptx `x-bb-file`
+    - Week 6 - workshop.pptx `x-bb-file`
+  - Tutorial Slides - Barb `x-bb-folder`
+    - Week 1 - Tutorial `x-bb-file`
+    - Week 2 - Tutorial.pptm `x-bb-file`
+    - ‘Dates add nothing to our culture’_ Everywhen explores Indigenous deep history, challenging linear, colonial narratives.pdf `x-bb-file`
+  - Tutorial Slides - Coral `x-bb-folder`
+    - INDG6002 - T5 2026 - Week 1 Tutorial.pdf `x-bb-file`
+    - Yarning activity.docx `x-bb-file`
+    - INDG6002 Week 2 Tutorial_CJ_Online Class - Term 5 2026.pdf `x-bb-file`
+  - Tutorial Slides - Kirra `x-bb-folder`
+  - Tutorial Slides - Ros `x-bb-folder`
+    - Week 2 - tutorial.pptm `x-bb-file`
+    - Week 3 - tutorial.pptx `x-bb-file`
+    - Week 4 - tutorial.pptx `x-bb-file`
+    - Week 1 - tutorial.pptx `x-bb-file`
+    - Week 5 - tutorial.pptx `x-bb-file`
+    - Week 6 - tutorial.pptx `x-bb-file`

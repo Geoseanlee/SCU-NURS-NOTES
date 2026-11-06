@@ -1,0 +1,321 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+Overview of Module 5: Analgesics and psychotropic drugs
+Welcome to Module 5 where we will be discussing the analgesics and the psychotropic drugs. As you probably already know, the analgesics are pain killers and the psychotropic drugs are drugs that affect behaviour, mood, thoughts or perception. While these two groups of medications initially seem like they would both be working at the level of the brain, most of the analgesics actually work somewhere along the pathways in which the pain is carried. Obviously, the stimuli that are carried along that pathway are ultimately perceived by the brain as pain.
+These two topics are extremely important and include a disproportional amount of medications in the top 200 most prescribed. For instance, 12 of the top 100 most prescribed medications are antidepressants. When you are ready, click on the analgesics portion of this module and start furthering your understanding of pain.
+By the end of this module you will be able to:
+- Describe medications that act on the synthesis of the inflammatory mediators, including their indications, actions, side effects, and contraindications
+- Discuss opioids with respect to the most significant contraindications and side effects.
+- Define chronic pain and neuropathic pain and discuss the most common medications used to treat that type of pain
+- Name and describe the most common pharmacological agents used in the treatment of Depression, Anxiety, Seizures, and Schizophrenia, including their indications, contraindications, mechanisms of action and side effects.
+When you are ready, click on the analgesics portion of this module and start furthering your understanding of pain.
+This entire module contains 2 hours of video lessons plus activities that reinforce that knowledge and prepare you for the final quiz.
+
+
+===== FILE: 02 - Understanding Inflammation and pain introduction.epub =====
+Understanding Inflammation and pain introduction
+-
+-
+The physiology and pathology of pain
+Pain is a protective mechanism. It tells us when we need to tend to injuries, and helps further complications develop on those injuries. But when pain becomes chronic, there are permanent changes that magnify and perpetuate the pain. This has led to chronic pain now being considered a disorder in its own right. Given the importance of pain and the percentage of individuals living in chronic pain (20% of Australians), it is important that we learn as much about pain as we can.
+Objectives
+Objectives for Part 1
+-  Define the term ‘pain’ and briefly discuss the most important points about pain from a clinical aspect.
+-  Briefly describe inflammation, placing the most common anti-inflammatory agents into the context of that description.
+-  Describe the role of prostaglandins and cytokines in the process of inflammation and fever, and cite examples of their actions. Relate this to the anti-inflammatory agents that affect these mediators of inflammation.
+-  Briefly describe the pain pathway, overviewing the way in which our analgesics work.
+-  Describe the gate control theory of pain, and the way in which our understanding of pain has evolved.
+You can find the PowerPoint and Notes for this Chapter directly below:
+ANALGESICS 23.pptx
+ANALGESICS NOTES 2025.pdf
+Video: Introduction to pain and analgesics
+Youtube video link.
+PHAR2001_5_1_1_Introduction_to_Pain_and_Analgesics
+Activity: Test your knowledge
+Test yourself with these questions!
+PHAR2001_5_1_1_Introduction_to_Pain_and_Analgesics_ACTIVITIES
+
+
+===== FILE: 03 - Mechanisms of inflammation and anti-inflammatory Agents.epub =====
+Mechanisms of inflammation and anti-inflammatory Agents
+-
+-
+Understanding inflammation
+Inflammation is an important contributor to the pain many clients experience because the process of inflammation sensitises the nerves and allows greater propagation of impulses that are ultimately perceived by the brain as pain. This lesson will help you picture the process of inflammation and the type of medications that are used to decrease inflammation.
+Video: Mechanisms of inflammation
+Youtube video link
+PHAR2001_5_1_2_Mechanisms_of_Inflammation_and_Anti-inflammatory_Agents
+Activity: Test your knowledge
+Reinforce your knowledge with these activities.
+Corticosteroids
+
+
+===== FILE: 04 - Mechanisms of pain and analgesics.epub =====
+Mechanisms of pain and analgesics
+-
+-
+Predicting analgesic combinations by mechanism of action
+Oftentimes, you will find that two medications combined will yield an additive effect where the client enjoys the benefits of both drugs. Normally that does not occur if the person takes two drugs that work by the same mechanism. With the information in this lesson, you will learn where our analgesics work so that you can more accurately predict which of the medications may yield additional benefits
+Video: Mechanisms of pain and analgesics
+Youtube video link.
+PHAR2001_5_1_3_Mechanisms_of_Pain_and_Analgesics
+Activity: Test your knowledge
+Questions to strengthen your active knowledge.
+PHAR2001_5_2_1_OTC_Intro_Fever_and_Antipyretics_ACTIVITIES
+
+
+===== FILE: 05 - Intro to fever and antipyretics.epub =====
+Intro to fever and antipyretics
+-
+-
+Video: Intro to fever and antipyretics
+UNSAFE_HTML_20260109130718.html
+NSAIDs and COX2 inhibitors
+In this lesson, we begin our understanding of the specific types of painkillers, with two groups of medications that actually work at the site of the pain. As tissues are damaged, the immune system cells come to the rescue, releasing cytokines, prostaglandins and other ‘mediators of pain and inflammation’. Those are the target of the NSAIDs and COX2 inhibitors, which are discussed here.
+Video: NSAIDs and COX2 inhibitors
+Youtube video link
+PHAR2001_5_2_2_NSAIDs_and_COX2_Inhibitors
+Activity: Test your knowledge
+PHAR2001_5_2_2_NSAIDs_and_COX2_Inhibitors_ACTIVITIES
+
+
+===== FILE: 06 - Paracetamol (Acetaminophen).epub =====
+Paracetamol (Acetaminophen)
+-
+-
+Paracetamol: mechanisms, effects, and limitations
+Contrary to the NSAIDs, Paracetamol, which is called Acetaminophen (Tylenol) in some countries does not have anti-inflammatory properties. (In this instance, we actually do need to know the other names of Paracetamol, because overseas clients will often be confused as to why their specific analgesic is not available in Australia.) Paracetamol does have anti-pyretic effects but only has only a fraction of the amount of analgesic effects as compared to NSAIDs. This brings up an important point, because most people think that, because it is an analgesic, if they are not getting the pain relief that they expect from the first dose, they should just take more. But a weak analgesic does not get more effective with a greater dose – there is just more toxic effects on the liver! Paracetamol toxicity is the number one cause of acute liver damage in Australia, so we should know as much about paracetamol as possible.
+Video: Paracetamol Acetaminophen
+Youtube video link.
+PHAR2001_5_2_3_Paracetamol_Acetaminophen
+Activity: Test your knowledge
+PHAR2001_5_2_3_Paracetamol_Acetaminophen
+
+
+===== FILE: 07 - Pain relief in children and elderly.epub =====
+Pain relief in children and elderly
+-
+-
+Pain management for the elderly and children
+In this lesson, we will be learning about the management of pain in children and the elderly. Both of those groups of people have a decreased ability to metabolise and excrete medications. But in addition, there are other specific issue for both groups. For instance, one would normally think that if the dose for a 100 kg adult is 100 mg, the 10 kg child should take 10 mg. But that dose could cause serious harm or death of the child, because dose for children is not calculated that way. For the elderly, they are often on several medications at the same time so that, combined with their inability to metabolise the medications quickly will lead to special issues. Let’s explore the specific issues for these clients in more depth.
+Video: Pain relief in children and the elderly
+Youtube video link.
+PHAR2001_5_2_4_Pain_Relief_in_Children_and_Elderly
+Activity: Test your knowledge
+Questions to reinforce your knowledge!
+PHAR2001_5_2_4_Pain_Relief_in_Children_and_Elderly
+
+
+===== FILE: 08 - Opioid overview.epub =====
+Opioid overview
+-
+-
+The use of opioids
+Opium  is the exudate that comes from the opium poppy plant and contains morphine and codeine. Up until the early 1960s there was a medication called paregoric that contained opium and was sold to reduce diarrhoea, reduce cough and decrease pain. But it was also used in many households to settle down the children before going to sleep! Times have changed, and we no longer use opium or use opioids when our young children are over-excited (or pretty much for any reason), but the opioids remain a very important group of medications for adults. Let’s learn more about their present use.
+Video: Opioid overview
+Youtube video link.
+PHAR2001_5_3_1_Opioid_Overview
+Activity: Test your knowledge
+PHAR2001_5_3_1_Opioid_Overview
+
+
+===== FILE: 09 - Opioid mechanisms.epub =====
+Opioid mechanisms
+-
+-
+Video: Opioid mechanisms
+The list of side effects that can be experienced goes on and on, but it is not enough just to be able to rattle off that list. By understanding how opioids work and why they cause the side effects, we can better instruct clients who are being administered those medications.
+Youtube video link.
+PHAR2001_5_3_2_Opioid_Mechanisms
+Activity: Test your knowledge
+PHAR2001_5_3_2_Opioid_Mechanisms
+
+
+===== FILE: 10 - Specific opioids (Not compulsory).epub =====
+Specific opioids (Not compulsory)
+-
+-
+Additional types of opioids
+The material in this lesson will not be assessed in PHAR2001.
+We have 17 different types of opioid receptors in the body, and their prevalence at various points in the body vary with each receptor. Meanwhile, our opioid medications affect each of those receptors with varying amounts of affinity. And to make it even more complicated, some of the opioids are agonists at one receptor and antagonists at others. It would take an entire unit of study to get a really good picture of all of the opioids, but in this unit, we first need to understand that we use 10mg IV morphine as the reference point and compare all drugs to that. And then we will take just a few of the most highly prescribed opioids and compare them to morphine.
+Video: Methadone (Not compulsory)
+Youtube video link.
+PHAR2001_5_3_3_Specific_Opioids
+Activity: Test your knowledge
+PHAR2001_5_3_3_Specific_Opioids
+
+
+===== FILE: 11 - Chronic and neuropathic pain.epub =====
+Chronic and neuropathic pain
+-
+-
+Treatment of chronic and neuropathic pain
+It is interesting to note that the analgesics like opioids that are very effective at reducing extreme, acute pain are generally not effective once the pain becomes chronic. That type of pain has resulted in changes along the pain pathway that magnify the pain and make the pain worse, so it needs to be treated with different medications. This lesson will give you some more insight into the treatment of chronic and neuropathic pain.
+Video: Chronic and neuropathic pain
+Youtube video link.
+PHAR2001_5_4_1_Chronic_and_Neuropathic_Pain
+Activity: Test your knowledge
+Engage in these activities to fully understand the material.
+PHAR2001_5_4_1_Chronic_and_Neuropathic_Pain
+Thank you for your participation in this portion of the module!
+Thanks for your participation in this chapter. Pain and treatment of pain are so important that chronic pain is considered a disorder in its own right. It is important that we make sure that we do everything possible to treat pain before it becomes chronic, and to learn as much about the treatment of pain as possible.
+
+
+===== FILE: 12 - Introduction to psychotropic medications.epub =====
+Introduction to psychotropic medications
+-
+-
+Introduction to Psychotropic drugs
+Psychotropic drugs are drugs that affect behaviour, mood, thoughts or perception.
+We will start out the psychotropic drugs by getting a good picture of the neurodegenerative disorders. While there are several types of progressive neurodegenerative disorders, over 90% of cases are either Parkinson's disease or Alzheimer's disease, so the treatment of those disorders will be our focus.
+The objectives for this chapter include:
+- For each of the disorders listed below, briefly explain the clinical manifestations of the disorder, the hypothesised neurologic abnormalities, and the mechanisms by which the commonly prescribed medications help correct the neurologic abnormality.
+- Parkinson’s disease
+- Alzheimer’s disease
+- Anxiety disorders,
+- Depression,
+- Schizophrenia and other psychotic disorders and
+- Seizure syndromes
+- And for each of the medications discussed, note any associated suffix, and explain the side effects and contraindications
+You can access the Notes and PowerPoint for this chapter here:
+notes for psycotropic meds.pdf
+Psychotropic ppt.pptx
+
+
+===== FILE: 13 - Medications for Parkinson's disease.epub =====
+Medications for Parkinson's disease
+-
+-
+Treating Parkinson's disease
+Parkinson’s disease is a chronic, progressive degenerative disorder that at this stage has no universal cure. Unfortunately, our medications can give a higher quality of life to clients but will not reverse or stop the progression of the disease. There are several different treatments of Parkinson’s and this lesson concentrates on the two most established treatments.
+Video: Medication for Parkinson's disease
+Youtube video link.
+PHAR2001_5_5_1_Parkinsons_Medications
+Activity: Test your knowledge
+Learn more about the treatment of Parkinson's disease with these activities.
+PHAR2001_5_5_1_Parkinsons_Medications
+
+
+===== FILE: 14 - Medications for treatment of Alzheimer's disease.epub =====
+Medications for treatment of Alzheimer's disease
+-
+-
+Current treatment of Alzheimer's disease
+Alzheimer’s disease is another chronic, progressive degenerative disorder, but it involves completely different neurons in different portions of the brain. Unlike Parkinson’s disease, there are few changes in movement until late in the course of Alzheimer’s disease. But similar to Parkinson’s disease, we have not found medications to alter the course of Alzheimer’s disease for more than a few months. Let’s take a look at this very important disorder and its treatment.
+Video: Watch this video about Alzheimer disease medications
+Youtube video link.
+PHAR2001_5_5_2_Alzheimers_Medications
+Activity: Test your knowledge
+PHAR2001_5_5_2_Alzheimers_Medications
+
+
+===== FILE: 15 - Anxiety.epub =====
+Anxiety
+-
+-
+Benzodiazepines
+Right now, we are going to explore the Anxiolytics and hypnotics. Anxiolytics are medications that reduce anxiety and hypnotics are medications that help the client sleep. Often the anxiolytics are useful hypnotics. The benzodiazepines are probably the most important groups of medications. You have probably heard of Zanax (Alprazolam) and/or Valium (Diazepam). Those are two benzodiazepines that are in the top 200 most prescribed medications but Clonazepam and Lorazepam are also benzodiazepines that are highly prescribed. The benzo’s as you may nickname them in the future are variable with respect to the half-life and often the exact types of disorders that they have been proven to treat. For instance, some like alprazolam have antidepressant actions, and a half-life of 11 hours. While that may seem long, others such as Diazepam have a much longer half-life of 50 hours. Remember, the longer the half-life the greater risk of developing toxicity, so it is important to look out for that with the longer-acting Benzos.
+Video: Benzodiazepines
+Youtube video link.
+NOTE: Just before the end of the video, I say that the benzodiazepines are a schedule 8 drug. I meant to say the benzodiazepines flunitrazepam and alprazolam are a schedule 8 and the others are a schedule 4. Sorry for not being clear. Regards, Ken
+PHAR2001_5_6_1_Benzodiazepines
+Activity: Test your knowledge
+PHAR2001_5_6_1_Benzodiazepines
+
+
+===== FILE: 16 - Alternatives to benzodiazepines.epub =====
+Alternatives to benzodiazepines
+-
+-
+The need for alternative medications
+Because of the fact that the benzodiazepines are addictive, are often abused, and are associated with an increased risk of developing Alzheimer’s disease, we are always eager to see alternative treatments for anxiety. Buspirone is not a benzodiazepine. But it is ineffective for panic anxiety, as it is mostly approved for just generalised anxiety. Another interesting medication that is mainly used for children is one of the first-generation antihistamines called Hydroxyzine. Recall that the first-generation antihistamines (like diphenhydramine), broke into the BBB and resulted in drowsiness.
+Video: Alternatives to benzodiazepines
+Youtube video link.
+PHAR2001_5_6_2_Alternatives_to_Benzodiazepines
+Activity: Test your knowledge
+PHAR2001_5_6_2_Alternatives_to_Benzodiazepines
+
+
+===== FILE: 17 - Depression.epub =====
+Depression
+-
+-
+Introduction to Depression
+We are going to shift our attention to depression right now. Depression is a very common disorder that is very much linked to stress, as stress seems to dysregulate the area of the brain associated with mood. The present hypothesis is that the person who is depressed normally has a (relative) decrease in the levels level of serotonin and/or noradrenaline in the areas of the brain associated with mood. Therefore, our antidepressants mostly concentrate on increasing one or both of those neurotransmitters. There are a few ways in which we can do that, as we will see in this next video.
+Video: Introduction to depression
+Youtube video link.
+PHAR2001_5_7_1_Introduction_to_Depression
+Activity: Test your knowledge
+PHAR2001_5_7_1_Introduction_to_Depression
+
+
+===== FILE: 18 - SSRIs and TCAs.epub =====
+SSRIs and TCAs
+-
+-
+The use of SSRIs in managing depression
+The SSRIs (selective serotonin reuptake inhibitors are the first line agents in the treatment of major depression. There are more SSRIs in the top 200 most prescribed medications than we will need to learn but you really need to remember the ones in the top 20 most prescribed, which are sertraline (Zoloft), Escitalopram (Lexapro) and Fluoxetine (Prozac). These medications block the re-uptake of the serotonin, leaving the serotonin in the synaptic cleft longer to perform its inhibitory action on the next neuron. Lets take a look at this very important group of medications.
+Video: SSRIs and TCAs
+Youtube video link.
+PHAR2001_5_7_2_SSRIs_and_TCAs
+Activity: Test your knowledge
+PHAR2001_5_7_2_SSRIs_and_TCAs
+
+
+===== FILE: 19 - SNRIs and atypical antidepressants.epub =====
+SNRIs and atypical antidepressants
+-
+-
+Introduction to SNRIs
+While SSRIs are the most commonly prescribed group of antidepressants, there is a newer group of medications that works in a similar way to the SSRIs but affects both serotonin and noradrenaline. The medication is called an SNRI (Serotonin Noradrenaline Reuptake Inhibitor). The side effect profile is similar, but in addition to the antidepressant effects, the SNRIs may have an effect reducing chronic and neuropathic pain. There are also what we call ‘atypical antidepressants’ that tend to work at multiple sites.
+Video: Antidepressants
+Youtube video link.
+PHAR2001_5_7_3_SNRIs_and_Atypical_Antidepressants
+Activity: Test your knowledge
+PHAR2001_5_7_3_SNRIs_and_Atypical_Antidepressants
+
+
+===== FILE: 20 - Psychosis (Not compulsory for this unit).epub =====
+Psychosis (Not compulsory for this unit)
+-
+-
+Introduction to antipsychotics
+The material in this lesson is not compulsory in PHAR2001.
+Treatment of psychosis is confusing but it is easiest to start out by understanding the dopamine pathways because treatment involves decreasing the dopamine in the brain. In the diagram below, the blue arrows depict the dopamine pathways. The mesolimbic dopamine pathway is the one that is therapeutic. People with schizophrenia have a hyperactive limbic system, and when we give dopamine antagonists, the positive symptoms (like delusions, disorganised speech and/or thought, distorted perceptions and emotions, hallucinations and the belief that one is under the control of an external agency). That is good, and that is what we want from a medication that treats psychosis.
+Video: Antipsychotics (Not compulsory for this unit)
+Youtube video link.
+PHAR2001_5_8_1_Intro_to_Antipsychotics
+Activity: Test your knowledge
+PHAR2001_5_8_1_Intro_to_Antipsychotics
+
+
+===== FILE: 21 - Specific antipsychotics (Not compulsory for this unit).epub =====
+Specific antipsychotics (Not compulsory for this unit)
+-
+-
+Introduction to specific antipsychotics
+The material in this lesson is not compulsory in PHAR2001.
+The antipsychotic medications can be divided into the typical (first generation) and the atypical (second generation) antipsychotics. While both of those groups of medications share the same therapeutic goal, namely to block the dopamine 2 in the brain, the typical antipsychotics block all dopamine pathways about equally while the atypical (second generation) antipsychotics are more selective for one pathway or another.
+Video: Specific antipsychotics (Not compulsory for this unit)
+Youtube video link.
+PHAR2001_5_8_2_Specific_Antipsychotics
+Activity: Test your knowledge
+PHAR2001_5_8_2_Specific_Antipsychotics
+
+
+===== FILE: 22 - Seizures (Not compulsory for this unit.epub =====
+Seizures (Not compulsory for this unit)
+-
+-
+Antiseizure medications
+The material in this lesson is not compulsory in PHAR2001.
+This last lesson deals with anti-seizure medications. A seizure is defined as a sudden and uncontrollable surge of electrical activity in the brain. There are several different types of seizures, but the most important thing is to distinguish between a partial (or focal) seizure which does not cross into both hemispheres of the brain and a generalised seizure, which does cross into the other side of the brain, with the client losing consciousness. When a person gets recurrent seizures of either type, the person is said to have epilepsy. Antiseizure medications need to break into the blood brain barrier and decrease positive ions (Sodium or calcium) in the brain or increase negative ions (chloride) in the brain. As you would expect, this would normally result in sleepiness and possibly a bit of mental confusion, but nonetheless, seizures are very important to treat.
+Video: Anti-seizure medications (Not compulsory for this unit)
+Youtube video link.  ﻿
+PHAR2001_5_8_3_Antiseizure_Medications
+Activity: Test your knowledge
+PHAR2001_5_8_3_Antiseizure_Medications
+Well done: Congratulations!
+As you have seen, the psychotropic medications were challenging to understand, but you got through it and you are on the home stretch. Once you complete the activities in the workbook for Module 5 you can proceed to our final module, which deals with the medications that deliver selective toxicity. See you there!

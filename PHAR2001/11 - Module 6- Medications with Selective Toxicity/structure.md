@@ -1,0 +1,34 @@
+# Module 6: Medications with Selective Toxicity
+
+  - Module overview `x-bb-folder`
+    - Module overview `x-bb-document`
+  - Shortened Chapter: Only the 43 minutes of compulsory lessons on Medications with Selective Toxicity `x-bb-folder`
+    - A/1: Antibiotics `x-bb-folder`
+      - A/1: Antibiotics `x-bb-document`
+    - Antibiotics overview `x-bb-folder`
+      - Antibiotics overview `x-bb-document`
+    - C/3: Antifungal agents `x-bb-folder`
+      - C/3: Antifungal agents `x-bb-document`
+    - D/4: Antiviral agents `x-bb-folder`
+      - D/4: Antiviral agents `x-bb-document`
+    - E/5: Anticancer chemotherapy `x-bb-folder`
+      - E/5: Anticancer chemotherapy `x-bb-document`
+  - Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) `x-bb-folder`
+    - A/1: Antibiotics `x-bb-folder`
+      - A/1: Antibiotics `x-bb-document`
+    - Antibiotics overview `x-bb-folder`
+      - Antibiotics overview `x-bb-document`
+    - B/2: Specific antibiotics `x-bb-folder`
+      - B/2: Specific antibiotics `x-bb-document`
+    - Specific Antibiotics 2 `x-bb-folder`
+      - Specific Antibiotics 2 `x-bb-document`
+    - C/3: Antifungal agents `x-bb-folder`
+      - C/3: Antifungal agents `x-bb-document`
+    - D/4: Viruses 1 `x-bb-folder`
+      - D/4: VirusesViruses 1 `x-bb-document`
+    - Viruses 2 `x-bb-folder`
+      - Viruses 2 `x-bb-document`
+    - E/5: Anticancer chemotherapy `x-bb-folder`
+      - E/5: Anticancer chemotherapy `x-bb-document`
+  - Polypharmacy 1: A reflective section `x-bb-folder`
+    - Polypharmacy 1 `x-bb-document`

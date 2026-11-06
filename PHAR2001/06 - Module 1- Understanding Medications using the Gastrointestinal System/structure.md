@@ -1,0 +1,100 @@
+# Module 1: Understanding Medications using the Gastrointestinal System
+
+  - Module overview `x-bb-folder`
+    - Module overview `x-bb-document`
+  - Chapter 1.1: Medications that work by chemical or direct action `x-bb-folder`
+    - Introduction to Module 1: Chapter 1 `x-bb-folder`
+      - Introduction to Module 1: Chapter 1 `x-bb-document`
+    - Introduction to antacids `x-bb-folder`
+      - Activity: Overview of antacids `x-bb-document`
+    - Activity: Safety issues of antacids `x-bb-folder`
+      - Activity: Safety issues of antacids `x-bb-document`
+    - Specific antacids `x-bb-folder`
+      - Activity: Specific antacids `x-bb-document`
+    - Introduction to the laxatives `x-bb-folder`
+      - Activity: Introduction to the laxatives `x-bb-document`
+    - Understand constipation before suggesting laxatives `x-bb-folder`
+      - Activity: Understand constipation before suggesting laxatives `x-bb-document`
+    - Osmotic laxatives `x-bb-folder`
+      - Activity: Osmotic laxatives `x-bb-document`
+    - Stimulant laxatives `x-bb-folder`
+      - Activity: Stimulant laxatives `x-bb-document`
+    - Activity: Mineral oil and detergent laxatives `x-bb-folder`
+      - Activity: Mineral oil and detergent laxatives `x-bb-document`
+    - Summary of Chapter 1 `x-bb-folder`
+      - Summary of Chapter 1 `x-bb-document`
+  - Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors `x-bb-folder`
+    - Introduction to Chapter 2 `x-bb-folder`
+      - Introduction to Chapter 2 `x-bb-document`
+    - Understand safety issues around diarrhoea before treating it `x-bb-folder`
+      - Understand safety issues around diarrhoea before treating it `x-bb-document`
+    - Drug nomenclature (Naming) `x-bb-folder`
+      - Drug nomenclature (Naming) `x-bb-document`
+    - Comparing Loperamide to other opioids `x-bb-folder`
+      - Comparing Loperamide to other opioids `x-bb-document`
+    - Cellular receptors `x-bb-folder`
+      - Cellular receptors `x-bb-document`
+    - Affinity potency selectivity `x-bb-folder`
+      - Affinity potency selectivity `x-bb-document`
+    - Agonists antagonists and inverse agonists `x-bb-folder`
+      - Agonists antagonists and inverse agonists `x-bb-document`
+    - Loperamide `x-bb-folder`
+      - Loperamide `x-bb-document`
+    - Activity: Summary video `x-bb-folder`
+      - Activity: Summary video `x-bb-document`
+  - Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs `x-bb-folder`
+    - Introduction `x-bb-folder`
+      - Introduction `x-bb-document`
+    - Absorption of drugs `x-bb-folder`
+      - Absorption of drugs, Part 1 `x-bb-document`
+    - Distribution of drugs `x-bb-folder`
+      - Distribution of drugs `x-bb-document`
+    - Metabolism of drugs `x-bb-folder`
+      - Metabolism of drugs `x-bb-document`
+    - Excretion of drugs `x-bb-folder`
+      - Excretion of drugs `x-bb-document`
+    - Drug class affixes `x-bb-folder`
+      - Drug class affixes `x-bb-document`
+    - Understanding the side effects of reducing stomach acid `x-bb-folder`
+      - Understanding the side effects of reducing stomach acid `x-bb-document`
+    - Histamine 2 blockers `x-bb-folder`
+      - Histamine 2 blockers `x-bb-document`
+    - Activity: Watch this video summary of this chapter `x-bb-folder`
+      - Activity: Watch this video summary of this chapter `x-bb-document`
+  - Chapter 1.4: Medications that exert their effects on enzymes `x-bb-folder`
+    - Introduction `x-bb-folder`
+      - Introduction `x-bb-document`
+    - Reviewing Pharmacokinetics by following omeprazole through the body `x-bb-folder`
+      - Reviewing Pharmacokinetics by following omeprazole through the body `x-bb-document`
+    - Enzymatic inhibition by drugs, Part 1 `x-bb-folder`
+      - Enzymatic inhibition by drugs, Part 1 `x-bb-document`
+    - Understanding proton pump enzymatic inhibitors `x-bb-folder`
+      - Understanding proton pump enzymatic inhibitors `x-bb-document`
+    - Understanding side effects of enzymatic inhibitors `x-bb-folder`
+      - Understanding side effects of enzymatic inhibitors `x-bb-document`
+    - Omeprazole `x-bb-folder`
+      - Omeprazole `x-bb-document`
+    - Summary of Chapter 4 on enzymatic inhibitors `x-bb-folder`
+      - Summary of Chapter 4 on enzymatic inhibitors `x-bb-document`
+  - Chapter 1.5 CONDENSED (ONLY the ASSESSABLE material from: Medications that affect neurotransmitters `x-bb-folder`
+    - Introduction to Chapter 5 on neurotransmitters `x-bb-folder`
+      - Introduction to Chapter 5 on neurotransmitters `x-bb-document`
+    - Understand safety issues around vomiting before treating it `x-bb-folder`
+      - Understand safety issues around vomiting before treating it `x-bb-document`
+    - Antiemetics for motion sickness `x-bb-folder`
+      - Antiemetics for motion sickness `x-bb-document`
+    - Signing off of Module 1 `x-bb-folder`
+      - Activity: Signing off of Module 1 `x-bb-document`
+  - Chapter 1.5: Medications that affect neurotransmitters (FULL Chapter including non-compulsory lessons) `x-bb-folder`
+    - Introduction to Chapter 5 on neurotransmitters `x-bb-folder`
+      - Introduction to Chapter 5 on neurotransmitters `x-bb-document`
+    - Neurotransmitters `x-bb-folder`
+      - Neurotransmitters `x-bb-document`
+    - Understand safety issues around vomiting before treating it `x-bb-folder`
+      - Understand safety issues around vomiting before treating it `x-bb-document`
+    - Antiemetics for motion sickness `x-bb-folder`
+      - Antiemetics for motion sickness `x-bb-document`
+    - Antiemetics for chemotherapy and GIT origins `x-bb-folder`
+      - Antiemetics for chemotherapy and GIT origins `x-bb-document`
+    - Activity: Watch this summary video `x-bb-folder`
+      - Activity: Watch this summary video `x-bb-document`

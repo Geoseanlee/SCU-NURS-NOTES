@@ -1,0 +1,200 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+Introduction to Module 6
+This module has only 43 minutes of compulsory lessons.    You may choose to engage in just the compulsory activities (choose the first chapter below) or choose the entire chapter which includes examples of specific antibiotics, antifungal agents, antiviral agents and chemotherapeutic agents by choosing the second chapter below. The third chapter is an interesting artistic reflection of the unit which is not compulsory.
+Video: Module overview - Medications with selective toxicity
+PHAR2001_6_0_1_Introduction_to_Module_6
+
+
+===== FILE: 02 - A-1- Antibiotics.epub =====
+A/1: Antibiotics
+-
+-
+Chapter 1: Medications with selective toxicity
+The Notes and PowerPoint for this chapter, inclusive of the non-compulsory portions are directly below.
+Selective toxicity module 6 PPT.pptx
+Introduction to Antibiotics: Definitions
+In this first topic in Module 6, we are going to get an understanding of the terms used when discussing antimicrobial agents and anti-cancer chemotherapy and also make sure that you have a good picture of the difference between viruses, bacteria and fungi.
+Video: Antibiotics
+Youtube video link.
+PHAR2001_6_1_1_Antibiotics_Definitions
+Activity: Test your knowledge
+PHAR2001_6_1_1_Antibiotics_Definitions
+
+
+===== FILE: 03 - Antibiotics overview.epub =====
+Antibiotics overview
+-
+-
+Video: Antibiotics overview
+We will be continuing our general discussions of antibiotics in this lesson, getting an understanding of why certain side effects are common; how to avoid contributing to antibiotic resistance, and understanding the way in which a specific antibiotic is selected.
+Youtube video link.
+PHAR2001_6_1_2_Antibiotics_Overview
+Activity: Test your knowledge
+PHAR2001_6_1_2_Antibiotics_Overview
+
+
+===== FILE: 04 - C-3- Antifungal agents.epub =====
+C/3: Antifungal agents
+-
+-
+A brief look at antifungal agents
+Fungi are nature's way of degrading things, so if you want your belongings to last longer, make sure that you clean off the mould and mildew!
+Fungi are found all over, and we have an astounding number of fungi that live in the natural skin flora, but the bacterial toxins from the resident bacteria keep the fungi in check. When an infection does occur from fungi, the term is a mycosis. That is where our antifungal infections come in, and unfortunately, because of the fact that fungal cells are so close to human cells, there is potential toxicity with most antifungal agents. The main difference between human cells and the fungal cells is that human cells contain cholesterol in the cell membrane, while fungal cell membranes contain ergosterol. So the ergosterol is the target of most of our antifungal agents.
+Video: Antifungal agents
+Youtube video link.  ﻿
+PHAR2001_6_3_1_Antifungal agents shortened
+Activity: Test your knowledge
+PHAR2001_6_3_1_Antifungal agents
+
+
+===== FILE: 05 - D-4- Antiviral agents.epub =====
+D/4: Antiviral agents
+-
+-
+Antiviral agents
+We knew very little about viruses until the HIV scare in the early 1980s but since then our understanding of viruses has been advancing comparatively quickly. As such, the first-line therapies for viral infections will change before you get to clinic. So the good news is that you do not need to know many antiviral medications at all. But you really do need to have a general knowledge of viruses and of the antiviral medications. The next two lessons attempt to give you that broad understanding.
+Video: Antiviral medications
+Youtube video link.
+PHAR2001_6_4_1_Viruses 1 shortened
+Activity: Test your knowledge
+PHAR2001_6_4_1_Viruses_1
+
+
+===== FILE: 06 - E-5- Anticancer chemotherapy.epub =====
+E/5: Anticancer chemotherapy
+-
+-
+Anticancer Chemotherapy
+Normal cells are tightly regulated, and this ensures that they do not start proliferating out of control. When a group of cells lose these controls, they may become cancerous. In this lesson, we are going to take a general look at the types of anticancer chemotherapeutic agents and develop an understanding of why some of the common side effects from these agents develop.
+Video: Anticancer medications
+Youtube video link.
+PHAR2001_6_5_1_Anticancer_Chemotherapy_shortened
+Activity: Test your knowledge
+PHAR2001_6_5_1_Anticancer_Chemotherapy
+Thank you for your participation!
+Thanks for engaging in the activities associated with the medications that deliver selective toxicity. Our final topic is just a reflective piece that we really hope you enjoy.
+
+
+===== FILE: 07 - A-1- Antibiotics.epub =====
+A/1: Antibiotics
+-
+-
+Introduction to chapter 1
+The Notes and PowerPoint directly below contain the objectives for all parts of this chapter.
+Selective toxicity module 6 PPT(1).pptx
+Introduction to Antibiotics: Definitions
+In this first topic in Module 6, we are going to get an understanding of the terms used when discussing antimicrobial agents and anti-cancer chemotherapy and also make sure that you have a good picture of the difference between viruses, bacteria and fungi.
+Video: Antibiotics
+PHAR2001_6_1_1_Antibiotics_Definitions
+Activity: Test your knowledge
+PHAR2001_6_1_1_Antibiotics_Definitions
+
+
+===== FILE: 08 - Antibiotics overview.epub =====
+Antibiotics overview
+-
+-
+Video: Antibiotics overview
+We will be continuing our general discussions of antibiotics in this lesson, getting an understanding of why certain side effects are common; how to avoid contributing to antibiotic resistance, and understanding the way in which a specific antibiotic is selected.
+PHAR2001_6_1_2_Antibiotics_Overview
+Activity: Test your knowledge
+PHAR2001_6_1_2_Antibiotics_Overview
+
+
+===== FILE: 09 - B-2- Specific antibiotics.epub =====
+B/2: Specific antibiotics
+-
+-
+Specific Antibiotics 1
+Our antibiotics can be grouped in many different ways. For instance, one grouping has them as time dependant versus dose dependent. But one of the most useful ways to group them is by mechanism of action. While we will not need to know the mechanism by which various types of antibiotics work, it is a convenient grouping that ultimately makes it easier to get a complete picture of each type of antibiotic. In this first lesson about specific antibiotics, we will look at the antibiotics that inhibit cell wall synthesis. This happens as the bacteria are reproducing, and the prodigy will be unable to make the cell wall needed to survive. Antibiotics that inhibit the cell wall synthesis include the penicillins (suffix: cillin) and the cephalosporins (prefix: cef or ceph). These contain a β (beta)-lactam ring that is the active portion of the drug. Bacteria often develop resistance to β-lactam antibiotics by synthesizing a β-lactamase, an enzyme that attacks the β-lactam ring before it can adversely affect the cell wall. To overcome this resistance, β-lactam antibiotics can be given with β-lactamase inhibitors such as clavulanic acid.
+Video: Specific antibiotics 1
+PHAR2001_6_2_1_Specific_Antibiotics_1
+Activity: Test your knowledge
+PHAR2001_6_2_1_Specific_Antibiotics_1
+
+
+===== FILE: 10 - Specific Antibiotics 2.epub =====
+Specific Antibiotics 2
+-
+-
+Specific antibiotics continued
+In this lesson, we broaden our understanding of ways in which medications can kill bacteria with antibiotics that inhibit DNA, block protein synthesis and inhibit metabolic processes.
+For instance, Sulphonamides including sulphamethoxazole inhibits the ability of the bacteria to synthesise its folic acid that is needed to reproduce. Those medications are bacteriostatic, keeping the microorganisms in check while the immune system gains control.
+Video: Specific antibiotics 2
+PHAR2001_6_2_2_Specific_Antibiotics_2
+Activity: Test your knowledge
+PHAR2001_6_2_2_Specific_Antibiotics_2
+
+
+===== FILE: 11 - C-3- Antifungal agents.epub =====
+C/3: Antifungal agents
+-
+-
+A brief look at antifungal agents
+Fungi are nature's way of degrading things, so if you want your belongings to last longer, make sure that you clean off the mould and mildew!
+Fungi are found all over, and we have an astounding number of fungi that live in the natural skin flora, but the bacterial toxins from the resident bacteria keep the fungi in check. When an infection does occur from fungi, the term is a mycosis. That is where our antifungal infections come in, and unfortunately, because of the fact that fungal cells are so close to human cells, there is potential toxicity with most antifungal agents. The main difference between human cells and the fungal cells is that human cells contain cholesterol in the cell membrane, while fungal cell membranes contain ergosterol. So the ergosterol is the target of most of our antifungal agents.
+Video: Fungi and antifungal agents
+PHAR2001_6_3_1_Antifungal agents
+Activity: Test your knowledge
+PHAR2001_6_3_1_Antifungal agents
+
+
+===== FILE: 12 - D-4- VirusesViruses 1.epub =====
+D/4: Viruses 1
+-
+-
+Viruses 1
+We knew very little about viruses until the HIV scare in the early 1980s but since then our understanding of viruses has been advancing comparatively quickly. As such, the first-line therapies for viral infections will change before you get to clinic. So the good news is that you do not need to know many antiviral medications at all. But you really do need to have a general knowledge of viruses and of the antiviral medications. The next two lessons attempt to give you that broad understanding.
+Video: Antiviral medications
+PHAR2001_6_4_1_Viruses_1
+Activity: Test your knowledge
+PHAR2001_6_4_1_Viruses_1
+
+
+===== FILE: 13 - Viruses 2.epub =====
+Viruses 2
+-
+-
+Video: Antiviral medications
+In this lesson, we will continue to develop our understanding of the antiviral medications, learning about the medications that are used to treat infections caused by the herpes strain of viruses, the HIV and the hepatitis-causing viruses.
+PHAR2001_6_4_2_Viruses_2
+Activity: Test your knowledge
+PHAR2001_6_4_2_Viruses_2
+
+
+===== FILE: 14 - E-5- Anticancer chemotherapy.epub =====
+E/5: Anticancer chemotherapy
+-
+-
+Anticancer Chemotherapy
+Normal cells are tightly regulated, and this ensures that they do not start proliferating out of control. When a group of cells lose these controls, they may become cancerous. In this lesson, we are going to take a general look at the types of anticancer chemotherapeutic agents and develop an understanding of why some of the common side effects from these agents develop.
+Video: Anticancer medications
+PHAR2001_6_5_1_Anticancer_Chemotherapy
+Activity: Test your knowledge
+PHAR2001_6_5_1_Anticancer_Chemotherapy
+Thanks for your participation!
+Thanks for engaging in the activities associated with the medications that deliver selective toxicity. Our final topic is just a reflective piece that we really hope you enjoy.
+
+
+===== FILE: 15 - Polypharmacy 1.epub =====
+Polypharmacy 1: A reflective section
+-
+-
+Introduction
+Hi All,
+This is the very last chapter of the unit, and it is just a reflective piece for you to think about the potential over-reliance on medications.
+Hope you enjoy! No notes or PPT for these two videos.
+Best wishes,
+Ken
+Videos: Overview of the reliance on medications
+UNSAFE_HTML_20260109150442.html
+UNSAFE_HTML_20260109150520.html
+Goodbye for now.
+Hi All,
+Well thank you for your participation in the unit. I really hope that you enjoyed it and learned some valuable skills in the process.
+Do make a great future for yourself!
+Warm regards and best wishes,
+Ken

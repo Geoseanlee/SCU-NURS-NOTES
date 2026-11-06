@@ -1,0 +1,636 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+Module 1: The basics of Pharmacology
+Hi All,
+Module 1 explores most of the important basics of Pharmacology to give you a solid foundation for your understanding of medications in the future. Normally, the foundational information in pharmacology is the most difficult (and sometimes boring) material.
+But in this module, we use the medications of the gastrointestinal system/tract (GIT) to explore these difficult topics, making it actually fun. We start out with the easiest of medications - those that cannot get absorbed and work by chemical action or by direct action. (Normally, our medications work on cellular receptors or affect enzymes, but the first topic/chapter introduces you very slowly.) Next, Topic/Chapter 2, we explore cellular receptors, looking at what they are, what they do and how our drugs can affect them. This is where we get into the topic of pharmacodynamics. The third topic/chapter starts introducing you to pharmacokinetics, the movement of drugs through the system, involving absorption, distribution, metabolism and excretion. We look at enzymes and how we can affect them with our medications in Topic/chapter 4. Finally, in Topic/chapter 5, we look at neurotransmitters and the most difficult concepts in the GIT, which have to do with our antiemetics.
+If you want to love pharmacology the way I do, please pay close attention to this first module. I teamed up with a partner in this module to make sure that you can actually picture the processes that will form the basis of your understanding of pharmacology. Unfortunately, while all of the videos in this unit are of relatively high quality, this module will have a significantly higher level of annimation than subsequent modules, but by then you will have developed the ability of picturing how our medications work !
+Enjoy! Regards,
+Ken
+Module purpose
+By the end of this module you will be able to:
+- Explain the main principles of pharmacokinetics and pharmacodynamics
+- Describe the mechanism of action, pharmacological effects, therapuetic uses, contraindications, safety issues and side effects of the most important medications of the GIT
+A note about the size of this module
+This entire module contains a total of 4 hours of video lessons plus activities that reinforce your knowledge and prepare you for the quiz. The average of all 6 modules is 2 hours of video lessons per module, so this is significantly bigger than any other module. While the online material is much bigger this week than other weeks, we do not have any tutorial questions or questions in the Case Study this week, so your work this week is in the modules.
+
+
+===== FILE: 02 - Introduction to Module 1- Chapter 1.epub =====
+Introduction to Module 1: Chapter 1
+-
+-
+Introduction
+Normally, medications work on cellular receptors or by affecting enzymes. They go through the process of pharmacokinetics, which involves absorption, distribution, metabolism and excretion. So, understanding them is pretty difficult. In this topic/chapter, we are going to start out with the easiest medications of the digestive system, the antacids and the laxatives. Since these do not get absorbed and they work by chemical or direct action rather on cellular receptors or enzymes, they are in themselves, relatively easy to understand. But remember that as you go through these topics, you are learning the foundation for your understanding of all medications, so please follow the step-by-step process of going through all of the material presented here.
+In this module, the only NOTES that are available are notes: three to a page with spaces for your own notes. In subsequent modules, PowerPoints and notes will be available.
+Click directly below to access the notes, which are arranged in order of the way the material is presented, from the introductory video lesson to the summary lesson.
+Module 1 Chapter 1 PowerPoint NOTES.pdf
+The importance of engagement
+The obvious reason to engage in the videos and activities in this module is that  they are the way that you will most efficiently prepare for the 20% quiz  , but the videos and activities will also help in several other ways.
+Video: Why engage in the quizzes after each video?
+Watch this video to see how the process works to help your memory of the facts that are most important for your future career.
+Why engage in the quizzes?
+
+
+===== FILE: 03 - Activity- Overview of antacids.epub =====
+Introduction to antacids
+-
+-
+What are antacids?
+Right now, we are learning how to study pharmacology in the most productive way. If we develop the best approach to studying medicines using the easiest medications, we can apply that to other more difficult medications and disorders.
+Antacids are indicated foar the occasional relief of heartburn and contraindicated as the heartburn (or gastroesophageal reflux) continues for an extended length of time (becomes chronic). In this lesson, we will understand why that is, because what we don't want to do is memorise long lists of what medications are indicated for and contraindicated in.
+So please don't think that the topic is not valuable just because it is relatively easy!
+Chapter overview
+This first chapter is pretty easy, so you may want to speed things up. In this module, I put most of the videos on YouTube, so turning up or down the speed is just a bit different to the way in which you will turn up the speed in other modules.
+To adjust the speed of this video, wait until the video starts, and then press the settings tab (the cog wheel) and choose PLAYBACK SPEED, which gives you options from 0.25 (1/4th of the original speed) to 2.0 (twice the original speed). Simply choose the one that is most appropriate for you. Just as some people read faster or slower than others, no vidoe speed will be perfect for everyone, so use this feature to get the most for the least amount of time. After finishing the video, make sure that you engage in the activity below to reinforce that knowledge and get ready for the 30% quiz. I only use information found in the videos and activities when I design the quiz!
+Video: Overview of antacids
+UNSAFE_HTML_20261014200152.html
+Activity: Test your knowledge
+PHAR2001_1_1_1_Overview_of_antacids
+
+
+===== FILE: 04 - Activity- Safety issues of antacids.epub =====
+Activity: Safety issues of antacids
+-
+-
+Video: Some of the safety issues of antacids
+This unit highly weighs safety issues when working with medications and despite the fact that antacids are freely available over the counter, there are important safety issues associated with them. Learn about those and much more in this video and make that information into active knowledge with the associated activities.
+UNSAFE_HTML_20260108133519.html
+Activity: Test your knowledge
+PHAR2001_1_1_1q
+
+
+===== FILE: 05 - Activity- Specific antacids.epub =====
+Specific antacids
+-
+-
+Types of antacids
+There are four types of antacids that are frequently used in Australia. But how do you know which is best for the individual? For instance, if client A is normally a bit constipated, they would do best by taking the magnesium antacids, and if client B generally has softer stools, they may do better with the aluminium antacids. This lesson gives you a clear picture of the strengths and weaknesses of all four antacids so that you can decide which, if any, is best for the individual client.
+Video: Specific antacids
+Please watch this 5 minute video (or 2.5 minutes turned up to 2x speed) and then engage in the activities below.
+UNSAFE_HTML_20260108133705.html
+Activity: Test your knowledge
+PHAR2001_1_1_2
+
+
+===== FILE: 06 - Activity- Introduction to the laxatives.epub =====
+Introduction to the laxatives
+-
+-
+Introduction to the laxatives
+We continue with our exploration into the easiest of our medications with a look at the laxatives.
+Laxatives are the number 1 most abused medications because they are OTC (over the counter) and clients often self-prescribe when they should just be consuming more water and eating more fibre. Interestingly, there are a number of safety issues about the use of laxatives, so in this portion of the topic/chapter, we will learn a lot about how to safely suggest a medication with relatively easy examples. Remember, we are not just learning about laxatives, as we will be applying the information that we learn to other medications, conditions and scenarios.
+Video: Introduction to laxatives
+This lesson begins the second half of the chapter, and as such I present the aims and general approach. Please watch the short 2.5-minute video and follow it up by quizzing yourself below. Remember that I made notes, 3 to a page to help you (all the way at the top of module), which you may find useful to jot down important points as you go through the videos. Writing things down has a really strong ability to reinforce knowledge.
+UNSAFE_HTML_20260108133817.html
+Activity: Test your knowledge
+PHAR2001_1_1_3
+
+
+===== FILE: 07 - Activity- Understand constipation before suggesting laxatives.epub =====
+Understand constipation before suggesting laxatives
+-
+-
+Understanding constipation
+Remember that we need to:
+- know the general physiology of the area and
+- aim to understand a bit about the disorder (the PATHO-physiology) that the medication we are studying is used for.
+Before we can understand why our medications are being used, how they will work and in what circumstances they will be contraindicated. The alternative is to memorise long lists of drugs that we don't understand at all. While we are talking about constipation in this instance, which is relatively easy, we will apply these techniques to be able to understand much more difficult disorders and drugs.
+This section allows you to understand constipation so that you can safely recommend the best therapy.
+Video: Understand issues around constipation
+Please engage in this video and activities.
+UNSAFE_HTML_20260108134059.html
+Activity: Test your knowledge
+understand issues around constipation
+
+
+===== FILE: 08 - Activity- Osmotic laxatives.epub =====
+Osmotic laxatives
+-
+-
+Osmotic laxatives
+Can you really picture the process of osmosis? If so, that is great, you will understand the osmotic laxatives quite easily. If not, this video will help you picture the process as you learn about the osmotic laxatives with this lesson. One of the most important points about osmotic laxatives is the fact that they develop a linear dose response. You will find out what this is and why it is very uncommon with our medications and very dangerous to assume that our other medications have that type of response.
+In the quiz at the end of the Term, I will definitely include a question about linear dose response and other material presented in this 6-minute video. Please watch it to learn more about osmosis, safety issues of osmotic laxatives, linear dose response curve, normal dose response of medications and even the safety issues of paracetamol. I cover so much important information in this first module, so please give each of lessons your best shot.
+Video: Osmotic laxatives exhibit a linear dose response
+UNSAFE_HTML_20260108135750.html
+Activity: Test your knowledge
+PHAR2001_1_1_5_Osmotic_laxatives
+
+
+===== FILE: 09 - Activity- Stimulant laxatives.epub =====
+Stimulant laxatives
+-
+-
+Stimulant laxatives
+If you have ever had a GIT 'bug' and ended up going to the toilet about 20 times, you may have wondered why that was happening. Well, the toxins from the bacteria and the bacteria themselves are basically working on the enteric nervous system of the GIT to signal an increased motility and increased secretions. We want to get those toxins out ASAP!
+That is a simplistic picture of what the stimulant laxatives do. They irritate the GIT to really get the intestines moving.
+But think about that. It is really logical when you think about them, that chronic (long term) use of the stimulant laxatives would result in damage to the GIT. Find out more about the stimulant laxatives and the very short list of situations in which they are indicated by participating in this lesson.
+But wait, there is more! (there is always more in this module, so try not to skip anything). We talk about enteric coating, (why some drugs use an enteric coating, how to take drugs that are enteric coated, and what not to do with them) as well.
+In the above description of this lesson, I note a number of important points that you will learn by watching this 7 minute video and engaging in the activities.
+Video: Stimulant Laxatives: Sodium Picosulfate, Senna, Castor oil and Bisacodyl
+UNSAFE_HTML_20260108140146.html
+Activity: Test your knowledge
+PHAR2001_1_1_6_Stimulant_laxatives
+
+
+===== FILE: 10 - Activity- Mineral oil and detergent laxatives.epub =====
+Activity: Mineral oil and detergent laxatives
+-
+-
+Mineral oil and detergent laxatives
+What happens to something that gets into the circulatory system if we don't have a method to excrete it? Does it just keep circulating around and around or do we try to seclude it from the rest of the body in some way?
+Go ahead, watch the video below to find out.
+Video:  Mineral oil and detergent laxatives: Serious health concerns when combined
+UNSAFE_HTML_20260108140833.html
+Activity: Test your knowledge
+PHAR2001_1_1_7_Mineral_oil_and_detergent_laxatives
+
+
+===== FILE: 11 - Summary of Chapter 1.epub =====
+Summary of Chapter 1
+-
+-
+Summary
+Congratulations, as you have just finished the first chapter of Module 1.
+This module is much bigger than subsequent modules in Introductory Pharmacology, but it has to be because we are learning all of the basics that will help you understand the material presented in subsequent modules. So on to the next chapter where we learn about the most common way our medications work, namely on cellular receptors.
+Video: Understanding medications, chapter 1 summary
+Watch this quick 2 minute summary of this chapter.
+UNSAFE_HTML_20260108141851.html
+
+
+===== FILE: 12 - Introduction to Chapter 2.epub =====
+Introduction to Chapter 2
+-
+-
+Introduction to Pharmacodynamics
+Now that we understand some of the foundational information about medications, we can move on to the more complicated topics of Pharmacology, namely Pharmacodynamics. Pharmacodynamics basically means 'what the drug does to the body' - how does it work?
+Most of our medications work on cellular receptors, so it is important that in this chapter, we get a good, clear picture of what the cellular receptors are and how our medications can use those to exert their pharmacological effects.
+The NOTES for this portion of the Module are directly below.
+Module 1 Chapter 2 PowerPoint.NOTES.pdf
+Video: Introduction to chapter 2
+Watch this introduction to Chapter 2 of Module 1, and reinforce your knowledge with the activity.
+UNSAFE_HTML_20260108144044.html
+Activity: Test your knowledge
+PHAR2001_1_2_0_Introduction_to_Chapter_2
+
+
+===== FILE: 13 - Understand safety issues around diarrhoea before treating it.epub =====
+Understand safety issues around diarrhoea before treating it
+-
+-
+Safety issues to consider
+As we learned in the last topic/chapter, in order to SAFELY work with medications, we must first understand a bit about the disorder that is being treated. Are there any safety issues ABOUT THE DISORDER that we need to be aware of before we jump in and recommend anything?
+So, since the underlying medication that we will be investigating in this chapter is loperamide, which is indicated for diarrhoea, our first job is to make sure that we understand the safety issues around diarrhoea. Right now can you think of any? What age groups and body shapes do you think would be most susceptible to those issues?
+Video: Understanding safety issues around diarrhoea
+You can get a pretty good idea of how important a lesson is by the number of activities. Watch this video and test your knowledge of the topic with the four activities below. I place a very high emphasis on safety, because that is the most important thing about working with meds.
+UNSAFE_HTML_20260108144435.html
+Activity: Test your knowledge
+PHAR2001_1_2_1_Understand_Safety_Issues_Around_Diarrhoea_Before_Treating_It
+
+
+===== FILE: 14 - Drug nomenclature (Naming).epub =====
+Drug nomenclature (Naming)
+-
+-
+Naming conventions
+There are many different names for the same medication, so do we need to learn them all? Are there any tricks that we can learn to help us remember the most important drugs?
+While we will no doubt need to know the common brand names of many of our medications, it is the generic name that is most important in the first instance, because that is the one that is always on the label. There are affixes (usually suffixes) to start looking out for and this video attempts to get you in the habit of finding that suffix, and identifying the drug.
+Video: Drug nomenclature (naming)
+After you watch this video and do the associated activities, you will never look at a drug name the same way that you do now!
+UNSAFE_HTML_20260108144705.html
+Activity: Test your knowledge
+PHAR2001_1_2_2_Drug_Nomenclature_(Naming)
+
+
+===== FILE: 15 - Comparing Loperamide to other opioids.epub =====
+Comparing Loperamide to other opioids
+-
+-
+Understanding Loperamide
+We have all heard about the opioids. The drug class that includes some of the strongest painkillers that we have. But Loperamide is an opioid but in normal doses, it has not pain-relieving properties. So why is that?
+We compare Loperamide to other opioids in this lesson so that you can get an overall picture of the drug class called the opioids.
+We also investigate an important safety issue about loperamide: remember what we said, that 1/3rd of 1% of the medication gets into the system? Some people try to get an opioid high from consuming several times the recommended dose. Find out what happens in this lesson.
+Video: Comparing Loperamide to other opioids
+Despite the fact that an average of 0.4% of loperamide gets absorbed, there are important safety issues that you will learn about as you engage in this video. Remember that you can speed up or slow down the videos by clicking on the settings tab, and choosing a setting different to 1.0.
+UNSAFE_HTML_20260108144917.html
+Activity: Test your knowledge
+PHAR2001_1_2_3_Comparing_Loperamide_to_Other_Opioids
+
+
+===== FILE: 16 - Cellular receptors.epub =====
+Cellular receptors
+-
+-
+Importance of cellular receptors
+These next three lessons are absolutely essential for you to understand if you intend to understand our medications. I deleted a lot of the detail about cellular receptors so that you can concentrate on really understanding the most important points. Try to imagine the receptors in this lesson. No need to memorise the types for this unit - just try to get that overall picture.
+Video: Cellular receptors
+Please don't miss this one. Watch how our medications bind to cellular receptors and what happens after binding, then reinforce your knowledge with the three activities below.
+UNSAFE_HTML_20260108145136.html
+Activity: Test your knowledge
+PHAR2001_1_2_4_Cellular_Receptors
+
+
+===== FILE: 17 - Affinity potency selectivity.epub =====
+Affinity potency selectivity
+-
+-
+Understanding affinity, potency and selectivity
+Why is it that medication A, which works in the same way as Medication B can be so much stronger (more potent)? While there can be many reasons, one of the most common has to do with the strength of the molecular bond of the medication to its given receptor.
+Most often, a medication that affects cellular receptors binds to its receptor and then lets go shortly after. Then it binds to another receptor of the same type, and lets go... But what if the drug bound to the receptor and it really takes a lot more time to get it off that receptor (it had a much greater affinity to the receptor)? As you can imagine, many more messages will be sent to the cell. So the drug's affinity can affect its potency.
+This is another really important lesson as we learn three very important concepts, affinity, potency and selectivity.
+Video: Affinity potency selectivity
+The terms you learn by watching this video will be used throughout this unit. Make sure that you engage in the activities directly after watching the video.
+(Please also note the two questions within the video associated with this lesson)
+UNSAFE_HTML_20260108145449.html
+Activity: Test your knowledge
+PHAR2001_1_2_5_Affinity_Potency_Selectivity
+
+
+===== FILE: 18 - Agonists antagonists and inverse agonists.epub =====
+Agonists antagonists and inverse agonists
+-
+-
+Video: Agonists, antagonists, inverse agonists
+There are many different ways that a drug can affect a particular receptor. This lesson gives you an overview that you can really picture.
+I cannot stress how important these concepts are. Please engage in the video and activities below.
+UNSAFE_HTML_20260108145745.html
+Activity: Test your knolwedge
+PHAR2001_1_2_6_Agonists_Antagonists_and_Inverse_Agonists
+
+
+===== FILE: 19 - Loperamide.epub =====
+Loperamide
+-
+-
+Video: Loperamide
+After engaging in that foundational information that will help you understand any medication that is an agonist, you can now easily understand loperamide with this lesson.
+UNSAFE_HTML_20260108145929.html
+Activity: Test your knowledge
+PHAR2001_1_2_7_Loperamide
+
+
+===== FILE: 20 - Activity- Summary video.epub =====
+Activity: Summary video
+-
+-
+Video: Summary of chapter 2
+This video summarises Module 1, Chapter 2.
+After watching this 3-minute video, give yourself a big pat on the back, because you are starting to develop a really good picture of medications that will help you describe medications and their effects to your clients and colleagues in the future.
+Also remember that these videos and activities prepare you for the workbook questions and also are the best preparation for the end of Term quiz, so well done on completing this second chapter in Module 1!
+UNSAFE_HTML_20260108150101.html
+
+
+===== FILE: 21 - Introduction.epub =====
+Introduction
+-
+-
+Video: Introduction to Pharmacokinetics
+Welcome to Module 1 chapter 3 where you will begin understanding how drugs move around the body. The process of pharmacokinetics, which involves absorption, distribution, metabolism and excretion. I quickly introduce this topic in this 3 minute video.
+UNSAFE_HTML_20260108150331.html
+Module 1 Chapter 3 PPS PowerPoint NOTES.pdf
+
+
+===== FILE: 22 - Absorption of drugs, Part 1.epub =====
+Absorption of drugs
+-
+-
+Video: Absorption of drugs, Part 1
+In this lesson, we begin to understand the advantages and disadvantages of different modes of administration as we truly picture them.
+Important stuff. Please engage in the 6 minute video, which has a couple reflective quizzes at the end, and then engage in the two activities below.
+UNSAFE_HTML_20260108150815.html
+Activity: Test your knowledge, Part 1
+PHAR2001_1_3_1_Absorption_of_Drugs_Part_1
+Video: Absorption of drugs, Part 2
+The second half of this video includes a couple questions that will help you apply the information from the first half of the video. Please engage in those questions.
+UNSAFE_HTML_20261022194259.html
+Activity: Test your knowledge, Part 2
+Clone of PHAR2001_1_3_2_Absorption_of_Drugs_Part_2
+
+
+===== FILE: 23 - Distribution of drugs.epub =====
+Distribution of drugs
+-
+-
+How drugs are distributed within the body
+The distribution of lipophilic drugs involves protein binding which is a very difficult concept to understand but this video will really get you to picture the process.
+Please engage in the video and in the two exercises that are presented in the second half of the video, and then in the Activity: Quizzes for this lesson, in that order.
+Thanks, Ken
+Video: Quizzes for this lesson
+I would have loved to have learned about pharmacokinetics in this way. Please engage in the video and associated activities.
+UNSAFE_HTML_20260108151911.html
+Activity: Test your knowledge
+PHAR2001_1_3_3_Distribution_of_Drugs
+
+
+===== FILE: 24 - Metabolism of drugs.epub =====
+Metabolism of drugs
+-
+-
+The importance of the liver
+The liver is the site of most metabolism of drugs. As soon as most drugs are absorbed and begin the distribution process, our body wants to excrete the drug as quickly as possible. And since the kidneys are the main site of excretion of most drugs, the main goal of metabolism of drugs is to make the drug more water soluble and easy to excrete. We want that drug out of there ASAP
+Interestingly, as drugs go through the liver, many different scenarios are possible, including that an inactive pro-drug can become an active drug or an active drug can become an inactive drug. This lesson explains the basics of the third principle of Pharmacokinetics, the metabolism of drugs, in a way that you can apply the information to any medication.
+Video: Metabolism of drugs
+Please watch this video and engage in the three activities in the following sections.
+UNSAFE_HTML_20260112074924.html
+Activity: Test your knowledge
+PHAR2001_1_3_4_Metabolism_of_Drugs
+
+
+===== FILE: 25 - Excretion of drugs.epub =====
+Excretion of drugs
+-
+-
+How drugs are excreted
+The main thing that we need to learn about with respect to the excretion of drugs has to do with the half-life. Half-life is defined as the time required for any specified property (e.g. the concentration of a substance in the body) to decrease by half. Interestingly almost all of our prescription medications are eliminated differently to that of ethanol, the alcohol in alcoholic beverages.
+Video: Excretion of drugs
+I have condensed the excretion of drugs so what is left (5 minutes) is really important. Please engage in this lesson.
+UNSAFE_HTML_20260108153640.html
+Activity: Test your knowledge
+PHAR2001_1_3_5_Excretion_of_Drugs
+
+
+===== FILE: 26 - Drug class affixes.epub =====
+Drug class affixes
+-
+-
+Drug name classifications
+Have you ever looked at the label on a container of pills and your eyes twisted the name in all sorts of ways to get the generic name make sense? It never does. ...or does it? If you learn a simple trick contained in this lesson, you will be able to identify general properties of drugs you have never seen before.
+Video: Drug class affixes
+You may be wondering how you can learn quite a bit about 22 of the 200 most prescribed medications in 6 minutes and 17 seconds. Well, watch the video and find out! Don't forget to engage in the drag and drop excecise because that will help reinforce your knowledge.
+BTW: Ranitodine was mentioned here but has been withdrawn from the Australian market. Other ...tidine mentioned are all available.
+UNSAFE_HTML_20260108153929.html
+Activity: Test your knowledge
+PHAR2001_1_3_6_Drug_Class_Affixes
+
+
+===== FILE: 27 - Understanding the side effects of reducing stomach acid.epub =====
+Understanding the side effects of reducing stomach acid
+-
+-
+The importance of stomach acid
+Histamine 2 blockers (the drug class with the ...tidine suffix) do not block all of the acid from the stomach like proton pump inhibitors (the ...prazole drugs) do, but nonetheless, they have similar long-term side effects associated with the greatly reduced stomach acid.
+If you think about it, the acid is there for a reason. And some clients will be blocking that acid production for years. So let's quickly review the functions of the acid in the stomach and see how that ties into the side effects that are likely from long-term decreases in stomach acid.
+Video: Understanding side effects of reduced stomach acid
+Millions of Australians use these medications that are available without a prescription and without knowing the potential side effects associated with their long term use. Understand those effects in just 5 minutes with this video, and you will be able to help clients or friends who decrease their GIT acidity without getting the problem properly assessed.
+UNSAFE_HTML_20260108154302.html
+Activity: Test your knowledge
+PHAR2001_1_3_7_Understanding_the_Side_Effects_of_Reducing_Stomach_Acid
+
+
+===== FILE: 28 - Histamine 2 blockers.epub =====
+Histamine 2 blockers
+-
+-
+Safety issue
+The most popular Histamine 2 receptor blockers (due to better efficacy and potency) was Ranitidine (Zantac) until 2020 when it was discovered that some components of the drug broke down into carcinogenic components. This happened to a greater extent over time and if the drug was stored improperly, like in a hot car. The company that manufactured Zantac has changed the drug from Ranitidine to Famotidine and changed the brand name of their version of Famotidine to Zantac 360. Clients who mention having Zantac should be questioned to make sure they are not taking leftover Ranitidine.
+Video: Histamine 2  receptor blockers
+All other Histamine 2 blockers like Famotidine and Cimetidine and other ...tidine drugs have been tested for carcinogens and none were found. This video excludes mention of Ranitidine and attempts to give you a good picture of the other members of the Drug Class called the Histamine 2 receptor blocker drugs.
+UNSAFE_HTML_20260108154644.html
+Activity: Test your knowledge
+PHAR2001_1_3_8_Histamine_2_Blockers
+
+
+===== FILE: 29 - Activity- Watch this video summary of this chapter.epub =====
+Activity: Watch this video summary of this chapter
+-
+-
+Chapter summary
+Well done on completing this chapter. Hopefully you have enjoyed developing a picture of the process of pharmacokinetics. If you do not feel like you caught it all the first time around, don't worry because in the next chapter, we follow the main drug we discuss, as it goes through each process of pharmacokinetics: absorption, distribution, metabolism and excretion.
+Thanks for giving this difficult module your best shot, well done. I spent a lot of time trying to get you to picture these complex processes, and it is all worth it when I see you benefiting!
+Regards, Ken
+Video: Chapter 3 summary
+UNSAFE_HTML_20260108155548.html
+
+
+===== FILE: 30 - Introduction.epub =====
+Introduction
+-
+-
+Introduction to Chapter 4
+Welcome to Module 1 Chapter 4, where you will begin understanding enzymes and how our medications affect enzymes. In this chapter, we use the proton pump inhibitor to understand all of the foundational information about enzymes and the effect of drugs on them.
+Here are the NOTES, three to a page with room for your own notes.
+Module 1 Chapter 4 NOTES 2025.pdf
+Video: Introduction to Chapter 4 - Enzymatic inhibitors
+UNSAFE_HTML_20260108155832.html
+Activity: Test your knowledge
+Please engage in this activity to make sure that you understand the material in the introduction video.
+PHAR2001_1_4_0_Introduction to Chapter 4 on Enzymes
+
+
+===== FILE: 31 - Reviewing Pharmacokinetics by following omeprazole through the body.epub =====
+Reviewing Pharmacokinetics by following omeprazole through the body
+-
+-
+A review of Pharmacokinetics
+Before we get on to the discussion of enzymes and enzymatic inhibitors that are the main topic of this chapter, let's take a review of the last chapter's topic, but using the drug we will be discussing in this chapter. The material in this video is a review and as such is not mandatory, but make sure that you engage in the activities, as those are assessable.
+So in this lesson, we use Omeprazole, (a proton pump inhibitor that decreases stomach acid) to review all of the processes involved in Pharmacokinetics: absorption, distribution, metabolism and excretion. You don’t need to memorise anything, just sit back and watch the drug flow through the system as you review the processes involved in one of the most difficult topics in Pharmacology.
+Video: Pharmacokinetics - Visualising Omerprazole
+This is an interesting review of the four processes of pharmacokinetics, using omeprazole as the drug. Sit back and watch it get absorbed, distributed, metabolised and excreted. This video follows a drug (omeprazole) through the body as a review of pharmacokinetics, and as such it is not compulsory but make sure that you engage in the activities directly below, which cover a couple points that were not discussed elsewhere.
+UNSAFE_HTML_20260108160241.html
+Activity: Test your knowledge
+PHAR2001_1_4_1_Reviewing Pharmacokinetics by Following Omeprazole Through the Body
+Video: Applying your knowledge quiz on Omerprazole
+The video takes new material and as such is compulsory
+In the review of Pharmacokinetics above, I left you thinking about a couple questions:
+- What happens to the other 20% of the Omeprazole that does not get into systemic circulation?
+- If the half-life of Omeprazole is 1.5 hours, why does it work in the system for up to 72 hours?
+After thinking about those questions, watch this video to picture what actually happens.
+UNSAFE_HTML_20260108160533.html
+
+
+===== FILE: 32 - Enzymatic inhibition by drugs, Part 1.epub =====
+Enzymatic inhibition by drugs, Part 1
+-
+-
+Learning about enzymatic inhibition
+Why is it that irreversible enzymatic inhibitors like aspirin and NSAIDs affect platelets for the life of the platelet (9 days) but only decrease inflammation for four hours? How can our drugs affect enzymes? So much to learn about enzymes and how our medications affect them but learning about it is interesting.
+Video: Enzymatic inhibition by drugs, Part 1
+Get a really good picture of the second most important way in which our medications work by clicking onto the video.
+UNSAFE_HTML_20260108160840.html
+Activity: Test your knowledge
+PHAR2001_1_4_2_Enzymatic_Inhibition_by_Drugs_Part_1
+
+
+===== FILE: 33 - Understanding proton pump enzymatic inhibitors.epub =====
+Understanding proton pump enzymatic inhibitors
+-
+-
+Video: Understanding proton pump enzymatic inhibitors
+In order to really understand how Omeprazole works, you need to understand the complex enzyme called the hydrogen-potassium ATPase pump. It is a pump and an enzyme and that makes is so very interesting!
+UNSAFE_HTML_20260108161103.html
+Activity: Test your knowledge
+PHAR2001_1_4_3_Understanding_Proton_Pump_Enzymatic_Inhibitors
+
+
+===== FILE: 34 - Understanding side effects of enzymatic inhibitors.epub =====
+Understanding side effects of enzymatic inhibitors
+-
+-
+The side effects of enzymatic inhibitors
+How is it that something like grapefruit juice (and many of our drugs) can make some drugs more potent and other drugs less potent? How can drugs 'induce' some enzymes while inhibiting others? In this lesson, we continue using the proton pump inhibitor Omeprazole to learn about enzymes and how drugs can affect enzymes.
+Video: Understanding enzymatic inhibitors
+Enzymatic inhibition is the second most important way in which our medications work, so continue your understanding about enzymatic inhibition by engaging in this video lesson.
+UNSAFE_HTML_20260108161311.html
+Activity: Test your knowledge
+PHAR2001_1_4_4_Understanding side effects of enzymatic inhibitors
+
+
+===== FILE: 35 - Omeprazole.epub =====
+Omeprazole
+-
+-
+Video: Omeprazole
+Omeprazole is a proton pump inhibitor that is nearly 100% effective in reducing stomach acid and as such is the first line therapy for peptic ulcer disease and GORD/GERD. Pregnancy categories are also briefly reiterated as Omeprazole is a pregnancy category B3 drug.
+Please watch this video and engage in the activities below.
+UNSAFE_HTML_20260108161604.html
+Activity: Test your knowledge
+PHAR2001_1_4_5_Omeprazole
+
+
+===== FILE: 36 - Summary of Chapter 4 on enzymatic inhibitors.epub =====
+Summary of Chapter 4 on enzymatic inhibitors
+-
+-
+Video: Summary of chapter 4
+I summarise the chapter in this final video.
+You are really close to finishing the module, just a few videos in Chapter 5.
+See you there!
+Ken
+UNSAFE_HTML_20260108161813.html
+
+
+===== FILE: 37 - Introduction to Chapter 5 on neurotransmitters.epub =====
+Introduction to Chapter 5 on neurotransmitters
+-
+-
+Introduction to neurotransmitters
+This is the condensed version (assessable portions only) of the last chapter of Module 1, and deals with drugs that work to control emesis or vomiting.
+The aims of this chapter are to:
+- Identify the safety issues associated with vomiting
+- Explain the four pathways involved in emesis
+- Place our medications into the context of the above
+Please feel free to use the NOTES for the condensed Chapter 5 directly below. If you would like the full notes, please go to the full chapter 5.
+Module 1 Chapter 5 powerpoint NOTES.pdf
+
+
+===== FILE: 38 - Understand safety issues around vomiting before treating it.epub =====
+Understand safety issues around vomiting before treating it
+-
+-
+Understanding which antiemetic to administer
+You probably have this down pat by now, and that is good, because it is important. If you do not understand the basics of the disorder that is being treated, then you may miss heaps of red flags and that could wind up in harm to the client.
+So right now, before we get into the actual antiemetics, let's get a good picture of the types of safety issues that are involved with vomiting itself.
+Video: Determine the underlying cause
+The most important thing we need to do when working with clients is to BE SAFE. Ensure that you know the safety issues around vomiting by engaging in this 4.5 minute video.
+UNSAFE_HTML_20260108164900.html
+Activity: Test your knowledge
+PHAR2001_1_5_2_Understand safety issues around vomiting before treating it
+
+
+===== FILE: 39 - Antiemetics for motion sickness.epub =====
+Antiemetics for motion sickness
+-
+-
+Treating motion sickness
+Since there are four completely different pathways to the vomiting centre, using four distinctly different sets of neurotransmitters, emesis (vomiting) needs to be treated with the correct antiemetic.
+This lesson helps you understand which antiemetics must be used to address motion sickness and which ones should be used for the type of vomiting that originates from the higher brain centre (like the vomiting that occurs when you think "looking at that just made me sick"').
+Video: Antiemetics for motion sickness
+Condensed version of antiemetics
+Activity: Test your knowledge
+PHAR2001_1_5_3_Antiemetics for Motion Sickness
+
+
+===== FILE: 40 - Activity- Signing off of Module 1.epub =====
+Signing off of Module 1
+-
+-
+Conclusion of module 1
+Congratulations on completing the most difficult topics in Pharmacology!
+Please reward yourself for giving this module your best shot. You will now understand the material in subsequent chapters, and most of the discussions about medications that you will engage in with colleagues, and you will be able to explain medications to clients. You have also begun your preparation for the 30% end of Term quiz.
+See you in Module 2!
+Warm regards, Ken
+
+
+===== FILE: 41 - Introduction to Chapter 5 on neurotransmitters.epub =====
+Introduction to Chapter 5 on neurotransmitters
+-
+-
+Introduction to Neurotransmitters
+You do not need to engage in this full chapter for PHAR2001. You may use the condensed chapter adjacent to the point at which you enter this file.
+This is the last chapter of Module 1, and deals with drugs that work on neurons in general and specifically, work to control emesis or vomiting.
+The aims of this chapter are to:
+- Generally explain neurotransmission and the ways that our medications can work on neurons
+- Identify the safety issues associated with vomiting
+- Explain the four pathways involved in emesis
+- Place our medications into the context of the above
+Please feel free to use the NOTES for Chapter 5 directly below:
+Module 1 Chapter 5 NOTES 2025.pdf
+Video: Watch this video introduction to the chapter
+Bismuth subsalicylate is not sold in Australia at all, and as such, there will be no questions in the quiz regarding that medication. Please just aim to be aware of its indications and effects, and the fact that it is not available here, because it is available in just about every other country, and is heavily relied on by many people who have frequent stomach irritation.
+UNSAFE_HTML_20260108162234.html
+Activity: Test your knowledge
+PHAR2001_1_5_0_Introduction to Chapter 5 on neurotransmitters
+
+
+===== FILE: 42 - Neurotransmitters.epub =====
+Neurotransmitters
+-
+-
+What are neurotransmitters?
+Neurons communicate with the adjacent neuron using a neurotransmitter that excites or inhibits the next neuron. But we need to get that neurotransmitter back out of the area very quickly by a number of methods, so that there is not constant excitation or inhibition at the next neuron. Our medications that affect neurotransmission can target the receptors on the neurons, they can mimic the neurotransmitter, or they can target the ways in which we get the neurotransmitters out of the synaptic cleft. The antiemetics all target the receptors on the neurons. In other words, they are receptor antagonists for the neurotransmitters involved in emesis.
+Video: Understanding neurotransmission
+We discuss neurotransmission in Module 5, but it would be good to know some of that information as we discuss antiemetic drugs right now.
+UNSAFE_HTML_20260108162416.html
+Activity: Test your knowledge
+PHAR2001_1_5_1_Introduction to Chapter 5 on neurotransmitters
+
+
+===== FILE: 43 - Understand safety issues around vomiting before treating it.epub =====
+Understand safety issues around vomiting before treating it
+-
+-
+Safety issues with vomiting
+You probably have this down pat by now, and that is good, because it is important. If you do not understand the basics of the disorder that is being treated, then you may miss heaps of red flags and that could wind up in harm to the client.
+So right now, before we get into the actual antiemetics, let's get a good picture of the types of safety issues that are involved with vomiting itself.
+Video: Determine the underlying cause
+The most important thing we need to do when working with clients is to BE SAFE. Ensure that you know the safety issues around vomiting by engaging in this 4.5 minute video.
+UNSAFE_HTML_20260108163000.html
+Activity: Test your knowledge
+PHAR2001_1_5_2_Understand safety issues around vomiting before treating it
+
+
+===== FILE: 44 - Antiemetics for motion sickness.epub =====
+Antiemetics for motion sickness
+-
+-
+Treating motion sickness
+Since there are four completely different pathways to the vomiting centre, using four distinctly different sets of neurotransmitters, emesis (vomiting) needs to be treated with the correct antiemetic. This lesson helps you understand which antiemetics must be used to address motion sickness and which ones should be used for the type of vomiting that originates from the higher brain centre (like the vomiting that occurs when you think "looking at that just made me sick"').
+Video: Antiemetics for motion sickness
+UNSAFE_HTML_20260108163121.html
+Activity: Test your knowledge
+PHAR2001_1_5_3_Antiemetics for Motion Sickness
+
+
+===== FILE: 45 - Antiemetics for chemotherapy and GIT origins.epub =====
+Antiemetics for chemotherapy and GIT origins
+-
+-
+Video: Antiemetics for chemotherapy and GIT origins
+Given that there are four distinctly different pathways to the vomiting centre, the correct medication is determined by the cause of the vomiting. This lesson explains which is most appropriate by using a clinical scenario.
+UNSAFE_HTML_20260108163638.html
+Activity: Test your knowledge
+PHAR2001_1_5_4_Antiemetics for Chemotherapy and GIT Origins
+
+
+===== FILE: 46 - Activity- Watch this summary video.epub =====
+Activity: Watch this summary video
+-
+-
+Module summary
+Congratulations on completing the most difficult topics in Pharmacology!
+Please reward yourself for giving this module your best shot. You will now understand the material in subsequent chapters, and most of the discussions about medications that you will engage in with colleagues, and you will be able to explain medications to clients. You have also begun your preparation for the 30% end of Term quiz.
+See you in Module 2!
+Warm regards, Ken
+Video: Summary of chapter 5
+UNSAFE_HTML_20260108163832.html

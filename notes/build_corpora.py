@@ -91,6 +91,40 @@ def yt_text(vid):
     return ""
 
 
+def docx_text(path, cap_words=8000):
+    import zipfile
+    from html import unescape
+    try:
+        with zipfile.ZipFile(path) as z:
+            xml = z.read("word/document.xml").decode("utf-8", errors="ignore")
+    except Exception:
+        return ""
+    xml = xml.replace("</w:p>", "\n").replace("<w:tab/>", "\t")
+    text = unescape(re.sub(r"<[^>]+>", "", xml))
+    text = re.sub(r"\n{3,}", "\n\n", text).strip()
+    if words(text) > cap_words:
+        text = " ".join(text.split()[:cap_words]) + "\n\n[reading truncated at 8,000 words]"
+    return text
+
+
+def pptx_text(path, cap_words=8000):
+    import zipfile
+    from html import unescape
+    try:
+        with zipfile.ZipFile(path) as z:
+            slides = sorted(n for n in z.namelist() if re.match(r"ppt/slides/slide\d+\.xml$", n))
+            chunks = []
+            for slide in slides:
+                xml = z.read(slide).decode("utf-8", errors="ignore")
+                chunks.append(" ".join(unescape(t) for t in re.findall(r"<a:t>(.*?)</a:t>", xml)))
+    except Exception:
+        return ""
+    text = "\n\n".join(c for c in chunks if c.strip()).strip()
+    if words(text) > cap_words:
+        text = " ".join(text.split()[:cap_words]) + "\n\n[reading truncated at 8,000 words]"
+    return text
+
+
 def pdf_text(path, cap_words=8000):
     try:
         out = subprocess.check_output(
@@ -106,10 +140,7 @@ def pdf_text(path, cap_words=8000):
 
 def build(module, with_readings=False):
     course = module["course"]
-    base = os.path.join(ROOT, course, module["path"])
-    epub_txt = os.path.join(base, "extracted_content.txt")
-    if not os.path.exists(epub_txt):
-        raise SystemExit(f"missing {epub_txt}")
+    source_paths = module.get("source_paths") or [module["path"]]
 
     sources = {}
     blocks = []
@@ -122,66 +153,79 @@ def build(module, with_readings=False):
         blocks.append(f"## [{key}] {title}\n" + "\n".join(
             f"{k}: {v}" for k, v in meta.items() if v) + f"\n\n{body}\n")
 
-    for title, body in parse_epubs(open(epub_txt, encoding="utf-8", errors="ignore").read()):
-        add("S", title.removesuffix(".epub"), {
-            "type": "document",
-            "path": f"material/{title}",
-        }, body)
-
     seen_videos = set()
-    for video in parse_videos_md(os.path.join(base, "videos.md")):
-        if video["source"] == "YouTube":
-            vid = yt_id(video["link"])
-            if vid and vid in seen_videos:
-                continue
-            if vid:
-                seen_videos.add(vid)
-            full = yt_text(vid)
-            body = full or video["body"]
-            add("V", video["title"], {
-                "type": "video",
-                "source": "youtube",
-                "id": vid,
-                "path": f"videos/yt_{vid}.txt" if full else "",
-            }, body)
-        else:
-            add("V", video["title"], {
-                "type": "video",
-                "source": "panopto",
-                "path": "",
-            }, video["body"])
+    for sp in source_paths:
+        base = os.path.join(ROOT, course, sp)
+        epub_txt = os.path.join(base, "extracted_content.txt")
+        if os.path.exists(epub_txt):
+            for title, body in parse_epubs(open(epub_txt, encoding="utf-8", errors="ignore").read()):
+                path = f"material/{title}" if sp == module["path"] else f"{sp}/material/{title}"
+                add("S", title.removesuffix(".epub"), {
+                    "type": "document",
+                    "path": path,
+                }, body)
 
-    if os.path.exists(MANIFEST):
-        manifest = json.load(open(MANIFEST))
-        key = f"{course}/{module['path']}"
-        for vid in manifest.get("per_module", {}).get(key, []):
-            if vid in seen_videos:
+        for video in parse_videos_md(os.path.join(base, "videos.md")):
+            if module.get("video_filter") and not re.search(module["video_filter"], video["title"], re.I):
                 continue
-            seen_videos.add(vid)
-            meta = yt_meta(vid)
-            body = yt_text(vid)
-            if not body:
-                body = (meta.get("description") or "").strip()
-            add("V", meta.get("title") or vid, {
-                "type": "video",
-                "source": "youtube (embedded)",
-                "id": vid,
-                "path": f"videos/yt_{vid}.txt" if body else "",
-            }, body)
-
-    if with_readings:
-        files_dir = os.path.join(base, "files")
-        if os.path.isdir(files_dir):
-            for name in sorted(os.listdir(files_dir)):
-                path = os.path.join(files_dir, name)
-                if not name.lower().endswith(".pdf") or not os.path.isfile(path):
+            if video["source"] == "YouTube":
+                vid = yt_id(video["link"])
+                if vid and vid in seen_videos:
                     continue
-                body = pdf_text(path)
-                if body:
-                    add("R", name.removesuffix(".pdf"), {
-                        "type": "reading",
-                        "path": f"files/{name}",
-                    }, body)
+                if vid:
+                    seen_videos.add(vid)
+                full = yt_text(vid)
+                body = full or video["body"]
+                add("V", video["title"], {
+                    "type": "video",
+                    "source": "youtube",
+                    "id": vid,
+                    "path": f"videos/yt_{vid}.txt" if full else "",
+                }, body)
+            else:
+                add("V", video["title"], {
+                    "type": "video",
+                    "source": "panopto",
+                    "path": "",
+                }, video["body"])
+
+        if os.path.exists(MANIFEST):
+            manifest = json.load(open(MANIFEST))
+            key = f"{course}/{sp}"
+            for vid in manifest.get("per_module", {}).get(key, []):
+                if vid in seen_videos:
+                    continue
+                seen_videos.add(vid)
+                meta = yt_meta(vid)
+                body = yt_text(vid)
+                if not body:
+                    body = (meta.get("description") or "").strip()
+                add("V", meta.get("title") or vid, {
+                    "type": "video",
+                    "source": "youtube (embedded)",
+                    "id": vid,
+                    "path": f"videos/yt_{vid}.txt" if body else "",
+                }, body)
+
+        if with_readings or module.get("readings"):
+            files_dir = os.path.join(base, "files")
+            if os.path.isdir(files_dir):
+                for name in sorted(os.listdir(files_dir)):
+                    path = os.path.join(files_dir, name)
+                    if not name.lower().endswith((".pdf", ".docx", ".pptx")) or not os.path.isfile(path):
+                        continue
+                    if name.lower().endswith(".pdf"):
+                        body = pdf_text(path)
+                    elif name.lower().endswith(".docx"):
+                        body = docx_text(path)
+                    else:
+                        body = pptx_text(path)
+                    if body:
+                        rpath = f"files/{name}" if sp == module["path"] else f"{sp}/files/{name}"
+                        add("R", name.rsplit(".", 1)[0], {
+                            "type": "reading",
+                            "path": rpath,
+                        }, body)
 
     total = sum(words(b.split("\n\n", 1)[-1]) for b in blocks)
     header = (

@@ -1,0 +1,284 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+Module overview: The endocrine system
+The endocrine system is essentially a communication system. It depends on feedback loops of the hormones released by internal glands directly into the circulatory system that regulate distant target organs. But what happens when that communication system breaks down? This module answers that question.
+This entire module contains a total of 70 minutes of video lessons plus activities that reinforce your knowledge and prepare you for the quiz.
+
+
+===== FILE: 02 - Introduction to Endocrine System.epub =====
+Introduction to Endocrine System
+-
+-
+Video: Introduction to the endocrine system
+Join me in this video that introduces you to the endocrine system.
+Watch on YouTube here.
+PHAR2001_3_1_0_INTRODUCTION_to_Endocrine_System
+Chapter objectives
+The objectives for this chapter include:
+-  Define the ‘endocrine system’ and ‘hormone’
+-  Give an example of a homeostatic control mechanism involving ‘negative feedback’.
+-  Explain the reasons that the hypothalamus is thought to be the controlling organ of the endocrine system.
+-  Explain the effects of the two hormones secreted from the posterior pituitary gland (oxytocin and ADH) and give an example of when they would be useful as a pharmaceutical agent.
+-  Explain the actions of growth hormones and the results of excesses and deficiencies during childhood and after puberty.
+-  Drugs to know: Desmopressin, somatropin, vasopressin, oxytocin
+Please see the links below for the PowerPoint and Notes for the first two chapters of this module:
+ENDOCRINE SYSTEM POWERPOINT CHAPTER 1 2025 NOTES.pdf
+ENDOCRINE SYSTEM POWERPOINT CHAPTER 1.pptx
+
+
+===== FILE: 03 - Review Part 1.epub =====
+Review Part 1
+-
+-
+A review of the endocrine system: Part 1
+As we begin discussing the endocrine system, it is important that we have the overview of the system in our mind. The first two lessons review the endocrine system. Remember that you can speed up the videos, to 1.6X or 2X if you have taken two units of physiology recently.
+Video: Review of the endocrine system
+Watch this quick review of the endocrine system to refresh your memory of the clinically relevant information about the endocrine system.
+Youtube video link.
+PHAR2001_3_1_1_Review_Part_1
+Activity: Test your knowledge
+PHAR2001_3_1_1_Review_Part_1
+
+
+===== FILE: 04 - Review Part 2.epub =====
+Review Part 2
+-
+-
+Video: Review of the endocrine system - Part 2
+This lesson contains the final 6 minutes of the endocrine system review.
+Activity: Watch this video
+Youtube video link.
+PHAR2001_3_1_2_Review_Part_2
+Activity: Test your knowledge
+1
+
+
+===== FILE: 05 - Oxytocin.epub =====
+Oxytocin
+-
+-
+Video: Medications of the endocrine system: Oxytocin
+Oxytocin, 'the love hormone'.
+Find out why oxytocin is called the love hormone by watching this video, and then reinforce your knowledge by engaging in the activity below.
+Youtube video link.
+PHAR2001_3_1_4_Oxytocin
+Activity: Test your knowledge
+PHAR2001_3_1_4_Oxytocin
+
+
+===== FILE: 06 - ADH water saver (Not compulsory for this unit).epub =====
+ADH water saver (not compulsory for this unit)
+-
+-
+Vasopressin - The  antidiuretic hormone
+The material in this lesson will not be assessed in PHAR2001.
+Human vasopressin, also called antidiuretic hormone (ADH) is a hormone synthesized from the hypothalamus. It then travels down the axon terminating in the posterior pituitary, and is released into the circulation in response to hyperosmolality (equivalent to dehydration).
+ADH is the water saver, and (its first metabolite) saves the water at its last chance of being reabsorbed at the level of the kidneys just before it is excreted into the urinary bladder. As you would expect, as ADH saves water, it has the effect of increasing the blood pressure.
+Diabetes insipidus    is a disorder characterised by a lack of ADH and while it is relatively uncommon, it is important to understand ADH to understand desmopressin (the treatment for diabetes insipidus) and to understand many drugs, because there are several that affect ADH. For instance, caffeine decreases ADH release and ethanol (drinking alcohol) decreases its production, both leading to their 'diuretic' effects. So let's find out more about this important hormone in this lesson.
+Video:  The  antidiuretic hormone  (Not compulsory for this unit)
+Youtube video link.
+PHAR2001_3_1_3_ADH_water_saver
+Activity: Test your knowledge
+PHAR2001_3_1_3_ADH_water_saver
+
+
+===== FILE: 07 - Growth hormone (not compulsory for this unit).epub =====
+Growth hormone (not compulsory for this unit)
+-
+-
+Somatotropin - The growth hormone
+The material in this lesson will not be assessed in PHAR2001.
+Growth hormone or somatotropin, is a hormone that stimulates growth, cell reproduction, and cell regeneration and is vital in human development.
+Video: Growth hormone excess
+Youtube video link.
+PHAR2001_3_1_5_Growth_Hormone
+Activity: Test your knowledge
+2
+
+
+===== FILE: 08 - Sign off chapter 1.epub =====
+Sign off chapter 1
+-
+-
+Video: Chapter 1 summary
+Youtube video link.
+PHAR2001_3_1_6_sign_off_chapter_1
+
+
+===== FILE: 09 - Understanding thyroid hormone.epub =====
+Understanding thyroid hormone
+-
+-
+Introduction to the thyroid hormone
+If you could design a hormone that could be released when you are cold, what would it do? It would speed up the metabolism of nearly all cells in the body. The sodium-potassium ATPase pumps all through the body would start working overtime, the body would get much more sensitive to adrenaline.
+Well, that is the thyroid hormone. It is also important in growth, metabolism and is absolutely necessary for human life. Let's learn more about the thyroid hormone by engaging in this lesson.
+Video: The thyroid gland
+Remember that you can adjust the speed of these videos to 0.5x, 1x, 1.4x, 1.6x and 2x. The slow speed is very difficult to understand, and as such, I speak a bit slower. As such, one of the faster speeds may be the correct speed for you. Once the video starts playing, simply adjust the 1X to the speed that suits your learning.
+Sorry, in the video, I mentioned that the thyroid gland hypertrophies (cells get larger) when there is inadequate iodine, but that process involves more of a  hyperplasia  (increased number of cells) than a hypertrophy, although both will be occurring. The notes are correct.
+Youtube video link.
+PHAR2001_3_2_1_Understanding_Thyroid_Hormone
+Activity: Test your knowledge
+PHAR2001_3_2_1_Understanding_Thyroid_Hormone
+
+
+===== FILE: 10 - Hypothyroidism and its treatment.epub =====
+Hypothyroidism and its treatment
+-
+-
+Video: Hypothyroidism
+Hypothyroidism occurs in about 5% of all women and increases with age, although it is less common in men. Please take the time to learn more about this important disorder with this lesson.
+Youtube video link.
+PHAR2001_3_2_2_Hypothyroidism_and_its_Treatment
+Activity: Test your knowledge
+PHAR2001_3_2_2_Hypothyroidism_and_its_Treatment
+
+
+===== FILE: 11 - Hyperthyroidism and its treatment (Not compulsory).epub =====
+Hyperthyroidism and its treatment (Not compulsory)
+-
+-
+Treatment of hyperthyroidism
+The polar opposite disorder to hypothyroidism is obviously hyperthyroidism. Interestingly, the most common type of this disorder is also an autoimmune disorder. But in this case the immunoglobulins produced will be acting like thyroid stimulating hormone, resulting in excessive release of T4. Let's take a closer look at this group of disorders and their treatment in this final lesson of the chapter.
+Video: Hyperthyroidism symptoms (not compulsory)
+Youtube video link.
+PHAR2001_3_2_3_Hyperthyroidism_and_its_Treatment
+Activity: Test your knowledge
+PHAR2001_3_2_3_Hyperthyroidism_and_its_Treatment
+
+
+===== FILE: 12 - Signing Off.epub =====
+Signing Off
+-
+-
+Video: Summary of chapter 3
+Hi All, In this final video, I mention that diabetes will be the next Chapter, but I decided to present Diabetes within the tutorial and the case studies, so you will have adequate coverage of that disorder within those activities. Regards, Ken
+Youtube video link
+PHAR2001_3_2_4_Signing_Off
+
+
+===== FILE: 13 - Introduction Stress Axis.epub =====
+Introduction Stress Axis
+-
+-
+Video: The adrenal axis
+After watching this video introduction to the topic, you can download the notes directly below and go on to the rest of the chapter.
+Youtube video link.
+PHAR2001_3_4_0_Introduction_Stress_Axis
+Objectives
+The objectives for this chapter include:
+-  Name and explain the actions of the two types of steroidal hormones released from the adrenal cortex (glucocorticoids and mineralocorticoids – the androgens are not as important so concentrate on the first two).
+-  Using hypoglycaemia as the stressor explain why the ‘hypothalamus > anterior pituitary > adrenal cortex’ axis is considered the stress axis (in other words, how does this axis help out in hypoglycaemia?)
+-  Using dehydration or hypovolemic shock as the stressor explain why the ‘hypothalamus > anterior pituitary > adrenal cortex’ axis is considered the stress axis (How does the adrenal gland help in times of dehydration?) Drugs to know: Spironolactone and Fludrocortisone
+-  Detail the physiological actions of the glucocorticoids. Give specific examples of the application of glucocorticoids in pharmacology, using specific drugs as examples (Methylprednisolone, Prednisolone and Dexamethasone). List ten specific adverse effects of glucocorticoids.
+The notes and PowerPoint for this chapter are directly below:
+ENDOCRINE SYSTEM POWERPOINT CHAPTER 4.pptx
+ENDOCRINE SYSTEM POWERPOINT CHAPTER 4 notes 2025.pdf
+Activity: Test your knowledge
+PHAR2001_3_4_0_Introduction_Stress_Axis
+
+
+===== FILE: 14 - Overview Stress Axis.epub =====
+Overview Stress Axis
+-
+-
+Overview of the corticosteroids
+In this lesson, we will start understanding the stress access. When we are dying of dehydration or of hypoglycaemia, there is a cascade of hormones that ultimately results in the adrenal cortex secreting the stress hormones. Some of those are termed corticosteroids, and others include noradrenaline. The Corticosteroids include the GLUCOcorticoids which save glucose and the MINERALcorticoids that save salt. These hormones are so valuable in times of stress that they are the obvious choice to mimic in a pharmacological sense.
+Please take time to understand this overview of the corticosteroids before getting into the lessons for this chapter.
+Figure 3.1  : Corticosteroids -  The Steroidal hormones secreted by the adrenal cortex
+Video: Stress response system
+Youtube video link.
+PHAR2001_3_4_1_Overview_Stress_Axis
+Activity: Test your knowledge
+PHAR2001_3_4_1_Overview_Stress_Axis
+
+
+===== FILE: 15 - Glucocorticoids.epub =====
+Glucocorticoids
+-
+-
+Video: Glucocorticoids
+In this lesson, we begin to really understand the side effects of long term 'corticosteroid' (glucocorticoids; drugs like prednisone) treatment by picturing the actions of cortisol.
+Watch this video to really get a good picture of the actions of the glucocorticoids like cortisol.
+Youtube video link.
+PHAR2001_3_4_2_Glucocorticoids
+Activity: Test your knowledge
+PHAR2001_3_4_2_Glucocorticoids
+
+
+===== FILE: 16 - Side effects of corticosteroids.epub =====
+Side effects of corticosteroids
+-
+-
+Video: Side effects of corticosteroids
+Watch this video to really picture the side effects of long term corticosteroid treatment.
+Youtube video link.
+PHAR2001_3_4_3_Side_Effects_of_Corticosteroids
+Activity: Test your knowledge
+PHAR2001_3_4_3_Side_Effects_of_Corticosteroids
+
+
+===== FILE: 17 - Signing off.epub =====
+Signing off
+-
+-
+Video: Conclusion of chapter 4
+Just one last 1.5 minute video to conclude this chapter.
+Youtube video link.
+PHAR2001_3_4_4_Conclusion
+
+
+===== FILE: 18 - Introduction to medications for bone health.epub =====
+Introduction to medications for bone health
+-
+-
+Video: Introduction to chapter 5
+In this final portion of the endocrine system, we explore the endocrine regulation that ensures optimal bone health.
+Youtube video link.
+PHAR2001_3_6_0_Introduction_bone_disorders
+Objectives
+The objectives for this chapter include:
+-  Explain the effects of parathyroid hormone and calcitonin and their role in bone health.
+-  Explain the process of bone formation and reformation
+-  Using two specific examples (bisphosphonates and teriparatide), explain how pharmaceutical agents can be beneficial for people with bone loss. Explain the main adverse drug reactions of these medications.
+If you would like the notes or PowerPoint presentation for this chapter, please click on the link(s) below:
+powerpoint for bone notes 2025.pdf
+powerpoint for bone.pptx
+
+
+===== FILE: 19 - Understanding bone health.epub =====
+Understanding bone health
+-
+-
+Video: The bone remodelling process
+All through our life, there is a breakdown and reformation of bone. This lesson reviews that process and overviews the most common bone disorder, osteoporosis.
+Youtube video link.
+PHAR2001_3_6_1_Understanding_bone_health
+Activity: Test your knowledge
+PHAR2001_3_6_1_Understanding_bone_health
+
+
+===== FILE: 20 - Understanding bone health 2.epub =====
+Understanding bone health 2
+-
+-
+Video: Bone health
+In this lesson, we complete our understanding of bone health.
+Youtube video link.
+PHAR2001_3_6_2_Understanding_bone_health_2
+Activity: Test your knowledge
+PHAR2001_3_6_2_Understanding_bone_health_2
+
+
+===== FILE: 21 - Bisphosphonates Teriparatide SERMS.epub =====
+Bisphosphonates Teriparatide SERMS
+-
+-
+Video: Other treatments for osteoporosis
+Youtube video link
+PHAR2001_3_6_3_Bisphosphonates_Teriparatide_SERMS
+Activity: Test your knowledge
+PHAR2001_3_6_3_Bisphosphonates_Teriparatide_SERMS
+Summary of Module 3
+And that concludes the shortest Module of the unit. Please make sure that you have engaged in all of the activities, and then proceed to one of the average sized Modules in the unit, which has to do with the medications that treat cardiovascular diseases.

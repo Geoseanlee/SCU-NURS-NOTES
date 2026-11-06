@@ -1,0 +1,149 @@
+===== FILE: 01 - Welcome to the unit.epub =====
+Welcome to the unit
+-
+-
+Unit overview
+[Insert text here]
+Unit Learning Outcomes (ULOs)
+Welcome to PHAR2001, Introductory Pharmacology!
+By the end of this unit, you will be able to:
+Explain the main principles of pharmacokinetics and pharmacodynamics
+Describe the mechanism of action, pharmacological effects, therapeutic uses, contraindications, safety issues and side effects of major drug classes and commonly used therapeutic agents
+Discuss drug toxicity and interactions between drugs using specific examples of drugs and considering individual variability of drug response
+Please engage in the pre-term activities (the final portion of the unit orientation, just prior to the modules) for introductory videos and an introduction to the way in which we will be learning in this unit.
+-
+
+
+===== FILE: 02 - Optional Content- PHAR2001 Unit Download.epub =====
+Optional Content: PHAR2001 Unit Download
+-
+-
+Introductory Pharmacology
+In response to student feedback, during Term 5, SCU is trialling a downloadable PDF to support students with additional accessibility requirements.
+The PDF supplements, rather than replaces, the Blackboard unit site. It includes most unit content, but dynamic elements such as activities and media links may not function fully. If the PDF differs from the Blackboard site, the Blackboard site is the authoritative source.
+Students must read and understand the disclaimer on the front page before using the PDF.
+PHAR2001-2026-T5 Introductory Pharmacology.pdf
+
+
+===== FILE: 03 - GenAI use guide.epub =====
+GenAI use guide
+-
+-
+Can I use GenAI in this unit?
+No, unless it is specifically approved in the assessment brief.  For this unit,
+Assessment 1: quiz - NO AI AT ALL
+Assessment 2 workbook: Formatting, spelling and grammar: Grammarly is permitted for language improvements only.
+Assessment 3: To aid you in finding the best resources for answering the questions.
+GenAI help resources
+🔗Generative AI for Students in the Southern Cross Model
+🔗How to acknowledge the use of GenAI in your work
+🔗SCU Library Guide: Gen AI
+🔗Learning Zone: Using generative AI tools
+Can I use GenAI for assessments?
+At Southern Cross University, you are permitted to use Generative AI tools to complete assessments when explicitly told to by your Unit Assessor.
+For each assessment, your Unit Assessor will determine GenAI use level as one of the following:
+- Level 1: Full GenAI Use - GenAI tools can be used in full throughout the assessment.
+- Level 2: Purpose-Specific GenAU Use - GenAI tools can be used for specific assessment tasks or purposes as identified and scaffolded by the Unit Assessor.*
+- Level 3: No GenAI Use - GenAI tools must not be used in any part of the assessment.
+⚠️ For assessments classified Level 2, the Unit Assessor will specify the permitted and prohibited uses of GenAI within the relevant assessment brief.
+Which GenAI tools can I use?
+When approved for use in a specific assessment, Southern Cross University recommends that you use Microsoft Copilot with your SCU login. SCU has an enterprise agreement with Microsoft, which means Copilot offers a higher level of data security and privacy than public, free-to-use GenAI tools.
+You may also choose to use other widely available tools (e.g. ChatGPT, Google Gemini), but you do so at your own risk. SCU does not control or endorse third-party tools.
+Microsoft Copilot
+🔗Login to MS Copilot
+🔗Copilot - GenAI - Library guide
+How can I use GenAI safely?
+Using GenAI can be helpful for your learning, but only if you use it safely and responsibly. Safe use means protecting your privacy, checking accuracy, and making sure GenAI supports (not replaces) your learning.
+Your Responsibilities
+- Protect your data: Never enter personal details, assessment questions, or sensitive SCU information into GenAI tools. Assume anything you type could be stored or reviewed.
+- Check accuracy: GenAI can make mistakes, especially in technical areas like engineering materials. Always verify explanations, formulas, or examples against your lecture notes, labs, or trusted resources.
+- Respect assessment rules: Follow the GenAI use level set for each assessment. Using GenAI in prohibited tasks counts as academic misconduct.
+- Own your learning: Use GenAI to practise, test, or revise — but the real understanding must come from you.
+Reduce Your Risk
+- Use Microsoft Copilot with your SCU login where possible. It offers better security under SCU’s enterprise agreement.
+- Check tool policies before using external GenAI. Look for how your data is stored, whether it trains the model, and if you can delete it.
+- Minimise what you share: Use made-up or anonymised data (e.g. fictional material strengths in practice problems).
+- Avoid full uploads: Don’t paste whole assignments or lab reports into GenAI. Work with short sections or sample problems instead.
+- Delete history: Turn off chat history/model training where possible and clear conversations when finished.
+- Be transparent: Keep a brief note of how you used GenAI, and acknowledge it if required in your assessments.
+🔑 Remember: Safe use means GenAI should help you learn without taking away your opportunity to practise, demonstrate, and master core skills.
+How can I show I've used GenAI responsibly?
+The Unit Assessor may ask you to describe or demonstrate how you used GenAI and complied with the assessment guidelines. Be prepared to discuss which AI tools you used and how you used them.
+⚠️ IMPORTANT: All SCU students are required to:
+1. Record GenAI use
+Keep a record of the Generative AI tools you used and how you used them. SCU's PAIR framework is a simple way to do this.
+🔗Quick Guide: The PAIR Framework
+2. Acknowledge GenAI use
+Correctly acknowledge and reference any Generative AI tools you use in your work. You'll find instructions on how to do this in these guides.
+🔗 How to acknowledge the use of GenAI in your work
+🔗 Quick Guide: Acknowledging and Referencing GenAI Use
+3. Declare GenAI use
+Before you submit any assessment task, you'll need to review the GenAI Declaration, which is available in the Assessment Module.
+
+
+===== FILE: 04 - Mandatory Modules at SCU.epub =====
+Mandatory Modules at SCU
+-
+-
+Academic Integrity at Southern Cross University
+Academic integrity is a core expectation for every student at SCU. Whenever you submit work, you are required to follow the Student Academic and Non-Academic Misconduct Rules. These Rules explain the standards for honest scholarship and the consequences if standards are breached. You are responsible for understanding these expectations and applying them in all assessments across your studies.
+Not following the Rules can lead to serious penalties, including failing an assessment, failing the unit, or more significant University sanctions. If you ever feel unsure about what academic integrity means in your unit, speak with your Unit Assessor or visit the Academic Integrity website for more guidance.
+Start the Academic Integrity Module
+If you are starting your SCU studies, you must complete the Academic Integrity Module during your first study period. This module helps you understand academic integrity, the responsible use of sources, referencing, collaboration, and how to avoid common mistakes in academic integrity.
+If you do not complete the module:
+- Your grades may be withheld
+- You may be withdrawn from future enrolled units
+- You may be unable to enrol in further study
+These penalties remain in effect until the module is successfully completed.
+Completing the module usually takes 1 to 2 hours, so it’s best to complete it early in the session.
+👉 Click here to start the Academic Integrity Module
+Respect Matters?
+At SCU, we’re committed to building a community where everyone feels safe, respected and supported to learn, live and connect.
+To support this shared understanding — and in line with the National Higher Education Code to Prevent and Respond to Gender‑Based Violence — we’ve introduced a new module, Respect Matters. The module invites you to reflect on respectful relationships, consent, and how we can contribute to a safer, more inclusive SCU community.
+Respect Matters replaces the previous Respect at SCU module and is part of how we support students to thrive at SCU.
+To learn more about Southern Cross University’s commitment to build safe and respectful communities visit Gender-Based Violence
+👉 Access the Respect Matters Module to get started
+Need Help?
+For Respect Matters module enquiries contact Student Support Services on 1800 72 4357 (Press 3), or studentsafety@scu.edu.au
+
+
+===== FILE: 05 - Accessibility & technology support.epub =====
+Accessibility & technology support
+-
+-
+Accessibility support
+SCU is committed to providing an inclusive and elearning environment for all. If you require accessibility services or support, please contact:
+🔗Inclusion Support
+Technology support
+If you encounter any issues using SCU's technology systems such as your student email or MySCU (Blackboard), please contact:
+🔗SCU Technology Services
+
+
+===== FILE: 06 - Your feedback.epub =====
+Your feedback
+-
+-
+How to provide feedback
+Your feedback is incredibly important to us. Here are two ways you can share your feedback throughout the term:
+Informal Feedback
+For quick questions, suggestions, or immediate concerns, please feel free to reach out directly to your Unit Assessor or tutors via email or during workshops and tutorials. We're here to help.
+Official Unit Surveys
+Towards the end of the teaching period, provide confidential formal feedback via official university unit surveys. Your valuable input directly shapes the unit's future, so we'd love to hear from you.
+You spoke, we listened
+Your feedback helps us to make continuous improvements to our units. Here's how we have changed this unit for the better based on your insights:
+You told us that…
+The 40% end of term exam was too stressful.
+...So we changed the exam to a 20% quiz in week 2 to make sure you have a good foundation with far less stress.
+You told us that...
+The case study was too long
+...So we cut the length of the case study in half
+You told us that...
+The workbook was too big
+...So we changed the workbook, reducing the number of multipart tutorial questions from 5 to 2
+
+
+===== FILE: 07 - Get ready for week 1.epub =====
+Get ready for week 1
+-
+-
+calendar T5 2026.docx

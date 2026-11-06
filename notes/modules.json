@@ -1,14 +1,147 @@
 [
-  {"id":"phar-m1","course":"PHAR2001","path":"06 - Module 1- Understanding Medications using the Gastrointestinal System","min_en":6000,"min_zh":9000,"focus":"GIT drugs, pharmacokinetics, antacids, laxatives, antiemetics, ulcer therapy"},
-  {"id":"phar-m2","course":"PHAR2001","path":"07 - Module 2- The Respiratory and Autonomic Nervous Systems","min_en":5000,"min_zh":8000,"focus":"autonomic receptors, bronchodilators, asthma/COPD, cholinergic and adrenergic drugs"},
-  {"id":"phar-m3","course":"PHAR2001","path":"08 - Module 3- The Endocrine System","min_en":4000,"min_zh":6500,"focus":"insulin and oral hypoglycaemics, thyroid, corticosteroids, feedback loops"},
-  {"id":"phar-m4","course":"PHAR2001","path":"09 - Module 4- The Cardiovascular and Renal System","min_en":5000,"min_zh":8000,"focus":"RAAS, diuretics, antihypertensives, anticoagulants, lipid-lowering drugs"},
-  {"id":"phar-m5","course":"PHAR2001","path":"10 - Module 5- Analgesics and Psychotropic Drugs","min_en":4500,"min_zh":7000,"focus":"pain pathways, NSAIDs, opioids, antidepressants, antipsychotics"},
-  {"id":"phar-m6","course":"PHAR2001","path":"11 - Module 6- Medications with Selective Toxicity","min_en":4000,"min_zh":6500,"focus":"antibacterials, antifungals, antivirals, selective toxicity"},
-  {"id":"indg-m1","course":"INDG6002","path":"12 - Module 1- Contrasting Indigenous and western health perspectives","min_en":3500,"min_zh":5500,"focus":"Indigenous health perspectives, SEWB, yarning, intergenerational trauma"},
-  {"id":"indg-m2","course":"INDG6002","path":"13 - Module 2- Colonisation and health","min_en":3500,"min_zh":5500,"focus":"colonisation, policy, Stolen Generations, health legacies"},
-  {"id":"indg-m3","course":"INDG6002","path":"14 - Module 3- Social and cultural determinants of health","min_en":3500,"min_zh":5500,"focus":"social and cultural determinants, racism, access, community strengths"},
-  {"id":"indg-m4","course":"INDG6002","path":"15 - Module 4- Cultural safety","min_en":3000,"min_zh":5000,"focus":"cultural safety, cultural competence, cultural awareness, power"},
-  {"id":"indg-m5","course":"INDG6002","path":"16 - Module 5- Decolonising your practice","min_en":2500,"min_zh":4000,"focus":"decolonising practice, reflexivity, media representation, institutional change"},
-  {"id":"indg-m6","course":"INDG6002","path":"17 - Module 6- Working with Indigenous communities","min_en":3000,"min_zh":5000,"focus":"community engagement, partnership, ethics, self-determination"}
+ {
+  "id": "phar-m0",
+  "course": "PHAR2001",
+  "path": "00 - Module 0- Unit Orientation",
+  "source_paths": [
+   "02 - Unit Orientation - Part 1",
+   "03 - Unit Orientation Part 2- Pre-term activities"
+  ],
+  "min_en": 3000,
+  "min_zh": 5000,
+  "focus": "course expectations, teaching team, study calendar, pre-term activities, how the interactive textbook works"
+ },
+ {
+  "id": "phar-assess",
+  "course": "PHAR2001",
+  "path": "00 - Assessment Guide",
+  "source_paths": [
+   "04 - Assessments",
+   "03 - Unit Orientation Part 2- Pre-term activities"
+  ],
+  "video_filter": "Assessment|Assessments|Calendar|quiz|Quiz",
+  "readings": true,
+  "min_en": 2500,
+  "min_zh": 4000,
+  "focus": "the three PHAR2001 assessments: quiz, workbook/case study, submission, weightings, timing and academic integrity"
+ },
+ {
+  "id": "phar-m1",
+  "course": "PHAR2001",
+  "path": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "min_en": 6000,
+  "min_zh": 9000,
+  "focus": "GIT drugs, pharmacokinetics, antacids, laxatives, antiemetics, ulcer therapy"
+ },
+ {
+  "id": "phar-m2",
+  "course": "PHAR2001",
+  "path": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "min_en": 5000,
+  "min_zh": 8000,
+  "focus": "autonomic receptors, bronchodilators, asthma/COPD, cholinergic and adrenergic drugs"
+ },
+ {
+  "id": "phar-m3",
+  "course": "PHAR2001",
+  "path": "08 - Module 3- The Endocrine System",
+  "min_en": 4000,
+  "min_zh": 6500,
+  "focus": "insulin and oral hypoglycaemics, thyroid, corticosteroids, feedback loops"
+ },
+ {
+  "id": "phar-m4",
+  "course": "PHAR2001",
+  "path": "09 - Module 4- The Cardiovascular and Renal System",
+  "min_en": 5000,
+  "min_zh": 8000,
+  "focus": "RAAS, diuretics, antihypertensives, anticoagulants, lipid-lowering drugs"
+ },
+ {
+  "id": "phar-m5",
+  "course": "PHAR2001",
+  "path": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "min_en": 4500,
+  "min_zh": 7000,
+  "focus": "pain pathways, NSAIDs, opioids, antidepressants, antipsychotics"
+ },
+ {
+  "id": "phar-m6",
+  "course": "PHAR2001",
+  "path": "11 - Module 6- Medications with Selective Toxicity",
+  "min_en": 4000,
+  "min_zh": 6500,
+  "focus": "antibacterials, antifungals, antivirals, selective toxicity"
+ },
+ {
+  "id": "indg-m0",
+  "course": "INDG6002",
+  "path": "00 - Module 0- Unit Orientation",
+  "source_paths": [
+   "02 - Unit orientation",
+   "11 - Welcome to Gnibi"
+  ],
+  "min_en": 2000,
+  "min_zh": 3000,
+  "focus": "unit welcome, teaching team, mandatory modules, accessibility, feedback, week 1 preparation and Gnibi"
+ },
+ {
+  "id": "indg-assess",
+  "course": "INDG6002",
+  "path": "00 - Assessment Guide",
+  "source_paths": [
+   "03 - Assessments"
+  ],
+  "min_en": 2500,
+  "min_zh": 4000,
+  "focus": "INDG6002 assessment overview, assurance, declaration, support, Assessment 1 and Assessment 2 briefs and resources"
+ },
+ {
+  "id": "indg-m1",
+  "course": "INDG6002",
+  "path": "12 - Module 1- Contrasting Indigenous and western health perspectives",
+  "min_en": 3500,
+  "min_zh": 5500,
+  "focus": "Indigenous health perspectives, SEWB, yarning, intergenerational trauma"
+ },
+ {
+  "id": "indg-m2",
+  "course": "INDG6002",
+  "path": "13 - Module 2- Colonisation and health",
+  "min_en": 3500,
+  "min_zh": 5500,
+  "focus": "colonisation, policy, Stolen Generations, health legacies"
+ },
+ {
+  "id": "indg-m3",
+  "course": "INDG6002",
+  "path": "14 - Module 3- Social and cultural determinants of health",
+  "min_en": 3500,
+  "min_zh": 5500,
+  "focus": "social and cultural determinants, racism, access, community strengths"
+ },
+ {
+  "id": "indg-m4",
+  "course": "INDG6002",
+  "path": "15 - Module 4- Cultural safety",
+  "min_en": 3000,
+  "min_zh": 5000,
+  "focus": "cultural safety, cultural competence, cultural awareness, power"
+ },
+ {
+  "id": "indg-m5",
+  "course": "INDG6002",
+  "path": "16 - Module 5- Decolonising your practice",
+  "min_en": 2500,
+  "min_zh": 4000,
+  "focus": "decolonising practice, reflexivity, media representation, institutional change"
+ },
+ {
+  "id": "indg-m6",
+  "course": "INDG6002",
+  "path": "17 - Module 6- Working with Indigenous communities",
+  "min_en": 3000,
+  "min_zh": 5000,
+  "focus": "community engagement, partnership, ethics, self-determination"
+ }
 ]

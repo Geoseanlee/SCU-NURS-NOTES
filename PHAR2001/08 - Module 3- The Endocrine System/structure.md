@@ -1,0 +1,49 @@
+# Module 3: The Endocrine System
+
+  - Module overview `x-bb-folder`
+    - Module overview `x-bb-document`
+  - Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH `x-bb-folder`
+    - Introduction to Endocrine System `x-bb-folder`
+      - Introduction to Endocrine System `x-bb-document`
+    - Review Part 1 `x-bb-folder`
+      - Review Part 1 `x-bb-document`
+    - Review Part 2 `x-bb-folder`
+      - Review Part 2 `x-bb-document`
+    - Oxytocin `x-bb-folder`
+      - Oxytocin `x-bb-document`
+    - ADH water saver (not compulsory for this unit) `x-bb-folder`
+      - ADH water saver (Not compulsory for this unit) `x-bb-document`
+    - Growth hormone (not compulsory for this unit) `x-bb-folder`
+      - Growth hormone (not compulsory for this unit) `x-bb-document`
+    - Sign off chapter 1 `x-bb-folder`
+      - Sign off chapter 1 `x-bb-document`
+  - Chapter 3.2: The Thyroid Axis `x-bb-folder`
+    - Understanding thyroid hormone `x-bb-folder`
+      - Understanding thyroid hormone `x-bb-document`
+    - Hypothyroidism and its treatment `x-bb-folder`
+      - Hypothyroidism and its treatment `x-bb-document`
+    - Hyperthyroidism and its treatment (Not compulsory) `x-bb-folder`
+      - Hyperthyroidism and its treatment (Not compulsory) `x-bb-document`
+    - Signing Off `x-bb-folder`
+      - Signing Off `x-bb-document`
+  - Chapter 3.3: Diabetes and Metabolic Syndrome `x-bb-folder`
+  - Chapter 3.4: The Adrenal Axis `x-bb-folder`
+    - Introduction Stress Axis `x-bb-folder`
+      - Introduction Stress Axis `x-bb-document`
+    - Overview Stress Axis `x-bb-folder`
+      - Overview Stress Axis `x-bb-document`
+    - Glucocorticoids `x-bb-folder`
+      - Glucocorticoids `x-bb-document`
+    - Side effects of corticosteroids `x-bb-folder`
+      - Side effects of corticosteroids `x-bb-document`
+    - Signing off `x-bb-folder`
+      - Signing off `x-bb-document`
+  - Chapter 3.5: The Endocrine System and Bone Health `x-bb-folder`
+    - Introduction to medications for bone health `x-bb-folder`
+      - Introduction to medications for bone health `x-bb-document`
+    - Understanding bone health `x-bb-folder`
+      - Understanding bone health `x-bb-document`
+    - Understanding bone health 2 `x-bb-folder`
+      - Understanding bone health 2 `x-bb-document`
+    - Bisphosphonates Teriparatide SERMS `x-bb-folder`
+      - Bisphosphonates Teriparatide SERMS `x-bb-document`

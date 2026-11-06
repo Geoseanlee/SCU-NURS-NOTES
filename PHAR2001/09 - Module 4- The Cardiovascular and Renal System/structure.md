@@ -1,0 +1,72 @@
+# Module 4: The Cardiovascular and Renal System
+
+  - Cardiovascular System Chapter 1: Lipids `x-bb-folder`
+    - Introduction to Module 4 Chapter 1 `x-bb-folder`
+      - Introduction to Module 4 Chapter 1 `x-bb-document`
+    - Understanding Lipids `x-bb-folder`
+      - Understanding Lipids `x-bb-document`
+    - Understanding atherosclerosis `x-bb-folder`
+      - Understanding atherosclerosis `x-bb-document`
+    - Understanding atherosclerosis, Part 2 `x-bb-folder`
+      - Understanding atherosclerosis, Part 2 `x-bb-document`
+    - The statins `x-bb-folder`
+      - The statins `x-bb-document`
+    - Lowering cholesterol `x-bb-folder`
+      - Lowering cholesterol `x-bb-document`
+    - Nicotinic acid `x-bb-folder`
+      - Nicotinic acid `x-bb-document`
+    - HDL levels `x-bb-folder`
+      - HDL levels `x-bb-document`
+    - Summary `x-bb-folder`
+      - Summary `x-bb-document`
+  - Cardiovascular System Chapter 2: Hypertension `x-bb-folder`
+    - Introduction to Module 4, Chapter 2 `x-bb-folder`
+      - Introduction to Module 4, Chapter 2 `x-bb-document`
+    - Understanding blood pressure control, Part 1 `x-bb-folder`
+      - Understanding blood pressure control, Part 1 `x-bb-document`
+    - Understanding blood pressure control, Part 2 `x-bb-folder`
+      - Understanding blood pressure control, Part 2 `x-bb-document`
+    - Understanding blood pressure control, Part 3 `x-bb-folder`
+      - Understanding blood pressure control, Part 3 `x-bb-document`
+    - Hypertension `x-bb-folder`
+      - Hypertension `x-bb-document`
+    - The A, B, C, D's of the drug classes that are useful in hypertension `x-bb-folder`
+      - The A, B, C, D's of the drug classes that are useful in hypertension `x-bb-document`
+    - Alpha Antagonists `x-bb-folder`
+      - Alpha Antagonists `x-bb-document`
+    - Medications that affect angiotensin II `x-bb-folder`
+      - Medications that affect angiotensin II `x-bb-document`
+    - Alternative drugs for hypertension `x-bb-folder`
+      - Alternative drugs for hypertension `x-bb-document`
+    - Calcium channel blockers `x-bb-folder`
+      - Calcium channel blockers `x-bb-document`
+    - Final words about antihypertensive agents `x-bb-folder`
+      - Final words about antihypertensive agents `x-bb-document`
+  - Cardiovascular System Chapter 3: Thrombi `x-bb-folder`
+    - Introduction to Module 4 Chapter 3 `x-bb-folder`
+      - Introduction to Module 4 Chapter 3 `x-bb-document`
+    - Arterial clots `x-bb-folder`
+      - Arterial clots `x-bb-document`
+    - Antiplatelet drugs `x-bb-folder`
+      - Antiplatelet drugs `x-bb-document`
+    - Anticoagulants `x-bb-folder`
+      - Anticoagulants `x-bb-document`
+    - Fibrinolytics `x-bb-folder`
+      - Fibrinolytics `x-bb-document`
+    - Summary `x-bb-folder`
+      - Summary `x-bb-document`
+  - The Renal System Chapter 4: Diuretics `x-bb-folder`
+    - Introduction to diuretics `x-bb-folder`
+      - Introduction to diuretics `x-bb-document`
+    - Understanding diuretics `x-bb-folder`
+      - Understanding diuretics `x-bb-document`
+    - Understanding diuretics 2 `x-bb-folder`
+      - Understanding diuretics 2 `x-bb-document`
+    - Thiazide diuretics `x-bb-folder`
+      - Thiazide diuretics `x-bb-document`
+    - Loop diuretics (not compulsory) `x-bb-folder`
+      - Loop diuretics (not compulsory) `x-bb-document`
+    - Potassium sparing diuretics (Not compulsory) `x-bb-folder`
+      - Potassium sparing diuretics (Not compulsory) `x-bb-document`
+    - Other diuretics (not compulsory) `x-bb-folder`
+      - Other diuretics (not compulsory) `x-bb-document`

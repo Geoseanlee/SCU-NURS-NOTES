@@ -1,0 +1,28 @@
+# Module 1: Contrasting Indigenous and western health perspectives
+
+  - Introduction `x-bb-folder`
+    - Introduction `x-bb-document`
+  - Health through an Indigenous lens `x-bb-folder`
+    - Health through an Indigenous lens `x-bb-document`
+  - Reading and Reflection `x-bb-folder`
+    - Activity: Reading 1.1 `x-bb-document`
+  - Activity: Watch Dr Miriam-Rose Ungunmerr `x-bb-folder`
+    - Activity: Watch Dr Miriam-Rose Ungunmerr `x-bb-document`
+  - Social and Emotional Wellbeing (SEWB) `x-bb-folder`
+    - Social and Emotional Wellbeing (SEWB) `x-bb-document`
+  - Activity: Watch Aboriginal perspectives on wellbeing `x-bb-folder`
+    - Activity: Watch Aboriginal perspectives on wellbeing `x-bb-document`
+  - Aboriginal psychologist explains SEWB `x-bb-folder`
+    - Activity: Aboriginal psychologist explains SEWB `x-bb-document`
+  - Social and emotional wellbeing `x-bb-folder`
+    - Social and emotional wellbeing (cont.) `x-bb-document`
+  - Yarning styles `x-bb-folder`
+    - Activity: Podcast on Yarning style – Rachel Lynwood `x-bb-document`
+  - Tutorial 1 `x-bb-folder`
+    - Tutorial 1 `x-bb-document`
+  - Watch Intergenerational trauma animation `x-bb-folder`
+    - Activity: Watch Intergenerational trauma animation `x-bb-document`
+  - Assessment 1 Due Friday, Week 3 (13th November) `x-bb-folder`
+    - Activity: Assessment 1 Friday, Week 3 (14th November 2025) `x-bb-document`
+  - Summary `x-bb-folder`
+    - Summary `x-bb-document`

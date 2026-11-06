@@ -1,0 +1,1576 @@
+[
+ {
+  "iconUrl": "/images/ci/sets/set12/folder_on.svg",
+  "contentDetail": {
+   "resource/x-bb-folder": {
+    "isBbPage": true,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "lorContentId": "_6900682_1",
+  "lorPermissions": {
+   "title": false,
+   "content": false,
+   "visibility": false,
+   "description": false
+  },
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1777960413973,
+  "title": "Acknowledgement of Traditional Custodians",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": true,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-folder",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7351580_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naOjTEl%2B/M4NXEbQ0ix3Rhtfig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": false,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": false,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7351580_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 1
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "stateCompletion": {
+   "started": 4,
+   "total": 40,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "About this Unit |Required Resources | Help & Support",
+  "courseId": "_156096_1",
+  "modifiedDate": 1778633334825,
+  "title": "Unit orientation",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7351581_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naOjTEl%2B/M4NW/3J%2BcPWVwhvig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7351581_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 2
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "stateCompletion": {
+   "started": 2,
+   "total": 12,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "Assessment Information| Assessment Briefs & Submissions | Assessment Help & Support",
+  "courseId": "_156096_1",
+  "modifiedDate": 1778633334833,
+  "title": "Assessments",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7351582_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naOjTEl%2B/M4NVIBWgM4p5e4vig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7351582_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 3
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "stateCompletion": {
+   "started": 2,
+   "total": 5,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "Timetable | Class Links | Class Recordings",
+  "courseId": "_156096_1",
+  "modifiedDate": 1778633334839,
+  "title": "Classes",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7351583_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naOjTEl%2B/M4NVcW1orCkTGf/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7351583_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 4
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/discussion_on.svg",
+  "contentDetailUrl": "/learn/api/v1/courses/_156096_1/contents/_7791449_1",
+  "contentDetail": {
+   "resource/x-bb-courselink": {
+    "hasParticipationRequirements": false,
+    "courseContent": "_7791450_1",
+    "linkSourceId": "_7791449_1",
+    "linkSourceTable": "CONTENT"
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791333048323,
+  "title": "General Discussion Forum",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "LINK",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-courselink",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7791450_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naoUgTe3ijoFKsr8xu69If7fig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7791450_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 5
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/discussion_on.svg",
+  "contentDetailUrl": "/learn/api/v1/courses/_156096_1/contents/_7791451_1",
+  "contentDetail": {
+   "resource/x-bb-courselink": {
+    "hasParticipationRequirements": false,
+    "courseContent": "_7791452_1",
+    "linkSourceId": "_7791451_1",
+    "linkSourceTable": "CONTENT"
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791333065751,
+  "title": "Assessment 1: Short Response Discussion Forum",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "LINK",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-courselink",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7791452_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naoUgTe3ijoFK9I5AxiOGDufig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7791452_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 6
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/discussion_on.svg",
+  "contentDetailUrl": "/learn/api/v1/courses/_156096_1/contents/_7791455_1",
+  "contentDetail": {
+   "resource/x-bb-courselink": {
+    "hasParticipationRequirements": false,
+    "courseContent": "_7791456_1",
+    "linkSourceId": "_7791455_1",
+    "linkSourceTable": "CONTENT"
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791333075786,
+  "title": "Assessment 2: Critical Review Discussion Forum",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "LINK",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-courselink",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7791456_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naoUgTe3ijoFJRSediIdLH0Pig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7791456_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 7
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/discussion_on.svg",
+  "contentDetailUrl": "/learn/api/v1/courses/_156096_1/contents/_7791471_1",
+  "contentDetail": {
+   "resource/x-bb-courselink": {
+    "hasParticipationRequirements": false,
+    "courseContent": "_7791472_1",
+    "linkSourceId": "_7791471_1",
+    "linkSourceTable": "CONTENT"
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791584611946,
+  "title": "Tutorial 1 Reflection",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "LINK",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-courselink",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7791472_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naoUgTe3ijoFLpdAPouAdzcfig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7791472_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 8
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/document_non.svg",
+  "contentDetail": {
+   "resource/x-bb-bltiplacement-da3669f8823e4a46bffe4d19d01537ab": {
+    "domainConfig": {
+     "primaryDomain": "rl.talis.com",
+     "statusType": "Approved",
+     "isPerLinkCredentials": false,
+     "sendUserDataType": "Never",
+     "isSendRole": true,
+     "isSendName": true,
+     "isSendEmail": true,
+     "isUseSplash": false,
+     "hasAdminCustomParams": false,
+     "adminCustomParameters": {},
+     "isMembershipServiceAllowed": false,
+     "isGradeServiceAllowed": true,
+     "clientId": "714a6420-32d1-4005-b63b-525c881fdcbb",
+     "jwksUrl": "https://rl.talis.com/lti/1p3/jwks",
+     "allowEdit": true,
+     "name": "Talis Aspire Reading Lists",
+     "description": "Talis Aspire Reading Lists EU APAC",
+     "id": "_282_1"
+    },
+    "placementHandle": "da3669f8823e4a46bffe4d19d01537ab",
+    "launchLink": "/webapps/blackboard/execute/blti/launchPlacement?blti_placement_id=_341_1&content_id=_7351584_1&course_id=_156096_1&wrapped=true",
+    "placement": {
+     "id": "_341_1",
+     "name": "MyReadings Resources",
+     "description": "",
+     "iconUrl": "/public/blti_icons/_341_1/talis logo.jpg",
+     "handle": "da3669f8823e4a46bffe4d19d01537ab",
+     "type": "Application",
+     "url": "https://rl.talis.com/lti/1p3/launch",
+     "isAllowGrading": false,
+     "isLaunchNewWindow": false,
+     "customParameters": {},
+     "available": true,
+     "allowStudents": true,
+     "launchLink": "/webapps/blackboard/execute/blti/launchPlacement?blti_placement_id=_341_1&content_id=_7351584_1&course_id=_156096_1&wrapped=true",
+     "domainId": "_282_1"
+    },
+    "existsPlacement": true,
+    "existsLTIProvider": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639676,
+  "title": "MyReadings",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": true,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-bltiplacement-da3669f8823e4a46bffe4d19d01537ab",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7351584_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naOjTEl%2B/M4NU1tJD4N1CBtPig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7351584_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 9
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/folder_on.svg",
+  "contentDetail": {
+   "resource/x-bb-folder": {
+    "isBbPage": true,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "lorContentId": "_6889400_1",
+  "lorPermissions": {
+   "title": false,
+   "content": false,
+   "visibility": false,
+   "description": false
+  },
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639683,
+  "title": "Copyright notice",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": true,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-folder",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7351585_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naOjTEl%2B/M4NWU918oMiKJ4fig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": false,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": false,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7351585_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 10
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156096_1&content_id=_7399967_1&modified=1791337639706",
+  "stateCompletion": {
+   "started": 1,
+   "total": 4,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "Explore this module for Gnibi College specific learning information to support your studies at Gnibi.",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639706,
+  "title": "Welcome to Gnibi",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7399967_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naG7NtzUQWkmm1Zj1h9c3I1/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7399967_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 11
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156096_1&content_id=_7399968_1&modified=1791337639710",
+  "stateCompletion": {
+   "started": 13,
+   "total": 13,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639710,
+  "title": "Module 1: Contrasting Indigenous and western health perspectives",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7399968_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naG7NtzUQWkmmMuQcmPnL/zfig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7399968_1",
+  "state": "Started",
+  "parentId": "_7351578_1",
+  "position": 12
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156096_1&content_id=_7399969_1&modified=1791337639711",
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639711,
+  "title": "Module 2: Colonisation and health",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7399969_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naG7NtzUQWkmmpVLjM8bO3SPig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7399969_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 13
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156096_1&content_id=_7399970_1&modified=1791337639713",
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639713,
+  "title": "Module 3: Social and cultural determinants of health",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7399970_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naG7NtzUQWkmlP5rfgScYgmPig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7399970_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 14
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156096_1&content_id=_7399971_1&modified=1791337639714",
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639714,
+  "title": "Module 4: Cultural safety",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7399971_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naG7NtzUQWkmkJcsSkcNOUGPig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7399971_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 15
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156096_1&content_id=_7399972_1&modified=1791337639716",
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639716,
+  "title": "Module 5: Decolonising your practice",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7399972_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naG7NtzUQWkmkM5NtEPPwz6fig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7399972_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 16
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156096_1&content_id=_7399973_1&modified=1791337639717",
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1791337639717,
+  "title": "Module 6: Working with Indigenous communities",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7399973_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5naG7NtzUQWkmnwTQQYrJAjm/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7399973_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 17
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/folder_on.svg",
+  "contentDetail": {
+   "resource/x-bb-folder": {
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156096_1",
+  "modifiedDate": 1792384935755,
+  "title": "Tutorial & Workshop Slides",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-folder",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/INDG6002-2026-T5/content/_7821286_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElB3KI6B3YxvR5Qx/4IVzelaFqoq3/S5na7v3PpmoWdeDEYDLXAuGEuvig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7821286_1",
+  "state": "None",
+  "parentId": "_7351578_1",
+  "position": 18
+ }
+]

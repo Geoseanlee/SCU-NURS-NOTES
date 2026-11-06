@@ -1,0 +1,443 @@
+===== FILE: 01 - Introduction to Module 4 Chapter 1.epub =====
+Introduction to Module 4 Chapter 1
+-
+-
+Module overview
+This entire module contains a total of 2.5 hours of video lessons plus activities that reinforce your knowledge.
+Introduction to chapter 1
+Hyperlipidaemia is the silent killer. In this chapter, we learn about how they contribute to the disease process (atherosclerosis) that leads to myocardial infarction, stroke, and loss of limbs, as well as our medications that can help prevent its development.
+The objectives for this chapter include"
+- Define the terms hyperlipidaemia, dyslipidaemia, HDL and LDL
+- Describe atherosclerosis, including the risk factors, and potential consequences of plaques on the arteries
+- Identify and describe the therapeutic actions and major side effects of common pharmacological agents used in the treatment of dyslipidaemia or hyperlipidaemia.
+The Notes and PowerPoint for this chapter can be found directly below:
+Chapter 1 of the Cardiovascular System NOTES 2025.pdf
+Chapter 1 of the Cardiovascular System.pptx
+
+
+===== FILE: 02 - Understanding Lipids.epub =====
+Understanding Lipids
+-
+-
+Introduction to lipids
+Not all lipids are ‘bad’. They perform many functions both within the body, as they act as an energy reserve, regulate hormones, transmit nerve impulses, cushion vital organs, and transport fat-soluble nutrients. They are also important in the structure of cell membranes and hormones. This lesson helps you understand more about when it may be time to treat the lipid levels in the body.
+Video: Understanding lipids
+Join me in this video introduction to lipids.
+Youtube video link.
+PHAR2001_4_1_1_Understanding_Lipids
+Activity: Test your knowledge
+PHAR2001_4_1_1_Understanding_Lipids
+
+
+===== FILE: 03 - Understanding atherosclerosis.epub =====
+Understanding atherosclerosis
+-
+-
+Introduction to Atherosclerosis
+'Atherosclerosis' is a strange word,what does it mean? Well, 'sclero' comes from the Greek sklērós, meaning “hard.” Atherosclerosis therefore literally means hardening of the arteries.
+It is a chronic inflammatory condition that results in fibrosis, scarring and narrowing of the arteries. But more importantly,   atherosclerosis is the underlying cause of about 50% of all deaths in westernized society.   Therefore we should take the time to learn as much about the disorder as possible because many of our therapeutic agents will target the risk factors of the disorder that allow the problem to progress.
+Video: Understanding atherosclerosis, Part 1
+Youtube video link.
+PHAR2001_4_1_2_Understanding_Atherosclerosis
+Activity: Test your knowledge
+PHAR2001_4_1_2_Understanding_Atherosclerosis
+
+
+===== FILE: 04 - Understanding atherosclerosis, Part 2.epub =====
+Understanding atherosclerosis, Part 2
+-
+-
+Video: Understanding atherosclerosis, Part 2
+In this lesson, we continue our understanding of the process of atherosclerosis.
+Youtube video link.
+PHAR2001_4_1_3_Understanding_Atherosclerosis_Part_2
+Activity: Test your knowledge
+PHAR2001_4_1_3_Understanding_Atherosclerosis_2
+
+
+===== FILE: 05 - The statins.epub =====
+The statins
+-
+-
+Video: The statins
+Given the importance of lipids in the process of atherosclerosis, we have several types of medications that aim to normalise the lipid levels. In this lesson, we explore the Hmg CoA reductase inhibitors, or more commonly referred to as the statins because all of the members of that drug class end in the suffix ...STATIN.
+Youtube video link.
+PHAR2001_4_1_4_The_Statins
+Activity: Test your knowledge
+PHAR2001_4_1_5_Statins
+
+
+===== FILE: 06 - Lowering cholesterol.epub =====
+Lowering cholesterol
+-
+-
+Video: Cholesterol absorption inhibitors
+Another way to decrease the cholesterol in the system is to prevent the uptake of cholesterol from the diet. It isn't the best method as a monotherapy but these are the only lipid lowering drugs that can be combined with others.
+Youtube video link.
+PHAR2001_4_1_5_Cholesterol_Absorption_Inhibitors
+Activity: Test your knowledge
+PHAR2001_4_1_6_Cholesterol_absorption_inhibitors
+
+
+===== FILE: 07 - Nicotinic acid.epub =====
+Nicotinic acid
+-
+-
+Video: Nicotinic acid
+If my ears are burning, does that mean that someone is talking about me?
+Youtube video link.
+PHAR2001_4_1_6_Nicotinic_Acid
+Activity: Test your knowledge
+PHAR2001_4_1_6_Nicotinic_Acid
+
+
+===== FILE: 08 - HDL levels.epub =====
+HDL levels
+-
+-
+Dyslipidaemia and HDL
+Recall that we use the term dyslipidaemia for individuals who have low levels of HDL, the good protein, because that is a risk factor for developing atherosclerosis. HDL is the ‘bus’ that carries cholesterol from the tissues back to the liver, so a low amount of the HDL will yield high amounts near the blood vessels. Nicotinic acid raises the HDL levels, but if that is not able to be tolerated, fenofibrate or other fibrates can be helpful. It is one of the few times that you will still see those medications still used.
+Video: Fibrates
+Youtube video link.
+PHAR2001_4_1_7_Fibrates
+Activity: Test your knowledge
+PHAR2001_4_1_7_Fibrates
+
+
+===== FILE: 09 - Summary.epub =====
+Summary
+-
+-
+Video: Summary of chapter 1
+We conclude this chapter by reiterating some important points about all lipid-lowering agents.
+After watching this video, please check to make sure that you engaged in all of the quizzes and activities above, and move on to the next chapter where we will explore another risk factor for hypertension, which is hypertension. Remember that is the best preparation for the End of Term Quiz.
+Youtube video link
+Thanks for your participation in this chapter,
+Regards, Ken
+PHAR2001_4_1_8_Summary_of_Lipids
+
+
+===== FILE: 10 - Introduction to Module 4, Chapter 2.epub =====
+Introduction to Module 4, Chapter 2
+-
+-
+Introduction to chapter 2: Hypertension
+Nearly 25% of Australians suffer from hypertension, which is a risk factor for numerous chronic disorders. In this chapter, we will explore hypertension, beginning with an understanding of blood pressure regulation, and placing our most important antihypertensive agents into the context of that information. The understanding of blood pressure control is very important in our understanding of antihypertensive drugs because our medications target those physiological mechanisms.
+The objectives for this chapter include:
+- Explain the regulation of blood pressure, including the short-term regulation and the long term regulation.
+- Identify and describe the therapeutic actions and major side effects of common pharmacological agents used in the treatment of hypertension
+Please note that the Notes and PowerPoints for this chapter are directly below:
+Chapter 2 of the Cardiovascular System NOTES 2025.pdf
+Chapter 2 of the Cardiovascular System.pptx
+
+
+===== FILE: 11 - Understanding blood pressure control, Part 1.epub =====
+Understanding blood pressure control, Part 1
+-
+-
+Regulating blood pressure
+If we understand blood pressure regulation, we can understand our antihypertensive medications because everyone of our antihypertensive medications affect one or more of those mechanisms. So the next three short lessons explore blood pressure regulation.
+Video: Blood pressure control, Part 1
+Please watch these next three short videos to make sure that you understand some of the most frequently used medications in Australia, the antihypertensive drugs.
+Youtube video link
+PHAR2001_4_2_1_Understanding_Blood_Pressure_Control_Part_1
+Activity: Test your knowledge
+PHAR2001_4_2_1_Understanding_Blood_Pressure_Control_Part_1
+
+
+===== FILE: 12 - Understanding blood pressure control, Part 2.epub =====
+Understanding blood pressure control, Part 2
+-
+-
+Video: Understanding blood pressure control, Part 2
+If you understand the physiological mechanisms of blood control in the body naturally, you will understand the medications that control blood pressure. This lesson gives you that understanding.
+Youtube video link.
+PHAR2001_4_2_3_Understanding_Blood_Pressure_Control_Part_2
+Activity: Test your knowledge
+PHAR2001_4_2_1_Understanding_Blood_Pressure_Control_Part_2
+
+
+===== FILE: 13 - Understanding blood pressure control, Part 3.epub =====
+Understanding blood pressure control, Part 3
+-
+-
+Video: Understanding blood pressure control, Part 3
+This lesson concludes our understanding of blood pressure regulation, and our foundational information that is needed for us to understand our blood pressure medications.
+Youtube video link.  ﻿
+PHAR2001_4_2_3_Understanding_Blood_Pressure_Control_Part_3
+Activity: Test your knowledge
+PHAR2001_4_2_3_Understanding_Blood_Pressure_Control_Part_3
+
+
+===== FILE: 14 - Hypertension.epub =====
+Hypertension
+-
+-
+Video: Complication of hypertension
+Now that you have a good understanding of how we regulate blood pressure in a physiological sense, you will understand how our antihypertensive medications work. So in this lesson, we will begin our discussion of antihypertensive agents by getting a good picture of hypertension itself.
+Youtube video link.
+PHAR2001_4_2_4_Overview_of_Hypertension
+Activity: Test your knowledge
+PHAR2001_4_2_4_Hypertension_Definition
+
+
+===== FILE: 15 - The A, B, C, D's of the drug classes that are useful in hypertension.epub =====
+The A, B, C, D's of the drug classes that are useful in hypertension
+-
+-
+Hypertension Pharmacology made simple: The ABCD framework
+When we're thinking about the drugs that are used to treat hypertension, one of the ways in which we can easily remember those drugs is to simply remember the first four letters of the alphabet. We have spoken about a few of these medications already, and the next few lessons will bring it all together for you. Remember, A, B, C and D:
+- Alpha 1 blockers (…azosin drugs)
+- Alpha 2 agonists (yes, agonists,
+- Angiotensin converting enzyme (ACE) inhibitors
+- Angiotensin 2 receptor blockers (ARBS; …sartan)
+- Beta blockers
+- Calcium channel blockers (Dihydropyridines)
+- Diuretics – Especially Hydrochlorothiazide or thiazide diuretics
+So, with respect to the alpha blockers, they are adrenergic antagonists that selectively affect the peripheral blood vessels.
+The drugs of the renin cascade, being the angiotensin converting enzyme (ace inhibitors) and angiotensin 2 receptor blockers (ARBS),
+The beta blockers that block the adrenaline binding to the heart
+The calcium channel blockers that do not allow the calcium into the cells of the heart (calcium is needed for contraction)
+And the diuretics, which we will discuss in the last lesson of this module.
+Let’s move on to the first of those in this lesson.
+
+
+===== FILE: 16 - Alpha Antagonists.epub =====
+Alpha Antagonists
+-
+-
+Video: Alpha antagonists
+The alpha 1 antagonists like prazosin were first line therapies for hypertension and also for benign prostatic hyperplasia. They have been largely superseded by medications that are more effective and safer, but they still have their place, normally with those who have both conditions simultaneously.
+Youtube video link.  ﻿
+PHAR2001_4_2_5_Alpha_1_Blockers
+Activity: Test your knowledge
+PHAR2001_4_2_5_Alpha_Antagonists
+
+
+===== FILE: 17 - Medications that affect angiotensin II.epub =====
+Medications that affect angiotensin II
+-
+-
+Targeting the RAA mechanism in hypertension
+The renin-angiotensin-aldosterone (RAA) mechanism is our 'one-stop-shop' for increasing our blood pressure. By simply releasing one enzyme, we can create a cascade of events that ultimately result in the blood pressure increasing in five different ways.
+Wouldn't it be a great antihypertensive medication if we could design a drug that stopped that cascade? Well we did - twice ! This lesson describes two drug classes that ultimately decrease the effects of the RAA mechanism, and those medications are both 'first line' therapies for hypertension.
+Video: ACE inhibitors and ARBs
+Youtube video link.  ﻿
+PHAR2001_4_2_6_ACE_Inhibitors_and_ARBs
+Activity: Test your knowledge
+PHAR2001_4_2_5_Renin drugs
+
+
+===== FILE: 18 - Alternative drugs for hypertension.epub =====
+Alternative drugs for hypertension
+-
+-
+Why beta blockers are no longer first-line therapy for hypertension
+Have you ever wondered how long it takes between the time that scientists discover that a drug class is no longer the first-line therapy for a certain disorder and the time that doctors stop prescribing it for that disorder? Well, it has been over ten years since better alternatives for hypertension have been found, and atenolol and other beta blockers are still the first choices for many doctors.
+Lesson learnt: Try to keep up with the most recent information about the first-line therapies, because they do change, and quite frequently. This lesson explains why the beta blockers are no longer #1.
+Video: Beta blockers
+Youtube video link.
+PHAR2001_4_2_7_Beta_Blockers.
+Activity: Test your knowledge
+PHAR2001_4_2_7_beta_blockers
+
+
+===== FILE: 19 - Calcium channel blockers.epub =====
+Calcium channel blockers
+-
+-
+Video: Calcium channel blockers
+The muscles in blood vessels and the heart need calcium inside the muscle in order to contract, so decreasing the amount of calcium as it travels into the muscle sounds like a good mechanism to decrease blood pressure. Let's see how well the calcium channel blockers work.
+PHAR2001_4_2_8_Calcium_Channel_Blockers
+Activity: Test your knowledge
+PHAR2001_4_2_8_Calcium_Channel_Blockers
+
+
+===== FILE: 20 - Final words about antihypertensive agents.epub =====
+Final words about antihypertensive agents
+-
+-
+Video: Final words about treating hypertension
+Let's put it all together in this final lesson of the chapter.
+Youtube video link.
+PHAR2001_4_2_9_Summary_of_Hypertension
+Activity: Test your knowledge
+PHAR2001_4_2_9_Final words about antihypertensive agents
+
+
+===== FILE: 21 - Introduction to Module 4 Chapter 3.epub =====
+Introduction to Module 4 Chapter 3
+-
+-
+Objectives
+The objectives for this chapter include:
+-   Explain the various steps involved in thrombus formation
+-   Explain how each of our medications that decrease thrombus formation affect one of the steps involved in thrombus formation,
+-   Identify and explain the actions of common pharmacological agents used to prevent the development of a thrombus.
+You can find the notes and PowerPoint for this chapter directly below:
+Chapter 3 of the CV system THROMBOSIS.pptx
+Chapter 3 of the CV system THROMBOSIS notes 2025.pdf
+Video: Introduction to chapter 3 - Thrombosis
+Please watch this video introduction to the chapter on thrombosis, or the formation of a blood clot.
+Youtube video link.
+PHAR2001_4_3_4_INTRO_THROMBOSIS
+
+
+===== FILE: 22 - Arterial clots.epub =====
+Arterial clots
+-
+-
+From haemostasis to thrombosis: mechanisms and consequences
+Haemostasis is the process of stopping bleeding. We use it every day to repair small bleeds, and it is vital to our survival. But our lifestyle has lead to us being predisposed to this process occurring in absence of a break in the blood vessel walls. In that case, a thrombus develops. Thrombi can occlude the site in which it develops or they can break off from the original site of formation to a blood vessel downstream. In order to combat the development of thrombi, we target the same process in which they develop, the platelet plug, the clotting cascade and the natural dissolving of the clot. Engage in this lesson to understand why our medications are effective.
+Video: Thrombosis overview
+Youtube video link.
+PHAR2001_4_3_5_THROMBOSIS_OVERVIEW
+Activity: Test your knowledge
+PHAR2001_4_3_1_Overview_of_antithrombotic_agents
+
+
+===== FILE: 23 - Antiplatelet drugs.epub =====
+Antiplatelet drugs
+-
+-
+The role of platelets in haemostasis and drug targeting
+Platelets are invaluable in the process of haemostasis, and as such, most of our antiplatelet drugs will not disable the platelet altogether, but rather just take away one of the platelet's 'tools'. In order to understand our antiplatelet drugs, the most important thing to remember is that platelets are not cells, and as such, they do not contain the DNA to synthesise more 'tools'. So when we take away one of the platelet's tools that allows for optimal aggregation, that 'tool' will be disabled for the entire life of the platelet, which is 9 days.
+Video: Antiplatelet drugs
+Youtube video link.
+PHAR2001_4_3_6_ANTIPLATELET_DRUGS
+Activity: Test your knowledge
+PHAR2001_4_3_2_Antiplatelet_Drugs
+
+
+===== FILE: 24 - Anticoagulants.epub =====
+Anticoagulants
+-
+-
+Pharmacological regulation of coagulation
+The second main step in the stoppage of blood (haemo- stasis) is the clotting cascade. Have you ever baited a mouse with mouse and rat bait and wondered how they die? Well the bait is an anticoagulant that is used in warfarin. As you can understand it is very important to keep the dose of warfarin in the correct range, because too high a dose could result in haemorrhages which too little can result in excessive clotting. While there are newer rat baits and newer anticoagulants available, you can understand how important these medications are.
+Video: The clotting cascade
+Youtube video link.
+PHAR2001_4_3_7_ANTICOAGULANTS
+Activity: Test your knowledge
+PHAR2001_4_3_3_Anticoagulants
+
+
+===== FILE: 25 - Fibrinolytics.epub =====
+Fibrinolytics
+-
+-
+Overview of fibrinolysis
+The final process involved in haemostasis, or the stoppage of blood, is actually the dissolving of the clot with a proteolytic (protein splitting) enzyme. That process is called fibrinolysis, and can be exploited with our medications, although, as you can imagine, there is a very fine line between the therapeutic dose and the one that can cause harm, or in other words, each of the fibrinolytic drugs have very narrow therapeutic index.
+Video: fibrinolysis
+Youtube video link.
+PHAR2001_4_3_7_FIBRINOLYTICS
+Activity: Test your knowledge
+PHAR2001_4_3_4_Fibrinolytic_agents
+
+
+===== FILE: 26 - Summary.epub =====
+Summary
+-
+-
+Video: Summary of chapter 4 - Thrombosis
+Youtube video link.
+PHAR2001_4_3_8_CONCLUSION_THROMBOSIS
+
+
+===== FILE: 27 - Introduction to diuretics.epub =====
+Introduction to diuretics
+-
+-
+Objectives
+The objectives for this chapter include:
+-  Describe the structure and function of the portions of the renal system relevant to diuretics.
+-  Identify and explain the actions interactions and side effects of diuretics.
+The notes and PowerPoint for this chapter are directly below:
+Final chapter of the CV and Renal notes 2025.pdf
+Final chapter of the CV and Renal.pptx
+Video: Introduction to chapter 4: Diuretics
+In this final chapter of Module 4, we explore the diuretics.
+Youtube video link.
+PHAR2001_4_5_0_Intro_to_Diuretics
+
+
+===== FILE: 28 - Understanding diuretics.epub =====
+Understanding diuretics
+-
+-
+Video: Understanding diuretics
+In this lesson we review the structure and function of the kidneys.
+Youtube video link.
+PHAR2001_4_5_1_Understanding_Diuretics
+Activity: Test your knowledge
+PHAR2001_4_5_1_Understanding_Diuretics
+
+
+===== FILE: 29 - Understanding diuretics 2.epub =====
+Understanding diuretics 2
+-
+-
+The role of diuretics in heart failure and hypertension
+The main indications for the use of diuretics are congestive heart failure and hypertension. In CHF, there is additional fluid being forced into the interstitial spaces due to increased back pressure. Relieving some of that fluid is beneficial as the heart can work more efficiently. In hypertension, recall that blood pressure is partly dependent on the amount of fluid, and as such, a reduction of fluid is likely to reduce BP - not dramatically, but reductions of 6-12 mmHg are common. Find out more of the foundational information about diuretics in this lesson.
+Video: Understanding diuretics, part 2
+Youtube video link.
+PHAR2001_4_5_2_Understanding_Diuretics_2
+Activity: Test your knowledge
+PHAR2001_4_5_2_Understanding_Diuretics_2
+
+
+===== FILE: 30 - Thiazide diuretics.epub =====
+Thiazide diuretics
+-
+-
+Overview of Thiazide diuretics
+The Thiazide and thiazide like diuretics are the most widely used diuretics. They are often combined with other diuretics to increase the efficacy and decrease the side effects. For instance, thiazide diuretics waste potassium. But if a small amount of thiazide diuretics is added along with a potassium sparing diuretic or to ACE inhibitors, or angiotensin receptor blockers, the potassium levels often normalise and the diuresis increases. Find more about the thiazide diuretics like hydrochlorothiazide and the thiazide like diuretics like metolazone in this lesson.
+Video: Thiazide diuretics
+Youtube video link.
+PHAR2001_4_5_3_Thiazide_Diuretics
+Activity: Test your knowledge
+PHAR2001_4_5_3_Thiazide_Diuretics
+
+
+===== FILE: 31 - Loop diuretics (not compulsory).epub =====
+Loop diuretics (not compulsory)
+-
+-
+Video: Loop diuretics
+The material in this lesson will not be assessed in PHAR2001.
+Loop diuretics are very potent, reducing fluid volume more than most diuretics. It is the preferred diuretic for those people with Congestive Heart Failure (CHF).
+Youtube video link.
+PHAR2001_4_5_4_Loop_Diuretics
+Activity: Test your knowledge
+PHAR2001_4_5_4_Loop_Diuretics
+
+
+===== FILE: 32 - Potassium sparing diuretics (Not compulsory).epub =====
+Potassium sparing diuretics (Not compulsory)
+-
+-
+Spironolactone and aldosterone receptor blockade
+The material in this lesson will not be assessed in PHAR2001.
+Aldosterone is a mineralocorticoid that is released from the adrenal cortex and is nicknamed the salt saver. It saves salt by binding to the cells in the distal convoluted tubule.
+Spironolactone binds to the aldosterone receptors and blocks those receptors, preventing the salt saving actions. It also has antiandrogenic actions, blocking some of the testosterone receptors.
+-   Although spironolactone is not as effective in reducing deaths in those individuals with CHF as compared to Loop diuretics, it is still highly rated for that.
+-   For hypertension, there are normally better diuretics, but in the subset of hypertensive individuals who have excess aldosterone (1% of the population), the medication is very effective.
+Video: Potassium sparing diuretics
+Youtube video link.
+PHAR2001_4_5_5_Potassium_Sparing_Diuretics
+Activity: Test your knowledge
+PHAR2001_4_5_5_Potassium_Sparing_Diuretics
+
+
+===== FILE: 33 - Other diuretics (not compulsory).epub =====
+Other diuretics (not compulsory)
+-
+-
+Alternative diuretics
+The material in this lesson will not be assessed in PHAR2001.
+The final lesson in the Cardiovascular and Renal system pharmacology has to do with the miscellaneous diuretics, the most important of which are the osmotic diuretics. These are not generally used to decrease fluid volume but rather they are used in special circumstances like intracranial hypertension and glaucoma. They are completely different to other types of diuretics and as such it is interesting to compare the actions and administration of these to other diuretics.
+Video: Osmotic diuretics
+Youtube video link.
+PHAR2001_4_5_6_Other_Diuretics
+Activity: Test your knowledge
+PHAR2001_4_5_6_Other_Diuretics

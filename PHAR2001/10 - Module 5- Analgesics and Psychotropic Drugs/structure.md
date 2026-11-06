@@ -1,0 +1,48 @@
+# Module 5: Analgesics and Psychotropic Drugs
+
+  - Module overview `x-bb-folder`
+    - Module overview `x-bb-document`
+  - Analgesics `x-bb-folder`
+    - Understanding Inflammation and pain introduction `x-bb-folder`
+      - Understanding Inflammation and pain introduction `x-bb-document`
+    - Mechanisms of inflammation and anti-inflammatory Agents `x-bb-folder`
+      - Mechanisms of inflammation and anti-inflammatory Agents `x-bb-document`
+    - Mechanisms of pain and analgesics `x-bb-folder`
+      - Mechanisms of pain and analgesics `x-bb-document`
+    - Intro to fever and antipyretics `x-bb-folder`
+      - Intro to fever and antipyretics `x-bb-document`
+    - Paracetamol (Acetaminophen) `x-bb-folder`
+      - Paracetamol (Acetaminophen) `x-bb-document`
+    - Pain relief in children and elderly `x-bb-folder`
+      - Pain relief in children and elderly `x-bb-document`
+    - Opioid overview `x-bb-folder`
+      - Opioid overview `x-bb-document`
+    - Opioid mechanisms `x-bb-folder`
+      - Opioid mechanisms `x-bb-document`
+    - Specific opioids (Not compulsory) `x-bb-folder`
+      - Specific opioids (Not compulsory) `x-bb-document`
+    - Chronic and neuropathic pain `x-bb-folder`
+      - Chronic and neuropathic pain `x-bb-document`
+  - Psychotropic Medications `x-bb-folder`
+    - Introduction to psychotropic medications `x-bb-folder`
+      - Introduction to psychotropic medications `x-bb-document`
+    - Medications for Parkinson's disease `x-bb-folder`
+      - Medications for Parkinson's disease `x-bb-document`
+    - Medications for treatment of Alzheimer's disease `x-bb-folder`
+      - Medications for treatment of Alzheimer's disease `x-bb-document`
+    - Anxiety `x-bb-folder`
+      - Anxiety `x-bb-document`
+    - Alternatives to benzodiazepines `x-bb-folder`
+      - Alternatives to benzodiazepines `x-bb-document`
+    - Depression `x-bb-folder`
+      - Depression `x-bb-document`
+    - SSRIs and TCAs `x-bb-folder`
+      - SSRIs and TCAs `x-bb-document`
+    - SNRIs and atypical antidepressants `x-bb-folder`
+      - SNRIs and atypical antidepressants `x-bb-document`
+    - Psychosis (Not compulsory for this unit) `x-bb-folder`
+      - Psychosis (Not compulsory for this unit) `x-bb-document`
+    - Specific antipsychotics (Not compulsory for this unit) `x-bb-folder`
+      - Specific antipsychotics (Not compulsory for this unit) `x-bb-document`
+    - Seizures (Not compulsory for this unit) `x-bb-folder`
+      - Seizures (Not compulsory for this unit `x-bb-document`

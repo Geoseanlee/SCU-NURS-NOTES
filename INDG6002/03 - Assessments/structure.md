@@ -1,0 +1,25 @@
+# Assessments
+
+  - Assessment information `x-bb-folder`
+    - Assessment overview `x-bb-folder`
+      - Assessment overview `x-bb-document`
+    - Assessment assurance `x-bb-folder`
+      - Assessment assurance `x-bb-document`
+    - Assessment declaration `x-bb-folder`
+      - Assessment declaration `x-bb-document`
+    - Assessment support `x-bb-folder`
+      - Assessment support `x-bb-document`
+  - Assessment 1: Short Response `x-bb-folder`
+    - Assessment 1 brief `x-bb-folder`
+      - Assessment 1 brief `x-bb-document`
+    - Assessment 1 Resources `x-bb-folder`
+      - Assessment 1 Resources `x-bb-document`
+    - Assessment 1 Submission `x-bb-asmt-test-link`
+    - Assessment 1 Draft Submission (Turnitin) `x-bb-blti-link`
+  - Assessment 2: Critical Review `x-bb-folder`
+    - Assessment 2 brief `x-bb-folder`
+      - Assessment 2 brief `x-bb-document`
+    - Assessment 2 Resources `x-bb-folder`
+      - Assessment 2 Resources `x-bb-document`
+    - Assessment 2 Submission `x-bb-asmt-test-link`
+    - Assessment 2 Draft Submission (Turnitin) `x-bb-blti-link`

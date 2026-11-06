@@ -1,0 +1,461 @@
+===== FILE: 01 - Module overview.epub =====
+Module overview
+-
+-
+Module overview: Autonomic Nervous System (ANS) and the Respiratory system
+In this module, we explore the medications of the Autonomic Nervous System (ANS) and the Respiratory system. These are very important topics.
+This entire module contains a total of 2 hours 15 minutes of video lessons plus activities that reinforce your knowledge.
+
+
+===== FILE: 02 - Activity- Watch this video introduction to Chapter 1.epub =====
+Activity: Watch this video introduction to Chapter 1
+-
+-
+Video: Introduction to chapter 1
+YouTube link.
+PHAR2001_2_1_0_Introduction_to_Chapter
+Objectives, PowerPoint and Notes
+The objectives for this chapter include:
+-  Describe the general properties of the Autonomic nervous system (ANS) (including the bodily functions it helps regulate, its two neuron nature, the neurotransmitters used, and the enzymes that degrade those neurotransmitters in the synaptic cleft).
+-  Give the other names of a sympathomimetic drug (for instance, adrenergic agonist), a sympatholytic drug (for instance, an adrenergic antagonist or blocker), an acetylcholine agonist (for instance, a muscarinic drug) and an acetylcholine antagonist (for instance, an antimuscarinic drug)
+-  Name the structures affected by the alpha 1, the beta 1 and the beta 2 receptors of the sympathetic nervous system, and for each of those structures note the effect of a 1. Sympathomimetic drug, and 2. Sympatholytic drug.
+-  Compare the actions of the sympathetic and parasympathetic nervous systems on the heart, the pupils of the eyes, the entire gastrointestinal system including the amount of saliva that is produced, the lungs, and the urinary bladder.
+The PowerPoint and Notes for this chapter are linked directly below.
+Module 2 Chapter 1 NOTES 2025.pdf
+Module 2 Chapter 1.pptx
+
+
+===== FILE: 03 - Overview of the Autonomic Nervous System (ANS).epub =====
+Overview of the Autonomic Nervous System (ANS)
+-
+-
+Introduction to the nervous system
+The various divisions of the nervous system can be very confusing. Worse yet, if the information is not fresh in your mind, it is impossible to understand the rest of material in this module. So let's engage in this quick review that places the autonomic nervous system (ANS) into the context of the other portions of the nervous system.
+Video: Overview of Autonomic Nervous System
+Watch this video, and perform the two drag and drop exercises below. Remember that the questions in the 30% quiz are derived from these activities so if you don't score well on your first attempt, try the activity again!
+ADJUSTING SPEED OF VIDEO: Remember that you can listen to the reviews at a faster speed if you feel you already know the information.  It is a slightly different process to the videos from the last chapter,  where I put the material on YouTube. After the video starts, there is a Playback rate adjustment at the bottom centre portion of the video, that can be set at 0.5x, 1x, 1.4x. 1.6x and 2x. You can watch the video in YouTube  right here.
+PHAR2001_2_1_1_Overview_of_the_ANS
+Activity: Test your knowledge
+PHAR2001_2_1_1_Overview_of_the_ANS
+
+
+===== FILE: 04 - Divisions of the ANS.epub =====
+Divisions of the ANS
+-
+-
+The two divisions of the ANS
+The two divisions of the autonomic nervous system are the Sympathetic Nervous System (SNS) and the Parasympathetic Nervous System (PNS). The SNS and PNS have, for the most part, opposite effects because the autonomic nervous system helps maintain homeostasis. So, if our heart was beating too slow for the conditions at the time, our cells would start getting too little oxygen, lactic acid would start to accumulate and homeostasis would be disrupted. But that does not happen because the SNS comes to the rescue, sending out a bit of adrenaline and homeostasis is maintained.
+Video: Divisions of the ANS
+After watching this video and you should be able to answer the multiple choice question below.  These activities will make sure that you can apply logic to understanding the actions of the SNS and the PNS to our various organs.  You can  view the video on YouTube right here.
+PHAR2001_2_1_2_Divisions_of_the_ANS
+Activity: Test your knowledge
+PHAR2001_2_1_2_Divisions_of_the_ANS
+
+
+===== FILE: 05 - Overviewing drugs of the ANS.epub =====
+Overviewing drugs of the ANS
+-
+-
+Overview
+In this lesson, we outline one simple rule (along with two exceptions to the rule) that allows you to easily understand the drugs of the ANS.
+By watching this video and doing the associated activities, you will streamline your work involved in understanding of the drugs of the ANS.
+Just a few terms that are extremely important at this point:
+-  Sympathomimetics are drugs that mimic the sympathetic nervous system, like adrenaline and dopamine. They can also be called sympathetic nervous system agonists. While they often have a similar clinical outcome to the ParasympathoLYTIC drugs, THEY ARE NOT.
+-  Sympatholytic drugs are those that BLOCK the sympathetic nervous system, like the beta blockers. They can also be called sympathetic nervous system antagonists. While they often have a similar clinical outcome to the ParasympathoMIMETIC drugs, THEY ARE NOT.
+-  Parasympathomimetics are drugs that mimic the parasympathetic nervous system (the rest and digest system), like acetylcholine, although acetylcholine itself cannot be used as a drug because of its incredibly short half life. They can also be called parasympathetic nervous system agonists.
+-  A parasympathoLYTIC drug is a drug that is against the parasympathetic nervous system. It blocks acetylcholine and is often also called an anticholinergic drug or an antimuscarinic drug.
+Video: Drugs of the ANS
+View this video on YouTube here.
+PHAR2001_2_1_3_Overviewing_drugs_of_the_ANS
+Activity: Test your knowledge
+PHAR2001_2_1_3_Overviewing_drugs_of_the_ANS
+
+
+===== FILE: 06 - Selective receptors of the ANS.epub =====
+Selective receptors of the ANS
+-
+-
+Understanding receptors of the ANS
+The concept of subtypes of the alpha1, 2, 3, and 4-adrenoceptor was first suggested in the mid 1980s and since then we have started to develop more and more selective medications. Yes, it made our work as students a bit more difficult but it really decreased the side effects from such medications. Now, we can affect the heart without affecting the salivation. We can affect the peripheral blood vessels without affecting the lungs.
+It takes a bit of practice but you will start to understand the side effects of a medication simply by knowing which receptors it binds to after engaging with this lesson.
+Video: Selective SNS receptors
+After watching this video, you should be successful in the three drag and drop exercises below.  View this video on YouTube here.
+PHAR2001_2_1_4_Selective_receptors_of_the_ANS
+Activity: Test your knowledge
+Clone of PHAR2001_2_1_4_Selective_receptors_of_the_ANS
+
+
+===== FILE: 07 - Looking to the future.epub =====
+Looking to the future
+-
+-
+Video: Conclusion of chapter 1
+Thanks for participating in these activities. As you will see, it would be nearly impossible to understand the medications of the Autonomic Nervous System without having this overview in your mind. Right now we are going to move on to the medications of the ANS, dividing them into SNS agonists, SNS antagonists, PNS agonists, and PNS antagonists.
+View this video on YouTube here.
+PHAR2001_2_1_5_Chapter_1_Signing_Off
+
+
+===== FILE: 08 - Activity- Watch this video introduction to the chapter.epub =====
+Activity: Watch this video introduction to the chapter
+-
+-
+Video: Introduction to chapter 2
+View this video on YouTube.
+PHAR2001_2_2_0_Introduction_to_Chapter_2_of_the_ANS
+Objectives, PowerPoint and Notes
+The objectives for this Chapter include:
+Describe the actions, interactions and side effects of the following adrenergic agonists:
+-  Adrenaline (non-selective agonist)
+-  Phenylephrine (an alpha 1 selective agonist)
+-  Dobutamine (a beta 1 adrenergic agonist)
+-  Salbutamol (a beta 2 adrenergic agonist)
+-  Dopamine
+These medications will be taken again at a later time. It is most important right now to understand why the actions and side effects occur
+The PowerPoint and Notes for this Chapter are directly below:
+Module 2 Chapter 2 NOTES 2025.pdf
+Module 2 Chapter 2.pptx
+
+
+===== FILE: 09 - Anaphylaxis and adrenaline.epub =====
+Anaphylaxis and adrenaline
+-
+-
+Introduction to non-selective sympathomimetics
+In this lesson, we begin our discussion of the non-selective  sympathomimetics  . Long name - what does that mean? Well, a sympathomimetic means that it is a drug that acts like adrenaline. It  mimics  the  sympathetic  nervous system.
+Specifically in this lesson, we will get a good picture of what happens in anaphylactic shock, and why adrenaline is the main therapy and why antihistamines can also be of value.
+Video: Anaphylaxis and adrenaline
+Please pay close attention in this video - this is such an important topic that I have included 5 quick activities that reinforce your knowledge!  View this on YouTube.
+PHAR2001_2_2_1_Anaphylaxis_and_Adrenaline
+Activity: Test your knowledge
+PHAR2001_2_2_1_Anaphylaxis_and_Adrenaline
+
+
+===== FILE: 10 - Other non-selective adrenergic agonists.epub =====
+Other non-selective adrenergic agonists
+-
+-
+Adrenaline and pseudoephedrine
+Aside from adrenaline itself, the non-selective adrenergic agonists also include pseudoephedrine, which is a very effective decongestant and dopamine, which is pretty much only used in acute heart failure where the client needs a lot of stimulation to the heart in order to survive. We briefly look at both of those in this lesson.
+Video: Non selective adrenergic agonists
+Watch this video and reinforce your knowledge with the multiple choice and T/F questions below.  View this video on YouTube.
+PHAR2001_2_2_2_Other_non-selective_adrenergic_ agonists
+Activity: Test your knowledge
+PHAR2001_2_2_2_Other_non-selective_adrenergic_ agonists
+
+
+===== FILE: 11 - Selective alpha agonists.epub =====
+Selective alpha agonists
+-
+-
+Introduction to selective alpha agonists
+The alpha-adrenergic agents will bind to and act like adrenaline on the peripheral blood vessels, the radial muscles of the eyes that controls the diameter of the pupils, the smooth muscles of the GIT, the male prostate and the urinary sphincter. They act like adrenaline on those sites. So please  predict the actions of those agents before clicking onto this next video  to see if you are right.
+Video: Selective alpha agonists
+Please engage in the video and the two activities below. Remember that if things are ever going too slow or too fast for you, you can set the video play speed higher or lower.  View this video on YouTube here.
+PHAR2001_2_2_3_Selective_alpha_agonists
+Activity: Test your knowledge
+PHAR2001_2_2_3_Selective_alpha_agonists
+
+
+===== FILE: 12 - Selective beta agonists.epub =====
+Selective beta agonists
+-
+-
+Questions
+What would a Beta 1 agonist be used for? ...a Beta 2 agonist?
+Remember Beta 1 is the heart
+Beta 2 is on the lungs and the mast cells.  Please attempt this before you click onto this video lesson  .
+Video: Selective beta agonists
+Please watch the video and then answer the questions to make sure you actively know the material.  View this video on YouTube here.
+PHAR2001_2_2_4_Selective_beta_agonists
+Activity: Test your knowledge
+PHAR2001_2_2_4_Selective_beta_agonists
+
+
+===== FILE: 13 - Summary of Chapter 2.epub =====
+Summary of Chapter 2
+-
+-
+Video: Summary of chapter 2
+Please join me as I rip through a quick 2 minute summary of this chapter.  View this video on YouTube.
+PHAR2001_2_2_5_Summary_of_Chapter_2
+
+
+===== FILE: 14 - Activity- watch this video introduction to the chapter.epub =====
+Activity: Watch this video introduction to the chapter
+-
+-
+Video: Introduction to chapter 3
+PHAR2001_2_3_0_Introduction_to_Chapter_3
+Objectives, PowerPoint and Notes
+The objectives for this chapter includes to describe the actions interactions and side effects of the following adrenergic  antagonists  (blockers):
+-  Phentolamine and labetalol (non-selective antagonist)
+-  Prazosin and doxazosin (an alpha 1 selective antagonist)
+-  Metoprolol and atenolol (a beta 1 selective adrenergic antagonist)
+Please feel free to use the PowerPoint and Notes linked directly below.
+Module 2 Chapter 3 NOTES 2025.pdf
+Module 2 Chapter 3.pptx
+
+
+===== FILE: 15 - Understanding sympatholytics.epub =====
+Understanding sympatholytics
+-
+-
+Introduction to sympatholytic drugs
+Sympatholytic drugs are drugs that block the sympathetic nervous system. Other names for the drugs include sympathetic nervous system antagonists, adrenergic antagonists, adrenergic blocking agents, there are many selective agents like alpha-blockers and beta-blockers. These are NOT the same as a parasympathomimetic agent but they do allow the parasympathetic rest and digest system to DOMINATE.    So, predict what would happen with a sympatholytic drug    .
+Video: Sympatholytic agents
+Please engage in these activities that will help you understand subsequent material about drugs that act against the sympathetic nervous system.  Watch this on YouTube here.
+PHAR2001_2_3_1_Understanding_sympatholytics
+Activity: Test your knowledge
+PHAR2001_2_3_1_Understanding_sympatholytics
+
+
+===== FILE: 16 - Non-selective adrenergic blockers.epub =====
+Non-selective adrenergic blockers
+-
+-
+Video: Non-selective adrenergic blockers
+There are only two non-selective adrenergic blockers that we need to remember, labetalol and phentolamine, but they are quite important medications.
+Watch this quick video and answer the two associated multiple choice questions below.  Remember that the questions in the Week 6 quiz (worth a total of 30% of your grade in the unit) are directly from the material in these activities and you need to score 12 out of 30 possible points in order to pass the unit.  (not necessarily the same exact questions but the same material) These questions are designed to make sure you do really well in that quiz, and as such, work safely with medications in your future career  . Watch this video on YouTube.
+PHAR2001_2_3_2_Non-selective_adrenergic_blockers
+Activity: Test your knowledge
+PHAR2001_2_2_3_Selective_alpha_agonists
+
+
+===== FILE: 17 - Alpha 1 blockers.epub =====
+Alpha 1 blockers
+-
+-
+Overview of the alpha 1 receptor
+The alpha 1 receptor is found on peripheral blood vessels and the prostate. If you think about it, you will probably guess that they would be potentially useful in benign prostatic hyperplasia and hypertension. We talk about these in a couple spots in the unit, so this lesson is less than 2 minutes long.
+Video: Aplha 1 antagonists
+Just hit the play symbol. You know you want to :)
+or  watch this on YouTube.
+PHAR2001_2_3_3_Alpha_1_blockers
+Activity: Test your knowledge
+PHAR2001_2_3_3_Alpha_1_blockers
+
+
+===== FILE: 18 - Beta blockers.epub =====
+Beta blockers
+-
+-
+Overview of beta blockers
+Beta blockers had been the primary therapy for hypertension, but ACE inhibitors, angiotensin II receptor antagonists, calcium-channel blockers, and thiazide diuretics are generally preferred over beta blockers for the treatment of hypertension in the absence of co-morbidities. Nonetheless, beta blockers are still an important medication for hypertension, especially if it involves  congestive heart failure  , the type of heart failure that is chronic (long term) and can be treated for 20 years or longer.
+Video: Beta 1 blockers
+There are four quick activities associated with this very important group of medications that end in the suffix ...olol. After watching the video, please attempt all four .   Watch this video on YouTube.
+PHAR2001_2_3_4_ Beta-blockers
+Activity: Test your knowledge
+PHAR2001_2_3_4_ Beta-blockers
+
+
+===== FILE: 19 - Summary of Chapter 3.epub =====
+Summary of Chapter 3
+-
+-
+Video: Summary of chapter 3
+You are just two minutes away from finishing this chapter. ...or just one minute away if you speed up the tape to 2X!.  Watch this video on Youtube.
+PHAR2001_2_3_5_Summary_of_Chapter_3
+
+
+===== FILE: 20 - Activity- Watch this video introduction to Chapter 4.epub =====
+Activity: Watch this video introduction to Chapter 4
+-
+-
+Video: Introduction to chapter 4
+YouTube link.
+PHAR2001_2_4_0_Introduction_to_Chapter_4
+Objectives, PowerPoint and Notes
+The objectives for Chapter 4 include:
+-  Explain the difference between direct-acting and indirect-acting Parasympathomimetic drugs
+-  Know terms used to describe the parasympathomimetic drugs, for instance, muscarinic drugs, cholinergic agents, acetylcholine agonists.
+-  Describe the actions interactions and side effects of the:
+-  Direct acting cholinergic agonists bethanechol and pilocarpine
+-  Indirect acting cholinergic agonists neostigmine and donepezil
+-  The antimuscarinic agents, using atropine as an example.
+The PowerPoint and Notes for this chapter are directly below:
+Module 2 Chapter 4.pptx
+Module 2 Chapter 4 NOTES 2025.pdf
+
+
+===== FILE: 21 - Understanding acetylcholine.epub =====
+Understanding acetylcholine
+-
+-
+Learning about acetlycholine
+Recall that the neurotransmitter that is used at the neuromuscular junction that results in a contraction of the muscle is acetylcholine. And now we are saying that the neurotransmitter that works at the effector (at each of the organs of the ANS) is acetylcholine.
+-  So how is it that we can have medications that affect our organs without affecting muscle movement?
+In this lesson, you will learn the answer to that question, and also learn the different names used for Parasympathetic Nervous System (PNS) drugs, and what their general effect will be if they cross into the brain.
+Video: Understanding acetylcholine
+You have to be curious about these beautiful mushrooms.
+In the next lesson, you find out what will happen if you served these mushrooms up to your dinner guests. ...but you won't fully understand unless you watch this video! So click onto the play button and then engage in the four activities below.
+YouTube link.
+PHAR2001_2_4_1_Understanding_acetylcholine
+Activity: Test your knowledge
+PHAR2001_2_4_1_Understanding_acetylcholine
+
+
+===== FILE: 22 - Understanding the PNS.epub =====
+Understanding the PNS
+-
+-
+Video: The parasympathetic nervous system
+Take a deep breath, relax and think about what THAT is going to do to your organs...
+You find out all about those pretty mushrooms in this lesson. Make sure you engage in all three activities after watching the lesson.
+YouTube video link.
+PHAR2001_2_4_2_Understanding_the_Parasympathetic Nervous System (PNS)
+Activity: Test your knowledge
+PHAR2001_2_4_2_Understanding_the_PNS
+
+
+===== FILE: 23 - Direct vs indirect cholinergic agents.epub =====
+Direct vs indirect cholinergic agents
+-
+-
+Differences between direct and indirect cholinergic agents
+For the most part, our ANS medications are receptor agonists and antagonists. But one notable exception is the indirect acting cholinergic agents that are enzymatic inhibitors. They act on and inhibit the enzyme that degrades acetylcholine. Let's take a look at the differences between direct and indirect cholinergic agents.
+Video: Direct vs indirect cholinergic agents
+Please watch this video and engage in the drag the word activity below.
+YouTube video link.
+PHAR2001_2_4_3_Direct_vs_indirect_cholinergics
+Activity: Test your knowledge
+PHAR2001_2_4_3_Direct_vs_indirect_cholinergic_agents
+
+
+===== FILE: 24 - Indirect acting acetylcholine agonists.epub =====
+Indirect acting acetylcholine agonists
+-
+-
+Understanding Indirect acting acetylcholine agonists
+The most common type of nerve gas irreversibly inhibits the enzyme acetylcholinesterase. Think about what that would do. There would be huge amounts of acetylcholine in the synaptic cleft because it is not degrading. But where would that excess be? In the MUSCLES, meaning there would be constant contraction - how can you breath if the diaphram is not able to relax? In the HEART, meaning there would be a profound bradycardia (decreased heart rate). In the GIT, giving excess salivation, cramping and diarrhoea. Now lets back up a bit and think about when a reversible version of that could be useful.
+Video: Indirect acting acetylcholine agonists
+Engage in this video and multiple choice question to understand the two different kinds of acetylcholine agonists.
+YouTube video link.
+PHAR2001_2_4_4_Indirect_acting_acetylcholine_agents
+Activity: Test your knowledge
+PHAR2001_2_4_3_Direct_vs_indirect_cholinergic_agents
+
+
+===== FILE: 25 - Anticholinergic agents.epub =====
+Anticholinergic agents
+-
+-
+Video: Anticholinergic agents
+You have probably heard someone say that their medication gives them a dry mouth. Why is it that so many of our medications give the person taking them a dry mouth?
+Find out more about this pretty plant by watching the video and engaging in the two activities below.
+YouTube video link.
+PHAR2001_2_4_5_Anticholinergic_agents
+Activity: Test your knowledge
+PHAR2001_2_4_5_Anticholinergic_agents
+
+
+===== FILE: 26 - Summary of Chapter 4.epub =====
+Summary of Chapter 4
+-
+-
+Video: Summary of chapter 4
+YouTube video link
+Sorry, I did say ' Ya' in the video. ... and I did imply that this was the last Chapter in this module, which it is not.
+One more chapter to go, because I decided to put the Respiratory system pharmacology AFTER the ANS. But most of our important drugs of the respiratory system are based on drugs of the ANS, so you are well on your way to finishing the Module!!
+PHAR2001_2_4_6_Summary_of_Chapter_4
+
+
+===== FILE: 27 - Introduction to Respiratory System Pharmacology.epub =====
+Introduction to Respiratory System Pharmacology
+-
+-
+Video: Introduction to chapter 5
+In this final chapter of Module 2, we explore the respiratory system pharmacology. Our objectives for this chapter include the following:
+-  Briefly describe the structure and function of the lungs including the immune system response in the lungs
+-  Briefly describe the pathophysiology of allergic rhinitis and asthma identifying and describing the actions of common pharmacological agents used in their treatment
+-  Compare the difference between mucolytic agents and expectorants, citing examples of each.
+YouTube video link.
+The PowerPoint and Notes for this chapter are directly below:
+PHAR2001_2_5_0_Introduction_to_Respiratory_System
+RESPIRATORY POWERPOINT NOTES.pdf
+RESPIRATORY POWERPOINT.pptx
+
+
+===== FILE: 28 - Preview of respiratory system.epub =====
+Preview of respiratory system
+-
+-
+Review of the respiratory system
+This lesson reviews the important points about the respiratory system that will help you understand the relevant medications.
+The respiratory system is broadly divided into the upper and lower respiratory system. Upper respiratory system disorders that are treatable with medications include allergic rhinitis and the common cold, and our main drugs used to treat these include the antihistamines and the decongestants.
+The lower respiratory system disorders that are treatable with our medications include those disorders that result in obstruction of the airways, which are sometimes referred to as the ventilation disorders. Common medications used to treat those disorders include bronchodilators, inhaled corticosteroids and oral corticosteroids. If the disorder results in thick or copious amounts of mucus, the expectorants or mucolytic agents may also be of value. We also have antitussives or cough medicines that work at the level of the medulla to decrease the urge to cough, but those should only be used for non-productive coughs.
+There are several other disorders that involve the respiratory system, including pleural effusions, and pulmonary embolism, however those disorders are covered elsewhere, according to the origin of the complaint.
+Video: Respiratory system review
+This is an applied review, that includes the information about respiratory system disorders that you need to know in order to understand the drugs of the respiratory system. If you think you already know enough about the respiratory system that a 'review' will not be needed, watch the video anyway, and turn it up to 2X speed. (After the video starts, click onto the 1X symbol a couple times till it reads 2X, which is quite fast.)
+YouTube video link
+PHAR2001_2_5_1_Review_of_the_Respiratory_System
+Activity: Test your knowledge
+PHAR2001_2_5_1_Introduction_to_Respiratory_System_Pharmacology
+
+
+===== FILE: 29 - Antitussives expectorants and mucolytic agents.epub =====
+Antitussives expectorants and mucolytic agents
+-
+-
+Overview of antitussives, expectorants and mucolytic agents
+Although they often do not require a prescription, antitussives, expectorants and mucolytic agents are all widely used, and as such, very important to understand.
+Antitussives (or cough suppressants) that are correctly named will work at the level of the medulla, and include the opioids and dextromethorphan. Other medications that soothe the lungs, or get mucus off the cough receptors are not termed antitussives.
+Expectorants and mucolytic agents generally aim to do the same thing, to get mucus out of the lungs, but they work by different mechanisms. In this lesson, we explore these three important classes of medications in much more depth.
+Video: Antitussives, expectorants and mucolytic agents
+Most of the drugs discussed in this lesson are over the counter, but SOOO important to understand for everyone from a pharmacy assistant to an MD. Watch the video and then test your knowledge with the other activities.
+YouTube video link.
+PHAR2001_2_5_2_Antitussives_expectorants_mucolytics
+Activity: Test your knowledge
+PHAR2001_2_5_2_ Antitussives_ expectorants_and_mucolytic_agents
+
+
+===== FILE: 30 - Decongestants and antihistamines.epub =====
+Decongestants and antihistamines
+-
+-
+The role of decongestants and antihistamines
+When an immune response happens in the sinuses, histamine is released from the local mast cells, and the histamine dilates the blood vessels and increases the permeability of those blood vessels. The escaping fluid and cells work on the mucus secreting cells, resulting in both plasma and mucus being excreted. An antihistamine blocks the action of histamine on the receptors and a decongestant does the opposite thing that histamine does, contracting the same blood vessels that histamine dilated.
+In this lesson, we concentrate on understanding that process and on the decongestants, as our tutorial for this week fully covers the antihistamines.
+Video: Decongestants and antihistamines
+Watch this video and engage in the M/C and T/F questions.
+YouTube video link.
+PHAR2001_2_5_3_Decongestants_Antihistamines
+Activity: Test your knowledge
+PHAR2001_2_5_3_ Decongestants_and_Antihistamines
+
+
+===== FILE: 31 - Lower respiratory system disorders.epub =====
+Lower respiratory system disorders
+-
+-
+Overview of the lower respiratory system
+The lower respiratory system disorders that are able to be treated by medications fall under the classification of the ventilation disorders, or in other words, the ones that obstruct the airways. Asthma is the most common of these, affecting over 10% of Australians. Since it is the most common and because of the fact that the medications used to treat asthma are often the ones that treat other lower respiratory system disorders, we aim to get a good picture of these in this lesson.
+Video: Lower respiratory system disorders
+Asthma is the most common lower respiratory system disorder in Australia. Learn the most important facts about the disorder by watching this video and engaging in the associated activities.
+Youtube video link.  ﻿
+PHAR2001_2_5_4_Lower_Respiratory_System_Disorders
+Activity: Test your knowledge
+PHAR2001_2_5_4_Overview_of_Asthma
+
+
+===== FILE: 32 - Treatment of Asthma (and other Ventilation Disorders).epub =====
+Treatment of Asthma (and other Ventilation Disorders)
+-
+-
+Pharmacological management of asthma
+As you have learned in the previous lessons, when an person experiences an asthmatic attack, the mast cells in their lungs degranulate and release histamine. So you would think that antihistamines are going to be helpful for asthmatics, but only about 10% of asthmatics get any additional benefits from them, and they should never be relied on for an acute asthmatic reaction. The main drugs for asthma are the bronchodilators, and those can be sympathomimetics, parasympatholytics, or other substances that dilate the lungs. Another very important target of our medications will be drugs that target the actual mediators of inflammation. The leukotrienes are mediators of inflammation that are often targeted, but the most useful medication that targets the immune system will be the corticosteroids (either inhaled or systemic). Corticosteroids decrease all arms of the immune system, so they are very important in the treatment of asthma.
+Video: Treatment of Asthma
+Remember that although asthma is regarded by many authors as a reversible disorder, it does involve chronic inflammation, and chronic inflammation almost always results in fibrosis and scarring, remodelling of the tissues, and permanent changes, so asthma must be treated and you must know how it is treated because 30% of Australians will need these asthma meds during at least one period of their lives.
+YouTube video link.
+PHAR2001_2_5_5_Treatment_of_Asthma
+Activity: Test your knowledge
+PHAR2001_2_5_5_Treatment_of_Asthma_and_other_Ventilation_Disorders
+
+
+===== FILE: 33 - Congratulations on finishing the final Chapter in Module 2!.epub =====
+Congratulations on finishing the final Chapter in Module 2!
+-
+-
+Video: Module 2 summary
+Just one minute and 14 seconds left in this module, so quick, click on that arrow before I add more material!
+Youtube video link.
+PHAR2001_2_5_6_Signing_off_Module_2

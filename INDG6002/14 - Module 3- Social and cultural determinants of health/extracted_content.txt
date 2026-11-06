@@ -1,0 +1,156 @@
+===== FILE: 01 - Module Overview.epub =====
+Module overview
+-
+-
+In this module we define and discuss the social and cultural determinants of health in the context of Indigenous Peoples. Over the past several decades there has been an increased focus on the social determinants of health – the factors beyond the biomedical paradigm that are influenced by social conditions, political agendas and social policies. For Indigenous Australian Peoples factors that extend far beyond socio-economic and other social measures, play a crucial role in health and wellbeing. The cultural determinants of health are now being recognised within mainstream health and social work organisations as crucial factors in positive health outcomes for Indigenous Peoples across the globe. Positive relationship with, and connections to family, community, culture, and Country are essential to good health.
+We will explore these themes as you continue to build knowledge and understanding of the current health status of Indigenous Australian Peoples with the aim of preparing you as a professional to better advocate for and support Aboriginal and Torres Strait Islander Peoples. This week you will be asked to reflect on your understanding of what culture actually is and how your own culture may influence people from different cultures.
+We will discuss a YouTube clip presented by an Indigenous Canadian expert on the social determinants of health. The concept of epigenetics is touched upon. The cultural determinants of health are identified and discussed based on Indigenous scholars and health workers research and expertise.
+Module purpose
+By the end of this module you will be able to:
+- define and discuss the SDoH; how they impact Aboriginal and Torres Strait Islander Peoples
+- understand how the cultural determinants of health, based on Indigenous Peoples definitions of health , which encompasses individuals, families, communities, cultural strengths, resilience and empowerment positively impact their health and wellbeing.
+
+
+===== FILE: 02 - Introduction.epub =====
+Introduction
+-
+-
+Over the past several decades there has been an increasing focus on the social determinants of health (SoDH) – factors beyond the biomedical approach, which are influenced by social conditions, political agendas and social policies. The gap between the health and wellbeing of Indigenous and non-Indigenous peoples in Australia is vast. This divide is an anathema in our continent that prides itself as a democratic nation where everyone is given a ‘fair go’. Many have worked tirelessly to reverse the health inequities experienced by Indigenous Australian Peoples. However, until the social and cultural determinants of health are better understood and addressed, progress remains painfully slow at best (Carson, Dunbar, Chenhall & Baille, 2007).
+The social determinants of health are well known worldwide, and how each person fares in the following aspects can influence health equity in positive and negative ways:
+- Income and social protection
+- Education
+- Unemployment and job insecurity
+- Working life conditions
+- Food insecurity
+- Housing, basic amenities and the environment
+- Early childhood development
+- Social inclusion and non-discrimination
+- Structural conflict
+- Access to affordable health services of decent quality.
+(World Health Organization, 2021)
+This list alludes to, but does not clearly state, several SDoH that impact Aboriginal and Torres Strait Islander peoples on a daily basis within First Peoples Nations colonised by Europeans. These include:
+- Racism
+- History
+- Country
+- Human rights
+- Policy Processes.
+(Carson, Dunbar, Chenhall & Baille, 2007)
+In Module 2 we examined the profound historical and contemporary impacts of colonisation on Indigenous Peoples health. The central role of this history in contemporary health issues and challenges remains the most commonly cited topic in discussions and consultations about the social determinants of Indigenous health. A history of discrimination and exclusion from citizenship, voting, government, employment, land, and society has long standing negative impacts on Indigenous Peoples (Carson, Dunbar, Chenhall & Baille, 2007 p. xxiii). The dominance of the biomedical model of health, a reductionist approach, objectifies and siloes the body into systems and pathologies, thereby excluding the whole person, including where people sit in communities and how individuals experience illness (Carson, Dunbar, Chenhall & Baille, 2007 p. 4.).
+Activity: Reflect
+At this point, before we define and explore the social and cultural determinants of health, take time to reflect on your own perspective/understanding of what 'culture' is.
+How would you describe your own culture?
+What are the visible and invisible components of your culture that shape your worldview and how you view different cultures?
+Consider how your own culture/worldview may impact members of different cultural groups.
+This diagram shows some of the visible and hidden components of different cultures:
+From: Hussain, Amjad, Bugti & Iqbal (2020). Iconic Representation of Baloch Culture: A Semiotic Analysis. Journal of Social Sciences and Humanities, 59(1): 35-49.
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+
+===== FILE: 03 - The Social Determinants of Health (SDoH).epub =====
+The Social Determinants of Health (SDoH)
+-
+-
+According to the World Health Organization (WHO):
+The social determinants of health (SDoH) are the non-medical factors that influence health outcomes. They are the conditions in which people are born, grow, work, live, and age, and the wider set of forces and systems shaping the conditions of daily life. These forces and systems include economic policies and systems, development agendas, social norms, social policies and political systems.
+— (WHO, 2021)
+In order to address health inequities there are multiple challenges to overcome. Direct connections between poverty and poor health have been long observed. Understanding the SDoH relative to equity is a complex and multifaceted field. It involves a wide range of stakeholders within and beyond the health sector, with political influences and the dominance of western societal structures and governments playing significant roles. In addition, SDoH data can be difficult to collect and share (WHO, 2021).
+Main determinants of health – layers of influence (Source: Dahlgren & Whitehead, 1991)
+Direct relationships can be observed between each SDoH a person scores poorly in, and the gradient a person must climb to attain or maintain optimal health. Research confirms children growing up in socioeconomically disadvantaged communities face greater direct challenges to health status and health-promoting behaviours. “They also often experience emotional and psychological stressors, such as family conflict and instability arising from chronically inadequate resources. Adjusting for depression, anxiety, and other negative emotional states, however, has not completely explained the effects of social factors on health” (Braveman & Gottlieb, 2009, 9.22).
+The diagram to the right used for approximately 30yrs)remains an accurate visual representation of the increase in the health gradient that occurs for each SDoH a person scores poorly in.
+Source: WHO (1988) Making Partners: Intersectoral Action for Health. Reproduced in Health Nexus and Ontario Chronic Disease Prevention Alliance (2008), WHO, p. 5. Reproduced with Permission.
+“Cultural wounds require cultural medicine”
+Professor Michael Chandler, speaking at the Healing Foundation public forum, Canberra, 4 July 2014
+Chandler, M. J., & Lalonde, C. E. (2008). Cultural continuity as a protective factor against suicide in First Nations youth. Horizons, 10(1), 68-72.
+Activity: Social determinants of health (SDoH) from a first nations peoples perspective
+Watch this 13-minute YouTube presentation by Ktunaxa woman Gwen Phillips from British Columbia, Canada. Gwen explains how colonisation fractured the foundations of Indigenous Peoples lives in Canada, resulting in degridation of Indigenous cultures and communities.
+Consider the parallels with Australian First Nations Peoples.
+Gwen Phillips of the FNHC discusses the fundamental role cultures, languages, and traditions play in transforming health for British Colombia First Nations Peoples.
+UNSAFE_HTML_20260121160514.html
+Activity: Reflect
+Reflect
+- What do you consider the 3 most devastating experiences shared by Canadian and Australian Indigenous Peoples that impact their Social Determinants of Health?
+- From your learning so far in this unit, make a list of the themes discussed in this video that may be familiar to Indigenous Peoples in Australia.
+- Gwen talks about the impacts of ‘Residential Schools’ on Indigenous social structures in Canada. This mirrors which event/s in Australia?
+Bring your responses along to this week’s tutorial to contribute to class discussion.
+
+
+===== FILE: 04 - The Cultural Determinants of Health.epub =====
+The cultural determinants of health
+-
+-
+In recent years, the term the cultural determinants of health has emerged within mainstream health and social support organisations. This developing body of international work is in response to the increasing understanding of the strong relationships between culture and health. Research relating to Aboriginal and Torres Strait Peoples health previously focused on the dominance of the SDoH approach, which firmly embeds a default deficit lens. Terms within the biomedical paradigm, such as ‘lifestyle diseases’ have supported the ‘victim blaming’ and negativity in mainstream, non-Indigenous health policy and services delivery (Rix, Barclay & Wilson, 2014). It must be emphasised that the term cultural determinants of health does not refer to the institutional or organisational cultures within health systems and services. The cultural determinants of health are defined by each person, family, community and culture (Lowitja Institute, 2014).
+Professor Ngiare Brown, a Yuin woman from the south coast of NSW and foundational CEO of the Aboriginal Doctors Association describes the cultural determinants of health:
+Cultural determinants originate from and promote a strength-based perspective, acknowledging that stronger connections to culture and Country build stronger individual and collective identities, a sense of self-esteem, resilience, and improved outcomes across the other determinants of health including education, economic stability and community safety (Brown, 2014)
+Brown, N. (2014). Promoting a social and cultural determinants approach to Aboriginal and Torres Strait Islander affairs. National Aboriginal Community Controlled Health Organisation (NACCHO)–Prime Ministers Indigenous Advisory Committee, Canberra, Australia.
+Reference cited in: Kelly, M. M., Marriott-Stathamc, K, Clapham, K, Metuselad, C, & Mackay, M. (2024).  Understanding the cultural determinants of health: A scoping review. https://www.lowitjajournal.org.au/article/S2949-8406(24)00027-5/fulltext
+Furthermore:
+....."in order to nurture the physical body, we must also bolster the social, emotional and spiritual wellbeing of people who have been adversely affected by over 200 years of colonisation, dispossession and marginalisation" (Arabena & Moodie, 2011, p. 532).
+Arabena, K., & Moodie, D. (2011). The Lowitja Institute: Building a national strategic research agenda to improve the health of Aboriginal and Torres Strait Islander peoples—Research enterprise. Medical journal of Australia, 194(10), 532.
+Activity: Reading 3.1
+Complete the reading below via MyReadings:
+Verbunt, E., Luke, J., Paradies, Y., Bamblett, M., Salamone, C., Jones, A., & Kelaher, M. (2021). Cultural determinants of health for Aboriginal and Torres Strait Islander people – a narrative overview of reviews. International Journal for Equity in Health, 20(1), 181. doi:10.1186/s12939-021-01514-2
+Read this recent paper which provides a narrative style analysis, informed by nine articles exploring the cultural determinants of health. Then answer the quiz below linked to the reading.
+Activity: Quiz
+indg6002_m3_cultural-quiz
+Epigenetics
+Ktunaxa woman Gwen Phillips talks about Indigenous Peoples genetics, describing the profound trauma and the ongoing impacts due to transgenerational trauma. She mentions epigenetics and how scientists have confirmed that a child suffering trauma in their early development, and if they are denied the nurturing and support networks of their own people and culture, they are then set up for a lifetime of inflammatory disease that emerges as diabetes, heart disease and other chronic conditions.
+The same outcomes are known to result from the trauma of colonisation and racism, that is now known to be the origin and driver of epidemic levels of chronic disease and poor social and emotional well-being for Indigenous Peoples across Australia. A shared colonial history for Indigenous Peoples globally has inflicted psychological, physical, and structural disadvantages that endure across generations. For an increasing number of Indigenous Peoples in Australia, epigenetics provides a crucial explanatory framework. This framework connects the social past with the biological present, providing a culturally relevant way of understanding the various intergenerational effects of historical trauma (Australian Human Rights Commission, 2020, p. 70).
+Addressing the physiological, psychological and spiritual harm that began with the arrival of the colonisers, and remains, via transgenerational trauma, is possible. This can occur if the cultural determinants of health are positioned at the forefront of all mainstream health policy. This however requires the dominant western biomedical culture to work alongside Indigenous Peoples to address the social and cultural determinants of health together. Positioning Indigenous Elders, healers and community as the ‘experts’ in their own health and wellbeing, and respecting traditional Indigenous health knowledge to be of equal importance and benefit is required, urgently.
+Activity: MyReading 3.3
+Billabong of Culture and Healing – Chapter 9 (pp. 243-280) from Cultural Safety in Trauma-Informed Practice From a First Nations Perspective, Tujague & Ryan, 2023.
+They declare
+“Western science now understands the benefits of returning your sympathetic and parasympathetic nervous systems to homeostasis as beneficial in minimising the cost of exposure to trauma." (Tujague & Ryan, 2023, p. 248).
+Further they share how
+“For Indigenous peoples and collective cultures of the world, this environment of safety occurs not in being alone, but in being with oneself within the collective community. The connection to the collective identity, culture, storylines, kinship and safety of belonging can be the beginning of healing. It builds upon resilience and the efficacy of the individual, the group and the collective.” (Tujague & Ryan, 2023, p. 248)
+Activity: Listen
+Gnibi academic and Bundjalung woman Rachel Lynwood delivers another Yarning style podcast about Social and Emotional Wellbeing and Indigenous worldviews on health.
+indg6002_ m3_podcast.m4a
+Rachel discusses issues and topics ranging from racism to SEWB and relational and cultural knowledge, thus demonstrating the interconnection of all of life that is at the core of Indigenous culture/worldviews. This podcast is a reminder of the circular nature (as opposed to the western linear worldview on acquiring knowledge and learning) of Indigenous culture, and will provide a broader understanding as you build your knowledge on the key contributors to the current health status of Indigenous Peoples in Australia.
+Watch
+Lowitja Round Table Meeting on the Cultural Determinants of Health: Lowitja Institute CEO Proud Narrunga Kaurna (SA) woman Janine Mohamed defines and provides background and detail on what are the cultural determinants of health, including the crucial inclusion of cultural safety, the focus of your next Module (4).
+UNSAFE_HTML_20260121161258.html
+Activity: Reflect on this 'real life scenario'
+Read and reflect on the scenario below. It is based on real life events that resonate with many Aboriginal and Torres Strait Islander Peoples’ life experiences. Identify and list the many social and cultural determinants of health that relate to this scenario. Consider how you might respond in advocating and supporting this client. Engaging with this scenario will assist you as you begin to draft your critical review for Assessment 2, which is also based on a ‘real life scenario’.
+Scenario
+An Aboriginal mother has an appointment to attend a specialist clinic in a large metropolitan hospital for education and support for self-care and management of her Type 2 diabetes. She has been struggling to control her diabetes for a number of reasons, which are related to the SDoH, including:
+- Lack of money to purchase a glucometer and testing strip to monitor her blood glucoses levels daily
+- Having limited money to afford healthy foods that help reduce her sugar and fat intake
+- Being time poor and having to prioritise her extended family’s needs over her own
+- Living so far from access to services.
+This Mother has 4 children and has to travel a long distance from her rural location to attend her appointment. She has already missed several appointments, due to prioritising her caring obligations for her mother who has cancer, as well as having insufficient funds to pay for transport to get to the city. On the morning of her next appointment, her youngest child is sick. She arrives at her appointment over an hour late due to having to find a family member who can care for her child while she attended the hospital appoinment.
+Upon arrival, she is confronted by a nurse in a crowded waiting room who tells her:
+“You are late and have already missed too many appointments. What is your excuse this time? Why can’t you people just turn up on time and be thankful that you can get your healthcare for free. Don’t you know how busy we are?”
+Reflection: The above scenario tells of common experiences that Aboriginal and Torres Strait Islander Peoples negotiate the health barriers as a consequence of the 'mainstream' determinants of health in Australia.
+Bring your observations, comments or reflections on this ‘real life scenario’ to contribute to class discussion.
+
+
+===== FILE: 05 - Reminder- Assessment 1 - Short response - Due 13th November.epub =====
+Reminder: Assessment 1 - Short response - Due 13th November
+-
+-
+Assessment 1 due Friday, Week 3 (13th November  2026)
+Don't forget to submit your 1000-word Assessment 1 task by Friday Week 3 - 13th November 2026 @ 11:59pm (QLD students 10:59pm)
+Short response assessment based on Module 1 and Module 2 content.
+Due: Friday, Week 3
+Length: 1000 words
+Weighting: 40% of total unit marks
+Aim: To critically analyse how the principle of self-determination, as recognised in Article 3 of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), relates to Aboriginal and Torres Strait Islander peoples' holistic understandings of health and wellbeing.
+Academic Integrity: Level 2. Purpose-Specific GenAI Use
+GenAI may NOT be used EXCEPT Grammarly Premium AI.
+Submission:     Blackboard - link in “Assessment Tasks and Submission”
+Referencing:      APA 7th
+Assessment Brief:
+Article 3 of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) states:
+"Indigenous peoples have the right to self-determination. By virtue of that right, they freely determine their political status and freely pursue their economic, social and cultural development."
+Write a 1,000-word short response explaining how this article relates to Australian Indigenous Peoples understandings of health and wellbeing.
+Rationale:
+Understanding Australian Indigenous perspectives of health and wellbeing is essential for culturally safe health practice. This assessment introduces students to the concept of self-determination, a key principle recognised in the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP).
+Through this task, students will explore how Australian Indigenous understandings of health and wellbeing differ from Western biomedical approaches and consider how colonisation has affected Australian Indigenous Peoples ability to exercise self-determination. This assessment develops and extends foundational knowledge and critical thinking skills needed for health, social service, and community-based professionals working with Australian Indigenous Peoples.
+
+
+===== FILE: 06 - Summary.epub =====
+Summary
+-
+-
+This module as defined and discussed the social and cultural determinants of health and why they so integrally connect to health outcomes for Indigenous Australian Peoples. The strong parallels between all Indigenous Nations are evidenced in the description of the SDoH from a Canadian Ktunaxa woman. We urged you to reflect on what culture means to you; and, how your own culture may impact members of other cultural groups. We have touched on the topic area of epigenetics and explored how focusing on the cultural determinants can provide a framework to improve health outcomes for Indigenous Australian Peoples. In Module 4 we focus on the theoretical framework of Cultural Safety, its origins; how practicing cultural safety can enhance your ability to work respectfully with culturally diverse peoples.
+indg6002_m3_references

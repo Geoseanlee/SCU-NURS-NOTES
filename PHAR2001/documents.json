@@ -1,0 +1,1381 @@
+[
+ {
+  "section": "02 - Unit Orientation - Part 1",
+  "name": "01 - Welcome to the unit",
+  "id": "_7352169_1",
+  "title": "Welcome to the unit",
+  "path": "Welcome to the unit"
+ },
+ {
+  "section": "02 - Unit Orientation - Part 1",
+  "name": "02 - Optional Content- PHAR2001 Unit Download",
+  "id": "_7821078_1",
+  "title": "Optional Content: PHAR2001 Unit Download",
+  "path": "Optional Content: PHAR2001 Unit Download"
+ },
+ {
+  "section": "02 - Unit Orientation - Part 1",
+  "name": "03 - GenAI use guide",
+  "id": "_7352173_1",
+  "title": "GenAI use guide",
+  "path": "GenAI use guide"
+ },
+ {
+  "section": "02 - Unit Orientation - Part 1",
+  "name": "04 - Mandatory Modules at SCU",
+  "id": "_7352174_1",
+  "title": "Mandatory Modules at SCU",
+  "path": "Mandatory Modules at SCU"
+ },
+ {
+  "section": "02 - Unit Orientation - Part 1",
+  "name": "05 - Accessibility & technology support",
+  "id": "_7352175_1",
+  "title": "Accessibility & technology support",
+  "path": "Accessibility & technology support"
+ },
+ {
+  "section": "02 - Unit Orientation - Part 1",
+  "name": "06 - Your feedback",
+  "id": "_7352176_1",
+  "title": "Your feedback",
+  "path": "Your feedback"
+ },
+ {
+  "section": "02 - Unit Orientation - Part 1",
+  "name": "07 - Get ready for week 1",
+  "id": "_7352177_1",
+  "title": "Get ready for week 1",
+  "path": "Get ready for week 1"
+ },
+ {
+  "section": "03 - Unit Orientation Part 2- Pre-term activities",
+  "name": "01 - A warm welcome from your Unit Assessor",
+  "id": "_7758144_1",
+  "title": "A warm welcome from your Unit Assessor",
+  "path": "A warm welcome from your Unit Assessor"
+ },
+ {
+  "section": "03 - Unit Orientation Part 2- Pre-term activities",
+  "name": "02 - Let's practice learning from your interactive pharmacology textbook!",
+  "id": "_7758145_1",
+  "title": "Let's practice learning from your interactive pharmacology textbook!",
+  "path": "Let's practice learning from your interactive pharmacology textbook!"
+ },
+ {
+  "section": "03 - Unit Orientation Part 2- Pre-term activities",
+  "name": "03 - Activity- Example 1 of the individual lessons- Scheduling of Drugs",
+  "id": "_7758146_1",
+  "title": "Activity: Example 1 of the individual lessons: Scheduling of Drugs",
+  "path": "Activity: Example 1 of the individual lessons: Scheduling of drugs"
+ },
+ {
+  "section": "03 - Unit Orientation Part 2- Pre-term activities",
+  "name": "04 - Activity- Example 2 of the individual lessons- Medicinal formulations",
+  "id": "_7758147_1",
+  "title": "Activity: Example 2 of the individual lessons: Medicinal formulations",
+  "path": "Activity: Example 2 of the individual lessons: Medicinal formulations"
+ },
+ {
+  "section": "03 - Unit Orientation Part 2- Pre-term activities",
+  "name": "05 - Example 3 of the individual lessons",
+  "id": "_7758148_1",
+  "title": "Example 3 of the individual lessons",
+  "path": "Activity: Example 3 of the individual lessons"
+ },
+ {
+  "section": "03 - Unit Orientation Part 2- Pre-term activities",
+  "name": "06 - Activity- Start a folder for your notes!",
+  "id": "_7758149_1",
+  "title": "Activity: Start a folder for your notes!",
+  "path": "Activity: Start a folder for your notes!"
+ },
+ {
+  "section": "03 - Unit Orientation Part 2- Pre-term activities",
+  "name": "07 - Your warm-up is finished- You are ready to go for it!",
+  "id": "_7758150_1",
+  "title": "Your warm-up is finished: You are ready to go for it!",
+  "path": "Your warm-up is finished: You are ready to go for it!"
+ },
+ {
+  "section": "03 - Unit Orientation Part 2- Pre-term activities",
+  "name": "08 - Click on this video if you have ever said that you don't like online units",
+  "id": "_7758151_1",
+  "title": "Click on this video if you have ever said that you don't like online units",
+  "path": "Click on this video if you have ever said that you don't like online units"
+ },
+ {
+  "section": "04 - Assessments",
+  "name": "01 - Assessment 1 Brief",
+  "id": "_7788756_1",
+  "title": "Assessment 1 Brief",
+  "path": "Assessment 1: The Quiz Folder / Assessment 1 Brief"
+ },
+ {
+  "section": "04 - Assessments",
+  "name": "02 - Assessment 2 Brief",
+  "id": "_7788758_1",
+  "title": "Assessment 2 Brief",
+  "path": "Assessment 2: The workbook folder / Assessment 2 Brief"
+ },
+ {
+  "section": "04 - Assessments",
+  "name": "03 - The workbook - You will populate the workbook with the questions and answers at the tutori",
+  "id": "_7814947_1",
+  "title": "The workbook - You will populate the workbook with the questions and answers at the tutorials",
+  "path": "Assessment 2: The workbook folder / The workbook - You will populate the workbook with the questions and answers at the tutorials"
+ },
+ {
+  "section": "04 - Assessments",
+  "name": "04 - Case study",
+  "id": "_7814951_1",
+  "title": "Case study",
+  "path": "Assessment 3: The Case Study Folder / Case study"
+ },
+ {
+  "section": "04 - Assessments",
+  "name": "05 - Assessment 3 Brief",
+  "id": "_7788776_1",
+  "title": "Assessment 3 Brief",
+  "path": "Assessment 3: The Case Study Folder / Assessment 3 Brief"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "01 - Module overview",
+  "id": "_7758152_1",
+  "title": "Module overview",
+  "path": "Module overview"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "02 - Introduction to Module 1- Chapter 1",
+  "id": "_7758357_1",
+  "title": "Introduction to Module 1: Chapter 1",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Introduction to Module 1: Chapter 1"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "03 - Activity- Overview of antacids",
+  "id": "_7758358_1",
+  "title": "Activity: Overview of antacids",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Introduction to antacids"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "04 - Activity- Safety issues of antacids",
+  "id": "_7758359_1",
+  "title": "Activity: Safety issues of antacids",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Activity: Safety issues of antacids"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "05 - Activity- Specific antacids",
+  "id": "_7758360_1",
+  "title": "Activity: Specific antacids",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Specific antacids"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "06 - Activity- Introduction to the laxatives",
+  "id": "_7758361_1",
+  "title": "Activity: Introduction to the laxatives",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Introduction to the laxatives"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "07 - Activity- Understand constipation before suggesting laxatives",
+  "id": "_7758362_1",
+  "title": "Activity: Understand constipation before suggesting laxatives",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Understand constipation before suggesting laxatives"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "08 - Activity- Osmotic laxatives",
+  "id": "_7758363_1",
+  "title": "Activity: Osmotic laxatives",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Osmotic laxatives"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "09 - Activity- Stimulant laxatives",
+  "id": "_7758364_1",
+  "title": "Activity: Stimulant laxatives",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Stimulant laxatives"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "10 - Activity- Mineral oil and detergent laxatives",
+  "id": "_7758365_1",
+  "title": "Activity: Mineral oil and detergent laxatives",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Activity: Mineral oil and detergent laxatives"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "11 - Summary of Chapter 1",
+  "id": "_7758366_1",
+  "title": "Summary of Chapter 1",
+  "path": "Chapter 1.1: Medications that work by chemical or direct action / Summary of Chapter 1"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "12 - Introduction to Chapter 2",
+  "id": "_7758367_1",
+  "title": "Introduction to Chapter 2",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Introduction to Chapter 2"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "13 - Understand safety issues around diarrhoea before treating it",
+  "id": "_7758368_1",
+  "title": "Understand safety issues around diarrhoea before treating it",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Understand safety issues around diarrhoea before treating it"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "14 - Drug nomenclature (Naming)",
+  "id": "_7758369_1",
+  "title": "Drug nomenclature (Naming)",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Drug nomenclature (Naming)"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "15 - Comparing Loperamide to other opioids",
+  "id": "_7758370_1",
+  "title": "Comparing Loperamide to other opioids",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Comparing Loperamide to other opioids"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "16 - Cellular receptors",
+  "id": "_7758371_1",
+  "title": "Cellular receptors",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Cellular receptors"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "17 - Affinity potency selectivity",
+  "id": "_7758372_1",
+  "title": "Affinity potency selectivity",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Affinity potency selectivity"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "18 - Agonists antagonists and inverse agonists",
+  "id": "_7758373_1",
+  "title": "Agonists antagonists and inverse agonists",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Agonists antagonists and inverse agonists"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "19 - Loperamide",
+  "id": "_7758374_1",
+  "title": "Loperamide",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Loperamide"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "20 - Activity- Summary video",
+  "id": "_7758375_1",
+  "title": "Activity: Summary video",
+  "path": "Chapter 1.2: Intro to Pharmacodynamics: Medications that work on cellular receptors / Activity: Summary video"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "21 - Introduction",
+  "id": "_7758376_1",
+  "title": "Introduction",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Introduction"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "22 - Absorption of drugs, Part 1",
+  "id": "_7758377_1",
+  "title": "Absorption of drugs, Part 1",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Absorption of drugs"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "23 - Distribution of drugs",
+  "id": "_7758378_1",
+  "title": "Distribution of drugs",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Distribution of drugs"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "24 - Metabolism of drugs",
+  "id": "_7758379_1",
+  "title": "Metabolism of drugs",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Metabolism of drugs"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "25 - Excretion of drugs",
+  "id": "_7758380_1",
+  "title": "Excretion of drugs",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Excretion of drugs"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "26 - Drug class affixes",
+  "id": "_7758381_1",
+  "title": "Drug class affixes",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Drug class affixes"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "27 - Understanding the side effects of reducing stomach acid",
+  "id": "_7758382_1",
+  "title": "Understanding the side effects of reducing stomach acid",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Understanding the side effects of reducing stomach acid"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "28 - Histamine 2 blockers",
+  "id": "_7758383_1",
+  "title": "Histamine 2 blockers",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Histamine 2 blockers"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "29 - Activity- Watch this video summary of this chapter",
+  "id": "_7758384_1",
+  "title": "Activity: Watch this video summary of this chapter",
+  "path": "Chapter 1.3: Intro to Pharmacokinetics: Absorption, distribution, metabolism and excretion of drugs / Activity: Watch this video summary of this chapter"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "30 - Introduction",
+  "id": "_7758385_1",
+  "title": "Introduction",
+  "path": "Chapter 1.4: Medications that exert their effects on enzymes / Introduction"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "31 - Reviewing Pharmacokinetics by following omeprazole through the body",
+  "id": "_7758386_1",
+  "title": "Reviewing Pharmacokinetics by following omeprazole through the body",
+  "path": "Chapter 1.4: Medications that exert their effects on enzymes / Reviewing Pharmacokinetics by following omeprazole through the body"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "32 - Enzymatic inhibition by drugs, Part 1",
+  "id": "_7758387_1",
+  "title": "Enzymatic inhibition by drugs, Part 1",
+  "path": "Chapter 1.4: Medications that exert their effects on enzymes / Enzymatic inhibition by drugs, Part 1"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "33 - Understanding proton pump enzymatic inhibitors",
+  "id": "_7758388_1",
+  "title": "Understanding proton pump enzymatic inhibitors",
+  "path": "Chapter 1.4: Medications that exert their effects on enzymes / Understanding proton pump enzymatic inhibitors"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "34 - Understanding side effects of enzymatic inhibitors",
+  "id": "_7758389_1",
+  "title": "Understanding side effects of enzymatic inhibitors",
+  "path": "Chapter 1.4: Medications that exert their effects on enzymes / Understanding side effects of enzymatic inhibitors"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "35 - Omeprazole",
+  "id": "_7758390_1",
+  "title": "Omeprazole",
+  "path": "Chapter 1.4: Medications that exert their effects on enzymes / Omeprazole"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "36 - Summary of Chapter 4 on enzymatic inhibitors",
+  "id": "_7758391_1",
+  "title": "Summary of Chapter 4 on enzymatic inhibitors",
+  "path": "Chapter 1.4: Medications that exert their effects on enzymes / Summary of Chapter 4 on enzymatic inhibitors"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "37 - Introduction to Chapter 5 on neurotransmitters",
+  "id": "_7758392_1",
+  "title": "Introduction to Chapter 5 on neurotransmitters",
+  "path": "Chapter 1.5 CONDENSED (ONLY the ASSESSABLE material from: Medications that affect neurotransmitters / Introduction to Chapter 5 on neurotransmitters"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "38 - Understand safety issues around vomiting before treating it",
+  "id": "_7758393_1",
+  "title": "Understand safety issues around vomiting before treating it",
+  "path": "Chapter 1.5 CONDENSED (ONLY the ASSESSABLE material from: Medications that affect neurotransmitters / Understand safety issues around vomiting before treating it"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "39 - Antiemetics for motion sickness",
+  "id": "_7758394_1",
+  "title": "Antiemetics for motion sickness",
+  "path": "Chapter 1.5 CONDENSED (ONLY the ASSESSABLE material from: Medications that affect neurotransmitters / Antiemetics for motion sickness"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "40 - Activity- Signing off of Module 1",
+  "id": "_7758395_1",
+  "title": "Activity: Signing off of Module 1",
+  "path": "Chapter 1.5 CONDENSED (ONLY the ASSESSABLE material from: Medications that affect neurotransmitters / Signing off of Module 1"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "41 - Introduction to Chapter 5 on neurotransmitters",
+  "id": "_7758396_1",
+  "title": "Introduction to Chapter 5 on neurotransmitters",
+  "path": "Chapter 1.5: Medications that affect neurotransmitters (FULL Chapter including non-compulsory lessons) / Introduction to Chapter 5 on neurotransmitters"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "42 - Neurotransmitters",
+  "id": "_7758397_1",
+  "title": "Neurotransmitters",
+  "path": "Chapter 1.5: Medications that affect neurotransmitters (FULL Chapter including non-compulsory lessons) / Neurotransmitters"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "43 - Understand safety issues around vomiting before treating it",
+  "id": "_7758398_1",
+  "title": "Understand safety issues around vomiting before treating it",
+  "path": "Chapter 1.5: Medications that affect neurotransmitters (FULL Chapter including non-compulsory lessons) / Understand safety issues around vomiting before treating it"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "44 - Antiemetics for motion sickness",
+  "id": "_7758399_1",
+  "title": "Antiemetics for motion sickness",
+  "path": "Chapter 1.5: Medications that affect neurotransmitters (FULL Chapter including non-compulsory lessons) / Antiemetics for motion sickness"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "45 - Antiemetics for chemotherapy and GIT origins",
+  "id": "_7758400_1",
+  "title": "Antiemetics for chemotherapy and GIT origins",
+  "path": "Chapter 1.5: Medications that affect neurotransmitters (FULL Chapter including non-compulsory lessons) / Antiemetics for chemotherapy and GIT origins"
+ },
+ {
+  "section": "06 - Module 1- Understanding Medications using the Gastrointestinal System",
+  "name": "46 - Activity- Watch this summary video",
+  "id": "_7758401_1",
+  "title": "Activity: Watch this summary video",
+  "path": "Chapter 1.5: Medications that affect neurotransmitters (FULL Chapter including non-compulsory lessons) / Activity: Watch this summary video"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "01 - Module overview",
+  "id": "_7758198_1",
+  "title": "Module overview",
+  "path": "Module overview"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "02 - Activity- Watch this video introduction to Chapter 1",
+  "id": "_7758402_1",
+  "title": "Activity: Watch this video introduction to Chapter 1",
+  "path": "Chapter 2.1: Foundational information for understanding Autonomic Nervous System (ANS) Pharmacology / Activity: Watch this video introduction to Chapter 1"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "03 - Overview of the Autonomic Nervous System (ANS)",
+  "id": "_7758403_1",
+  "title": "Overview of the Autonomic Nervous System (ANS)",
+  "path": "Chapter 2.1: Foundational information for understanding Autonomic Nervous System (ANS) Pharmacology / Overview of the Autonomic Nervous System (ANS)"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "04 - Divisions of the ANS",
+  "id": "_7758404_1",
+  "title": "Divisions of the ANS",
+  "path": "Chapter 2.1: Foundational information for understanding Autonomic Nervous System (ANS) Pharmacology / Divisions of the ANS"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "05 - Overviewing drugs of the ANS",
+  "id": "_7758405_1",
+  "title": "Overviewing drugs of the ANS",
+  "path": "Chapter 2.1: Foundational information for understanding Autonomic Nervous System (ANS) Pharmacology / Overviewing drugs of the ANS"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "06 - Selective receptors of the ANS",
+  "id": "_7758406_1",
+  "title": "Selective receptors of the ANS",
+  "path": "Chapter 2.1: Foundational information for understanding Autonomic Nervous System (ANS) Pharmacology / Selective receptors of the ANS"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "07 - Looking to the future",
+  "id": "_7758407_1",
+  "title": "Looking to the future",
+  "path": "Chapter 2.1: Foundational information for understanding Autonomic Nervous System (ANS) Pharmacology / Looking to the future"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "08 - Activity- Watch this video introduction to the chapter",
+  "id": "_7758408_1",
+  "title": "Activity: Watch this video introduction to the chapter",
+  "path": "Chapter 2.2: Sympathomimetics (drugs that mimic the sympathetic nervous system) / Activity: Watch this video introduction to the chapter"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "09 - Anaphylaxis and adrenaline",
+  "id": "_7758409_1",
+  "title": "Anaphylaxis and adrenaline",
+  "path": "Chapter 2.2: Sympathomimetics (drugs that mimic the sympathetic nervous system) / Anaphylaxis and adrenaline"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "10 - Other non-selective adrenergic agonists",
+  "id": "_7758410_1",
+  "title": "Other non-selective adrenergic agonists",
+  "path": "Chapter 2.2: Sympathomimetics (drugs that mimic the sympathetic nervous system) / Other non-selective adrenergic agonists"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "11 - Selective alpha agonists",
+  "id": "_7758411_1",
+  "title": "Selective alpha agonists",
+  "path": "Chapter 2.2: Sympathomimetics (drugs that mimic the sympathetic nervous system) / Selective alpha agonists"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "12 - Selective beta agonists",
+  "id": "_7758412_1",
+  "title": "Selective beta agonists",
+  "path": "Chapter 2.2: Sympathomimetics (drugs that mimic the sympathetic nervous system) / Selective beta agonists"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "13 - Summary of Chapter 2",
+  "id": "_7758413_1",
+  "title": "Summary of Chapter 2",
+  "path": "Chapter 2.2: Sympathomimetics (drugs that mimic the sympathetic nervous system) / Summary of Chapter 2"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "14 - Activity- watch this video introduction to the chapter",
+  "id": "_7758414_1",
+  "title": "Activity: watch this video introduction to the chapter",
+  "path": "Chapter 2.3: Sympatholytic Drugs (drugs that block the sympathetic nervous system) / Activity: Watch this video introduction to the chapter"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "15 - Understanding sympatholytics",
+  "id": "_7758415_1",
+  "title": "Understanding sympatholytics",
+  "path": "Chapter 2.3: Sympatholytic Drugs (drugs that block the sympathetic nervous system) / Understanding sympatholytics"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "16 - Non-selective adrenergic blockers",
+  "id": "_7758416_1",
+  "title": "Non-selective adrenergic blockers",
+  "path": "Chapter 2.3: Sympatholytic Drugs (drugs that block the sympathetic nervous system) / Non-selective adrenergic blockers"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "17 - Alpha 1 blockers",
+  "id": "_7758417_1",
+  "title": "Alpha 1 blockers",
+  "path": "Chapter 2.3: Sympatholytic Drugs (drugs that block the sympathetic nervous system) / Alpha 1 blockers"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "18 - Beta blockers",
+  "id": "_7758418_1",
+  "title": "Beta blockers",
+  "path": "Chapter 2.3: Sympatholytic Drugs (drugs that block the sympathetic nervous system) / Beta blockers"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "19 - Summary of Chapter 3",
+  "id": "_7758419_1",
+  "title": "Summary of Chapter 3",
+  "path": "Chapter 2.3: Sympatholytic Drugs (drugs that block the sympathetic nervous system) / Summary of Chapter 3"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "20 - Activity- Watch this video introduction to Chapter 4",
+  "id": "_7758420_1",
+  "title": "Activity: Watch this video introduction to Chapter 4",
+  "path": "Chapter 2.4: Pharmacology of the Parasympathetic Nervous System (PNS) / Activity: Watch this video introduction to Chapter 4"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "21 - Understanding acetylcholine",
+  "id": "_7758421_1",
+  "title": "Understanding acetylcholine",
+  "path": "Chapter 2.4: Pharmacology of the Parasympathetic Nervous System (PNS) / Understanding acetylcholine"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "22 - Understanding the PNS",
+  "id": "_7758422_1",
+  "title": "Understanding the PNS",
+  "path": "Chapter 2.4: Pharmacology of the Parasympathetic Nervous System (PNS) / Understanding the PNS"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "23 - Direct vs indirect cholinergic agents",
+  "id": "_7758423_1",
+  "title": "Direct vs indirect cholinergic agents",
+  "path": "Chapter 2.4: Pharmacology of the Parasympathetic Nervous System (PNS) / Direct vs indirect cholinergic agents"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "24 - Indirect acting acetylcholine agonists",
+  "id": "_7758424_1",
+  "title": "Indirect acting acetylcholine agonists",
+  "path": "Chapter 2.4: Pharmacology of the Parasympathetic Nervous System (PNS) / Indirect acting acetylcholine agonists"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "25 - Anticholinergic agents",
+  "id": "_7758425_1",
+  "title": "Anticholinergic agents",
+  "path": "Chapter 2.4: Pharmacology of the Parasympathetic Nervous System (PNS) / Anticholinergic agents"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "26 - Summary of Chapter 4",
+  "id": "_7758426_1",
+  "title": "Summary of Chapter 4",
+  "path": "Chapter 2.4: Pharmacology of the Parasympathetic Nervous System (PNS) / Summary of Chapter 4"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "27 - Introduction to Respiratory System Pharmacology",
+  "id": "_7758427_1",
+  "title": "Introduction to Respiratory System Pharmacology",
+  "path": "Chapter 2.5: Pharmacology of the Respiratory System / Introduction to Respiratory System Pharmacology"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "28 - Preview of respiratory system",
+  "id": "_7758428_1",
+  "title": "Preview of respiratory system",
+  "path": "Chapter 2.5: Pharmacology of the Respiratory System / Preview of respiratory system"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "29 - Antitussives expectorants and mucolytic agents",
+  "id": "_7758429_1",
+  "title": "Antitussives expectorants and mucolytic agents",
+  "path": "Chapter 2.5: Pharmacology of the Respiratory System / Antitussives expectorants and mucolytic agents"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "30 - Decongestants and antihistamines",
+  "id": "_7758430_1",
+  "title": "Decongestants and antihistamines",
+  "path": "Chapter 2.5: Pharmacology of the Respiratory System / Decongestants and antihistamines"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "31 - Lower respiratory system disorders",
+  "id": "_7758431_1",
+  "title": "Lower respiratory system disorders",
+  "path": "Chapter 2.5: Pharmacology of the Respiratory System / Lower respiratory system disorders"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "32 - Treatment of Asthma (and other Ventilation Disorders)",
+  "id": "_7758432_1",
+  "title": "Treatment of Asthma (and other Ventilation Disorders)",
+  "path": "Chapter 2.5: Pharmacology of the Respiratory System / Treatment of Asthma (and other Ventilation Disorders)"
+ },
+ {
+  "section": "07 - Module 2- The Respiratory and Autonomic Nervous Systems",
+  "name": "33 - Congratulations on finishing the final Chapter in Module 2!",
+  "id": "_7758433_1",
+  "title": "Congratulations on finishing the final Chapter in Module 2!",
+  "path": "Chapter 2.5: Pharmacology of the Respiratory System / Congratulations on finishing the final Chapter in Module 2!"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "01 - Module overview",
+  "id": "_7758231_1",
+  "title": "Module overview",
+  "path": "Module overview"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "02 - Introduction to Endocrine System",
+  "id": "_7758434_1",
+  "title": "Introduction to Endocrine System",
+  "path": "Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH / Introduction to Endocrine System"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "03 - Review Part 1",
+  "id": "_7758435_1",
+  "title": "Review Part 1",
+  "path": "Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH / Review Part 1"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "04 - Review Part 2",
+  "id": "_7758436_1",
+  "title": "Review Part 2",
+  "path": "Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH / Review Part 2"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "05 - Oxytocin",
+  "id": "_7758437_1",
+  "title": "Oxytocin",
+  "path": "Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH / Oxytocin"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "06 - ADH water saver (Not compulsory for this unit)",
+  "id": "_7758438_1",
+  "title": "ADH water saver (Not compulsory for this unit)",
+  "path": "Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH / ADH water saver (not compulsory for this unit)"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "07 - Growth hormone (not compulsory for this unit)",
+  "id": "_7758439_1",
+  "title": "Growth hormone (not compulsory for this unit)",
+  "path": "Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH / Growth hormone (not compulsory for this unit)"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "08 - Sign off chapter 1",
+  "id": "_7758440_1",
+  "title": "Sign off chapter 1",
+  "path": "Chapter 3.1: Introduction to the Endocrine system, ADH, Oxytocin and GH / Sign off chapter 1"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "09 - Understanding thyroid hormone",
+  "id": "_7758441_1",
+  "title": "Understanding thyroid hormone",
+  "path": "Chapter 3.2: The Thyroid Axis / Understanding thyroid hormone"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "10 - Hypothyroidism and its treatment",
+  "id": "_7758442_1",
+  "title": "Hypothyroidism and its treatment",
+  "path": "Chapter 3.2: The Thyroid Axis / Hypothyroidism and its treatment"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "11 - Hyperthyroidism and its treatment (Not compulsory)",
+  "id": "_7758443_1",
+  "title": "Hyperthyroidism and its treatment (Not compulsory)",
+  "path": "Chapter 3.2: The Thyroid Axis / Hyperthyroidism and its treatment (Not compulsory)"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "12 - Signing Off",
+  "id": "_7758444_1",
+  "title": "Signing Off",
+  "path": "Chapter 3.2: The Thyroid Axis / Signing Off"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "13 - Introduction Stress Axis",
+  "id": "_7758445_1",
+  "title": "Introduction Stress Axis",
+  "path": "Chapter 3.4: The Adrenal Axis / Introduction Stress Axis"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "14 - Overview Stress Axis",
+  "id": "_7758446_1",
+  "title": "Overview Stress Axis",
+  "path": "Chapter 3.4: The Adrenal Axis / Overview Stress Axis"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "15 - Glucocorticoids",
+  "id": "_7758447_1",
+  "title": "Glucocorticoids",
+  "path": "Chapter 3.4: The Adrenal Axis / Glucocorticoids"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "16 - Side effects of corticosteroids",
+  "id": "_7758448_1",
+  "title": "Side effects of corticosteroids",
+  "path": "Chapter 3.4: The Adrenal Axis / Side effects of corticosteroids"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "17 - Signing off",
+  "id": "_7758449_1",
+  "title": "Signing off",
+  "path": "Chapter 3.4: The Adrenal Axis / Signing off"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "18 - Introduction to medications for bone health",
+  "id": "_7758450_1",
+  "title": "Introduction to medications for bone health",
+  "path": "Chapter 3.5: The Endocrine System and Bone Health / Introduction to medications for bone health"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "19 - Understanding bone health",
+  "id": "_7758451_1",
+  "title": "Understanding bone health",
+  "path": "Chapter 3.5: The Endocrine System and Bone Health / Understanding bone health"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "20 - Understanding bone health 2",
+  "id": "_7758452_1",
+  "title": "Understanding bone health 2",
+  "path": "Chapter 3.5: The Endocrine System and Bone Health / Understanding bone health 2"
+ },
+ {
+  "section": "08 - Module 3- The Endocrine System",
+  "name": "21 - Bisphosphonates Teriparatide SERMS",
+  "id": "_7758453_1",
+  "title": "Bisphosphonates Teriparatide SERMS",
+  "path": "Chapter 3.5: The Endocrine System and Bone Health / Bisphosphonates Teriparatide SERMS"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "01 - Introduction to Module 4 Chapter 1",
+  "id": "_7758454_1",
+  "title": "Introduction to Module 4 Chapter 1",
+  "path": "Cardiovascular System Chapter 1: Lipids / Introduction to Module 4 Chapter 1"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "02 - Understanding Lipids",
+  "id": "_7758455_1",
+  "title": "Understanding Lipids",
+  "path": "Cardiovascular System Chapter 1: Lipids / Understanding Lipids"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "03 - Understanding atherosclerosis",
+  "id": "_7758456_1",
+  "title": "Understanding atherosclerosis",
+  "path": "Cardiovascular System Chapter 1: Lipids / Understanding atherosclerosis"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "04 - Understanding atherosclerosis, Part 2",
+  "id": "_7758457_1",
+  "title": "Understanding atherosclerosis, Part 2",
+  "path": "Cardiovascular System Chapter 1: Lipids / Understanding atherosclerosis, Part 2"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "05 - The statins",
+  "id": "_7758458_1",
+  "title": "The statins",
+  "path": "Cardiovascular System Chapter 1: Lipids / The statins"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "06 - Lowering cholesterol",
+  "id": "_7758459_1",
+  "title": "Lowering cholesterol",
+  "path": "Cardiovascular System Chapter 1: Lipids / Lowering cholesterol"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "07 - Nicotinic acid",
+  "id": "_7758460_1",
+  "title": "Nicotinic acid",
+  "path": "Cardiovascular System Chapter 1: Lipids / Nicotinic acid"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "08 - HDL levels",
+  "id": "_7758461_1",
+  "title": "HDL levels",
+  "path": "Cardiovascular System Chapter 1: Lipids / HDL levels"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "09 - Summary",
+  "id": "_7758462_1",
+  "title": "Summary",
+  "path": "Cardiovascular System Chapter 1: Lipids / Summary"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "10 - Introduction to Module 4, Chapter 2",
+  "id": "_7758463_1",
+  "title": "Introduction to Module 4, Chapter 2",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Introduction to Module 4, Chapter 2"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "11 - Understanding blood pressure control, Part 1",
+  "id": "_7758464_1",
+  "title": "Understanding blood pressure control, Part 1",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Understanding blood pressure control, Part 1"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "12 - Understanding blood pressure control, Part 2",
+  "id": "_7758465_1",
+  "title": "Understanding blood pressure control, Part 2",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Understanding blood pressure control, Part 2"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "13 - Understanding blood pressure control, Part 3",
+  "id": "_7758466_1",
+  "title": "Understanding blood pressure control, Part 3",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Understanding blood pressure control, Part 3"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "14 - Hypertension",
+  "id": "_7758467_1",
+  "title": "Hypertension",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Hypertension"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "15 - The A, B, C, D's of the drug classes that are useful in hypertension",
+  "id": "_7758468_1",
+  "title": "The A, B, C, D's of the drug classes that are useful in hypertension",
+  "path": "Cardiovascular System Chapter 2: Hypertension / The A, B, C, D's of the drug classes that are useful in hypertension"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "16 - Alpha Antagonists",
+  "id": "_7758469_1",
+  "title": "Alpha Antagonists",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Alpha Antagonists"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "17 - Medications that affect angiotensin II",
+  "id": "_7758470_1",
+  "title": "Medications that affect angiotensin II",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Medications that affect angiotensin II"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "18 - Alternative drugs for hypertension",
+  "id": "_7758471_1",
+  "title": "Alternative drugs for hypertension",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Alternative drugs for hypertension"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "19 - Calcium channel blockers",
+  "id": "_7758472_1",
+  "title": "Calcium channel blockers",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Calcium channel blockers"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "20 - Final words about antihypertensive agents",
+  "id": "_7758473_1",
+  "title": "Final words about antihypertensive agents",
+  "path": "Cardiovascular System Chapter 2: Hypertension / Final words about antihypertensive agents"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "21 - Introduction to Module 4 Chapter 3",
+  "id": "_7758474_1",
+  "title": "Introduction to Module 4 Chapter 3",
+  "path": "Cardiovascular System Chapter 3: Thrombi / Introduction to Module 4 Chapter 3"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "22 - Arterial clots",
+  "id": "_7758475_1",
+  "title": "Arterial clots",
+  "path": "Cardiovascular System Chapter 3: Thrombi / Arterial clots"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "23 - Antiplatelet drugs",
+  "id": "_7758476_1",
+  "title": "Antiplatelet drugs",
+  "path": "Cardiovascular System Chapter 3: Thrombi / Antiplatelet drugs"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "24 - Anticoagulants",
+  "id": "_7758477_1",
+  "title": "Anticoagulants",
+  "path": "Cardiovascular System Chapter 3: Thrombi / Anticoagulants"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "25 - Fibrinolytics",
+  "id": "_7758478_1",
+  "title": "Fibrinolytics",
+  "path": "Cardiovascular System Chapter 3: Thrombi / Fibrinolytics"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "26 - Summary",
+  "id": "_7758479_1",
+  "title": "Summary",
+  "path": "Cardiovascular System Chapter 3: Thrombi / Summary"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "27 - Introduction to diuretics",
+  "id": "_7758480_1",
+  "title": "Introduction to diuretics",
+  "path": "The Renal System Chapter 4: Diuretics / Introduction to diuretics"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "28 - Understanding diuretics",
+  "id": "_7758481_1",
+  "title": "Understanding diuretics",
+  "path": "The Renal System Chapter 4: Diuretics / Understanding diuretics"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "29 - Understanding diuretics 2",
+  "id": "_7758482_1",
+  "title": "Understanding diuretics 2",
+  "path": "The Renal System Chapter 4: Diuretics / Understanding diuretics 2"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "30 - Thiazide diuretics",
+  "id": "_7758483_1",
+  "title": "Thiazide diuretics",
+  "path": "The Renal System Chapter 4: Diuretics / Thiazide diuretics"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "31 - Loop diuretics (not compulsory)",
+  "id": "_7758484_1",
+  "title": "Loop diuretics (not compulsory)",
+  "path": "The Renal System Chapter 4: Diuretics / Loop diuretics (not compulsory)"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "32 - Potassium sparing diuretics (Not compulsory)",
+  "id": "_7758485_1",
+  "title": "Potassium sparing diuretics (Not compulsory)",
+  "path": "The Renal System Chapter 4: Diuretics / Potassium sparing diuretics (Not compulsory)"
+ },
+ {
+  "section": "09 - Module 4- The Cardiovascular and Renal System",
+  "name": "33 - Other diuretics (not compulsory)",
+  "id": "_7758486_1",
+  "title": "Other diuretics (not compulsory)",
+  "path": "The Renal System Chapter 4: Diuretics / Other diuretics (not compulsory)"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "01 - Module overview",
+  "id": "_7758285_1",
+  "title": "Module overview",
+  "path": "Module overview"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "02 - Understanding Inflammation and pain introduction",
+  "id": "_7758487_1",
+  "title": "Understanding Inflammation and pain introduction",
+  "path": "Analgesics / Understanding Inflammation and pain introduction"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "03 - Mechanisms of inflammation and anti-inflammatory Agents",
+  "id": "_7758488_1",
+  "title": "Mechanisms of inflammation and anti-inflammatory Agents",
+  "path": "Analgesics / Mechanisms of inflammation and anti-inflammatory Agents"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "04 - Mechanisms of pain and analgesics",
+  "id": "_7758489_1",
+  "title": "Mechanisms of pain and analgesics",
+  "path": "Analgesics / Mechanisms of pain and analgesics"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "05 - Intro to fever and antipyretics",
+  "id": "_7758490_1",
+  "title": "Intro to fever and antipyretics",
+  "path": "Analgesics / Intro to fever and antipyretics"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "06 - Paracetamol (Acetaminophen)",
+  "id": "_7758491_1",
+  "title": "Paracetamol (Acetaminophen)",
+  "path": "Analgesics / Paracetamol (Acetaminophen)"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "07 - Pain relief in children and elderly",
+  "id": "_7758492_1",
+  "title": "Pain relief in children and elderly",
+  "path": "Analgesics / Pain relief in children and elderly"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "08 - Opioid overview",
+  "id": "_7758493_1",
+  "title": "Opioid overview",
+  "path": "Analgesics / Opioid overview"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "09 - Opioid mechanisms",
+  "id": "_7758494_1",
+  "title": "Opioid mechanisms",
+  "path": "Analgesics / Opioid mechanisms"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "10 - Specific opioids (Not compulsory)",
+  "id": "_7758495_1",
+  "title": "Specific opioids (Not compulsory)",
+  "path": "Analgesics / Specific opioids (Not compulsory)"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "11 - Chronic and neuropathic pain",
+  "id": "_7758496_1",
+  "title": "Chronic and neuropathic pain",
+  "path": "Analgesics / Chronic and neuropathic pain"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "12 - Introduction to psychotropic medications",
+  "id": "_7758497_1",
+  "title": "Introduction to psychotropic medications",
+  "path": "Psychotropic Medications / Introduction to psychotropic medications"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "13 - Medications for Parkinson's disease",
+  "id": "_7758498_1",
+  "title": "Medications for Parkinson's disease",
+  "path": "Psychotropic Medications / Medications for Parkinson's disease"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "14 - Medications for treatment of Alzheimer's disease",
+  "id": "_7758499_1",
+  "title": "Medications for treatment of Alzheimer's disease",
+  "path": "Psychotropic Medications / Medications for treatment of Alzheimer's disease"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "15 - Anxiety",
+  "id": "_7758500_1",
+  "title": "Anxiety",
+  "path": "Psychotropic Medications / Anxiety"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "16 - Alternatives to benzodiazepines",
+  "id": "_7758501_1",
+  "title": "Alternatives to benzodiazepines",
+  "path": "Psychotropic Medications / Alternatives to benzodiazepines"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "17 - Depression",
+  "id": "_7758502_1",
+  "title": "Depression",
+  "path": "Psychotropic Medications / Depression"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "18 - SSRIs and TCAs",
+  "id": "_7758503_1",
+  "title": "SSRIs and TCAs",
+  "path": "Psychotropic Medications / SSRIs and TCAs"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "19 - SNRIs and atypical antidepressants",
+  "id": "_7758504_1",
+  "title": "SNRIs and atypical antidepressants",
+  "path": "Psychotropic Medications / SNRIs and atypical antidepressants"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "20 - Psychosis (Not compulsory for this unit)",
+  "id": "_7758505_1",
+  "title": "Psychosis (Not compulsory for this unit)",
+  "path": "Psychotropic Medications / Psychosis (Not compulsory for this unit)"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "21 - Specific antipsychotics (Not compulsory for this unit)",
+  "id": "_7758506_1",
+  "title": "Specific antipsychotics (Not compulsory for this unit)",
+  "path": "Psychotropic Medications / Specific antipsychotics (Not compulsory for this unit)"
+ },
+ {
+  "section": "10 - Module 5- Analgesics and Psychotropic Drugs",
+  "name": "22 - Seizures (Not compulsory for this unit",
+  "id": "_7758507_1",
+  "title": "Seizures (Not compulsory for this unit",
+  "path": "Psychotropic Medications / Seizures (Not compulsory for this unit)"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "01 - Module overview",
+  "id": "_7758307_1",
+  "title": "Module overview",
+  "path": "Module overview"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "02 - A-1- Antibiotics",
+  "id": "_7758508_1",
+  "title": "A/1: Antibiotics",
+  "path": "Shortened Chapter: Only the 43 minutes of compulsory lessons on Medications with Selective Toxicity / A/1: Antibiotics"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "03 - Antibiotics overview",
+  "id": "_7758509_1",
+  "title": "Antibiotics overview",
+  "path": "Shortened Chapter: Only the 43 minutes of compulsory lessons on Medications with Selective Toxicity / Antibiotics overview"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "04 - C-3- Antifungal agents",
+  "id": "_7758510_1",
+  "title": "C/3: Antifungal agents",
+  "path": "Shortened Chapter: Only the 43 minutes of compulsory lessons on Medications with Selective Toxicity / C/3: Antifungal agents"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "05 - D-4- Antiviral agents",
+  "id": "_7758511_1",
+  "title": "D/4: Antiviral agents",
+  "path": "Shortened Chapter: Only the 43 minutes of compulsory lessons on Medications with Selective Toxicity / D/4: Antiviral agents"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "06 - E-5- Anticancer chemotherapy",
+  "id": "_7758512_1",
+  "title": "E/5: Anticancer chemotherapy",
+  "path": "Shortened Chapter: Only the 43 minutes of compulsory lessons on Medications with Selective Toxicity / E/5: Anticancer chemotherapy"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "07 - A-1- Antibiotics",
+  "id": "_7758513_1",
+  "title": "A/1: Antibiotics",
+  "path": "Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) / A/1: Antibiotics"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "08 - Antibiotics overview",
+  "id": "_7758514_1",
+  "title": "Antibiotics overview",
+  "path": "Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) / Antibiotics overview"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "09 - B-2- Specific antibiotics",
+  "id": "_7758515_1",
+  "title": "B/2: Specific antibiotics",
+  "path": "Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) / B/2: Specific antibiotics"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "10 - Specific Antibiotics 2",
+  "id": "_7758516_1",
+  "title": "Specific Antibiotics 2",
+  "path": "Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) / Specific Antibiotics 2"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "11 - C-3- Antifungal agents",
+  "id": "_7758517_1",
+  "title": "C/3: Antifungal agents",
+  "path": "Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) / C/3: Antifungal agents"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "12 - D-4- VirusesViruses 1",
+  "id": "_7758518_1",
+  "title": "D/4: VirusesViruses 1",
+  "path": "Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) / D/4: Viruses 1"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "13 - Viruses 2",
+  "id": "_7758519_1",
+  "title": "Viruses 2",
+  "path": "Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) / Viruses 2"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "14 - E-5- Anticancer chemotherapy",
+  "id": "_7758520_1",
+  "title": "E/5: Anticancer chemotherapy",
+  "path": "Medications with Selective Toxicity (Full chapter, including non-compulsory lessons and activities) / E/5: Anticancer chemotherapy"
+ },
+ {
+  "section": "11 - Module 6- Medications with Selective Toxicity",
+  "name": "15 - Polypharmacy 1",
+  "id": "_7758321_1",
+  "title": "Polypharmacy 1",
+  "path": "Polypharmacy 1: A reflective section"
+ },
+ {
+  "section": "12 - Tutorials",
+  "name": "01 - Notes and PowerPoint for Tutorial 1",
+  "id": "_7758522_1",
+  "title": "Notes and PowerPoint for Tutorial 1",
+  "path": "Tutorial Week 1 / Notes and PowerPoint for Tutorial 1"
+ },
+ {
+  "section": "12 - Tutorials",
+  "name": "02 - Week 1 Tutorial content is now available",
+  "id": "_7758523_1",
+  "title": "Week 1 Tutorial content is now available",
+  "path": "Tutorial Week 1 / Week 1 Video Tutorial Series"
+ },
+ {
+  "section": "12 - Tutorials",
+  "name": "03 - Notes and PowerPoint for Week 2 Tutorial",
+  "id": "_7758525_1",
+  "title": "Notes and PowerPoint for Week 2 Tutorial",
+  "path": "Tutorial Week 2 / Notes and PowerPoint for Week 2 Tutorial"
+ },
+ {
+  "section": "12 - Tutorials",
+  "name": "04 - Notes and PowerPoints for the Week 2 tutorial",
+  "id": "_7758526_1",
+  "title": "Notes and PowerPoints for the Week 2 tutorial",
+  "path": "Tutorial Week 2 / Week 2 Tutorial: Preparing for the quiz"
+ },
+ {
+  "section": "13 - Workshops",
+  "name": "01 - Workshop 1 T5 2026 PowerPoint",
+  "id": "_7837925_1",
+  "title": "Workshop 1 T5 2026 PowerPoint",
+  "path": "Workshop Week 1 / Workshop 1 T5 2026 PowerPoint"
+ },
+ {
+  "section": "14 - Acknowledgement of Traditional Custodians",
+  "name": "01 - Acknowledgement of Traditional Custodians",
+  "id": "_7352147_1",
+  "title": "Acknowledgement of Traditional Custodians",
+  "path": ""
+ },
+ {
+  "section": "15 - Copyright notice",
+  "name": "01 - Copyright notice",
+  "id": "_7352168_1",
+  "title": "Copyright notice",
+  "path": ""
+ }
+]

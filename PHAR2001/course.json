@@ -1,0 +1,1306 @@
+[
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "stateCompletion": {
+   "started": 0,
+   "total": 1,
+   "completed": 1
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "Timetable | Class Links | Class Recordings",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413466,
+  "title": "Classes",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7352141_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naQzu1IL53Oh3S6TvFzmXqI/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7352141_1",
+  "state": "Completed",
+  "parentId": "_7352136_1",
+  "position": 0
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "stateCompletion": {
+   "started": 0,
+   "total": 10,
+   "completed": 10
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "This module contains essential information about the unit. Read this information before Week 1 and refer to it regularly throughout the term.",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413471,
+  "title": "Unit Orientation - Part 1",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7352139_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naQzu1IL53Oh1gaDnMmRcdE/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7352139_1",
+  "state": "Completed",
+  "parentId": "_7352136_1",
+  "position": 1
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156105_1&content_id=_7758060_1&modified=1793231413477",
+  "stateCompletion": {
+   "started": 5,
+   "total": 8,
+   "completed": 3
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "Welcome to the last phase of your unit orientation. Please take time to go through this very quick warm-up, so that you can save time and frustration.",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413477,
+  "title": "Unit Orientation Part 2: Pre-term activities",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758060_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9RsonV%2BerxwTsKdPig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758060_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 2
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "stateCompletion": {
+   "started": 3,
+   "total": 9,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "Assessment Information| Assessment Briefs & Submissions | Assessment Help & Support",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413482,
+  "title": "Assessments",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7352140_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naQzu1IL53Oh2%2BWplLD7tZpfig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7352140_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 3
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/folder_on.svg",
+  "contentDetail": {
+   "resource/x-bb-folder": {
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231295602,
+  "title": "The Interactive Pharmacology 'Textbook' involves all module content below (Modules 1-6)",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-folder",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7783593_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5nafV7rFLbvw3bde87fPUdc6/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7783593_1",
+  "state": "Completed",
+  "parentId": "_7352136_1",
+  "position": 4
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156105_1&content_id=_7758061_1&modified=1793231413489",
+  "stateCompletion": {
+   "started": 2,
+   "total": 46,
+   "completed": 1
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "Module 1 lays down the foundation for your understanding of medications, your ability to use them safely and your ability to streamline your studies in Pharmacology. Using one of the easiest bodily systems, the gastrointestinal tract/system (GIT), we explore pharmacokinetics, pharmacodynamics and other foundational information. This is a very important module that is twice the size of the average module in this unit. The week 2 quiz on Friday of week 2 tests your knowledge of the module.",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413489,
+  "title": "Module 1: Understanding Medications using the Gastrointestinal System",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758061_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9RsonmnLlQAp32PPig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758061_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 5
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156105_1&content_id=_7758062_1&modified=1793231413497",
+  "stateCompletion": {
+   "started": 1,
+   "total": 33,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "The autonomic nervous system is the portion of the nervous system that regulates our most important involuntary physiologic processes. Module 2 allows you to picture the drugs that work by affecting the Autonomic Nervous System (ANS) and the drugs that treat disorders of the Respiratory System.",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413497,
+  "title": "Module 2: The Respiratory and Autonomic Nervous Systems",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758062_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9RsokLExrIGdKHGPig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758062_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 6
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156105_1&content_id=_7758063_1&modified=1793231413503",
+  "stateCompletion": {
+   "started": 1,
+   "total": 21,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "The endocrine system is a messenger system that regulates a range of bodily functions. This module explores that system, the disorders that can occur to that system and the medications which aim to treat endocrine system disorders.",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413503,
+  "title": "Module 3: The Endocrine System",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758063_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9RsokDfny/V5Je5fig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758063_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 7
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156105_1&content_id=_7758064_1&modified=1793231413509",
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "An estimated 34% of Australians have hypertension and 27% of deaths in Australia are caused by cardiovascular disease. Learn about how we treat these individuals in this module.",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413509,
+  "title": "Module 4: The Cardiovascular and Renal System",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758064_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9Rsol5X7MJAeWZSfig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758064_1",
+  "state": "None",
+  "parentId": "_7352136_1",
+  "position": 8
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156105_1&content_id=_7758065_1&modified=1793231413518",
+  "stateCompletion": {
+   "started": 1,
+   "total": 22,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "In this module, we explore analgesics and psychotropic drugs. The term 'psychotropic' pertains to one's mental state. The term 'analgesic' means pain killer. The way in which these drugs are related is that they both affect neurotransmitters (directly or indirectly).",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413518,
+  "title": "Module 5: Analgesics and Psychotropic Drugs",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758065_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9RsomMqGVLjDCS2/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758065_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 9
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/lesson_on.svg",
+  "contentDetail": {
+   "resource/x-bb-lesson": {
+    "isLesson": true,
+    "isSequential": false,
+    "hierarchyDisplay": "None",
+    "shouldHideToc": false,
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "thumbnailImage": "https://learn.scu.edu.au/webapps/blackboard/course/contentThumbnail?course_id=_156105_1&content_id=_7758066_1&modified=1793231413527",
+  "stateCompletion": {
+   "started": 2,
+   "total": 15,
+   "completed": 0
+  },
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "Remember how our medications normally use our own cellular receptors or our own enzymes? Well our medications that combat infections or cancer will need to take a different approach. Let's find out how they do that.",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231413527,
+  "title": "Module 6: Medications with Selective Toxicity",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-lesson",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758066_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9RsolFmyHUZ2Yhe/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758066_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 10
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/folder_on.svg",
+  "contentDetail": {
+   "resource/x-bb-folder": {
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231295686,
+  "title": "Tutorials",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-folder",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758067_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9Rsokt0q6VexZkRfig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758067_1",
+  "state": "None",
+  "parentId": "_7352136_1",
+  "position": 11
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/folder_on.svg",
+  "contentDetail": {
+   "resource/x-bb-folder": {
+    "isBbPage": false,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": false,
+  "isPrimaryLearningObject": false,
+  "lorContentId": null,
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793310162643,
+  "title": "Workshops",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": false,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-folder",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7758068_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naJdq6YD9Rsonnab5BNHpbD/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": true,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": true,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": false,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7758068_1",
+  "state": "None",
+  "parentId": "_7352136_1",
+  "position": 12
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/folder_on.svg",
+  "contentDetail": {
+   "resource/x-bb-folder": {
+    "isBbPage": true,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "lorContentId": "_6900682_1",
+  "lorPermissions": {
+   "title": false,
+   "content": false,
+   "visibility": false,
+   "description": false
+  },
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231295709,
+  "title": "Acknowledgement of Traditional Custodians",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": true,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-folder",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7352138_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naQzu1IL53Oh2y6jecSoM9FPig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": false,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": false,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7352138_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 13
+ },
+ {
+  "iconUrl": "/images/ci/sets/set12/folder_on.svg",
+  "contentDetail": {
+   "resource/x-bb-folder": {
+    "isBbPage": true,
+    "isFolder": true
+   }
+  },
+  "launchInNewWindow": true,
+  "isPrimaryLearningObject": false,
+  "lorContentId": "_6889400_1",
+  "lorPermissions": {
+   "title": false,
+   "content": false,
+   "visibility": false,
+   "description": false
+  },
+  "inSequence": false,
+  "description": "",
+  "courseId": "_156105_1",
+  "modifiedDate": 1793231295723,
+  "title": "Copyright notice",
+  "isGroupContent": false,
+  "dueDateExceptionType": "Normal",
+  "isReviewable": true,
+  "visibility": "VISIBLE",
+  "aiState": "No",
+  "titleColor": "#000000",
+  "ancestorLessonId": null,
+  "renderType": "REG",
+  "thumbnailAltText": "",
+  "contentHandler": "resource/x-bb-folder",
+  "body": {
+   "rawText": "",
+   "displayText": "",
+   "webLocation": "https://learn.scu.edu.au/courses/1/PHAR2001-2026-T5/content/_7352143_1/embedded/",
+   "fileLocation": "BB%3FBB_OyH%2BCvKQ7Zyg1kxYnIwmGkoON6biD8h2xCTHBKr7DUMeRi4JWRpDCVAPORu8/CElWa6JowidSjBIFAtQPhLpqKFqoq3/S5naQzu1IL53Oh2VOYyRxJ1BA/ig62KwsdCp"
+  },
+  "permissions": {
+   "adaptiveRelease": {
+    "criteria": {
+     "performance": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "dates": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     },
+     "acl": {
+      "delete": false,
+      "create": false,
+      "edit": false
+     }
+    },
+    "delete": false,
+    "create": false,
+    "edit": false,
+    "view": false
+   },
+   "contentHandlerPermissionMap": {
+    "dropTarget": false,
+    "createDiscussion": false
+   },
+   "isAllowLOROperations": false,
+   "isAppendOnly": false,
+   "contentOptions": false,
+   "move": false,
+   "modifyAvailability": false,
+   "canHaveReviewState": true,
+   "canViewReviewState": true,
+   "canUpdateReviewState": true,
+   "dashboardView": false,
+   "createLearningStandardsAlignment": false,
+   "viewDesigner": false,
+   "delete": false,
+   "edit": false,
+   "copy": false
+  },
+  "id": "_7352143_1",
+  "state": "Started",
+  "parentId": "_7352136_1",
+  "position": 14
+ }
+]
